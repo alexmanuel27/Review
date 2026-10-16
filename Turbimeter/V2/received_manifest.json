@@ -1,0 +1,35 @@
+{
+  "version": "V2",
+  "date": "2026-10-16",
+  "status": "design and validation protocol; no optical validation results",
+  "files": {
+    "Planning_Annex_EN.pdf": {
+      "sha256": "c9a8f8f5ffc1d40b1b2a6679ff5b4875528ee415c833f93a8bd6575ae5fa2715",
+      "bytes": 2243827
+    },
+    "Planning_Annex_ES.pdf": {
+      "sha256": "2987900f6626205c9c63907a7570430d75c8b8ff34bfd1a8659299389b35349d",
+      "bytes": 2241972
+    },
+    "Turbimeter_EN.pdf": {
+      "sha256": "495624e27da1092f85a1be6a862b1e9efef61aff3b6e7cea8555680be1e5b98c",
+      "bytes": 918995
+    },
+    "Turbimeter_ES.pdf": {
+      "sha256": "5d7270852095de57364f22ed620c5d901335fe1c399ed56fffef96e31077e3b5",
+      "bytes": 924456
+    },
+    "graphical_abstract.pdf": {
+      "sha256": "80b38b3e9fe8b2aa40bb2798a9f11797c00122cb31b14e2cf0eff4d2471b3435",
+      "bytes": 32533
+    },
+    "source_checks.json": {
+      "sha256": "50bbe41944b3f81aa1329c379a8816f4ee399973777509eea2942358729e1e1a",
+      "bytes": 2116
+    },
+    "sources_V2.zip": {
+      "sha256": "df14fde320faa5e778712f1f4e536b3706448ded273a8b1be64f8da89dd8fe01",
+      "bytes": 6212642
+    }
+  }
+}

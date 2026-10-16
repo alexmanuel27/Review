@@ -1,0 +1,205 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          14
+        ]
+      ],
+      "date-time": "2026-10-14T08:43:29Z",
+      "timestamp": 1791967409634,
+      "version": "4.3.4"
+    },
+    "reference-count": 8,
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "issue": "6100",
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Science"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          14
+        ]
+      ]
+    },
+    "abstract": "<jats:p>A rapidly increasing selection of laboratory equipment can be fabricated with open-source three-dimensional printers at low cost.</jats:p>",
+    "DOI": "10.1126/science.1228183",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          14
+        ]
+      ],
+      "date-time": "2012-09-14T03:06:48Z",
+      "timestamp": 1347592008000
+    },
+    "page": "1303-1304",
+    "source": "Crossref",
+    "is-referenced-by-count": 488,
+    "title": [
+      "Building Research Equipment with Free, Open-Source Hardware"
+    ],
+    "prefix": "10.1126",
+    "volume": "337",
+    "author": [
+      {
+        "given": "Joshua M.",
+        "family": "Pearce",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Materials Science and Engineering, Michigan Technological University, Houghton, MI 49931, USA."
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "221",
+    "reference": [
+      {
+        "key": "e_1_3_1_3_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/CBO9780511619526"
+      },
+      {
+        "key": "e_1_3_1_4_2",
+        "first-page": "191",
+        "volume-title": "Nanotechnology and Global Sustainability",
+        "author": "Mushtaq U.",
+        "year": "2012",
+        "unstructured": "Mushtaq U., Pearce J. M., in Nanotechnology and Global Sustainability, , Maclurcan D. , Ed. (CRC Press, Boca Raton, FL, 2012), pp. 191–213."
+      },
+      {
+        "key": "e_1_3_1_5_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1199349"
+      },
+      {
+        "key": "e_1_3_1_7_2",
+        "unstructured": "www.arduino.cc"
+      },
+      {
+        "key": "e_1_3_1_9_2",
+        "unstructured": "www.raspberrypi.org"
+      },
+      {
+        "key": "e_1_3_1_10_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1017/S026357471000069X"
+      },
+      {
+        "key": "e_1_3_1_12_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/nchem.1313"
+      },
+      {
+        "key": "e_1_3_1_13_2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10668-012-9337-9"
+      }
+    ],
+    "container-title": [
+      "Science"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.science.org/doi/pdf/10.1126/science.1228183",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          1,
+          10
+        ]
+      ],
+      "date-time": "2024-01-10T14:39:57Z",
+      "timestamp": 1704897597000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.science.org/doi/10.1126/science.1228183"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          14
+        ]
+      ]
+    },
+    "references-count": 8,
+    "journal-issue": {
+      "issue": "6100",
+      "published-print": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            14
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1126/science.1228183"
+    ],
+    "URL": "https://doi.org/10.1126/science.1228183",
+    "relation": {},
+    "ISSN": [
+      "0036-8075",
+      "1095-9203"
+    ],
+    "issn-type": [
+      {
+        "value": "0036-8075",
+        "type": "print"
+      },
+      {
+        "value": "1095-9203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          14
+        ]
+      ]
+    }
+  }
+}

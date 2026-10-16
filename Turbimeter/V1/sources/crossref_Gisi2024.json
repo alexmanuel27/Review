@@ -1,0 +1,850 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          8
+        ]
+      ],
+      "date-time": "2026-05-08T13:47:14Z",
+      "timestamp": 1778248034013,
+      "version": "3.51.4"
+    },
+    "reference-count": 50,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              8
+            ]
+          ],
+          "date-time": "2024-11-08T00:00:00Z",
+          "timestamp": 1731024000000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              8
+            ]
+          ],
+          "date-time": "2024-11-08T00:00:00Z",
+          "timestamp": 1731024000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "name": "French National Centre for Scientific Research, France"
+      },
+      {
+        "DOI": "10.13039/501100004170",
+        "name": "Melbourne Water",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100004170",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Environ Monit Assess"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1007/s10661-024-13327-1",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          7
+        ]
+      ],
+      "date-time": "2024-11-07T23:43:01Z",
+      "timestamp": 1731022981000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "From dishwasher to river: how to adapt a low-cost turbidimeter for water quality monitoring"
+    ],
+    "prefix": "10.1007",
+    "volume": "196",
+    "author": [
+      {
+        "given": "Maria Fernanda Sobierajski",
+        "family": "Gisi",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Oldrich",
+        "family": "Navratil",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Frédéric",
+        "family": "Cherqui",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Kathryn",
+        "family": "Russell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Tim",
+        "family": "Fletcher",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Paulo Vitor Ribeiro Marques",
+        "family": "da Silva",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Etienne",
+        "family": "Cossart",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "13327_CR1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bertrand-Krajewski, J. L., Clemens-Meyer, F., & Lepot, M. (2021). Metrology in urban drainage and stormwater management: Plug and pray. IWA Publishing. https://doi.org/10.2166/9781789060119",
+        "DOI": "10.2166/9781789060119"
+      },
+      {
+        "issue": "7",
+        "key": "13327_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0254027",
+        "DOI": "10.1371/journal.pone.0254027",
+        "volume": "16",
+        "author": "SK Bhandary",
+        "year": "2021",
+        "unstructured": "Bhandary, S. K., Dhakal, R., Sanghavi, V., & Verkicharla, P. K. (2021). Ambient light level varies with different locations and environmental conditions: Potential to impact myopia. PLoS one, 16(7), e0254027.",
+        "journal-title": "PLoS one"
+      },
+      {
+        "issue": "3",
+        "key": "13327_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "284",
+        "DOI": "10.1002/j.1551-8833.1928.tb12738.x",
+        "volume": "19",
+        "author": "AW Bull",
+        "year": "1928",
+        "unstructured": "Bull, A. W., & Darby, G. M. (1928). Sedimentation studies of turbid American river waters. Journal (American Water Works Association), 19(3), 284–305.",
+        "journal-title": "Journal (American Water Works Association)"
+      },
+      {
+        "issue": "1",
+        "key": "13327_CR4",
+        "first-page": "437",
+        "volume": "3",
+        "author": "F Cherqui",
+        "year": "2020",
+        "unstructured": "Cherqui, F., James, R., Poelsma, P., Burns, M. J., Szota, C., Fletcher, T., & Bertrand-Krajewski, J. L. (2020). A platform and protocol to standardise the test and selection low-cost sensors for water level monitoring. h2oj, 3(1), 437–456.",
+        "journal-title": "h2oj"
+      },
+      {
+        "issue": "3",
+        "key": "13327_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "46",
+        "DOI": "10.1016/S1464-391X(06)70584-0",
+        "volume": "8",
+        "author": "P Cusack",
+        "year": "2006",
+        "unstructured": "Cusack, P., & Perrett, T. (2006). The EU RoHS Directive and its implications for the plastics industry. Plastics, Additives and Compounding, 8(3), 46–49.",
+        "journal-title": "Plastics, Additives and Compounding"
+      },
+      {
+        "key": "13327_CR6",
+        "unstructured": "DFRobot. (2017). Turbidity sensor SKU: SEN0189. DFRobot Wiki. Retrieved November 16, 2023, from https://wiki.dfrobot.com/Turbidity_sensor_SKU__SEN0189"
+      },
+      {
+        "issue": "17–18",
+        "key": "13327_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "2299",
+        "DOI": "10.1016/j.csr.2006.07.018",
+        "volume": "26",
+        "author": "J Downing",
+        "year": "2006",
+        "unstructured": "Downing, J. (2006). Twenty-five years with OBS sensors: The good, the bad, and the ugly. Continental Shelf Research, 26(17–18), 2299–2318.",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "issue": "1",
+        "key": "13327_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "10341",
+        "DOI": "10.1038/s41598-022-14228-4",
+        "volume": "12",
+        "author": "J Droujko",
+        "year": "2022",
+        "unstructured": "Droujko, J., & Molnar, P. (2022). Open-source, low-cost, in-situ turbidity sensor for river network monitoring. Scientific Reports, 12(1), 10341.",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "key": "13327_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "e00395",
+        "DOI": "10.1016/j.ohx.2023.e00395",
+        "volume": "13",
+        "author": "J Droujko",
+        "year": "2023",
+        "unstructured": "Droujko, J., Kunz, F., Jr., & Molnar, P. (2023). Ötz-T: 3D-printed open-source turbidity sensor with Arduino shield for suspended sediment monitoring. HardwareX, 13, e00395. https://doi.org/10.1016/j.ohx.2023.e00395",
+        "journal-title": "HardwareX"
+      },
+      {
+        "key": "13327_CR10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Droujko, J., & Molnar, P. (2023). Open-source self-made sensors show high potential in river research. Nature Water, 1–2.",
+        "DOI": "10.1038/s44221-023-00122-4"
+      },
+      {
+        "issue": "1–2",
+        "key": "13327_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "168",
+        "DOI": "10.1016/j.jhydrol.2010.05.043",
+        "volume": "389",
+        "author": "A Eder",
+        "year": "2010",
+        "unstructured": "Eder, A., Strauss, P., Krueger, T., & Quinton, J. N. (2010). Comparative calculation of suspended sediment loads with respect to hysteresis effects (in the Petzenkirchen catchment, Austria). Journal of Hydrology, 389(1–2), 168–176.",
+        "journal-title": "Journal of Hydrology"
+      },
+      {
+        "key": "13327_CR12",
+        "unstructured": "Endress + Hauser. (2013). Technical information TurbiMax W CUS 41 / CUS 41-W. Endress + Hauser. Retrieved November 16, 2023, from https://www.endress.com/en/field-instrumentsoverview/CUS41?t.tabId=product-downloads"
+      },
+      {
+        "key": "13327_CR13",
+        "unstructured": "Fairchild Semiconductor Corporation. (2015). QEE113 plastic infrared light emitting diode (Document No. QEE113 Rev 2.2). Retrieved November 16, 2023, from https://www.mouser.com/datasheet/2/308/1/QEE113_D-2319799.pdf"
+      },
+      {
+        "key": "13327_CR14",
+        "first-page": "377",
+        "volume": "73",
+        "author": "G Fleming",
+        "year": "1969",
+        "unstructured": "Fleming, G. (1969). Suspended solids monitoring: A comparison between three instruments. Water and Water Engineering, 73, 377–382.",
+        "journal-title": "Water and Water Engineering"
+      },
+      {
+        "issue": "3",
+        "key": "13327_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "150",
+        "DOI": "10.1016/j.cosust.2010.12.009",
+        "volume": "3",
+        "author": "R Gasper",
+        "year": "2011",
+        "unstructured": "Gasper, R., Blohm, A., & Ruth, M. (2011). Social and economic impacts of climate change on the urban environment. Current Opinion in Environmental Sustainability, 3(3), 150–157.",
+        "journal-title": "Current Opinion in Environmental Sustainability"
+      },
+      {
+        "issue": "14",
+        "key": "13327_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "3039",
+        "DOI": "10.3390/s19143039",
+        "volume": "19",
+        "author": "D Gillett",
+        "year": "2019",
+        "unstructured": "Gillett, D., & Marchiori, A. (2019). A low-cost continuous turbidity monitor. Sensors, 19(14), 3039.",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "13327_CR17",
+        "unstructured": "Gippel, C. J. (1988). The use of turbidity instruments to measure stream water suspended sediment concentration (Doctoral dissertation, UNSW Sydney)."
+      },
+      {
+        "issue": "1",
+        "key": "13327_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "78",
+        "DOI": "10.1080/20442041.2018.1510271",
+        "volume": "9",
+        "author": "RE Gozlan",
+        "year": "2019",
+        "unstructured": "Gozlan, R. E., Karimov, B. K., Zadereev, E., Kuznetsova, D., & Brucet, S. (2019). Status, trends, and future dynamics of freshwater ecosystems in Europe and Central Asia. Inland Waters, 9(1), 78–94.",
+        "journal-title": "Inland Waters"
+      },
+      {
+        "issue": "5864",
+        "key": "13327_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "756",
+        "DOI": "10.1126/science.1150195",
+        "volume": "319",
+        "author": "NB Grimm",
+        "year": "2008",
+        "unstructured": "Grimm, N. B., Faeth, S. H., Golubiewski, N. E., Redman, C. L., Wu, J., Bai, X., & Briggs, J. M. (2008). Global change and the ecology of cities. Science, 319(5864), 756–760.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "13327_CR20",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Hamel, P., Ding, N., Cherqui, F., Zhu, Q., Walcker, N., Bertrand-Krajewski, J. L., ..., & Shi, B. (2024). Low-cost monitoring systems for urban water management: Lessons from the field. Water Research X, 22, 100212.",
+        "DOI": "10.1016/j.wroa.2024.100212"
+      },
+      {
+        "key": "13327_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "100120",
+        "DOI": "10.1016/j.wroa.2021.100120",
+        "volume": "13",
+        "author": "A Hess",
+        "year": "2021",
+        "unstructured": "Hess, A., Baum, C., Schiessl, K., Besmer, M. D., Hammes, F., & Morgenroth, E. (2021). Stagnation leads to short-term fluctuations in the effluent water quality of biofilters: A problem for greywater reuse? Water Research X, 13, 100120.",
+        "journal-title": "Water Research X"
+      },
+      {
+        "issue": "4",
+        "key": "13327_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "7142",
+        "DOI": "10.3390/s140407142",
+        "volume": "14",
+        "author": "CD Kelley",
+        "year": "2014",
+        "unstructured": "Kelley, C. D., Krolick, A., Brunner, L., Burklund, A., Kahn, D., Ball, W. P., & Weber-Shirk, M. (2014). An affordable open-source turbidimeter. Sensors, 14(4), 7142–7155.",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "9",
+        "key": "13327_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "760",
+        "DOI": "10.1038/s44221-023-00124-2",
+        "volume": "1",
+        "author": "T Langhorst",
+        "year": "2023",
+        "unstructured": "Langhorst, T., Pavelsky, T., Eidam, E., Cooper, L., Davis, J., Spellman, K., ..., & Gleason, C. (2023). Increased scale and accessibility of sediment transport research in rivers through practical, open-source turbidity and depth sensors. Nature Water, 1(9), 760–768.",
+        "journal-title": "Nature Water"
+      },
+      {
+        "issue": "2",
+        "key": "13327_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "159",
+        "DOI": "10.1002/hyp.3360060204",
+        "volume": "6",
+        "author": "DM Lawler",
+        "year": "1992",
+        "unstructured": "Lawler, D. M., & Brown, R. M. (1992). A simple and inexpensive turbidity meter for the estimation of suspended sediment concentrations. Hydrological Processes, 6(2), 159–168.",
+        "journal-title": "Hydrological Processes"
+      },
+      {
+        "issue": "20",
+        "key": "13327_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "4439",
+        "DOI": "10.3390/s19204439",
+        "volume": "19",
+        "author": "T Matos",
+        "year": "2019",
+        "unstructured": "Matos, T., Faria, C. L., Martins, M. S., Henriques, R., Gomes, P. A., & Goncalves, L. M. (2019). Development of a cost-effective optical sensor for continuous monitoring of turbidity and suspended particulate matter in marine environment. Sensors, 19(20), 4439.",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "1",
+        "key": "13327_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.icte.2017.12.005",
+        "volume": "5",
+        "author": "K Mekki",
+        "year": "2019",
+        "unstructured": "Mekki, K., Bajic, E., Chaxel, F., & Meyer, F. (2019). A comparative study of LPWAN technologies for large-scale IoT deployment. ICT Express, 5(1), 1–7.",
+        "journal-title": "ICT Express"
+      },
+      {
+        "issue": "2",
+        "key": "13327_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "303",
+        "DOI": "10.1086/703460",
+        "volume": "38",
+        "author": "L Miguel-Chinchilla",
+        "year": "2019",
+        "unstructured": "Miguel-Chinchilla, L., Heasley, E., Loiselle, S., & Thornhill, I. (2019). Local and landscape influences on turbidity in urban streams: A global approach using citizen scientists. Freshwater Science, 38(2), 303–320.",
+        "journal-title": "Freshwater Science"
+      },
+      {
+        "issue": "11",
+        "key": "13327_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "2669",
+        "DOI": "10.2166/wst.2017.153",
+        "volume": "75",
+        "author": "MW Miller",
+        "year": "2017",
+        "unstructured": "Miller, M. W., Elliott, M., DeArmond, J., Kinyua, M., Wett, B., Murthy, S., & Bott, C. B. (2017). Controlling the COD removal of an A-stage pilot study with instrumentation and automatic process control. Water Science and Technology, 75(11), 2669–2679.",
+        "journal-title": "Water Science and Technology"
+      },
+      {
+        "key": "13327_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "1119",
+        "DOI": "10.1016/j.scitotenv.2016.09.177",
+        "volume": "575",
+        "author": "G Miskell",
+        "year": "2017",
+        "unstructured": "Miskell, G., Salmond, J., & Williams, D. E. (2017). Low-cost sensors and crowd-sourced data: Observations of siting impacts on a network of air-quality instruments. Science of the Total Environment, 575, 1119–1129.",
+        "journal-title": "Science of the Total Environment"
+      },
+      {
+        "key": "13327_CR30",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Myint, C. Z., Gopal, L., & Aung, Y. L. (2017). WSN-based reconfigurable water quality monitoring system in IoT environment. In 2017 14th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON) (pp. 741–744). IEEE. https://doi.org/10.1109/ECTICon.2017.8096345",
+        "DOI": "10.1109/ECTICon.2017.8096345"
+      },
+      {
+        "issue": "3–4",
+        "key": "13327_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "246",
+        "DOI": "10.1016/j.jhydrol.2010.12.025",
+        "volume": "398",
+        "author": "O Navratil",
+        "year": "2011",
+        "unstructured": "Navratil, O., Esteves, M., Legout, C., Gratiot, N., Nemery, J., Willmore, S., & Grangeon, T. (2011). Global uncertainty analysis of suspended sediment monitoring using turbidimeter in a small mountainous river catchment. Journal of Hydrology, 398(3–4), 246–259.",
+        "journal-title": "Journal of Hydrology"
+      },
+      {
+        "issue": "1",
+        "key": "13327_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "72",
+        "DOI": "10.1577/1548-8675(1991)011<0072:EOSSOA>2.3.CO;2",
+        "volume": "11",
+        "author": "CP Newcombe",
+        "year": "1991",
+        "unstructured": "Newcombe, C. P., & MacDonald, D. D. (1991). Effects of suspended sediments on aquatic ecosystems. North American Journal of Fisheries Management, 11(1), 72–82.",
+        "journal-title": "North American Journal of Fisheries Management"
+      },
+      {
+        "issue": "3",
+        "key": "13327_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "1304",
+        "DOI": "10.1021/acs.jchemed.1c01225",
+        "volume": "99",
+        "author": "J O’Donoghue",
+        "year": "2022",
+        "unstructured": "O’Donoghue, J., & Fitzsimmons, L. (2022). Simplified low-cost LED nephelometer and turbidity experiments for practical teaching. Journal of Chemical Education, 99(3), 1304–1312.",
+        "journal-title": "Journal of Chemical Education"
+      },
+      {
+        "key": "13327_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "4115",
+        "DOI": "10.1007/s11368-020-02815-9",
+        "volume": "20",
+        "author": "PN Owens",
+        "year": "2020",
+        "unstructured": "Owens, P. N. (2020). Soil erosion and sediment dynamics in the Anthropocene: A review of human impacts during a period of rapid global environmental change. Journal of Soils and Sediments, 20, 4115–4143.",
+        "journal-title": "Journal of Soils and Sediments"
+      },
+      {
+        "key": "13327_CR35",
+        "unstructured": "Sadar, M. (2009). The Basics of Turbidity Measurement Technologies, Methods of Data Comparability Board QA/QC Sensors Group, 12 pp."
+      },
+      {
+        "key": "13327_CR36",
+        "unstructured": "Sadar, M. (2011). Technologies for Measuring Turbidity in Drinking Water Production. Automation Technology, Reprinted with revisions to format, from the February 2011 edition of Water World Copyright 2011 by Penn Well Corporation."
+      },
+      {
+        "key": "13327_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "1112",
+        "DOI": "10.1007/s11368-019-02447-8",
+        "volume": "20",
+        "author": "V Sellier",
+        "year": "2020",
+        "unstructured": "Sellier, V., Navratil, O., Laceby, J. P., Allenbach, M., Lefèvre, I., & Evrard, O. (2020). Investigating the use of fallout and geogenic radionuclides as potential tracing properties to quantify sources of suspended sediment in a mining catchment in New Caledonia, South Pacific. Journal of Soils and Sediments, 20, 1112–1128.",
+        "journal-title": "Journal of Soils and Sediments"
+      },
+      {
+        "issue": "22",
+        "key": "13327_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "3720",
+        "DOI": "10.3390/w14223720",
+        "volume": "14",
+        "author": "M Shi",
+        "year": "2022",
+        "unstructured": "Shi, M., Ma, J., & Zhang, K. (2022). The impact of water temperature on in-line turbidity detection. Water, 14(22), 3720.",
+        "journal-title": "Water"
+      },
+      {
+        "key": "13327_CR39",
+        "volume-title": "U.S. Patent No. 5,586,567",
+        "author": "JM Smith",
+        "year": "1996",
+        "unstructured": "Smith, J. M., Schneider, D. A., Dausch, M. E., & Whipple, W., III. (1996). U.S. Patent No. 5,586,567. U.S. Patent and Trademark Office."
+      },
+      {
+        "key": "13327_CR40",
+        "unstructured": "Tai, H., Li, D., Wei, Y., Ma, D., & Ding, Q. (2011). A simple temperature compensation method for turbidity sensor. In Computer and Computing Technologies in Agriculture IV: 4th IFIP TC 12 Conference, CCTA 2010, Nanchang, China, October 22-25, 2010, Selected Papers, Part IV 4 (pp. 650-658). Springer Berlin Heidelberg."
+      },
+      {
+        "key": "13327_CR41",
+        "unstructured": "Texas Instruments. (2009). Ultra-small, low-power, 16-bit analog-to-digital converter with internal reference, ADS1113/ADS1114/ADS1115: Datasheet (SLAS652E). Texas Instruments. Retrieved November 16, 2023, from https://cdn-shop.adafruit.com/datasheets/ads1115.pdf"
+      },
+      {
+        "issue": "7",
+        "key": "13327_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "1993",
+        "DOI": "10.3390/s20071993",
+        "volume": "20",
+        "author": "J Trevathan",
+        "year": "2020",
+        "unstructured": "Trevathan, J., Read, W., & Schmidtke, S. (2020). Towards the development of an affordable and practical light attenuation turbidity sensor for remote near real-time aquatic monitoring. Sensors, 20(7), 1993.",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "13327_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "100576",
+        "DOI": "10.1016/j.iot.2022.100576",
+        "volume": "19",
+        "author": "J Trevathan",
+        "year": "2022",
+        "unstructured": "Trevathan, J., Read, W., & Sattar, A. (2022). Implementation and calibration of an IoT light attenuation turbidity sensor. Internet of Things, 19, 100576.",
+        "journal-title": "Internet of Things"
+      },
+      {
+        "key": "13327_CR44",
+        "unstructured": "VISHAY Semiconductors. (2008). Silicon NPN phototransistor, TEKT5400S: Datasheet (Document No. 81569)."
+      },
+      {
+        "issue": "3",
+        "key": "13327_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "706",
+        "DOI": "10.1899/04-028.1",
+        "volume": "24",
+        "author": "CJ Walsh",
+        "year": "2005",
+        "unstructured": "Walsh, C. J., Roy, A. H., Feminella, J. W., Cottingham, P. D., Groffman, P. M., & Morgan, R. P. (2005). The urban stream syndrome: Current knowledge and the search for a cure. Journal of the North American Benthological Society, 24(3), 706–723.",
+        "journal-title": "Journal of the North American Benthological Society"
+      },
+      {
+        "issue": "11",
+        "key": "13327_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "4689",
+        "DOI": "10.1109/JSEN.2018.2826778",
+        "volume": "18",
+        "author": "Y Wang",
+        "year": "2018",
+        "unstructured": "Wang, Y., Rajib, S. S. M., Collins, C., & Grieve, B. (2018). Low-cost turbidity sensor for low-power wireless monitoring of fresh-water courses. IEEE Sensors Journal, 18(11), 4689–4696.",
+        "journal-title": "IEEE Sensors Journal"
+      },
+      {
+        "key": "13327_CR47",
+        "unstructured": "Whipple, G. C., & Jackson, D. D. (1900). A comparative study of the methods used for the measurement of the turbidity of water."
+      },
+      {
+        "key": "13327_CR48",
+        "unstructured": "Xylem Analytics. (2017). VarioTurb® 700 IQ SW: Operating manual. Retrieved November 16, 2023, from: https://www.xylemanalytics.com/en/File%20Library/Resource%20Library/WTW/01%20Manuals/ba57301e09_VisoTurb_700_IQ_SW_WTW.pdf"
+      },
+      {
+        "issue": "11",
+        "key": "13327_CR49",
+        "first-page": "2648",
+        "volume": "87",
+        "author": "Q Zhu",
+        "year": "2023",
+        "unstructured": "Zhu, Q., Cherqui, F., & Bertrand-Krajewski, J. L. (2023). End-user perspective of low-cost sensors for urban stormwater monitoring: A review. Water Science & Technology, 87(11), 2648–2684.",
+        "journal-title": "Water Science & Technology"
+      },
+      {
+        "issue": "3",
+        "key": "13327_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "617",
+        "DOI": "10.1148/radiol.2273011499",
+        "volume": "227",
+        "author": "KH Zou",
+        "year": "2003",
+        "unstructured": "Zou, K. H., Tuncali, K., & Silverman, S. G. (2003). Correlation and simple linear regression. Radiology, 227(3), 617–628.",
+        "journal-title": "Radiology"
+      }
+    ],
+    "container-title": [
+      "Environmental Monitoring and Assessment"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10661-024-13327-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10661-024-13327-1/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10661-024-13327-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          12
+        ]
+      ],
+      "date-time": "2024-12-12T03:09:26Z",
+      "timestamp": 1733972966000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.springer.com/10.1007/s10661-024-13327-1"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          8
+        ]
+      ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+      "issue": "12",
+      "published-print": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "13327"
+    ],
+    "URL": "https://doi.org/10.1007/s10661-024-13327-1",
+    "relation": {},
+    "ISSN": [
+      "0167-6369",
+      "1573-2959"
+    ],
+    "issn-type": [
+      {
+        "value": "0167-6369",
+        "type": "print"
+      },
+      {
+        "value": "1573-2959",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          8
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "4 July 2024",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "25 October 2024",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "8 November 2024",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Declarations"
+        }
+      },
+      {
+        "value": "All our research complies with ethical guidelines, including compliance with the legal requirements of the research country. All authors have read, understood, and have complied as applicable with the statement on “Ethical responsibilities of Authors” as found in the Instructions for Authors.",
+        "order": 2,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics approval"
+        }
+      },
+      {
+        "value": "The authors of this paper have participated in the entire process of this article, including conceptualization, paper ideas, methods, writing, and review.",
+        "order": 3,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent to participate"
+        }
+      },
+      {
+        "value": "The participant has consented to the submission of the case report to the journal.",
+        "order": 4,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Consent for publication"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 5,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "1180"
+  }
+}

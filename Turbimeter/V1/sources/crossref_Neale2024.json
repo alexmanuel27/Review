@@ -1,0 +1,698 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2026-09-18T21:34:54Z",
+      "timestamp": 1789767294357,
+      "version": "4.0.1"
+    },
+    "reference-count": 41,
+    "publisher": "Public Library of Science (PLoS)",
+    "issue": "10",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              31
+            ]
+          ],
+          "date-time": "2024-10-31T00:00:00Z",
+          "timestamp": 1730332800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000104",
+        "name": "National Aeronautics and Space Administration",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "80NSSC22K1912"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "80NSSC22K1912"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000104",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.plosone.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "PLoS ONE"
+    ],
+    "abstract": "<jats:p>\n                    Measurements by volunteer scientists using participatory science methods in combination with high resolution remote sensing can improve our ability to monitor water quality changes in highly vulnerable and economically valuable nearshore and estuarine habitats. In the Chesapeake Bay (USA), tidal tributaries are a focus of watershed and shoreline management efforts to improve water quality. The Chesapeake Water Watch program seeks to enhance the monitoring of tributaries by developing and testing methods for volunteer scientists to easily measure chlorophyll, turbidity, and colored dissolved organic matter (CDOM) to inform Bay stakeholders and improve algorithms for analogous remote sensing (RS) products. In the program, trained volunteers have measured surface turbidity using a smartphone app, HydroColor, calibrated with a photographer’s gray card. In vivo chlorophyll and CDOM fluorescence were assessed in surface samples with hand-held fluorometers (Aquafluor) located at sample processing “hubs” where volunteers drop off samples for same day processing. In validation samples, HydroColor turbidity and Aquafluor in vivo chlorophyll and CDOM fluorescence were linear estimators of standard analytical measures of turbidity, chlorophyll and CDOM, respectively, with R\n                    <jats:sup>2</jats:sup>\n                    values ranging from 0.65 to 0.85. Updates implemented in a new version (v2) of HydroColor improved the precision of estimates. These methods are being used for both repeat sampling at fixed sites of interest and ad-hoc “blitzes” to synoptically sample tributaries all around the Bay in coordination with satellite overpasses. All data is accessible on a public database (\n                    <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://serc.fieldscope.org\" xlink:type=\"simple\">serc.fieldscope.org</jats:ext-link>\n                    ) and can be a resource to monitor long-term trends in the tidal tributaries as well as detect and diagnose causes of events of concern such as algal blooms and storm-induced reductions in water clarity.\n                  </jats:p>",
+    "DOI": "10.1371/journal.pone.0305505",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2024-10-31T13:32:18Z",
+      "timestamp": 1730381538000
+    },
+    "page": "e0305505",
+    "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+      "Participatory science methods to monitor water quality and ground truth remote sensing of the Chesapeake Bay"
+    ],
+    "prefix": "10.1371",
+    "volume": "19",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4047-8098",
+        "authenticated-orcid": true,
+        "given": "Patrick",
+        "family": "Neale",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8726-7933",
+        "authenticated-orcid": true,
+        "given": "Shelby",
+        "family": "Brown",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tara",
+        "family": "Sill",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alison",
+        "family": "Cawood",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maria",
+        "family": "Tzortziou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jieun",
+        "family": "Park",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Min-Sun",
+        "family": "Lee",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Beth",
+        "family": "Paquette",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "340",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          31
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "pone.0305505.ref001",
+        "author": "Chesapeake Monitoring Cooperative",
+        "year": "2016",
+        "journal-title": "Tidal methods manual. Online"
+      },
+      {
+        "key": "pone.0305505.ref002",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1016/j.rse.2017.11.014",
+        "article-title": "Remote sensing retrievals of colored dissolved organic matter and dissolved organic carbon dynamics in North American estuaries and their margins.",
+        "volume": "205",
+        "author": "F Cao",
+        "year": "2018",
+        "journal-title": "Remote Sens Environ"
+      },
+      {
+        "issue": "3",
+        "key": "pone.0305505.ref003",
+        "doi-asserted-by": "crossref",
+        "first-page": "749",
+        "DOI": "10.1002/eap.1682",
+        "article-title": "Satellite sensor requirements for monitoring essential biodiversity variables of coastal ecosystems.",
+        "volume": "28",
+        "author": "FE Muller-Karger",
+        "year": "2018",
+        "journal-title": "Ecol Appl"
+      },
+      {
+        "key": "pone.0305505.ref004",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/j.rse.2018.10.027",
+        "article-title": "Sentinel-2/Landsat-8 product consistency and implications for monitoring aquatic systems.",
+        "volume": "220",
+        "author": "N Pahlevan",
+        "year": "2019",
+        "journal-title": "Remote Sens Environ"
+      },
+      {
+        "key": "pone.0305505.ref005",
+        "first-page": "897",
+        "article-title": "Citizen science approaches for water quality measurements",
+        "author": "SB Ramírez",
+        "year": "2023",
+        "journal-title": "Sci Total Environ"
+      },
+      {
+        "issue": "11",
+        "key": "pone.0305505.ref006",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/rs8110879",
+        "article-title": "Citizen bio-optical observations from coast- and ocean and their compatibility with ocean colour satellite measurements.",
+        "volume": "8",
+        "author": "J Busch",
+        "year": "2016",
+        "journal-title": "Remote Sensing."
+      },
+      {
+        "issue": "3",
+        "key": "pone.0305505.ref007",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1371/journal.pone.0230084",
+        "article-title": "Citclops: A next-generation sensor system for the monitoring of natural waters and a citizens’ observatory for the assessment of ecosystems’ status.",
+        "volume": "15",
+        "author": "L Ceccaroni",
+        "year": "2020",
+        "journal-title": "PloS one."
+      },
+      {
+        "key": "pone.0305505.ref008",
+        "first-page": "2",
+        "article-title": "Citizen science terminology matters: Exploring key terms",
+        "author": "MV Eitzel",
+        "year": "2017",
+        "journal-title": "Citizen Science: Theory and Practice"
+      },
+      {
+        "issue": "6",
+        "key": "pone.0305505.ref009",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1016/j.tree.2023.03.003",
+        "article-title": "Citizen science needs a name change",
+        "volume": "38",
+        "author": "ER Ellwood",
+        "year": "2023",
+        "journal-title": "Trends Ecol Evol"
+      },
+      {
+        "key": "pone.0305505.ref010",
+        "unstructured": "Boomer K, Boynton WR, Muller A, Muller D, Sellner K. Revisiting coastal land-water interactions: The triblet connection. Edgewater, MD: Chesapeake Bay Program, Scientific and Technical Advisory Committee, 2019 Contract No.: 19–005. Available from: https://www.chesapeake.org/stac/document-library/revisiting-coastal-land-water-interactions-the-triblet-connection/."
+      },
+      {
+        "key": "pone.0305505.ref011",
+        "volume-title": "Knowledge gaps, uncertainties, and opportunities regarding the response of the Chesapeake Bay estuary to restoration efforts.",
+        "author": "JM Testa",
+        "year": "2023"
+      },
+      {
+        "key": "pone.0305505.ref012",
+        "volume-title": "MarineGEO Upper Chesapeake Bay Observatory CPOP Data",
+        "year": "2022"
+      },
+      {
+        "key": "pone.0305505.ref013",
+        "volume-title": "Patuxent Sentinel: Chesapeake Biological Laboratory Pier Monitoring Program",
+        "year": "2024"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0305505.ref014",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41598-019-43036-6",
+        "article-title": "Long-term trends, current status, and transitions of water quality in Chesapeake Bay.",
+        "volume": "9",
+        "author": "LW Harding",
+        "year": "2019",
+        "journal-title": "Scientific Reports"
+      },
+      {
+        "key": "pone.0305505.ref015",
+        "article-title": "Chesapeake Data Explorer",
+        "author": "Chesapeake Monitoring Cooperative.",
+        "year": "2018"
+      },
+      {
+        "key": "pone.0305505.ref016",
+        "unstructured": "Keisman J, Friedrichs C, Batiuk R, Blomquist J, J. Cornwell, Gallegos C, et al. Understanding and explaining 30 years of water clarity trends in the Chesapeake Bay’s tidal waters. 2019 STAC Publication Number 19–004. Available from: https://www.chesapeake.org/stac/document-library/understanding-and-explaining-30-years-of-water-clarity-trends-in-the-chesapeake-bays-tidal-waters/."
+      },
+      {
+        "issue": "4",
+        "key": "pone.0305505.ref017",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s19040936",
+        "article-title": "A printable device for measuring clarity and colour in lake and nearshore waters.",
+        "volume": "19",
+        "author": "R Brewin",
+        "year": "2019",
+        "journal-title": "Sensors."
+      },
+      {
+        "issue": "3",
+        "key": "pone.0305505.ref018",
+        "doi-asserted-by": "crossref",
+        "first-page": "388",
+        "DOI": "10.1002/lol2.10301",
+        "article-title": "Clarifying water clarity: A call to use metrics best suited to corresponding research and management goals in aquatic ecosystems",
+        "volume": "8",
+        "author": "JS Turner",
+        "year": "2022",
+        "journal-title": "Limnology and Oceanography Letters"
+      },
+      {
+        "issue": "6",
+        "key": "pone.0305505.ref019",
+        "doi-asserted-by": "crossref",
+        "first-page": "572",
+        "DOI": "10.1002/lom3.10185",
+        "article-title": "Recommendations for obtaining unbiased chlorophyll estimates from in situ chlorophyll fluorometers: A global analysis of WET Labs ECO sensors",
+        "volume": "15",
+        "author": "C Roesler",
+        "year": "2017",
+        "journal-title": "Limnol Oceanogr Methods"
+      },
+      {
+        "issue": "12",
+        "key": "pone.0305505.ref020",
+        "doi-asserted-by": "crossref",
+        "first-page": "881",
+        "DOI": "10.1002/lom3.10290",
+        "article-title": "Interpretation of total phytoplankton and cyanobacteria fluorescence from cross‐calibrated fluorometers, including sensitivity to turbidity and colored dissolved organic matter",
+        "volume": "16",
+        "author": "B Cremella",
+        "year": "2018",
+        "journal-title": "Limnol Oceanogr Methods"
+      },
+      {
+        "issue": "1",
+        "key": "pone.0305505.ref021",
+        "doi-asserted-by": "crossref",
+        "first-page": "256",
+        "DOI": "10.3390/s18010256",
+        "article-title": "The HydroColor app: Above water measurements of remote sensing reflectance and turbidity using a smartphone camera.",
+        "volume": "18",
+        "author": "T Leeuw",
+        "year": "2018",
+        "journal-title": "Sensors (Basel, Switzerland)."
+      },
+      {
+        "key": "pone.0305505.ref022",
+        "doi-asserted-by": "crossref",
+        "first-page": "1236",
+        "DOI": "10.2112/JCOASTRES-D-16-00221.1",
+        "article-title": "Chlorophyll a and turbidity distributions: Applicability of using a smartphone “app” across two contrasting bays.",
+        "volume": "345",
+        "author": "JB Gallagher",
+        "year": "2018",
+        "journal-title": "J Coast Res"
+      },
+      {
+        "issue": "6",
+        "key": "pone.0305505.ref023",
+        "doi-asserted-by": "crossref",
+        "first-page": "835",
+        "DOI": "10.3390/rs10060835",
+        "article-title": "Is ocean reflectance acquired by citizen scientists robust for science applications?",
+        "volume": "10",
+        "author": "Y Yang",
+        "year": "2018",
+        "journal-title": "Remote Sensing."
+      },
+      {
+        "key": "pone.0305505.ref024",
+        "first-page": "12",
+        "article-title": "An evaluation of citizen science smartphone apps for inland water quality assessment",
+        "author": "TJ Malthus",
+        "year": "2020",
+        "journal-title": "Remote Sensing"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0305505.ref025",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/j.rse.2009.11.022",
+        "article-title": "Calibration and validation of a generic multisensor algorithm for mapping of total suspended matter in turbid waters.",
+        "volume": "114",
+        "author": "B Nechad",
+        "year": "2010",
+        "journal-title": "Remote Sens Environ"
+      },
+      {
+        "key": "pone.0305505.ref026",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3389/frsen.2022.940096",
+        "article-title": "Accuracy and reproducibility of above-water radiometry with calibrated smartphone cameras using RAW data.",
+        "volume": "3",
+        "author": "O Burggraaff",
+        "year": "2022",
+        "journal-title": "Frontiers in Remote Sensing."
+      },
+      {
+        "key": "pone.0305505.ref027",
+        "volume-title": "EXO User Manual",
+        "author": "YSI",
+        "year": "2023"
+      },
+      {
+        "key": "pone.0305505.ref028",
+        "volume-title": "Method 445.0 In vitro determination of chlorophyll a and pheophytin in marine and freshwater algae by fluorescence.",
+        "author": "EJ Arar",
+        "year": "1997"
+      },
+      {
+        "key": "pone.0305505.ref029",
+        "doi-asserted-by": "crossref",
+        "first-page": "148",
+        "DOI": "10.4319/lo.2008.53.1.0148",
+        "article-title": "Tidal marshes as a source of optically and chemically distinctive colored dissolved organic matter in the Chesapeake Bay",
+        "volume": "53",
+        "author": "M Tzortziou",
+        "year": "2008",
+        "journal-title": "Limnol Oceanogr"
+      },
+      {
+        "issue": "S1",
+        "key": "pone.0305505.ref030",
+        "doi-asserted-by": "crossref",
+        "first-page": "38",
+        "DOI": "10.1007/s12237-017-0303-5",
+        "article-title": "Effects of local watershed land use on water quality in Mid-Atlantic coastal bays and subestuaries of the Chesapeake Bay.",
+        "volume": "41",
+        "author": "TE Jordan",
+        "year": "2017",
+        "journal-title": "Estuaries and Coasts"
+      },
+      {
+        "issue": "36",
+        "key": "pone.0305505.ref031",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1364/AO.38.007442",
+        "article-title": "Estimation of the remote-sensing reflectance from above-surface measurements",
+        "volume": "38",
+        "author": "CD Mobley",
+        "year": "1999",
+        "journal-title": "Appl Opt"
+      },
+      {
+        "key": "pone.0305505.ref032",
+        "volume-title": "Chlorophyll a fluorescence in aquatic sciences: Methods and applications.",
+        "author": "DJ Suggett",
+        "year": "2011"
+      },
+      {
+        "issue": "7",
+        "key": "pone.0305505.ref033",
+        "doi-asserted-by": "crossref",
+        "first-page": "642",
+        "DOI": "10.1002/lom3.10188",
+        "article-title": "A temperature compensation method for chlorophyll and phycocyanin fluorescence sensors in freshwater",
+        "volume": "15",
+        "author": "CJ Watras",
+        "year": "2017",
+        "journal-title": "Limnol Oceanogr Methods"
+      },
+      {
+        "issue": "7",
+        "key": "pone.0305505.ref034",
+        "doi-asserted-by": "crossref",
+        "first-page": "296",
+        "DOI": "10.4319/lom.2011.9.296",
+        "article-title": "A temperature compensation method for CDOM fluorescence sensors in freshwater",
+        "volume": "9",
+        "author": "CJ Watras",
+        "year": "2011",
+        "journal-title": "Limnol Oceanogr Methods"
+      },
+      {
+        "key": "pone.0305505.ref035",
+        "doi-asserted-by": "crossref",
+        "first-page": "955",
+        "DOI": "10.4319/lo.2008.53.3.0955",
+        "article-title": "Absorption spectral slopes and slope ratios as indicators of molecular weight, source, and photobleaching of chromophoric dissolved organic matter",
+        "volume": "53",
+        "author": "JR Helms",
+        "year": "2008",
+        "journal-title": "Limnol Oceanogr"
+      },
+      {
+        "issue": "4",
+        "key": "pone.0305505.ref036",
+        "doi-asserted-by": "crossref",
+        "first-page": "1222",
+        "DOI": "10.1002/lno.10092",
+        "article-title": "Colored dissolved organic matter dynamics and anthropogenic influences in a major transboundary river and its coastal wetland",
+        "volume": "60",
+        "author": "M Tzortziou",
+        "year": "2015",
+        "journal-title": "Limnol Oceanogr"
+      },
+      {
+        "key": "pone.0305505.ref037",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1016/j.ecss.2015.01.015",
+        "article-title": "Long-term variations in primary production in a eutrophic sub-estuary: Contribution of short-term events.",
+        "volume": "162",
+        "author": "CL Gallegos",
+        "year": "2015",
+        "journal-title": "Estuar Coast Shelf Sci"
+      },
+      {
+        "key": "pone.0305505.ref038",
+        "unstructured": "Scientific and Technical Advisory Committee (STAC). Achieving water quality goals in the Chesapeake Bay: A comprehensive evaluation of system response Edgewater, MD: 2023 Contract No.: 23–006. Available from: https://www.chesapeake.org/stac/wp-content/uploads/2023/05/CESR-Final-update.pdf."
+      },
+      {
+        "issue": "3",
+        "key": "pone.0305505.ref039",
+        "doi-asserted-by": "crossref",
+        "first-page": "381",
+        "DOI": "10.2307/1353240",
+        "article-title": "Calculating optical water quality targets to restore and protect submersed aquatic vegetation: Overcoming problems in partitioning the diffuse attenuation coefficient for photosynthetically active radiation.",
+        "volume": "24",
+        "author": "CL Gallegos",
+        "year": "2001",
+        "journal-title": "Estuaries"
+      },
+      {
+        "issue": "C7",
+        "key": "pone.0305505.ref040",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1029/2011JC007160",
+        "article-title": "Long-term changes in light scattering in Chesapeake Bay inferred from Secchi depth, light attenuation, and remote sensing measurements.",
+        "volume": "116",
+        "author": "CL Gallegos",
+        "year": "2011",
+        "journal-title": "J Geophys Res-Oceans."
+      },
+      {
+        "key": "pone.0305505.ref041",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.1111/j.0022-3646.1984.00201.x",
+        "article-title": "Photoinhibition: algal responses to bright light during diel stratification and mixing in a tropical alpine lake",
+        "volume": "20",
+        "author": "WF Vincent",
+        "year": "1984",
+        "journal-title": "J Phycol"
+      }
+    ],
+    "container-title": [
+      "PLOS ONE"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0305505",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          31
+        ]
+      ],
+      "date-time": "2024-10-31T13:32:34Z",
+      "timestamp": 1730381554000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://dx.plos.org/10.1371/journal.pone.0305505"
+      }
+    },
+    "subtitle": [],
+    "editor": [
+      {
+        "given": "Steven Arthur",
+        "family": "Loiselle",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "editor"
+          }
+        ]
+      }
+    ],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          31
+        ]
+      ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+      "issue": "10",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            10,
+            31
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0305505",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.1101/2024.06.03.597187",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "1932-6203"
+    ],
+    "issn-type": [
+      {
+        "value": "1932-6203",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          31
+        ]
+      ]
+    }
+  }
+}

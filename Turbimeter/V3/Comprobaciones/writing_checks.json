@@ -1,0 +1,55 @@
+[
+  {
+    "id": "S01",
+    "found": false,
+    "visually_verified": true,
+    "extraction_note": "El resumen rodea el resumen gráfico; la extracción lineal intercalada no permite un cotejo literal continuo. Frase verificada en la página renderizada."
+  },
+  {
+    "id": "S02",
+    "found": false,
+    "visually_verified": true,
+    "extraction_note": "El resumen rodea el resumen gráfico; la extracción lineal intercalada no permite un cotejo literal continuo. Frase verificada en la página renderizada."
+  },
+  {
+    "id": "S03",
+    "found": false,
+    "visually_verified": true,
+    "extraction_note": "El resumen rodea el resumen gráfico; la extracción lineal intercalada no permite un cotejo literal continuo. Frase verificada en la página renderizada."
+  },
+  {
+    "id": "S04",
+    "found": true,
+    "visually_verified": true
+  },
+  {
+    "id": "S05",
+    "found": true,
+    "visually_verified": true
+  },
+  {
+    "id": "S06",
+    "found": true,
+    "visually_verified": true
+  },
+  {
+    "id": "S07",
+    "found": true,
+    "visually_verified": true
+  },
+  {
+    "id": "S08",
+    "found": true,
+    "visually_verified": true
+  },
+  {
+    "id": "S09",
+    "found": true,
+    "visually_verified": true
+  },
+  {
+    "id": "S10",
+    "found": true,
+    "visually_verified": true
+  }
+]

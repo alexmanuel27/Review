@@ -1,0 +1,864 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T12:59:12Z",
+      "timestamp": 1791377952837,
+      "version": "4.3.2"
+    },
+    "reference-count": 70,
+    "publisher": "MDPI AG",
+    "issue": "12",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              17
+            ]
+          ],
+          "date-time": "2024-06-17T00:00:00Z",
+          "timestamp": 1718582400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sensors"
+    ],
+    "abstract": "<jats:p>Turbidity stands as a crucial indicator for assessing water quality, and while turbidity sensors exist, their high cost prohibits their extensive use. In this paper, we introduce an innovative turbidity sensor, and it is the first low-cost turbidity sensor that is designed specifically for long-term stormwater in-field monitoring. Its low cost (USD 23.50) enables the implementation of high spatial resolution monitoring schemes. The sensor design is available under open hardware and open-source licences, and the 3D-printed sensor housing is free to modify based on different monitoring purposes and ambient conditions. The sensor was tested both in the laboratory and in the field. By testing the sensor in the lab with standard turbidity solutions, the proposed low-cost turbidity sensor demonstrated a strong linear correlation between a low-cost sensor and a commercial hand-held turbidimeter. In the field, the low-cost sensor measurements were statistically significantly correlated to a standard high-cost commercial turbidity sensor. Biofouling and drifting issues were also analysed after the sensors were deployed in the field for more than 6 months, showing that both biofouling and drift occur during monitoring. Nonetheless, in terms of maintenance requirements, the low-cost sensor exhibited similar needs compared to the GreenSpan sensor.</jats:p>",
+    "DOI": "10.3390/s24123926",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ],
+      "date-time": "2024-06-17T11:14:16Z",
+      "timestamp": 1718622856000
+    },
+    "page": "3926",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+      "A Compact, Low-Cost, and Low-Power Turbidity Sensor for Continuous In Situ Stormwater Monitoring"
+    ],
+    "prefix": "10.3390",
+    "volume": "24",
+    "author": [
+      {
+        "given": "Miao",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Civil Engineering, Monash University, Wellington Road, Melbourne 3800, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Baiqian",
+        "family": "Shi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil Engineering, Monash University, Wellington Road, Melbourne 3800, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8967-5853",
+        "authenticated-orcid": false,
+        "given": "Stephen",
+        "family": "Catsamas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil Engineering, Monash University, Wellington Road, Melbourne 3800, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Kolotelo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil Engineering, Monash University, Wellington Road, Melbourne 3800, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "McCarthy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Civil and Environmental Engineering, Queensland University of Technology, S Block, Level 7, S727, Brisbane 4000, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "1527",
+        "DOI": "10.2105/AJPH.93.9.1527",
+        "article-title": "Public health effects of inadequately managed stormwater runoff",
+        "volume": "93",
+        "author": "Gaffield",
+        "year": "2003",
+        "journal-title": "Am. J. Public Health"
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1080/20026491051695",
+        "article-title": "The effects of harmful algal blooms on aquatic organisms",
+        "volume": "10",
+        "author": "Landsberg",
+        "year": "2002",
+        "journal-title": "Rev. Fish. Sci."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Loucks, D.P., and Van Beek, E. (2017). Water Resource Systems Planning and Management: An Introduction to Methods, Models, and Applications, Springer.",
+        "DOI": "10.1007/978-3-319-44234-1"
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Withanachchi, S.S., Ghambashidze, G., Kunchulia, I., Urushadze, T., and Ploeger, A. (2018). Water quality in surface water: A preliminary assessment of heavy metal contamination of the Mashavera river, Georgia. Int. J. Environ. Res. Public Health, 15.",
+        "DOI": "10.3390/ijerph15040621"
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jaskuła, J., Sojka, M., Fiedler, M., and Wróżyński, R. (2021). Analysis of spatial variability of river bottom sediment pollution with heavy metals and assessment of potential ecological hazard for the Warta river, Poland. Minerals, 11.",
+        "DOI": "10.3390/min11030327"
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "653",
+        "DOI": "10.1016/j.scitotenv.2014.03.049",
+        "article-title": "Spatial and temporal variability of surface water pollution in the Mekong Delta, Vietnam",
+        "volume": "485–486",
+        "author": "Wilbers",
+        "year": "2014",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "first-page": "107254",
+        "DOI": "10.1016/j.ecolind.2020.107254",
+        "article-title": "Spatial variation impact of landscape patterns and land use on water quality across an urbanized watershed in Bentong, Malaysia",
+        "volume": "122",
+        "author": "Nafi",
+        "year": "2021",
+        "journal-title": "Ecol. Indic."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "203",
+        "DOI": "10.1016/j.jenvman.2019.06.006",
+        "article-title": "Understanding spatiotemporal variability of in-stream water quality in urban environments—A case study of Melbourne, Australia",
+        "volume": "246",
+        "author": "Shi",
+        "year": "2019",
+        "journal-title": "J. Environ. Manag."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "422",
+        "DOI": "10.1016/j.watres.2016.11.027",
+        "article-title": "Should we trust build-up/wash-off water quality models at the scale of urban catchments?",
+        "volume": "108",
+        "author": "Bonhomme",
+        "year": "2017",
+        "journal-title": "Water Res."
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "837",
+        "DOI": "10.2166/wst.2010.325",
+        "article-title": "Stormwater quality models: Performance and sensitivity analysis",
+        "volume": "62",
+        "author": "Dotto",
+        "year": "2010",
+        "journal-title": "Water Sci. Technol."
+      },
+      {
+        "key": "ref_11",
+        "unstructured": "Shi, B. (2021). Detecting and Understanding Urban Illicit Discharges by Utilising Newly Developed Low-Cost and IoT-Based Technologies. [Doctoral Dissertation, Monash University]."
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "60586",
+        "DOI": "10.1109/ACCESS.2018.2875071",
+        "article-title": "A review of turbidity detection based on computer vision",
+        "volume": "6",
+        "author": "Liu",
+        "year": "2018",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.3390/w2020273",
+        "article-title": "Turbidity as an indicator of water quality in diverse watersheds of the Upper Pecos River Basin",
+        "volume": "2",
+        "author": "Huey",
+        "year": "2010",
+        "journal-title": "Water"
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "43",
+        "DOI": "10.1007/978-3-642-11870-8_4",
+        "article-title": "A nephelometric turbidity system for monitoring residential drinking water quality",
+        "volume": "Volume 29",
+        "author": "Lambrou",
+        "year": "2010",
+        "journal-title": "Sensor Applications, Experimentation, and Logistics"
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "34",
+        "DOI": "10.1577/1548-8659(1987)7<34:TAAWQS>2.0.CO;2",
+        "article-title": "Turbidity as a water quality standard for salmonid habitats in Alaska",
+        "volume": "7",
+        "author": "Lloyd",
+        "year": "1987",
+        "journal-title": "N. Am. J. Fish. Manag."
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "1023",
+        "DOI": "10.1016/0043-1354(86)90045-X",
+        "article-title": "Relationship among turbidity, particle counts and bacteriological quality within water distribution lines",
+        "volume": "20",
+        "author": "McCoy",
+        "year": "1986",
+        "journal-title": "Water Res."
+      },
+      {
+        "key": "ref_17",
+        "unstructured": "World Health Organization (2017). Water Quality and Health-Review of Turbidity: Information for Regulators and Water Suppliers, World Health Organization."
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "first-page": "620",
+        "DOI": "10.1177/0309133317726540",
+        "article-title": "A review of the principles of turbidity measurement",
+        "volume": "41",
+        "author": "Kitchener",
+        "year": "2017",
+        "journal-title": "Prog. Phys. Geogr."
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "8311",
+        "DOI": "10.3390/s91008311",
+        "article-title": "Bin Turbidimeter design and analysis: A review on optical fiber sensors for the measurement of water turbidity",
+        "volume": "9",
+        "author": "MatJafri",
+        "year": "2009",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "638",
+        "DOI": "10.1016/j.scitotenv.2017.12.173",
+        "article-title": "Turbidity composition and the relationship with microbial attachment and UV inactivation efficacy",
+        "volume": "624",
+        "author": "Farrell",
+        "year": "2018",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1002/j.1551-8833.1983.tb05143.x",
+        "article-title": "Relationship of Bacterial Counts With Turbidity and Free Chlorine in Two Distribution Systems",
+        "volume": "75",
+        "author": "Reilly",
+        "year": "1983",
+        "journal-title": "J. Am. Water Work. Assoc."
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Romero, D.A.D., Cristina, M., Silva, D.A., and Cha, B.J.M. (2020). Biosand Filter as a Point-of-Use Water Treatment Technology: Influence of Turbidity on Microorganism Removal Efficiency. Water, 12.",
+        "DOI": "10.3390/w12082302"
+      },
+      {
+        "key": "ref_23",
+        "doi-asserted-by": "crossref",
+        "first-page": "7267",
+        "DOI": "10.1021/acs.est.5b05870",
+        "article-title": "Smarter stormwater systems",
+        "volume": "50",
+        "author": "Kerkez",
+        "year": "2016",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "first-page": "682",
+        "DOI": "10.1577/1548-8659(1971)100<682:TM>2.0.CO;2",
+        "article-title": "Turbidity measurement",
+        "volume": "100",
+        "author": "Duchrow",
+        "year": "1971",
+        "journal-title": "Trans. Am. Fish. Soc."
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "6661",
+        "DOI": "10.1016/j.watres.2012.01.006",
+        "article-title": "Intra-event variability of Escherichia coli and total suspended solids in urban stormwater runoff",
+        "volume": "46",
+        "author": "McCarthy",
+        "year": "2012",
+        "journal-title": "Water Res."
+      },
+      {
+        "key": "ref_26",
+        "unstructured": "(2024, April 10). Turbidity Sensor TS-1000A from Greenspan. Australian Made Sensors. Available online: https://www.essearth.com/product/ts1000-turbidity-sensor/."
+      },
+      {
+        "key": "ref_27",
+        "unstructured": "Henckens, G.J., Veldkamp, R.G., and Schuit, T.D. (2004). On Monitoring of Turbidity in Sewers. Global Solutions for Urban Drainage, American Society of Civil Engineers."
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Adzuan, M.A., Azman, A.A., and Rahiman, M.H.F. (2017, January 4–5). Design and development of infrared turbidity sensor for Aluminium Sulfate coagulant process. Proceedings of the 2017 IEEE 8th Control and System Graduate Research Colloquium, ICSGRC, Shah Alam, Malaysia.",
+        "DOI": "10.1109/ICSGRC.2017.8070577"
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "3790",
+        "DOI": "10.3390/s90503790",
+        "article-title": "Design of a sensor based on plastic optical fibre (POF) to measure fluid flow and turbidity",
+        "volume": "9",
+        "author": "Aiestaran",
+        "year": "2009",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Azman, A.A., Rahiman, M.H.F., Taib, M.N., Sidek, N.H., Abu Bakar, I.A., and Ali, M.F. (2016, January 22). A low cost nephelometric turbidity sensor for continual domestic water quality monitoring system. Proceedings of the 2016 IEEE International Conference on Automatic Control and Intelligent Systems (I2CACIS), Selangor, Malaysia.",
+        "DOI": "10.1109/I2CACIS.2016.7885315"
+      },
+      {
+        "key": "ref_31",
+        "doi-asserted-by": "crossref",
+        "first-page": "107001",
+        "DOI": "10.1088/0957-0233/21/10/107001",
+        "article-title": "Design and performance assessment of a plastic optical fibre-based sensor for measuring water turbidity",
+        "volume": "21",
+        "author": "Bilro",
+        "year": "2010",
+        "journal-title": "Meas. Sci. Technol."
+      },
+      {
+        "key": "ref_32",
+        "doi-asserted-by": "crossref",
+        "first-page": "907",
+        "DOI": "10.1109/TIM.2007.894222",
+        "article-title": "A new design of low-cost four-beam turbidimeter by using optical fibers",
+        "volume": "56",
+        "author": "Ortega",
+        "year": "2007",
+        "journal-title": "IEEE Trans. Instrum. Meas."
+      },
+      {
+        "key": "ref_33",
+        "doi-asserted-by": "crossref",
+        "first-page": "9151",
+        "DOI": "10.1109/JSEN.2018.2869368",
+        "article-title": "Low-Cost Submersible Turbidity Sensors Using Low-Frequency Source Light Modulation",
+        "volume": "18",
+        "author": "Kirkey",
+        "year": "2018",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "key": "ref_34",
+        "doi-asserted-by": "crossref",
+        "first-page": "109989",
+        "DOI": "10.1016/j.measurement.2021.109989",
+        "article-title": "Chirp modulation enabled turbidity measurement for large scale monitoring of fresh water",
+        "volume": "184",
+        "author": "Wei",
+        "year": "2021",
+        "journal-title": "Meas. J. Int. Meas. Confed."
+      },
+      {
+        "key": "ref_35",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wiranto, G., Hermida, I.D.P., and Fatah, A. (2016, January 17–19). Waslaluddin Design and realisation of a turbidimeter using TSL250 photodetector and Arduino microcontroller. Proceedings of the IEEE International Conference on Semiconductor Electronics, ICSE, Kuala Lumpur, Malaysia.",
+        "DOI": "10.1109/SMELEC.2016.7573657"
+      },
+      {
+        "key": "ref_36",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1016/j.aquaeng.2018.01.004",
+        "article-title": "Design and development of low cost smart turbidity sensor for water quality monitoring in fish farms",
+        "volume": "81",
+        "author": "Parra",
+        "year": "2018",
+        "journal-title": "Aquac. Eng."
+      },
+      {
+        "key": "ref_37",
+        "doi-asserted-by": "crossref",
+        "first-page": "7142",
+        "DOI": "10.3390/s140407142",
+        "article-title": "An affordable open-source turbidimeter",
+        "volume": "14",
+        "author": "Kelley",
+        "year": "2014",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_38",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Metzger, M., Konrad, A., Blendinger, F., Modler, A., Meixner, A.J., Bucher, V., and Brecht, M. (2018). Low-cost GRIN-Lens-based nephelometric turbidity sensing in the range of 0.1–1000 NTU. Sensors, 18.",
+        "DOI": "10.3390/s18041115"
+      },
+      {
+        "key": "ref_39",
+        "doi-asserted-by": "crossref",
+        "first-page": "5935",
+        "DOI": "10.1364/AO.57.005935",
+        "article-title": "Development and application of a low-cost smartphone-based turbidimeter using scattered light",
+        "volume": "57",
+        "author": "Bayram",
+        "year": "2018",
+        "journal-title": "Appl. Opt."
+      },
+      {
+        "key": "ref_40",
+        "doi-asserted-by": "crossref",
+        "first-page": "e00052",
+        "DOI": "10.1016/j.ohx.2019.e00052",
+        "article-title": "A low-cost bench-top research device for turbidity measurement by radially distributed illumination intensity sensing at multiple wavelengths",
+        "volume": "5",
+        "author": "Kitchener",
+        "year": "2019",
+        "journal-title": "HardwareX"
+      },
+      {
+        "key": "ref_41",
+        "doi-asserted-by": "crossref",
+        "first-page": "4689",
+        "DOI": "10.1109/JSEN.2018.2826778",
+        "article-title": "Low-Cost Turbidity Sensor for Low-Power Wireless Monitoring of Fresh-Water Courses",
+        "volume": "18",
+        "author": "Wang",
+        "year": "2018",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "key": "ref_42",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Snazelle, T.T. (2020). Field Comparison of Five In Situ Turbidity Sensors, US Geological Survey.",
+        "DOI": "10.3133/ofr20201123"
+      },
+      {
+        "key": "ref_43",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1016/j.measurement.2015.02.049",
+        "article-title": "Turbidimeter and RGB sensor for remote measurements in an aquatic medium",
+        "volume": "68",
+        "author": "Sampedro",
+        "year": "2015",
+        "journal-title": "Meas. J. Int. Meas. Confed."
+      },
+      {
+        "key": "ref_44",
+        "doi-asserted-by": "crossref",
+        "first-page": "6441",
+        "DOI": "10.1109/JSEN.2020.2977348",
+        "article-title": "A Highly Sensitive Deep-Sea In-Situ Turbidity Sensor with Spectrum Optimization Modulation-Demodulation Method",
+        "volume": "20",
+        "author": "Jiang",
+        "year": "2020",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "key": "ref_45",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Samah, A.H.A., Rahman, M.F.A., Omar, A.F., Ahmad, K.A., and Yahaya, S.Z. (2017, January 18–20). Sensing mechanism of water turbidity using LED for in situ monitoring system. Proceedings of the 2017 IEEE 7th International Conference on Underwater System Technology: Theory and Applications (USYS), Kuala Lumpur, Malaysia.",
+        "DOI": "10.1109/USYS.2017.8309443"
+      },
+      {
+        "key": "ref_46",
+        "unstructured": "(2016). Water Quality-Determination of Turbidity-Part 1 (Standard No. ISO7027)."
+      },
+      {
+        "key": "ref_47",
+        "doi-asserted-by": "crossref",
+        "first-page": "214832",
+        "DOI": "10.1109/ACCESS.2020.3041373",
+        "article-title": "Optimising SD Saving Events to Maximise Battery Lifetime for Arduino TM/Atmega328P Data Loggers",
+        "volume": "8",
+        "author": "Bradley",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "ref_48",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Catsamas, S., Shi, B., Wang, M., Xiao, J., Kolotelo, P., and McCarthy, D. (2023). A Low-Cost Radar-Based IoT Sensor for Noncontact Measurements of Water Surface Velocity and Depth. Sensors, 23.",
+        "DOI": "10.3390/s23146314"
+      },
+      {
+        "key": "ref_49",
+        "unstructured": "Semiconductors, V. (2024, June 13). Vishay Semiconductors High Speed Infrared Emitting Diode, 850 nm, SYMBOL Vishay Semiconductors. 1–5. Available online: https://www.vishay.com/docs/83160/vsly5850.pdf."
+      },
+      {
+        "key": "ref_50",
+        "unstructured": "McFalls, J., Rounce, D., Yi, Y.-J., Cleveland, T., Storey, B., Murphy, H., Barrett, M., Dalton, D., Lawler, D., and Morse, A. (2014). Performance Testing of Coagulants to Reduce Stormwater Runoff Turbidity, Texas Department of Transportation. Research and Technology Implementation Office."
+      },
+      {
+        "key": "ref_51",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "DOI": "10.1577/M05-219.1",
+        "article-title": "Turbidity tolerances of Great Lakes coastal wetland fishes",
+        "volume": "27",
+        "author": "Trebitz",
+        "year": "2007",
+        "journal-title": "N. Am. J. Fish. Manag."
+      },
+      {
+        "key": "ref_52",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Shi, B., Catsamas, S., Kolotelo, P., Wang, M., Lintern, A., Jovanovic, D., Bach, P.M., Deletic, A., and McCarthy, D.T. (2021). A low-cost water depth and electrical conductivity sensor for detecting inputs into urban stormwater networks. Sensors, 21.",
+        "DOI": "10.3390/s21093056"
+      },
+      {
+        "key": "ref_53",
+        "doi-asserted-by": "crossref",
+        "first-page": "8553",
+        "DOI": "10.1007/s00253-014-5964-4",
+        "article-title": "The effect of light direction and suspended cell concentrations on algal biofilm growth rates",
+        "volume": "98",
+        "author": "Schnurr",
+        "year": "2014",
+        "journal-title": "Appl. Microbiol. Biotechnol."
+      },
+      {
+        "key": "ref_54",
+        "unstructured": "(2023, June 08). B3D—PETG Filament—1.75 mm—Black—1kg Spool Details. Available online: https://www.b3d.com.au/DispProd.asp?CatID=19&SubCatID=138&ProdID=PETG175Black1."
+      },
+      {
+        "key": "ref_55",
+        "unstructured": "(2024, June 13). Thermo Scientific Thermo Scientific Orion AQUAfast AQ4500 Turbidimeter. Available online: https://www.fondriest.com/pdf/thermo_aq4500_manual_09.pdf."
+      },
+      {
+        "key": "ref_56",
+        "doi-asserted-by": "crossref",
+        "first-page": "1085",
+        "DOI": "10.1111/j.1752-1688.2001.tb03624.x",
+        "article-title": "Turbidity suspeni) ed sediment, and water clarity: A review 1",
+        "volume": "37",
+        "author": "Smith",
+        "year": "2001",
+        "journal-title": "JAWRA J. Am. Water Resour. Assoc."
+      },
+      {
+        "key": "ref_57",
+        "doi-asserted-by": "crossref",
+        "first-page": "459",
+        "DOI": "10.1672/0277-5212(2004)024[0459:EOACWI]2.0.CO;2",
+        "article-title": "Efficiency of a constructed wetland in removing contaminants from stormwater",
+        "volume": "24",
+        "author": "Birch",
+        "year": "2004",
+        "journal-title": "Wetlands"
+      },
+      {
+        "key": "ref_58",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1016/j.watres.2019.05.012",
+        "article-title": "Short- and long-term dynamics of nutrient removal in floating treatment wetlands",
+        "volume": "159",
+        "author": "Majsztrik",
+        "year": "2019",
+        "journal-title": "Water Res."
+      },
+      {
+        "key": "ref_59",
+        "doi-asserted-by": "crossref",
+        "first-page": "22",
+        "DOI": "10.1111/j.1936-704X.2010.00389.x",
+        "article-title": "Wetlands and Ponds for Stormwater Treatment in Subtropical Australia: Their Effectiveness in Enhancing Biodiversity and Improving Water Quality?",
+        "volume": "146",
+        "author": "Greenway",
+        "year": "2010",
+        "journal-title": "J. Contemp. Water Res. Educ."
+      },
+      {
+        "key": "ref_60",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Guerrero, J., Mahmoud, A., Alam, T., Chowdhury, M.A., Adetayo, A., Ernest, A., and Jones, K.D. (2020). Water quality improvement and pollutant removal by two regional detention facilities with constructedwetlands in South Texas. Sustainability, 12.",
+        "DOI": "10.3390/su12072844"
+      },
+      {
+        "key": "ref_61",
+        "unstructured": "(2024, April 10). BoSL Board v0.4—BoSL Wiki. Available online: https://www.bosl.com.au/wiki/BoSL_Board_v0.4."
+      },
+      {
+        "key": "ref_62",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.2166/wst.2002.0601",
+        "article-title": "A method for automatic validation of long time series of data in urban hydrology",
+        "volume": "45",
+        "author": "Mourad",
+        "year": "2002",
+        "journal-title": "Water Sci. Technol."
+      },
+      {
+        "key": "ref_63",
+        "doi-asserted-by": "crossref",
+        "first-page": "317",
+        "DOI": "10.1007/s10994-012-5320-9",
+        "article-title": "On evaluating stream learning algorithms",
+        "volume": "90",
+        "author": "Gama",
+        "year": "2013",
+        "journal-title": "Mach Learn"
+      },
+      {
+        "key": "ref_64",
+        "unstructured": "Mouss, H., Mouss, D., Mouss, N., and Sefouhi, L. (2004, January 20–23). Test of Page-Hinckley, an approach for fault detection in an agro-alimentary production system. Proceedings of the 2004 5th Asian Control Conference (IEEE Cat. No.04EX904), Melbourne, Australia."
+      },
+      {
+        "key": "ref_65",
+        "doi-asserted-by": "crossref",
+        "first-page": "e4483",
+        "DOI": "10.1136/bmj.e4483",
+        "article-title": "Pearson’s correlation coefficient",
+        "volume": "345",
+        "author": "Sedgwick",
+        "year": "2012",
+        "journal-title": "BMJ"
+      },
+      {
+        "key": "ref_66",
+        "doi-asserted-by": "crossref",
+        "first-page": "229",
+        "DOI": "10.1016/S0895-4356(98)00168-1",
+        "article-title": "Increasing Physicians’ Awareness of the Impact of Statistics on Research Outcomes: Comparative Power of the t-test and Wilcoxon Rank-Sum Test in Small Samples Applied Research",
+        "volume": "52",
+        "author": "Bridge",
+        "year": "1999",
+        "journal-title": "J. Clin. Epidemiol."
+      },
+      {
+        "key": "ref_67",
+        "doi-asserted-by": "crossref",
+        "first-page": "104118",
+        "DOI": "10.1016/j.catena.2019.104118",
+        "article-title": "Exploring extreme rainfall impacts on flow and turbidity dynamics in a steep, pristine and tropical volcanic catchment",
+        "volume": "182",
+        "author": "Geris",
+        "year": "2019",
+        "journal-title": "Catena"
+      },
+      {
+        "key": "ref_68",
+        "doi-asserted-by": "crossref",
+        "first-page": "1943",
+        "DOI": "10.1007/s12237-018-0403-x",
+        "article-title": "Influence of an observed decadal decline in wind speed on turbidity in the San Francisco Estuary",
+        "volume": "41",
+        "author": "Bever",
+        "year": "2018",
+        "journal-title": "Estuaries Coasts"
+      },
+      {
+        "key": "ref_69",
+        "doi-asserted-by": "crossref",
+        "first-page": "418",
+        "DOI": "10.1016/j.rser.2015.07.090",
+        "article-title": "Factors affecting algae biofilm growth and lipid production: A review",
+        "volume": "52",
+        "author": "Schnurr",
+        "year": "2015",
+        "journal-title": "Renew. Sustain. Energy Rev."
+      },
+      {
+        "key": "ref_70",
+        "unstructured": "Carroll, M., Chigounis, D., Gilbert, S., Gundersen, K., Hayashi, K., Janzen, C., Johengen, T., Koles, T., McKissack, T., and McIntyre, M. (2024, June 13). Performance Verification Statement for the YSI 6600 EDS Sonde and 6136 Turbidity Sensor. Available online: https://repository.oceanbestpractices.org/bitstream/handle/11329/801/32.pdf?sequence=1."
+      }
+    ],
+    "container-title": [
+      "Sensors"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/1424-8220/24/12/3926/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2025-10-10T15:00:12Z",
+      "timestamp": 1760108412000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/1424-8220/24/12/3926"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ]
+    },
+    "references-count": 70,
+    "journal-issue": {
+      "issue": "12",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            6
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "s24123926"
+    ],
+    "URL": "https://doi.org/10.3390/s24123926",
+    "relation": {},
+    "ISSN": [
+      "1424-8220"
+    ],
+    "issn-type": [
+      {
+        "value": "1424-8220",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          17
+        ]
+      ]
+    }
+  }
+}

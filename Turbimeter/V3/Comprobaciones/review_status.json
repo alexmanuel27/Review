@@ -1,0 +1,98 @@
+{
+  "sha256_en": "196792085d581e042641547ebce2b8f38483d163660dfe07d2d077179c9a6e52",
+  "edits": [
+    [
+      "E1",
+      "Resuelto",
+      "EN/ES pp. 2 y 4",
+      "Fig. 1 separa señal analógica, energía USB y datos. Fig. 3 presenta las cotas de diseño legibles en el pie y las distingue del montaje real."
+    ],
+    [
+      "E2",
+      "Resuelto",
+      "EN p. 5; ES p. 6",
+      "Fig. 5 separa stocks/eventos independientes y muestra selección interna, congelación completa y evaluación reservada."
+    ],
+    [
+      "E3",
+      "Resuelto",
+      "EN/ES p. 5",
+      "Ec. (2) define sesgo, MAE y RMSE con igual peso por lote; RMSE usa errores cuadrados. Explicita lotes sin resultados, fallos y conjuntos vacíos."
+    ],
+    [
+      "E4",
+      "Resuelto",
+      "EN/ES pp. 3–7",
+      "Tabla II española separa las columnas con la etiqueta Datos y energía. No quedan las colisiones ni los cortes especialmente abruptos señalados en V2."
+    ],
+    [
+      "E5",
+      "Resuelto",
+      "Anexos EN/ES pp. 1 y 3",
+      "Título y aviso preceden las figuras. La leyenda de P2(b) está dentro de su panel y ya no invade el título de P2(d)."
+    ],
+    [
+      "E6",
+      "Resuelto",
+      "EN/ES pp. 1, 3–4 y 7",
+      "El resumen ES dice presentación de errores de medición. El almacenamiento en modo no demostración se describe como función de software sin atribuirle validación óptica."
+    ]
+  ],
+  "writing": [
+    [
+      "S01–S03",
+      "Resueltos",
+      "EN p. 1",
+      "Voz activa, comunicación como única prueba y alcance limitado a los dispositivos ensayados."
+    ],
+    [
+      "S04",
+      "Resuelto",
+      "EN p. 2, II",
+      "Diferencia entre acceso al artículo y acceso a diseños o código."
+    ],
+    [
+      "S05–S06",
+      "Resueltos",
+      "EN pp. 2–3, III A",
+      "Ajustes y umbrales descritos sin atribuirles verificación física."
+    ],
+    [
+      "S07",
+      "Resuelto",
+      "EN p. 5, IV B",
+      "Tolerancias y fracción mínima siguen pendientes de justificación."
+    ],
+    [
+      "S08",
+      "Resuelto",
+      "EN p. 6, IV D",
+      "Una pareja donante–receptor no establece intercambiabilidad de fabricación."
+    ],
+    [
+      "S09–S10",
+      "Resueltos",
+      "EN p. 7, IV E y V",
+      "Un commit no constituye una liberación reproducible; las maquetas no justifican resultados, límites ni tamaños."
+    ]
+  ],
+  "documentary_defects_remaining": [],
+  "author_pending": [
+    [
+      "A1  Construcción y evidencia experimental",
+      "M1, M2 y M10. EN pp. 2–4, III A; pp. 7–8, V y VII. [REQUIERE AL AUTOR] Fabricar e identificar la revisión ensayada, documentar el montaje real y obtener validación óptica independiente. Cierre: datos reales y análisis reproducible que permitan valorar la contribución, sus límites y posibles resultados negativos."
+    ],
+    [
+      "A2  Decisiones y análisis de validación",
+      "M3–M5. EN pp. 5–6, IV A y IV B. [REQUIERE AL AUTOR] Confirmar comparador y controles, preparación y estabilidad, rango, tolerancias, conformidad, confianza, equivalencia y tamaños justificados; fechar las particiones y reglas antes de la evaluación final. Cierre: plan operativo aprobado y, después, predicciones independientes y componentes medidos de incertidumbre."
+    ],
+    [
+      "A3  Registro y prestaciones del instrumento",
+      "M6–M9. EN p. 3, III A y III B; pp. 6–7, IV C a IV E. [REQUIERE AL AUTOR] Implementar y probar registros completos por intento, incluidos fallos y señales con signo; medir rango bajo, normalización, robustez, estabilidad, energía y las comparaciones propuestas. Liberar el paquete licenciado coincidente con la revisión probada. Cierre: mediciones, trazabilidad y reconstrucción verificable de los resultados. Solo reclamar coste si existe un desglose vigente."
+    ],
+    [
+      "A4  Declaraciones y aplicación futura",
+      "EN p. 8, Declarations for Submission; p. 7, VI. [REQUIERE AL AUTOR] Aprobar autoría, afiliaciones, CRediT, financiación, conflictos, agradecimientos y asistencia de IA; confirmar las aprobaciones que correspondan al estudio efectivamente realizado. El estudio ciudadano permanece futuro y separado: no se exige para cerrar un artículo técnico limitado al instrumento."
+    ]
+  ]
+}

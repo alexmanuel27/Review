@@ -1,0 +1,694 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          6
+        ]
+      ],
+      "date-time": "2026-03-06T00:36:59Z",
+      "timestamp": 1772757419274,
+      "version": "3.50.1"
+    },
+    "reference-count": 35,
+    "publisher": "MDPI AG",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              8
+            ]
+          ],
+          "date-time": "2023-02-08T00:00:00Z",
+          "timestamp": 1675814400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "CNRS 80|Prime program",
+        "award": [
+          "ANR-21-ESRE-0014"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ANR-21-ESRE-0014"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CNRS 80|Prime program",
+        "award": [
+          "16007407/MP0011594"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "16007407/MP0011594"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CNRS 80|Prime program",
+        "award": [
+          "MP00021763"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "MP00021763"
+            ]
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001665",
+        "name": "French National Program (ANR)",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "ANR-21-ESRE-0014"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ANR-21-ESRE-0014"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001665",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001665",
+        "name": "French National Program (ANR)",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "16007407/MP0011594"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "16007407/MP0011594"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001665",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001665",
+        "name": "French National Program (ANR)",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "MP00021763"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "MP00021763"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001665",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "LAAS-CNRS micro and nanotechnologies platform (member of the Renatech French national network)",
+        "award": [
+          "ANR-21-ESRE-0014"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ANR-21-ESRE-0014"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "LAAS-CNRS micro and nanotechnologies platform (member of the Renatech French national network)",
+        "award": [
+          "16007407/MP0011594"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "16007407/MP0011594"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "LAAS-CNRS micro and nanotechnologies platform (member of the Renatech French national network)",
+        "award": [
+          "MP00021763"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "MP00021763"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FEDER European Regional Funds and French Région Occitanie",
+        "award": [
+          "ANR-21-ESRE-0014"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "ANR-21-ESRE-0014"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FEDER European Regional Funds and French Région Occitanie",
+        "award": [
+          "16007407/MP0011594"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "16007407/MP0011594"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "FEDER European Regional Funds and French Région Occitanie",
+        "award": [
+          "MP00021763"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "MP00021763"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sensors"
+    ],
+    "abstract": "<jats:p>Turbidity is a commonly used indicator of water quality in continental and marine waters and is mostly caused by suspended and colloidal particles such as organic and inorganic particles. Many methods are available for the measurement of turbidity, ranging from the Secchi disk to infrared light-based benchtop or in situ turbidimeters as well as acoustic methods. The operational methodologies of the large majority of turbidity instruments involve the physics of light scattering and absorption by suspended particles when light is passed through a sample. As such, in the case of in situ monitoring in water bodies, the measurement of turbidity is highly influenced by external light and biofouling. Our motivation for this project is to propose an open-source, low-cost in situ turbidity sensor with a suitable sensitivity and operating range to operate in low-to-medium-turbidity natural waters. This prototype device combines two angular photodetectors and two infrared light sources with different positions, resulting in two different types of light detection, namely nephelometric (i.e., scattering) and attenuation light, according to the ISO 7027 method. The mechanical design involves 3D-printed parts by stereolithography, which are compatible with commercially available waterproof enclosures, thus ensuring easy integration for future users. An effort was made to rely on mostly off-the-shelf electronic components to encourage replication of the system, with the use of a highly integrated photometric front-end commonly used in portable photoplethysmography systems. The sensor was tested in laboratory conditions against a commercial benchtop turbidimeter with Formazin standards. The monitoring results were analyzed, obtaining a linear trendline from 0 to 50 Nephelometric Turbidity Unit (NTU) and an accuracy of +/−0.4 NTU in the 0 to 10 NTU range with a response time of less than 100 ms.</jats:p>",
+    "DOI": "10.3390/s23041897",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          8
+        ]
+      ],
+      "date-time": "2023-02-08T04:21:59Z",
+      "timestamp": 1675830119000
+    },
+    "page": "1897",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+      "Development of a Frugal, In Situ Sensor Implementing a Ratiometric Method for Continuous Monitoring of Turbidity in Natural Waters"
+    ],
+    "prefix": "10.3390",
+    "volume": "23",
+    "author": [
+      {
+        "given": "Raul",
+        "family": "Sanchez",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "LAAS-CNRS, Université de Toulouse, CNRS, 31400 Toulouse, France"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7574-0359",
+        "authenticated-orcid": false,
+        "given": "Michel",
+        "family": "Groc",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sorbonne Université, CNRS, FR3724, Observatoire Océanologique de Banyuls, 66651 Banyuls-sur-Mer, France"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Renaud",
+        "family": "Vuillemin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sorbonne Université, CNRS, FR3724, Observatoire Océanologique de Banyuls, 66651 Banyuls-sur-Mer, France"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mireille",
+        "family": "Pujo-Pay",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sorbonne Université, CNRS, UMR7621, Laboratoire d’Océanographie Microbienne (LOMIC), 66651 Banyuls-sur-Mer, France"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1812-0409",
+        "authenticated-orcid": false,
+        "given": "Vincent",
+        "family": "Raimbault",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "LAAS-CNRS, Université de Toulouse, CNRS, 31400 Toulouse, France"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lambrou, T.P., Panayiotou, C.G., and Anastasiou, C.C. (2012, January 28–31). A low-cost system for real time monitoring and assessment of potable water quality at consumer sites. Proceedings of the IEEE Sensors, Taipei, Taiwan.",
+        "DOI": "10.1109/ICSENS.2012.6411190"
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Matos, T., Faria, C.L., Martins, M.S., Henriques, R., Gomes, P.A., and Goncalves, L.M. (2019). Development of a cost-effective optical sensor for continuous monitoring of turbidity and suspended particulate matter in marine environment. Sensors, 19.",
+        "DOI": "10.3390/s19204439"
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Trevathan, J., Read, W., and Schmidtke, S. (2020). Towards the development of an affordable and practical light attenuation turbidity sensor for remote near real-time aquatic monitoring. Sensors, 20.",
+        "DOI": "10.3390/s20071993"
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "100576",
+        "DOI": "10.1016/j.iot.2022.100576",
+        "article-title": "Implementation and calibration of an iot light attenuation turbidity sensor",
+        "volume": "19",
+        "author": "Trevathan",
+        "year": "2022",
+        "journal-title": "Internet Things"
+      },
+      {
+        "key": "ref_5",
+        "unstructured": "Sadar, M. (2011). Turbidity Measurement: A Simple, Effective Indicator of Water Quality Change, OTT Hydrome."
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "105073",
+        "DOI": "10.1016/j.compgeo.2022.105073",
+        "article-title": "A methodology to predict the run-out distance of submarine landslides",
+        "volume": "153",
+        "author": "Guo",
+        "year": "2023",
+        "journal-title": "Comput. Geotech."
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "first-page": "118008",
+        "DOI": "10.1016/j.epsl.2023.118008",
+        "article-title": "Observations of turbidity currents in a small, slope-confined submarine canyon in the Eastern Mediterranean Sea",
+        "volume": "604",
+        "author": "Jaijel",
+        "year": "2023",
+        "journal-title": "Earth Planet Sci. Lett."
+      },
+      {
+        "key": "ref_8",
+        "unstructured": "Vousdoukas, M.I., Aleksiadis, S., Grenz, C., and Verney, R. (2011). Comparisons of acoustic and optical sensors for suspended sediment concentration measurements under non-homogeneous solutions. J. Coast. Res., 160–164. Available online: http://www.jstor.org/stable/26482153."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Pallarès, A., Schmitt, P., and Uhring, W. (2021). Comparison of time resolved optical turbidity measurements for water monitoring to standard real-time techniques. Sensors, 21.",
+        "DOI": "10.3390/s21093136"
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "8311",
+        "DOI": "10.3390/s91008311",
+        "article-title": "Turbidimeter design and analysis: A review on optical fiber sensors for the measurement of water turbidity",
+        "volume": "9",
+        "author": "Omar",
+        "year": "2009",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_11",
+        "unstructured": "Sadar, M. (1999). Turbidimeter Instrument Comparison: Low-Level Sample Measurements—Technical Information Series, Hach Company."
+      },
+      {
+        "key": "ref_12",
+        "unstructured": "(2022, November 02). Fondriest Environmental Measuring Turbidity, TSS, and Water Clarity. Available online: https://www.fondriest.com/environmental-measurements/measurements/measuring-water-quality/turbidity-sensors-meters-and-methods/."
+      },
+      {
+        "key": "ref_13",
+        "unstructured": "(2016). Water Quality—Determination of Turbidity—Part 1: Quantitative Methods (Standard No. ISO 7027-1)."
+      },
+      {
+        "key": "ref_14",
+        "unstructured": "U.S. EPA (2022, December 05). Method 180.1: Determination of Turbidity by Nephelometry, Available online: https://www.epa.gov/sites/production/files/2015-08/documents/method_180-1_1993.pdf."
+      },
+      {
+        "key": "ref_15",
+        "unstructured": "U.S. EPA (2022, December 05). Office of Water (4606M) Guidance Manual for Compliance with the Surface Water Treatment Rules: Turbidity Provisions. EPA 815-R-20-004, Available online: https://www.epa.gov/dwreginfo/turbidity-provisions."
+      },
+      {
+        "key": "ref_16",
+        "unstructured": "Anderson, C.W. (2005). Turbidity: U.S. Geological Survey Techniques of Water-Resources Investigations, Book 9, Chap. A6.7, Version 2.1."
+      },
+      {
+        "key": "ref_17",
+        "first-page": "981",
+        "article-title": "The rapid determination of albumin in Urine",
+        "volume": "11",
+        "author": "Kingsbury",
+        "year": "1926",
+        "journal-title": "J. Lab. Clin. Med."
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "first-page": "251",
+        "DOI": "10.1016/S0003-2670(01)83146-9",
+        "article-title": "The preparation of formazin standards for nephelometry",
+        "volume": "87",
+        "author": "Rice",
+        "year": "1976",
+        "journal-title": "Anal. Chim. Acta"
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "620",
+        "DOI": "10.1177/0309133317726540",
+        "article-title": "A review of the principles of turbidity measurement",
+        "volume": "41",
+        "author": "Kitchener",
+        "year": "2017",
+        "journal-title": "Prog. Phys. Geogr."
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1016/j.jenvman.2017.05.017",
+        "article-title": "Measurement differences between turbidity instruments, and their implications for suspended sediment concentration and load calculations: A sensor inter-comparison study",
+        "volume": "199",
+        "author": "Rymszewicz",
+        "year": "2017",
+        "journal-title": "J. Environ. Manag."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "e14399",
+        "DOI": "10.1002/hyp.14399",
+        "article-title": "Weak numerical comparability of ISO-7027-compliant nephelometers. Ramifications for turbidity measurement applications",
+        "volume": "35",
+        "author": "Hughes",
+        "year": "2021",
+        "journal-title": "Hydrol. Process"
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "e00052",
+        "DOI": "10.1016/j.ohx.2019.e00052",
+        "article-title": "A low-cost bench-top research device for turbidity measurement by radially distributed illumination intensity sensing at multiple wavelengths",
+        "volume": "5",
+        "author": "Kitchener",
+        "year": "2019",
+        "journal-title": "HardwareX"
+      },
+      {
+        "key": "ref_23",
+        "unstructured": "Gantois, F., Guigues, N., Raveau, S., Lepot, B., and Gal, F. (2022, December 05). Panorama de l’existant Sur Les Capteurs et Analyseurs En Ligne Pour La Mesure Des Paramètres Physico-Chimiques Dans l’eau. AQUA-REF 2016. Available online: https://www.aquaref.fr/panorama-existant-retour-experience-capteurs-analyseurs-ligne-mesure-parametres-physico-chimiques-ea."
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fay, C.D., and Nattestad, A. (2022). Advances in optical based turbidity sensing using led photometry (Pedd). Sensors, 22.",
+        "DOI": "10.3390/s22041526"
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gillett, D., and Marchiori, A. (2019). A low-cost continuous turbidity monitor. Sensors, 19.",
+        "DOI": "10.3390/s19143039"
+      },
+      {
+        "key": "ref_26",
+        "doi-asserted-by": "crossref",
+        "first-page": "107838",
+        "DOI": "10.1016/j.measurement.2020.107838",
+        "article-title": "A novel low-cost turbidity sensor for in-situ extraction in TCM using spectral components of transmitted and scattered light",
+        "volume": "160",
+        "author": "Zang",
+        "year": "2020",
+        "journal-title": "Measurement"
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Metzger, M., Konrad, A., Blendinger, F., Modler, A., Meixner, A.J., Bucher, V., and Brecht, M. (2018). Low-cost GRIN-lens-based nephelometric turbidity sensing in the range of 0.1–1000 NTU. Sensors, 18.",
+        "DOI": "10.3390/s18041115"
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1016/j.aquaeng.2018.01.004",
+        "article-title": "Design and development of low cost smart turbidity sensor for water quality monitoring in fish farms",
+        "volume": "81",
+        "author": "Parra",
+        "year": "2018",
+        "journal-title": "Aquac. Eng."
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "7142",
+        "DOI": "10.3390/s140407142",
+        "article-title": "An affordable open-source turbidimeter",
+        "volume": "14",
+        "author": "Kelley",
+        "year": "2014",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_30",
+        "unstructured": "Hydrolab OTT (2022, December 05). Technical White Paper—4-Beam Turbidity. Available online: https://www.ott.com/products/sensors-108/4-beam-turbidity-sensor-quanta-only-168/productAction/outputAsPdf/."
+      },
+      {
+        "key": "ref_31",
+        "doi-asserted-by": "crossref",
+        "first-page": "e00213",
+        "DOI": "10.1016/j.ohx.2021.e00213",
+        "article-title": "Hypnos board: A low-cost all-in-one solution for environment sensor power management, data storage, and task scheduling",
+        "volume": "10",
+        "author": "Nguyen",
+        "year": "2021",
+        "journal-title": "HardwareX"
+      },
+      {
+        "key": "ref_32",
+        "unstructured": "Thaler, A., Sturdivant, K., Neches, R., and Black, I. (2022, December 05). OpenCTD Construction and Operation. Available online: https://github.com/OceanographyforEveryone/OpenCTD."
+      },
+      {
+        "key": "ref_33",
+        "doi-asserted-by": "crossref",
+        "first-page": "7180",
+        "DOI": "10.1021/acs.analchem.0c04944",
+        "article-title": "PDMS curing inhibition on 3D-printed molds: Why? Also, how to avoid it?",
+        "volume": "93",
+        "author": "Venzac",
+        "year": "2021",
+        "journal-title": "Anal. Chem."
+      },
+      {
+        "key": "ref_34",
+        "doi-asserted-by": "crossref",
+        "first-page": "9677",
+        "DOI": "10.1021/acs.est.9b01032",
+        "article-title": "A droplet microfluidic-based sensor for simultaneous in situ monitoring of nitrate and nitrite in natural waters",
+        "volume": "53",
+        "author": "Nightingale",
+        "year": "2019",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "ref_35",
+        "unstructured": "Anderson, C.W., and Survey, U.S.G. (2005). Chapter A6. Section 6.7. Turbidity, Version 2.1."
+      }
+    ],
+    "container-title": [
+      "Sensors"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/1424-8220/23/4/1897/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2025-10-10T18:27:57Z",
+      "timestamp": 1760120877000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/1424-8220/23/4/1897"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          8
+        ]
+      ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "s23041897"
+    ],
+    "URL": "https://doi.org/10.3390/s23041897",
+    "relation": {},
+    "ISSN": [
+      "1424-8220"
+    ],
+    "issn-type": [
+      {
+        "value": "1424-8220",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          8
+        ]
+      ]
+    }
+  }
+}

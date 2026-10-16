@@ -1,0 +1,563 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2026-09-30T11:25:17Z",
+      "timestamp": 1790767517275,
+      "version": "4.1.0"
+    },
+    "reference-count": 29,
+    "publisher": "MDPI AG",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              4,
+              6
+            ]
+          ],
+          "date-time": "2018-04-06T00:00:00Z",
+          "timestamp": 1522972800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sensors"
+    ],
+    "abstract": "<jats:p>Turbidity sensing is very common in the control of drinking water. Furthermore, turbidity measurements are applied in the chemical (e.g., process monitoring), pharmaceutical (e.g., drug discovery), and food industries (e.g., the filtration of wine and beer). The most common measurement technique is nephelometric turbidimetry. A nephelometer is a device for measuring the amount of scattered light of suspended particles in a liquid by using a light source and a light detector orientated in 90° to each other. Commercially available nephelometers cost usually—depending on the measurable range, reliability, and precision—thousands of euros. In contrast, our new developed GRIN-lens-based nephelometer, called GRINephy, combines low costs with excellent reproducibility and precision, even at very low turbidity levels, which is achieved by its ability to rotate the sample. Thereby, many cuvette positions can be measured, which results in a more precise average value for the turbidity calculated by an algorithm, which also eliminates errors caused by scratches and contaminations on the cuvettes. With our compact and cheap Arduino-based sensor, we are able to measure in the range of 0.1–1000 NTU and confirm the ISO 7027-1:2016 for low turbidity values.</jats:p>",
+    "DOI": "10.3390/s18041115",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          10
+        ]
+      ],
+      "date-time": "2018-04-10T13:06:08Z",
+      "timestamp": 1523365568000
+    },
+    "page": "1115",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 24,
+    "title": [
+      "Low-Cost GRIN-Lens-Based Nephelometric Turbidity Sensing in the Range of 0.1–1000 NTU"
+    ],
+    "prefix": "10.3390",
+    "volume": "18",
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Metzger",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Institute for Applied Research, Faculty for Mechanical and Medical Engineering, Furtwangen University, 78054 Villingen-Schwenningen, Germany"
+          },
+          {
+            "name": "Institute of Physical and Theoretical Chemistry, University of Tuebingen, 72076 Tuebingen, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alexander",
+        "family": "Konrad",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Physical and Theoretical Chemistry, University of Tuebingen, 72076 Tuebingen, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Felix",
+        "family": "Blendinger",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Applied Research, Faculty for Mechanical and Medical Engineering, Furtwangen University, 78054 Villingen-Schwenningen, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andreas",
+        "family": "Modler",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Mathematics, Physics and Chemistry, Beuth University of Applied Sciences, 13353 Berlin, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alfred",
+        "family": "Meixner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Physical and Theoretical Chemistry, University of Tuebingen, 72076 Tuebingen, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Volker",
+        "family": "Bucher",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Applied Research, Faculty for Mechanical and Medical Engineering, Furtwangen University, 78054 Villingen-Schwenningen, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5537-1448",
+        "authenticated-orcid": false,
+        "given": "Marc",
+        "family": "Brecht",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Physical and Theoretical Chemistry, University of Tuebingen, 72076 Tuebingen, Germany"
+          },
+          {
+            "name": "Process Analysis and Technology (PA&amp;T), Reutlingen Research Institute, Reutlingen University, 72762 Reutlingen, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          6
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "unstructured": "Lawler, D.M. (2005). Encyclopedia of Analytical Science, Elsevier. [2nd ed.]."
+      },
+      {
+        "key": "ref_2",
+        "unstructured": "Komninos, N. (2010). Anastasiou, C.C.; Panayiotou, C.G. A Nephelometric Turbidity System for Monitoring Residential Drinking Water Quality. Sensor Applications, Experimentation, and Logistics, Proceedings of the First International Conference, SENSAPPEAL 2009, Athens, Greece, 25 September 2009, Springer."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "first-page": "98",
+        "DOI": "10.1108/SR-01-2014-604",
+        "article-title": "A review on the design and development of turbidimeter",
+        "volume": "35",
+        "author": "Khairi",
+        "year": "2015",
+        "journal-title": "Sensor Rev."
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "8311",
+        "DOI": "10.3390/s91008311",
+        "article-title": "Turbidimeter Design and Analysis: A Review on Optical Fiber Sensors for the Measurement of Water Turbidity",
+        "volume": "9",
+        "year": "2009",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1080/00288330.2003.9517183",
+        "article-title": "Comparison of portable nephelometric turbidimeters on natural waters and effluents",
+        "volume": "37",
+        "author": "Barter",
+        "year": "2003",
+        "journal-title": "N. Z. J. Mar. Freshw."
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "90",
+        "DOI": "10.1088/0031-9120/46/1/011",
+        "article-title": "The Swift Turbidity Marker",
+        "volume": "46",
+        "author": "Omar",
+        "year": "2011",
+        "journal-title": "Phys. Educ."
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lambrou, T.P., Panayiotou, C.G., and Anastasiou, C.C. (2012, January 28–31). A low-cost system for real time monitoring and assessment of potable water quality at consumer sites. Proceedings of the 2012 IEEE Sensors, Taipei, Taiwan.",
+        "DOI": "10.1109/ICSENS.2012.6411190"
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Chianese, A., Bravi, M., and Fazio, E. (2012). Turbidimetry and Nephelometry. Industrial Crystallization Process Monitoring and Control, Wiley-VCH Verlag GmbH & Co. KGaA.",
+        "DOI": "10.1002/9783527645206.ch6"
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "149",
+        "DOI": "10.1016/S0167-7799(01)01914-X",
+        "article-title": "Rapid monitoring of recombinant protein products: A comparison of current technologies",
+        "volume": "20",
+        "author": "Baker",
+        "year": "2002",
+        "journal-title": "Trends Biotechnol."
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "1781",
+        "DOI": "10.1021/ac9912247",
+        "article-title": "A High-Throughput Screening Method for the Determination of Aqueous Drug Solubility Using Laser Nephelometry in Microtiter Plates",
+        "volume": "72",
+        "author": "Bevan",
+        "year": "2000",
+        "journal-title": "Anal. Chem."
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/S0169-409X(00)00129-0",
+        "article-title": "Experimental and computational approaches to estimate solubility and permeability in drug discovery and development settings",
+        "volume": "46",
+        "author": "Lipinski",
+        "year": "2001",
+        "journal-title": "Adv. Drug Deliv. Rev."
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gholizadeh, M.H., Melesse, A.M., and Reddi, L. (2016). A Comprehensive Review on Water Quality Parameters Estimation Using Remote Sensing Techniques. Sensors, 16.",
+        "DOI": "10.3390/s16081298"
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1016/S0015-1882(97)83117-5",
+        "article-title": "Turbidity and beyond",
+        "volume": "35",
+        "author": "Gregory",
+        "year": "1998",
+        "journal-title": "Filtr. Sep."
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.3390/w2020273",
+        "article-title": "Turbidity as an Indicator of Water Quality in Diverse Watersheds of the Upper Pecos River Basin",
+        "volume": "2",
+        "author": "Huey",
+        "year": "2010",
+        "journal-title": "Water"
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "1162384",
+        "DOI": "10.1080/23311916.2016.1162384",
+        "article-title": "Turbidity and suspended solids removal from high-strength wastewater using high surface area adsorbent: Mechanistic pathway and statistical analysis",
+        "volume": "3",
+        "author": "Amosa",
+        "year": "2016",
+        "journal-title": "Cogent Eng."
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1128/aem.42.1.159-167.1981",
+        "article-title": "Effect of turbidity on chlorination efficiency and bacterial persistence in drinking water",
+        "volume": "1",
+        "author": "LeChevallier",
+        "year": "1981",
+        "journal-title": "Appl. Environ. Microbiol."
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "2617",
+        "DOI": "10.1128/aem.57.9.2617-2621.1991",
+        "article-title": "Giardia and Cryptosporidium spp. in filtered drinking water supplies",
+        "volume": "9",
+        "author": "LeChevallier",
+        "year": "1991",
+        "journal-title": "Appl. Environ. Microbiol."
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "first-page": "7142",
+        "DOI": "10.3390/s140407142",
+        "article-title": "An Affordable Open-Source Turbidimeter",
+        "volume": "14",
+        "author": "Kelley",
+        "year": "2014",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "343",
+        "DOI": "10.1016/0308-8146(94)90184-8",
+        "article-title": "Colloidal aspects of beverages",
+        "volume": "51",
+        "author": "Dickinson",
+        "year": "1994",
+        "journal-title": "Food Chem."
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "92",
+        "DOI": "10.1007/s12596-012-0114-9",
+        "article-title": "On-line turbidity measurement of clear juice",
+        "volume": "42",
+        "author": "Dongare",
+        "year": "2013",
+        "journal-title": "J. Opt."
+      },
+      {
+        "key": "ref_21",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1080/14620316.2009.11512598",
+        "article-title": "Chemical composition of French and Polish cloudy apple juices",
+        "volume": "84",
+        "author": "Markowski",
+        "year": "2009",
+        "journal-title": "J. Hortic. Sci. Biotechnol."
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1016/j.measurement.2015.02.049",
+        "article-title": "Turbidimeter and RGB sensor for remote measurements in an aquatic medium",
+        "volume": "68",
+        "author": "Sampedro",
+        "year": "2015",
+        "journal-title": "Measurement"
+      },
+      {
+        "key": "ref_23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.sna.2011.11.028",
+        "article-title": "Design and characterization of a smart turbidity transducer for distributed measurement system",
+        "volume": "175",
+        "author": "Tai",
+        "year": "2012",
+        "journal-title": "Sens. Actuators A Phys."
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "first-page": "030108",
+        "DOI": "10.1063/1.4968361",
+        "article-title": "Manufacturing temperature and turbidity sensor based on ATMega 8535 microcontroller",
+        "volume": "1788",
+        "author": "Nuzula",
+        "year": "2017",
+        "journal-title": "AIP Conf. Proc."
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "22374",
+        "DOI": "10.1039/C6RA02483A",
+        "article-title": "Water turbidity sensing using a smartphone",
+        "volume": "6",
+        "author": "Hussain",
+        "year": "2016",
+        "journal-title": "RSC Adv."
+      },
+      {
+        "key": "ref_26",
+        "unstructured": "International Organization for Standardization (2016). ISO 7027-1:2016 Water quality—Determination of Turbidity, International Organization for Standardization."
+      },
+      {
+        "key": "ref_27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1035",
+        "DOI": "10.1364/AO.19.001035",
+        "article-title": "Gradient-index optics: A review",
+        "volume": "19",
+        "author": "Moore",
+        "year": "1980",
+        "journal-title": "Appl. Opt."
+      },
+      {
+        "key": "ref_28",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1214/aoms/1177729885",
+        "article-title": "Sample Criteria for Testing Outlying Observations",
+        "volume": "21",
+        "author": "Grubbs",
+        "year": "1950",
+        "journal-title": "Ann. Math. Statist."
+      },
+      {
+        "key": "ref_29",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1080/00401706.1969.10490657",
+        "article-title": "Procedures for Detecting Outlying Observations in Samples",
+        "volume": "11",
+        "author": "Grubbs",
+        "year": "1969",
+        "journal-title": "Technometrics"
+      }
+    ],
+    "container-title": [
+      "Sensors"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/1424-8220/18/4/1115/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2025-10-11T14:59:48Z",
+      "timestamp": 1760194788000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/1424-8220/18/4/1115"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          6
+        ]
+      ]
+    },
+    "references-count": 29,
+    "journal-issue": {
+      "issue": "4",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            4
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "s18041115"
+    ],
+    "URL": "https://doi.org/10.3390/s18041115",
+    "relation": {},
+    "ISSN": [
+      "1424-8220"
+    ],
+    "issn-type": [
+      {
+        "value": "1424-8220",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          4,
+          6
+        ]
+      ]
+    }
+  }
+}

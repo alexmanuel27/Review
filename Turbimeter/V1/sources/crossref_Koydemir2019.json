@@ -1,0 +1,585 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2026-09-22T10:36:48Z",
+      "timestamp": 1790073408183,
+      "version": "4.0.1"
+    },
+    "reference-count": 28,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              27
+            ]
+          ],
+          "date-time": "2019-12-27T00:00:00Z",
+          "timestamp": 1577404800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              27
+            ]
+          ],
+          "date-time": "2019-12-27T00:00:00Z",
+          "timestamp": 1577404800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sci Rep"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Water quality is undergoing significant deterioration due to bacteria, pollutants and other harmful particles, damaging aquatic life and lowering the quality of drinking water. It is, therefore, important to be able to rapidly and accurately measure water quality in a cost-effective manner using e.g., a turbidimeter. Turbidimeters typically use different illumination angles to measure the scattering and transmittance of light through a sample and translate these readings into a measurement based on the standard nephelometric turbidity unit (NTU). Traditional turbidimeters have high sensitivity and specificity, but they are not field-portable and require electricity to operate in field settings. Here we present a field-portable and cost effective turbidimeter that is based on a smartphone. This mobile turbidimeter contains an opto-mechanical attachment coupled to the rear camera of the smartphone, which contains two white light-emitting-diodes to illuminate the water sample, optical fibers to transmit the light collected from the sample to the camera, an external lens for image formation, and diffusers for uniform illumination of the sample. Including the smartphone, this cost-effective device weighs only ~350 g. In our mobile turbidimeter design, we combined two illumination approaches: transmittance, in which the optical fibers were placed directly below the sample cuvette at 180° with respect to the light source, and nephelometry in which the optical fibers were placed on the sides of the sample cuvette at a 90<jats:sup>°</jats:sup> angle with respect to the to the light source. Images of the end facets of these fiber optic cables were captured using the smart phone and processed using a custom written image processing algorithm to automatically quantify the turbidity of each sample. Using transmittance and nephelometric readings, our mobile turbidimeter achieved accurate measurements over a large dynamic range, from 0.3 NTU to 2000 NTU. The accurate performance of our smartphone-based turbidimeter was also confirmed with various water samples collected in Los Angeles (USA), bacteria spiked water samples, as well as diesel fuel contaminated water samples. Having a detection limit of ~0.3 NTU, this cost-effective smartphone-based turbidimeter can be a useful analytical tool for screening of water quality in resource limited settings.</jats:p>",
+    "DOI": "10.1038/s41598-019-56474-z",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          27
+        ]
+      ],
+      "date-time": "2019-12-27T11:03:12Z",
+      "timestamp": 1577444592000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 25,
+    "title": [
+      "Smartphone-based turbidity reader"
+    ],
+    "prefix": "10.1038",
+    "volume": "9",
+    "author": [
+      {
+        "given": "Hatice",
+        "family": "Ceylan Koydemir",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simran",
+        "family": "Rajpal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Esin",
+        "family": "Gumustekin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Doruk",
+        "family": "Karinca",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kyle",
+        "family": "Liang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zoltan",
+        "family": "Göröcs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7203-6537",
+        "authenticated-orcid": false,
+        "given": "Derek",
+        "family": "Tseng",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0717-683X",
+        "authenticated-orcid": false,
+        "given": "Aydogan",
+        "family": "Ozcan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          27
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "56474_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "287",
+        "DOI": "10.1016/j.marenvres.2009.11.011",
+        "volume": "69",
+        "author": "P Reopanichkul",
+        "year": "2010",
+        "unstructured": "Reopanichkul, P., Carter, R. W., Worachananant, S. & Crossland, C. J. Wastewater discharge degrades coastal waters and reef communities in southern Thailand. Marine Environmental Research 69, 287–296, https://doi.org/10.1016/j.marenvres.2009.11.011 (2010).",
+        "journal-title": "Marine Environmental Research"
+      },
+      {
+        "key": "56474_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "9",
+        "DOI": "10.1016/j.marpolbul.2015.10.049",
+        "volume": "102",
+        "author": "R Jones",
+        "year": "2016",
+        "unstructured": "Jones, R., Bessell-Browne, P., Fisher, R., Klonowski, W. & Slivkoff, M. Assessing the impacts of sediments from dredging on corals. Marine Pollution Bulletin 102, 9–29, https://doi.org/10.1016/j.marpolbul.2015.10.049 (2016).",
+        "journal-title": "Marine Pollution Bulletin"
+      },
+      {
+        "key": "56474_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "229",
+        "DOI": "10.1016/j.ecolind.2017.03.026",
+        "volume": "78",
+        "author": "MW Fraser",
+        "year": "2017",
+        "unstructured": "Fraser, M. W. et al. Effects of dredging on critical ecological processes for marine invertebrates, seagrasses and macroalgae, and the potential for management with environmental windows using Western Australia as a case study. Ecological Indicators 78, 229–242, https://doi.org/10.1016/j.ecolind.2017.03.026 (2017).",
+        "journal-title": "Ecological Indicators"
+      },
+      {
+        "key": "56474_CR4",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lloyd, D. S., Koenings, J. P. & Laperriere, J. D. Effects of Turbidity in Fresh Waters of Alaska. North American Journal of Fisheries Management 7, 18–33, https://doi.org/10.1577/1548-8659(1987)7<18:eotifw>2.0.co;2 (1987).",
+        "DOI": "10.1577/1548-8659(1987)7<18:EOTIFW>2.0.CO;2"
+      },
+      {
+        "key": "56474_CR5",
+        "unstructured": "@PCIGlobal. Access to Clean Water., https://www.pciglobal.org/clean-water/. Last accessed date: 10 April2019 (2019)."
+      },
+      {
+        "key": "56474_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "485",
+        "DOI": "10.1080/00288330.2003.9517183",
+        "volume": "37",
+        "author": "PJ Barter",
+        "year": "2003",
+        "unstructured": "Barter, P. J. & Deas, T. Comparison of portable nephelometric turbidimeters on natural waters and effluents. New Zealand Journal of Marine and Freshwater Research 37, 485–492, https://doi.org/10.1080/00288330.2003.9517183 (2003).",
+        "journal-title": "New Zealand Journal of Marine and Freshwater Research"
+      },
+      {
+        "key": "56474_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "125",
+        "DOI": "10.1002/j.1551-8833.2004.tb10684.x",
+        "volume": "96",
+        "author": "RD Letterman",
+        "year": "2004",
+        "unstructured": "Letterman, R. D., Johnson, C. E. & Viswanathan, S. Low-level turbidity measurements: A comparison of instruments. Journal American Water Works Association 96, 125–137 (2004).",
+        "journal-title": "Journal American Water Works Association"
+      },
+      {
+        "key": "56474_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "620",
+        "DOI": "10.1093/icb/ict082",
+        "volume": "53",
+        "author": "M Hasenbein",
+        "year": "2013",
+        "unstructured": "Hasenbein, M., Komoroske, L. M., Connon, R. E., Geist, J. & Fangue, N. A. Turbidity and Salinity Affect Feeding Performance and Physiological Stress in the Endangered Delta Smelt. Integrative and Comparative Biology 53, 620–634, https://doi.org/10.1093/icb/ict082 (2013).",
+        "journal-title": "Integrative and Comparative Biology"
+      },
+      {
+        "key": "56474_CR9",
+        "unstructured": "US EPA, O. Long Term 1 Enhanced Surface Water Treatment Rule Documents, https://www.epa.gov/dwreginfo/long-term-1-enhanced-surface-water-treatment-rule-documents. Last accessed date: 17 April 2019. (2019)."
+      },
+      {
+        "key": "56474_CR10",
+        "unstructured": "EPA. Water Quality Control Plan for the Ocean Waters of California. (EPA, 2017)."
+      },
+      {
+        "key": "56474_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "22374",
+        "DOI": "10.1039/c6ra02483a",
+        "volume": "6",
+        "author": "I Hussain",
+        "year": "2016",
+        "unstructured": "Hussain, I., Ahamad, K. & Nath, P. Water turbidity sensing using a smartphone. Rsc Advances 6, 22374–22382, https://doi.org/10.1039/c6ra02483a (2016).",
+        "journal-title": "Rsc Advances"
+      },
+      {
+        "key": "56474_CR12",
+        "first-page": "1",
+        "volume": "180",
+        "author": "EP Agency",
+        "year": "1993",
+        "unstructured": "Agency, E. P. Determination of Turbidity by Nephelometry. Method 180, 1 (1993).",
+        "journal-title": "Method"
+      },
+      {
+        "key": "56474_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1284",
+        "DOI": "10.1039/c4lc01358a",
+        "volume": "15",
+        "author": "HC Koydemir",
+        "year": "2015",
+        "unstructured": "Koydemir, H. C. et al. Rapid imaging, detection and quantification of Giardia lamblia cysts using mobile-phone based fluorescent microscopy and machine learning. Lab on a Chip 15, 1284–1293, https://doi.org/10.1039/c4lc01358a (2015).",
+        "journal-title": "Lab on a Chip"
+      },
+      {
+        "key": "56474_CR14",
+        "unstructured": "EPA. SEDIMENT-Related Criteria for Surface Water Quality (2015)."
+      },
+      {
+        "key": "56474_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "1481",
+        "DOI": "10.1061/(asce)0733-9372(2004)130:12(1481)",
+        "volume": "130",
+        "author": "WW Lin",
+        "year": "2004",
+        "unstructured": "Lin, W. W. et al. Treating high-turbidity water using full-scale floc blanket clarifiers. Journal of Environmental Engineering-Asce 130, 1481–1487, https://doi.org/10.1061/(asce)0733-9372(2004)130:12(1481) (2004).",
+        "journal-title": "Journal of Environmental Engineering-Asce"
+      },
+      {
+        "key": "56474_CR16",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Kponee, K. Z., Chiger, A., Kakulu, II., Vorhees, D. & Heiger-Bernays, W. Petroleum contaminated water and health symptoms: a cross-sectional pilot study in a rural Nigerian community. Environmental Health 14, https://doi.org/10.1186/s12940-015-0073-0 (2015).",
+        "DOI": "10.1186/s12940-015-0073-0"
+      },
+      {
+        "key": "56474_CR17",
+        "unstructured": "Health, N. Y. D. O. Fact Sheet for Gasoline Oxygenates in Drinking Water, https://www.health.ny.gov/environmental/water/drinking/oxygenates_in_drinking_water (2019)."
+      },
+      {
+        "key": "56474_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "4514",
+        "DOI": "10.1038/sj.emboj.7601871",
+        "volume": "26",
+        "author": "S Fossum",
+        "year": "2007",
+        "unstructured": "Fossum, S., Crooke, E. & Skarstad, K. Organization of sister origins and replisomes during multifork DNA replication in Escherichia coli. Embo Journal 26, 4514–4522, https://doi.org/10.1038/sj.emboj.7601871 (2007).",
+        "journal-title": "Embo Journal"
+      },
+      {
+        "key": "56474_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "5",
+        "DOI": "10.1093/jac/48.suppl_1.5",
+        "volume": "48",
+        "author": "JM Andrews",
+        "year": "2001",
+        "unstructured": "Andrews, J. M. Determination of minimum inhibitory concentrations. Journal of Antimicrobial Chemotherapy 48, 5–16, https://doi.org/10.1093/jac/48.suppl_1.5 (2001).",
+        "journal-title": "Journal of Antimicrobial Chemotherapy"
+      },
+      {
+        "key": "56474_CR20",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Lallemand, E. A. et al. In vitro Degradation of Antimicrobials during Use of Broth Microdilution Method Can Increase the Measured Minimal Inhibitory and Minimal Bactericidal Concentrations. Frontiers in Microbiology 7, https://doi.org/10.3389/fmicb.2016.02051 (2016).",
+        "DOI": "10.3389/fmicb.2016.02051"
+      },
+      {
+        "key": "56474_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "1050",
+        "DOI": "10.1128/aac.19.6.1050",
+        "volume": "19",
+        "author": "LG Reimer",
+        "year": "1981",
+        "unstructured": "Reimer, L. G., Stratton, C. W. & Reller, L. B. Minimum Inhibitory and Bactericidal Concentrations of 44 Anti-Microbial Agents Against 3 Standard Control Strains in Broth With and Without Human-Serum. Antimicrobial Agents and Chemotherapy 19, 1050–1055, https://doi.org/10.1128/aac.19.6.1050 (1981).",
+        "journal-title": "Antimicrobial Agents and Chemotherapy"
+      },
+      {
+        "key": "56474_CR22",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Feng, S., Tseng, D., Di Carlo, D., Garner, O. B. & Ozcan, A. High-throughput and automated diagnosis of antimicrobial resistance using a cost-effective cellphone-based micro-plate reader. Scientific Reports 6, https://doi.org/10.1038/srep39203 (2016).",
+        "DOI": "10.1038/srep39203"
+      },
+      {
+        "issue": "4",
+        "key": "56474_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "7142",
+        "DOI": "10.3390/s140407142",
+        "volume": "14",
+        "author": "Christopher Kelley",
+        "year": "2014",
+        "unstructured": "Kelly, C. D. et al. An affordable open-source turbidimeter. Sensors, 14(4), 7142–7155, https://doi.org/10.3390/s140407142.",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "56474_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "190",
+        "DOI": "10.1016/j.biortech.2013.04.036",
+        "volume": "139",
+        "author": "J Liu",
+        "year": "2013",
+        "unstructured": "Liu, J., Ge, Y., Cheng, H., Wu, L. & Tian, G. Aerated swine lagoon wastewater: A promising alternative medium for Botryococcus braunii cultivation in open system. Bioresource Technology 139, 190–194 (2013).",
+        "journal-title": "Bioresource Technology"
+      },
+      {
+        "key": "56474_CR25",
+        "unstructured": "US Environmental Protection Agency Office of Water, EPA-821-R-02-013, Short-term methods for estimating the chronic toxicity of effluents and receiving waters to freshwater organisms (2002)."
+      },
+      {
+        "key": "56474_CR26",
+        "unstructured": "ISO 21528-2:, Microbiology of the food chain — Horizontal method for the detection and enumeration of Enterobacteriaceae — Part 2: Colony-count technique (2017)."
+      },
+      {
+        "issue": "2",
+        "key": "56474_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "315",
+        "DOI": "10.2215/CJN.04720416",
+        "volume": "12",
+        "author": "A Pash",
+        "year": "2017",
+        "unstructured": "Pash, A. et al. Blood calcification propensity cardiovascular ebents, and survival in patients receiving hemodialysis in the EVOLVE trial. CJASN 12(2), 315–322 (2017).",
+        "journal-title": "CJASN"
+      },
+      {
+        "key": "56474_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "2925",
+        "DOI": "10.1039/C9LC00652D",
+        "volume": "19",
+        "author": "S Tok.",
+        "year": "2019",
+        "unstructured": "Tok., S. et al. Early detection of E. coli and total coliform using an automated, colorimetric and fluorometric fiber optics-based device. Lab Chip 19, 2925–2935 (2019).",
+        "journal-title": "Lab Chip"
+      }
+    ],
+    "container-title": [
+      "Scientific Reports"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-019-56474-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-019-56474-z",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-019-56474-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          12,
+          17
+        ]
+      ],
+      "date-time": "2022-12-17T18:01:48Z",
+      "timestamp": 1671300108000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41598-019-56474-z"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          27
+        ]
+      ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "56474"
+    ],
+    "URL": "https://doi.org/10.1038/s41598-019-56474-z",
+    "relation": {},
+    "ISSN": [
+      "2045-2322"
+    ],
+    "issn-type": [
+      {
+        "value": "2045-2322",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          12,
+          27
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "10 May 2019",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "12 December 2019",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "27 December 2019",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "19901"
+  }
+}

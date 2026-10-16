@@ -1,0 +1,717 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          16
+        ]
+      ],
+      "date-time": "2026-01-16T04:31:26Z",
+      "timestamp": 1768537886551,
+      "version": "3.49.0"
+    },
+    "reference-count": 43,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              22
+            ]
+          ],
+          "date-time": "2021-07-22T00:00:00Z",
+          "timestamp": 1626912000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Mar. Sci."
+    ],
+    "abstract": "<jats:p>Within the United Nations Sustainable Development 2030 agenda, sustainable growth in the marine and maritime sector needs sea water quality monitoring. This is a very demanding and expensive task which results in the sea being largely undersampled. MaDCrow is a research and development project supported by the European Regional Development Fund, that involves citizens as data collectors while aiming to improve public environmental awareness and participation in scientific research. Its goal is to create an innovative technological infrastructure for real-time acquisition, integration and access of data, thus generating knowledge on sea water quality and marine ecosystem of the Gulf of Trieste. Data acquisition is based on an autonomous and removable device, developed within the project, that can be deployed on any small size sailing boat, recreational vessel, or fishing boat. The device holds low-cost sensors to measure pH, temperature, dissolved oxygen and salinity and the hardware and software to acquire, georeference and transmit the environmental data without interfering with the activities of the boats. In this work we analyze the use, capabilities and advantages of low-cost sensors but also their limitations, comparing, with a special focus on pH, their performances with those of the traditional ones. Applying the paradigm in a highly anthropized area such as the Gulf of Trieste, which is characterized also by a very high spatial and temporal variability of environments, we point out that this new approach allows to monitor sea water quality and highlight local anomalies with a resolution and spatial and temporal coverage that was not achievable with previous procedures, but yet at very low costs. Once received, data are then processed and submitted to a mediation flow that contextualizes and disseminates them for public use on a website. The final products have been customized to reach stakeholders such as tourists, fishermen and policy makers. The availability of information understandable to everyone, while fostering environmental awareness, stimulates, at the same time, involvement and participation of citizen scientists in the initiative. In the future, while committing to enlarge the number of participants, we will extend the analysis also toward other types of sensors.</jats:p>",
+    "DOI": "10.3389/fmars.2021.619898",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          22
+        ]
+      ],
+      "date-time": "2021-07-22T11:26:18Z",
+      "timestamp": 1626953178000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+      "MaDCrow, a Citizen Science Infrastructure to Monitor Water Quality in the Gulf of Trieste (North Adriatic Sea)"
+    ],
+    "prefix": "10.3389",
+    "volume": "8",
+    "author": [
+      {
+        "given": "Paolo",
+        "family": "Diviacco",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Antonio",
+        "family": "Nadali",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Massimiliano",
+        "family": "Iurcev",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rodrigo",
+        "family": "Carbajales",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alessandro",
+        "family": "Busato",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Alessandro",
+        "family": "Pavan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mihai",
+        "family": "Burca",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lorenzo",
+        "family": "Grio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Massimiliano",
+        "family": "Nolich",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Andrea",
+        "family": "Molinaro",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Francesca",
+        "family": "Malfatti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1098/rstb.2016.0041",
+        "article-title": "Does eutrophication-drivenevolution change aquatic ecosystems?",
+        "volume": "372",
+        "author": "Alexander",
+        "year": "2017",
+        "journal-title": "Phil. Trans. R. Soc. B"
+      },
+      {
+        "key": "B2",
+        "article-title": "OpenSeaMap - The free nautical chart.",
+        "volume": "17",
+        "author": "Bärlocher",
+        "year": "2013",
+        "journal-title": "Hydro Int."
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "796",
+        "DOI": "10.1177/0002764213476846",
+        "article-title": "Public Enemy No. 1? Understanding media representations of outlier views on climate change.",
+        "volume": "57",
+        "author": "Boykoff",
+        "year": "2013",
+        "journal-title": "Am. Behav. Sci."
+      },
+      {
+        "key": "B4",
+        "author": "Broecker",
+        "year": "1982",
+        "journal-title": "Tracers in the Sea."
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "503",
+        "DOI": "10.1080/09640560701402034",
+        "article-title": "Identifying the motivations of environmental volunteers.",
+        "volume": "50",
+        "author": "Bruyere",
+        "year": "2007",
+        "journal-title": "J. Environ. Plan. Manag."
+      },
+      {
+        "key": "B6",
+        "doi-asserted-by": "publisher",
+        "first-page": "5352",
+        "DOI": "10.1021/es405819p",
+        "article-title": "Measuring Ocean acidification: new technology for a new era of ocean chemistry.",
+        "volume": "48",
+        "author": "Byrne",
+        "year": "2014",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "crossref",
+        "first-page": "67",
+        "DOI": "10.1387/theoria.554",
+        "article-title": "There is no special problem about scientific representation.",
+        "volume": "21",
+        "author": "Callender",
+        "year": "2006",
+        "journal-title": "Theoria"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "publisher",
+        "first-page": "63",
+        "DOI": "10.12716/1001.13.01.05",
+        "article-title": "AIS-assisted service provision and crowdsourcing of marine meteorological information.",
+        "volume": "13",
+        "author": "Chang",
+        "year": "2019",
+        "journal-title": "Trans. Nav."
+      },
+      {
+        "key": "B9",
+        "first-page": "435",
+        "article-title": "Analysis of the River Isonzo discharge (1998-2005).",
+        "volume": "48",
+        "author": "Comici",
+        "year": "2007",
+        "journal-title": "Boll. Geofis. Teor. Appl."
+      },
+      {
+        "key": "B10",
+        "first-page": "130",
+        "article-title": "Circulation and suspended matter distribution in a microtidal deltaic system: the Isonzo river mouth (northern Adriatic Sea).",
+        "volume": "41",
+        "author": "Covelli",
+        "year": "2004",
+        "journal-title": "J. of Coastal Res. SI"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "210",
+        "DOI": "10.1016/j.scitotenv.2005.09.089",
+        "article-title": "Behaviour of Hg species in a microtidal deltaic system: the Isonzo River mouth (northern Adriatic Sea).",
+        "volume": "368",
+        "author": "Covelli",
+        "year": "2006",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "14",
+        "DOI": "10.1016/j.ecss.2012.03.005",
+        "article-title": "Recent evolution of river discharges in the Gulf of Trieste and their potential response to climate changes and anthropogenic pressure.",
+        "volume": "115",
+        "author": "Cozzi",
+        "year": "2012",
+        "journal-title": "Estuar. Coast. Shelf Sci."
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "1881",
+        "DOI": "10.1016/j.csr.2011.08.010",
+        "article-title": "River water and nutrient discharges in the Northern Adriatic Sea: current importance and long term changes.",
+        "volume": "31",
+        "author": "Cozzi",
+        "year": "2011",
+        "journal-title": "Cont. Shelf Res."
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.4018/978-1-4666-6567-5.ch001",
+        "article-title": "Reconciling knowledge and collaborative e-research",
+        "author": "Diviacco",
+        "year": "2014",
+        "journal-title": "Collaborative Knowledge in Scientific Research Networks"
+      },
+      {
+        "key": "B15",
+        "author": "Diviacco",
+        "year": "2021",
+        "journal-title": "Citizen Science and Crowdsourcing in the Field of Marine Scientific Research - the MaDCrow Project."
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.biocon.2016.10.014",
+        "article-title": "Citizen science and conservation: recommendations for a rapidly moving field.",
+        "volume": "208",
+        "author": "Ellwood",
+        "year": "2017",
+        "journal-title": "Biol. Conserv."
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.25423/CMCC/MEDSEA_MULTIYEAR_PHY_006_004_E3R1",
+        "author": "Escudier",
+        "year": "2020",
+        "journal-title": "Mediterranean Sea Physical Reanalysis (CMEMS MED-Currents) (Version 1) [Data set]. Copernicus Monitoring Environment Marine Service (CMEMS)."
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "1735",
+        "DOI": "10.1007/s11625-020-00833-7",
+        "article-title": "Mapping citizen science contributions to the UN sustainable development goals.",
+        "volume": "15",
+        "author": "Fraisl",
+        "year": "2020",
+        "journal-title": "Sustain. Sci."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "publisher",
+        "first-page": "35",
+        "DOI": "10.3986/ac.v35i1.241",
+        "article-title": "Monitoring the flood pulses in the epiphreatic zone of karst aquifers: the case of Reka river system, Karst plateau, SW Slovenia.",
+        "volume": "35",
+        "author": "Gabrovšek",
+        "year": "2006",
+        "journal-title": "Acta Carsol."
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/j.scitotenv.2005.09.007",
+        "article-title": "Mucilages in the adriatic and tyrrhenian seas.",
+        "volume": "353",
+        "author": "Giani",
+        "year": "2005",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/nature11397",
+        "article-title": "An index to assess the health and benefits of the global ocean.",
+        "volume": "488",
+        "author": "Halpern",
+        "year": "2012",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1029/2004GL020900",
+        "article-title": "Is AOU a good measure of respiration in the oceans?",
+        "volume": "31",
+        "author": "Ito",
+        "year": "2004",
+        "journal-title": "Geophys. Res. Lett."
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1186/s13742-015-0066-5",
+        "article-title": "The ocean sampling day consortium.",
+        "volume": "4",
+        "author": "Kopf",
+        "year": "2015",
+        "journal-title": "GigaSci"
+      },
+      {
+        "key": "B24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pbio.1001947",
+        "article-title": "The common oceanographer: crowdsourcing the collection of oceanographic data.",
+        "volume": "12",
+        "author": "Lauro",
+        "year": "2014",
+        "journal-title": "PLoS Biol."
+      },
+      {
+        "key": "B25",
+        "doi-asserted-by": "publisher",
+        "first-page": "101209",
+        "DOI": "10.1109/ACCESS.2020.2996778",
+        "article-title": "Coastal marine data crowdsourcing using the internet of floating things: improving the results of a water quality model.",
+        "volume": "8",
+        "author": "Luccio",
+        "year": "2020",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.1016/j.marchem.2011.04.002",
+        "article-title": "pH of seawater.",
+        "volume": "126",
+        "author": "Marion",
+        "year": "2011",
+        "journal-title": "Mar. Chem."
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.biocon.2020.108587",
+        "article-title": "What motivates the masses: understanding why people contribute to conservation citizen science projects.",
+        "volume": "246",
+        "author": "Maund",
+        "year": "2020",
+        "journal-title": "Biol. Conserv."
+      },
+      {
+        "key": "B28",
+        "first-page": "1",
+        "article-title": "Investing in citizen science can improve natural resource management and environmental protection.",
+        "volume": "2015",
+        "author": "McKinley",
+        "year": "2015",
+        "journal-title": "Issues Ecol."
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "first-page": "677",
+        "DOI": "10.1080/17524032.2016.1219489",
+        "article-title": "Spectacular environmentalisms: media, knowledge and the framing of ecological politics.",
+        "volume": "10",
+        "author": "Michael",
+        "year": "2016",
+        "journal-title": "Environ. Commun."
+      },
+      {
+        "key": "B30",
+        "doi-asserted-by": "publisher",
+        "first-page": "2416",
+        "DOI": "10.1111/gcb.14108",
+        "article-title": "Essential ocean variables for global sustained observations of biodiversity and ecosystem changes.",
+        "volume": "24",
+        "author": "Miloslavich",
+        "year": "2018",
+        "journal-title": "Glob. Change Biol."
+      },
+      {
+        "key": "B31",
+        "doi-asserted-by": "publisher",
+        "first-page": "1399",
+        "DOI": "10.1016/j.scitotenv.2016.11.137",
+        "article-title": "Marine anthropogenic litter on British beaches: a 10-year nationwide assessment using citizen science data.",
+        "volume": "579",
+        "author": "Nelms",
+        "year": "2017",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/lom3.10189",
+        "article-title": "Evaluation of marine pH sensors under controlled and natural conditions for the Wendy Schmidt Ocean Health XPRIZE.",
+        "volume": "15",
+        "author": "Okazaki",
+        "year": "2017",
+        "journal-title": "Limnol. Oceanogr. Methods"
+      },
+      {
+        "key": "B33",
+        "first-page": "152",
+        "article-title": "Dead zones: a future worst-case scenario for Northern Adriatic biodiversity",
+        "author": "Riedel",
+        "year": "2008",
+        "journal-title": "Climate Warming and Related Changes in Mediterranean Marine Biota, CIESM Workshop Monographs 35"
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/su12156044",
+        "article-title": "Citizen science in germany as research and sustainability education: analysis of the main forms and foci and its relation to the sustainable development goals.",
+        "volume": "12",
+        "author": "Schleicher",
+        "year": "2020",
+        "journal-title": "Sustainability"
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "467",
+        "DOI": "10.1016/j.tree.2009.03.017",
+        "article-title": "A new dawn for citizen science.",
+        "volume": "24",
+        "author": "Silvertown",
+        "year": "2009",
+        "journal-title": "Trends Ecol. Evol."
+      },
+      {
+        "key": "B36",
+        "first-page": "75",
+        "article-title": "Estimation of mercury mass balance in the Gulf of Trieste.",
+        "volume": "40",
+        "author": "Sirca",
+        "year": "1999",
+        "journal-title": "Acta Adriatica"
+      },
+      {
+        "key": "B37",
+        "first-page": "355",
+        "article-title": "Some characteristics of the circulation in the Gulf of Trieste.",
+        "volume": "19",
+        "author": "Stravisi",
+        "year": "1983",
+        "journal-title": "Thalassia Jugosl."
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "779",
+        "DOI": "10.1111/bij.12576",
+        "article-title": "An agenda for the future of biological recording for ecological monitoring and citizen science.",
+        "volume": "115",
+        "author": "Sutherland",
+        "year": "2015",
+        "journal-title": "Biol. J. Linn. Soc."
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "575",
+        "DOI": "10.1017/pab.2018.22",
+        "article-title": "Tracing the effects of eutrophication on molluscan communities in sediment cores: outbreaks of an opportunistic species coincide with reduced bioturbation and high frequency of hypoxia in the Adriatic Sea.",
+        "volume": "44",
+        "author": "Tomašovych",
+        "year": "2018",
+        "journal-title": "Paleobiology"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fmars.2020.00679",
+        "article-title": "Temporal and spatial variability of the CO2 system in a riverine influenced area of the mediterranean Sea, the Northern Adriatic.",
+        "volume": "7",
+        "author": "Urbini",
+        "year": "2020",
+        "journal-title": "Front. Mar. Sci."
+      },
+      {
+        "key": "B41",
+        "doi-asserted-by": "publisher",
+        "first-page": "5965",
+        "DOI": "10.5194/bg-13-5965-2016",
+        "article-title": "Anthropogenically induced environmental changes in the northeastern Adriatic Sea in the last 500 years (Panzano Bay. Gulf of Trieste).",
+        "volume": "13",
+        "author": "Vidović",
+        "year": "2016",
+        "journal-title": "Biogeosciences"
+      },
+      {
+        "key": "B42",
+        "doi-asserted-by": "publisher",
+        "first-page": "110",
+        "DOI": "10.1029/2018jd028552",
+        "article-title": "Wind over the adriatic region in CORDEX climate change scenarios.",
+        "volume": "124",
+        "author": "Vozila",
+        "year": "2019",
+        "journal-title": "J. Geophys. Res. Atmos."
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "75",
+        "DOI": "10.1016/j.marchem.2014.01.005",
+        "article-title": "Seawater pH measurements in the field: a DIY photometer with 0.01 unit pH accuracy.",
+        "volume": "160",
+        "author": "Yang",
+        "year": "2014",
+        "journal-title": "Mar. Chem."
+      }
+    ],
+    "container-title": [
+      "Frontiers in Marine Science"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fmars.2021.619898/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          6
+        ]
+      ],
+      "date-time": "2023-11-06T10:26:39Z",
+      "timestamp": 1699266399000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/fmars.2021.619898/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          22
+        ]
+      ]
+    },
+    "references-count": 43,
+    "alternative-id": [
+      "10.3389/fmars.2021.619898"
+    ],
+    "URL": "https://doi.org/10.3389/fmars.2021.619898",
+    "relation": {},
+    "ISSN": [
+      "2296-7745"
+    ],
+    "issn-type": [
+      {
+        "value": "2296-7745",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          7,
+          22
+        ]
+      ]
+    },
+    "article-number": "619898"
+  }
+}

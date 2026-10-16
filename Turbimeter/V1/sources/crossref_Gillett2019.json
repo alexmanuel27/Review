@@ -1,0 +1,346 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          30
+        ]
+      ],
+      "date-time": "2026-09-30T11:25:15Z",
+      "timestamp": 1790767515353,
+      "version": "4.1.0"
+    },
+    "reference-count": 22,
+    "publisher": "MDPI AG",
+    "issue": "14",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2019,
+              7,
+              10
+            ]
+          ],
+          "date-time": "2019-07-10T00:00:00Z",
+          "timestamp": 1562716800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sensors"
+    ],
+    "abstract": "<jats:p>Turbidity describes the cloudiness, or clarity, of a liquid. It is a principal indicator of water quality, sensitive to any suspended solids present. Prior work has identified the lack of low-cost turbidity monitoring as a significant hurdle to overcome to improve water quality in many domains, especially in the developing world. Low-cost hand-held benchtop meters have been proposed. This work adapts and verifies the technology for continuous monitoring. Lab tests show the low-cost continuous monitor can achieve 1 nephelometric turbidity unit (NTU) accuracy in the range 0–100 NTU and costs approximately 64 USD in components to construct. This level of accuracy yields useful and actionable data about water quality and may be sufficient in certain applications where cost is a primary constraint. A 38-day continuous monitoring trial, including a step change in turbidity, showed promising results with a median error of     0.45     and     1.40     NTU for two different monitors. However, some noise was present in the readings resulting in a standard deviation of     1.90     and     6.55     NTU, respectively. The cause was primarily attributed to ambient light and bubbles in the piping. By controlling these noise sources, we believe the low-cost continuous turbidity monitor could be a useful tool in multiple domains.</jats:p>",
+    "DOI": "10.3390/s19143039",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          10
+        ]
+      ],
+      "date-time": "2019-07-10T11:56:51Z",
+      "timestamp": 1562759811000
+    },
+    "page": "3039",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 52,
+    "title": [
+      "A Low-Cost Continuous Turbidity Monitor"
+    ],
+    "prefix": "10.3390",
+    "volume": "19",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1868-4274",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "Gillett",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Chemical Engineering, Bucknell University, Lewisburg, PA 17837, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8318-0657",
+        "authenticated-orcid": false,
+        "given": "Alan",
+        "family": "Marchiori",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, Bucknell University, Lewisburg, PA 17837, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          10
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "unstructured": "United Nations Educational, Scientific and Cultural Organization (UNESCO) (2014). Water in the post-2015 development agenda and sustainable development goals. International Hydrological Programme (IHP), UNESCO."
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "499",
+        "DOI": "10.1016/j.scitotenv.2013.05.022",
+        "article-title": "Spatial and temporal trends in estimates of nutrient and suspended sediment loads in the Ishikari River, Japan, 1985 to 2010",
+        "volume": "461–462",
+        "author": "Duan",
+        "year": "2013",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Duan, W., He, B., Nover, D., Yang, G., Chen, W., Meng, H., Zou, S., and Liu, C. (2016). Water Quality Assessment and Pollution Source Identification of the Eastern Poyang Lake Basin Using Multivariate Statistical Methods. Sustainability, 8.",
+        "DOI": "10.3390/su8020133"
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1371/journal.pone.0188889",
+        "article-title": "Identification of long-term trends and seasonality in high-frequency water quality data from the Yangtze River basin, China",
+        "volume": "13",
+        "author": "Duan",
+        "year": "2018",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "ref_5",
+        "unstructured": "Burke, D.G., and Allenby, J. (2019, February 01). Low Cost Water Quality Monitoring Needs Assessment. Available online: https://chesapeakeconservancy.org/what-we-do/innovate/water-quality-monitoring/low-cost-water-quality-monitoring/."
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Metzger, M., Konrad, A., Blendinger, F., Modler, A., Meixner, A., Bucher, V., and Brecht, M. (2018). Low-Cost GRIN-Lens-Based Nephelometric Turbidity Sensing in the Range of 0.1–1000 NTU. Sensors, 18.",
+        "DOI": "10.3390/s18041115"
+      },
+      {
+        "key": "ref_7",
+        "unstructured": "Hicks, S., Aufdenkampe, A., and Montgomery, D. (2012, January 3–7). Creative Uses of Custom Electronics for Environmental Monitoring at the Christina River Basin CZO. Proceedings of the American Geophysical Union Annual Fall Meeting, San Francisco, CA, USA."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "7142",
+        "DOI": "10.3390/s140407142",
+        "article-title": "An Affordable Open-Source Turbidimeter",
+        "volume": "14",
+        "author": "Kelley",
+        "year": "2014",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.1109/JSEN.2014.2340437",
+        "article-title": "A Portable Optical Sensor for Sea Quality Monitoring",
+        "volume": "15",
+        "author": "Attivissimo",
+        "year": "2015",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lambrou, T.P., Panayiotou, C.G., and Anastasiou, C.C. (2012, January 28–31). A low-cost system for real time monitoring and assessment of potable water quality at consumer sites. Proceedings of the SENSORS, Taipei, Taiwan.",
+        "DOI": "10.1109/ICSENS.2012.6411190"
+      },
+      {
+        "key": "ref_11",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Parra, L., Sendra, S., García, L., and Lloret, J. (2018). Design and Deployment of Low-Cost Sensors for Monitoring the Water Quality and Fish Behavior in Aquaculture Tanks during the Feeding Process. Sensors, 18.",
+        "DOI": "10.3390/s18030750"
+      },
+      {
+        "key": "ref_12",
+        "first-page": "4:1",
+        "article-title": "Water Quality Monitoring Using Wireless Sensor Networks: Current Trends and Future Research Directions",
+        "volume": "13",
+        "author": "Tapparello",
+        "year": "2017",
+        "journal-title": "ACM Trans. Sens. Netw."
+      },
+      {
+        "key": "ref_13",
+        "unstructured": "O’Dell, J.W. (1993). Method 180.1 Determination of Turbidity by Nephelometry."
+      },
+      {
+        "key": "ref_14",
+        "unstructured": "Fondriest Environmental, Inc. (2018, May 01). Fundamentals of Environmental Measurements: Measuring Turbidity, TSS, and Water Clarity. Available online: https://www.fondriest.com/environmental-measurements/measurements/measuring-water-quality/turbidity-sensors-meters-and-methods/."
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.2166/wst.2003.0079",
+        "article-title": "Infrared optical sensors for water quality monitoring",
+        "volume": "47",
+        "author": "Mizaikoff",
+        "year": "2003",
+        "journal-title": "Water Sci. Technol."
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "8311",
+        "DOI": "10.3390/s91008311",
+        "article-title": "Turbidimeter Design and Analysis: A Review on Optical Fiber Sensors for the Measurement of Water Turbidity",
+        "volume": "9",
+        "year": "2009",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "520",
+        "DOI": "10.1016/j.talanta.2014.09.045",
+        "article-title": "A low-cost autonomous optical sensor for water quality monitoring",
+        "volume": "132",
+        "author": "Murphy",
+        "year": "2015",
+        "journal-title": "Talanta"
+      },
+      {
+        "key": "ref_18",
+        "unstructured": "Amphenol (2014). TST-10 Turbidity Sensor Datasheet, Amphenol Thermometrics, Inc."
+      },
+      {
+        "key": "ref_19",
+        "unstructured": "Amphenol (2014). TSD-10 Turbidity Sensor Datasheet, Amphenol Thermometrics, Inc."
+      },
+      {
+        "key": "ref_20",
+        "unstructured": "Amphenol (2014). TSW-10 Turbidity Sensor Datasheet, Amphenol Thermometrics, Inc."
+      },
+      {
+        "key": "ref_21",
+        "unstructured": "Stoffregen, P. (2018, May 01). FreqCount Library. Available online: https://github.com/PaulStoffregen/FreqCount."
+      },
+      {
+        "key": "ref_22",
+        "unstructured": "Sadar, M. (2003). Turbidity Standards, Hach Company."
+      }
+    ],
+    "container-title": [
+      "Sensors"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/1424-8220/19/14/3039/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2025-10-11T13:04:16Z",
+      "timestamp": 1760187856000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/1424-8220/19/14/3039"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          10
+        ]
+      ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+      "issue": "14",
+      "published-online": {
+        "date-parts": [
+          [
+            2019,
+            7
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "s19143039"
+    ],
+    "URL": "https://doi.org/10.3390/s19143039",
+    "relation": {},
+    "ISSN": [
+      "1424-8220"
+    ],
+    "issn-type": [
+      {
+        "value": "1424-8220",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          7,
+          10
+        ]
+      ]
+    }
+  }
+}

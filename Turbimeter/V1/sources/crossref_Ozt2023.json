@@ -1,0 +1,730 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          1
+        ]
+      ],
+      "date-time": "2026-08-01T01:06:08Z",
+      "timestamp": 1785546368701,
+      "version": "3.56.0"
+    },
+    "reference-count": 46,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2023-03-01T00:00:00Z",
+          "timestamp": 1677628800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2023-03-01T00:00:00Z",
+          "timestamp": 1677628800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              9
+            ]
+          ],
+          "date-time": "2023-01-09T00:00:00Z",
+          "timestamp": 1673222400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003006",
+        "name": "ETH Zürich",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100003006",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "hardware-x.com",
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "HardwareX"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.ohx.2023.e00395",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          18
+        ]
+      ],
+      "date-time": "2023-01-18T12:10:03Z",
+      "timestamp": 1674043803000
+    },
+    "page": "e00395",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "special_numbering": "C",
+    "title": [
+      "Ötz-T: 3D-printed open-source turbidity sensor with Arduino shield for suspended sediment monitoring"
+    ],
+    "prefix": "10.1016",
+    "volume": "13",
+    "author": [
+      {
+        "given": "Jessica",
+        "family": "Droujko",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Felix",
+        "family": "Kunz Jr",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peter",
+        "family": "Molnar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0005",
+        "unstructured": "Arduino. Arduino ide. URL: https://www.arduino.cc/en/software. Accessed: 2022-08-25."
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0010",
+        "unstructured": "Arduino. Arduino mkr wan 1310. URL: https://store.arduino.cc/products/arduino-mkr-wan-1310. Accessed: 2022-10-06."
+      },
+      {
+        "issue": "19",
+        "key": "10.1016/j.ohx.2023.e00395_b0015",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1029/2008GL035028",
+        "article-title": "Impact of a shrinking arctic ice cover on marine primary production",
+        "volume": "35",
+        "author": "Arrigo",
+        "year": "2008",
+        "journal-title": "Geophys. Res. Lett."
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0020",
+        "unstructured": "The SD Association. Sd memory card formatter. URL: https://www.sdcard.org/downloads/formatter/. Accessed: 2022-08-25."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ohx.2023.e00395_b0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "223",
+        "DOI": "10.1002/2017WR021775",
+        "article-title": "Combined flow abstraction and climate change impacts on an aggrading alpine river",
+        "volume": "54",
+        "author": "Bakker",
+        "year": "2018",
+        "journal-title": "Water Resour. Res."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ohx.2023.e00395_b0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "619",
+        "DOI": "10.5194/esurf-8-619-2020",
+        "article-title": "Modelling impacts of spatially variable erosion drivers on suspended sediment dynamics",
+        "volume": "8",
+        "author": "Battista",
+        "year": "2020",
+        "journal-title": "Earth Surf. Dyn."
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0035",
+        "unstructured": "Regionen und Tourismus Bundesministerium für Landwirtschaft. Hydrographisches jahrbuch, 2021."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.ohx.2023.e00395_b0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "3421",
+        "DOI": "10.5194/hess-22-3421-2018",
+        "article-title": "Hydroclimatic control on suspended sediment dynamics of a regulated alpine catchment: a conceptual approach",
+        "volume": "22",
+        "author": "Costa",
+        "year": "2018",
+        "journal-title": "Hydrol. Earth Syst. Sci."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ohx.2023.e00395_b0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "509",
+        "DOI": "10.5194/hess-22-509-2018",
+        "article-title": "Temperature signal in suspended sediment export from an alpine catchment",
+        "volume": "22",
+        "author": "Costa",
+        "year": "2018",
+        "journal-title": "Hydrol. Earth Syst. Sci."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ohx.2023.e00395_b0050",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1086/668680",
+        "article-title": "Spatial and temporal variations in landscape evolution: Historic and longer-term sediment flux through global catchments",
+        "volume": "121",
+        "author": "Covault",
+        "year": "2013",
+        "journal-title": "J. Geol."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.ohx.2023.e00395_b0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "1393",
+        "DOI": "10.3390/rs10091393",
+        "article-title": "Can multispectral information improve remotely sensed estimates of total suspended solids? a statistical study in chesapeake bay",
+        "volume": "10",
+        "author": "DeLuca",
+        "year": "2018",
+        "journal-title": "Remote Sens."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ohx.2023.e00395_b0060",
+        "first-page": "1",
+        "article-title": "Open-source, low-cost, in-situ turbidity sensor for river network monitoring",
+        "volume": "12",
+        "author": "Droujko",
+        "year": "2022",
+        "journal-title": "Scientific Rep."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ohx.2023.e00395_b0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "46",
+        "DOI": "10.1002/lom3.10469",
+        "article-title": "Openobs: Open-source, low-cost optical backscatter sensors for water quality and sediment-transport research",
+        "volume": "20",
+        "author": "Eidam",
+        "year": "2022",
+        "journal-title": "Limnol. Oceanogr.: Methods"
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "94",
+        "DOI": "10.1016/j.rse.2018.10.038",
+        "article-title": "de Paiva Mapping spatial-temporal sediment dynamics of river-floodplains in the amazon",
+        "volume": "221",
+        "author": "Fassoni-Andrade",
+        "year": "2019",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ohx.2023.e00395_b0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/j.ijsrc.2017.11.003",
+        "article-title": "In-situ investigation on real-time suspended sediment measurement techniques: Turbidimetry, acoustic attenuation, laser diffraction (lisst) and vibrating tube densimetry",
+        "volume": "33",
+        "author": "Felix",
+        "year": "2018",
+        "journal-title": "Int. J. Sedim. Res."
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0080",
+        "first-page": "923909",
+        "article-title": "Temperature monitoring along the rhine river based on airborne thermal infrared remote sensing: qualitative results compared to satellite data and validation with in situ measurements",
+        "volume": "vol. 9239",
+        "author": "Fricke",
+        "year": "2014"
+      },
+      {
+        "issue": "14",
+        "key": "10.1016/j.ohx.2023.e00395_b0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "3039",
+        "DOI": "10.3390/s19143039",
+        "article-title": "A low-cost continuous turbidity monitor",
+        "volume": "19",
+        "author": "Gillett",
+        "year": "2019",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "3–4",
+        "key": "10.1016/j.ohx.2023.e00395_b0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "429",
+        "DOI": "10.1016/j.ecss.2005.10.002",
+        "article-title": "Using a digital camera for water quality measurements in galway bay",
+        "volume": "66",
+        "author": "Goddijn",
+        "year": "2006",
+        "journal-title": "Estuar. Coast. Shelf Sci."
+      },
+      {
+        "issue": "5268",
+        "key": "10.1016/j.ohx.2023.e00395_b0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "273",
+        "DOI": "10.1038/228273a0",
+        "article-title": "Denudation of the continents",
+        "volume": "228",
+        "author": "Gregor",
+        "year": "1970",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "11",
+        "DOI": "10.1016/j.earscirev.2013.01.001",
+        "article-title": "River loads and modern denudation of the alps–a review",
+        "volume": "118",
+        "author": "Hinderer",
+        "year": "2013",
+        "journal-title": "Earth Sci. Rev."
+      },
+      {
+        "issue": "1–2",
+        "key": "10.1016/j.ohx.2023.e00395_b0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "34",
+        "DOI": "10.1016/j.quaint.2009.08.018",
+        "article-title": "Temporal and spatial variations of sediment rating curves in the changjiang (yangtze river) basin and their implications",
+        "volume": "230",
+        "author": "Hu",
+        "year": "2011",
+        "journal-title": "Quatern. Int."
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.ohx.2023.e00395_b0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "6441",
+        "DOI": "10.1109/JSEN.2020.2977348",
+        "article-title": "A highly sensitive deep-sea in-situ turbidity sensor with spectrum optimization modulation-demodulation method",
+        "volume": "20",
+        "author": "Jiang",
+        "year": "2020",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ohx.2023.e00395_b0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "7142",
+        "DOI": "10.3390/s140407142",
+        "article-title": "An affordable open-source turbidimeter",
+        "volume": "14",
+        "author": "Kelley",
+        "year": "2014",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0120",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ohx.2019.e00052",
+        "article-title": "A low-cost bench-top research device for turbidity measurement by radially distributed illumination intensity sensing at multiple wavelengths",
+        "volume": "5",
+        "author": "Kitchener",
+        "year": "2019",
+        "journal-title": "HardwareX"
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.ohx.2023.e00395_b0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "2821",
+        "DOI": "10.5194/hess-15-2821-2011",
+        "article-title": "Sediment transport modelling in a distributed physically based hydrological catchment model",
+        "volume": "15",
+        "author": "Konz",
+        "year": "2011",
+        "journal-title": "Hydrol. Earth Syst. Sci."
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.ohx.2023.e00395_b0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "2765",
+        "DOI": "10.1109/JSEN.2014.2316414",
+        "article-title": "A low-cost sensor network for real-time monitoring and contamination detection in drinking water distribution systems",
+        "volume": "14",
+        "author": "Lambrou",
+        "year": "2014",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ohx.2023.e00395_b0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "256",
+        "DOI": "10.3390/s18010256",
+        "article-title": "The hydrocolor app: Above water measurements of remote sensing reflectance and turbidity using a smartphone camera",
+        "volume": "18",
+        "author": "Leeuw",
+        "year": "2018",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ohx.2023.e00395_b0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "23",
+        "DOI": "10.1029/95GB02925",
+        "article-title": "Predicting the oceanic input of organic carbon by continental erosion",
+        "volume": "10",
+        "author": "Ludwig",
+        "year": "1996",
+        "journal-title": "Global Biogeochem. Cycles"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ohx.2023.e00395_b0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1016/j.catena.2009.05.011",
+        "article-title": "Increase in suspended sediment discharge of the amazon river assessed by monitoring network and satellite data",
+        "volume": "79",
+        "author": "Martinez",
+        "year": "2009",
+        "journal-title": "Catena"
+      },
+      {
+        "issue": "1–2",
+        "key": "10.1016/j.ohx.2023.e00395_b0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "191",
+        "DOI": "10.1016/S0921-8181(03)00024-9",
+        "article-title": "Rivers, runoff, and reefs",
+        "volume": "39",
+        "author": "McLaughlin",
+        "year": "2003",
+        "journal-title": "Global Planet. Change"
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0155",
+        "unstructured": "MICHEL Meybeck. Origin and variable composition of present day riverborne material. Material Fluxes on the Surface of the Earth, pages 61–73, 1994."
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0160",
+        "unstructured": "Luke Miller. Arduino library for the ms5803_05ba pressure sensor from measurement specialties. URL: https://github.com/millerlp/MS5803_05. Accessed: 2022-08-25."
+      },
+      {
+        "issue": "1–2",
+        "key": "10.1016/j.ohx.2023.e00395_b0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "95",
+        "DOI": "10.1016/S0921-8181(03)00019-5",
+        "article-title": "Modeling the temporal variability in the flux of sediment from ungauged river basins",
+        "volume": "39",
+        "author": "Morehead",
+        "year": "2003",
+        "journal-title": "Global Planet. Change"
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0170",
+        "series-title": "An overview of coastal land loss: with emphasis on the Southeastern United States",
+        "author": "Morton",
+        "year": "2003"
+      },
+      {
+        "issue": "12",
+        "key": "10.1016/j.ohx.2023.e00395_b0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "697",
+        "DOI": "10.1002/lom3.10059",
+        "article-title": "Wacodi: A generic algorithm to derive the intrinsic color of natural waters from digital images",
+        "volume": "13",
+        "author": "Novoa",
+        "year": "2015",
+        "journal-title": "Limnol. Oceanogr.: Methods"
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.ohx.2023.e00395_b0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "351",
+        "DOI": "10.1006/ecss.2001.0796",
+        "article-title": "Structure and function of south-east australian estuaries",
+        "volume": "53",
+        "author": "Roy",
+        "year": "2001",
+        "journal-title": "Estuar. Coast. Shelf Sci."
+      },
+      {
+        "issue": "F3",
+        "key": "10.1016/j.ohx.2023.e00395_b0185",
+        "article-title": "Simulation of birdfoot delta formation with application to the mississippi delta",
+        "volume": "114",
+        "author": "Seybold",
+        "year": "2009",
+        "journal-title": "J. Geophys. Res.: Earth Surf."
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0190",
+        "unstructured": "Softpedia.com. H2testw. URL: https://www.softpedia.com/get/System/System-Miscellaneous/H2testw.shtml. Accessed: 2022-08-25."
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0195",
+        "unstructured": "Hydrographische Dienst Tirol. Hydro online. URL: https://wiski.tirol.gv.at/hydro/#/Wasserstand?station=201434. Accessed: 2022-10-06."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.ohx.2023.e00395_b0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "1993",
+        "DOI": "10.3390/s20071993",
+        "article-title": "Towards the development of an affordable and practical light attenuation turbidity sensor for remote near real-time aquatic monitoring",
+        "volume": "20",
+        "author": "Trevathan",
+        "year": "2020",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.ohx.2023.e00395_b0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.5194/esurf-9-123-2021",
+        "article-title": "How do modeling choices and erosion zone locations impact the representation of connectivity and the dynamics of suspended sediments in a multi-source soil erosion model?",
+        "volume": "9",
+        "author": "Uber",
+        "year": "2021",
+        "journal-title": "Earth Surf. Dyn."
+      },
+      {
+        "key": "10.1016/j.ohx.2023.e00395_b0210",
+        "article-title": "Remote sensing inversion of total suspended matter concentration in oujiang river based on landsat-8/oli",
+        "volume": "vol. 10850",
+        "author": "Wang",
+        "year": "2018"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.ohx.2023.e00395_b0215",
+        "first-page": "88",
+        "article-title": "Estimation of river pollution index using landsat imagery over tamsui river, taiwan",
+        "volume": "5",
+        "author": "Wang",
+        "year": "2018",
+        "journal-title": "Ecol. Resilient Infrastruct."
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.ohx.2023.e00395_b0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "4689",
+        "DOI": "10.1109/JSEN.2018.2826778",
+        "article-title": "Low-cost turbidity sensor for low-power wireless monitoring of fresh-water courses",
+        "volume": "18",
+        "author": "Youchao Wang",
+        "year": "2018",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.ohx.2023.e00395_b0225",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1029/2006WR005012",
+        "article-title": "Sediment budget of the yangtze river",
+        "volume": "43",
+        "author": "Wang",
+        "year": "2007",
+        "journal-title": "Water Resour. Res."
+      },
+      {
+        "issue": "9",
+        "key": "10.1016/j.ohx.2023.e00395_b0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "1069",
+        "DOI": "10.2475/ajs.290.9.1069",
+        "article-title": "Estimating ancient sediment fluxes",
+        "volume": "290",
+        "author": "Wold",
+        "year": "1990",
+        "journal-title": "Am. J. Sci."
+      }
+    ],
+    "container-title": [
+      "HardwareX"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2468067223000020?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2468067223000020?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2025-11-11T04:39:12Z",
+      "timestamp": 1762835952000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2468067223000020"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "references-count": 46,
+    "alternative-id": [
+      "S2468067223000020"
+    ],
+    "URL": "https://doi.org/10.1016/j.ohx.2023.e00395",
+    "relation": {},
+    "ISSN": [
+      "2468-0672"
+    ],
+    "issn-type": [
+      {
+        "value": "2468-0672",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Ötz-T: 3D-printed open-source turbidity sensor with Arduino shield for suspended sediment monitoring",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "HardwareX",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.ohx.2023.e00395",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2023 The Author(s). Published by Elsevier Ltd.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "e00395"
+  }
+}

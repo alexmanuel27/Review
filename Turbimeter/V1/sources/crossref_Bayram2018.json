@@ -1,0 +1,476 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          7
+        ]
+      ],
+      "date-time": "2026-10-07T18:53:32Z",
+      "timestamp": 1791399212987,
+      "version": "4.3.3"
+    },
+    "reference-count": 14,
+    "publisher": "Optica Publishing Group",
+    "issue": "21",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              11
+            ]
+          ],
+          "date-time": "2018-07-11T00:00:00Z",
+          "timestamp": 1531267200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://doi.org/10.1364/OA_License_v1#VOR"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              7,
+              11
+            ]
+          ],
+          "date-time": "2018-07-11T00:00:00Z",
+          "timestamp": 1531267200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://opg.optica.org/policies/opg-tdm-policy.json"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "www.osapublishing.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Appl. Opt."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          20
+        ]
+      ]
+    },
+    "DOI": "10.1364/ao.57.005935",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          10
+        ]
+      ],
+      "date-time": "2018-07-10T14:55:35Z",
+      "timestamp": 1531234535000
+    },
+    "page": "5935",
+    "update-policy": "https://doi.org/10.1364/osa_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+      "Development and application of a low-cost smartphone-based turbidimeter using scattered light"
+    ],
+    "prefix": "10.1364",
+    "volume": "57",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6077-517X",
+        "authenticated-orcid": true,
+        "given": "Abdullah",
+        "family": "Bayram",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eyyup",
+        "family": "Yalcin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Serafettin",
+        "family": "Demic",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Orhan",
+        "family": "Gunduz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6916-8835",
+        "authenticated-orcid": true,
+        "given": "Mehmet Ertugrul",
+        "family": "Solmaz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "285",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ao-57-21-5935-R5",
+        "doi-asserted-by": "crossref",
+        "first-page": "767",
+        "DOI": "10.1021/acs.analchem.6b03424",
+        "volume": "89",
+        "author": "Hussain",
+        "year": "2017",
+        "journal-title": "Anal. Chem."
+      },
+      {
+        "key": "ao-57-21-5935-R6",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1016/j.scitotenv.2016.01.156",
+        "volume": "551",
+        "author": "Levin",
+        "year": "2016",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "ao-57-21-5935-R7",
+        "doi-asserted-by": "crossref",
+        "first-page": "592",
+        "DOI": "10.1016/j.snb.2013.03.080",
+        "volume": "182",
+        "author": "Sumriddetchkajorn",
+        "year": "2013",
+        "journal-title": "Sens. Actuators B"
+      },
+      {
+        "key": "ao-57-21-5935-R8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1042",
+        "DOI": "10.1016/j.snb.2016.08.102",
+        "volume": "239",
+        "author": "Hussain",
+        "year": "2017",
+        "journal-title": "Sens. Actuators B"
+      },
+      {
+        "key": "ao-57-21-5935-R9",
+        "doi-asserted-by": "crossref",
+        "first-page": "057151",
+        "DOI": "10.1063/1.4921835",
+        "volume": "5",
+        "author": "Dutta",
+        "year": "2015",
+        "journal-title": "AIP Adv."
+      },
+      {
+        "key": "ao-57-21-5935-R10",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1007/s13320-015-0256-x",
+        "volume": "5",
+        "author": "Hossain",
+        "year": "2015",
+        "journal-title": "Photon. Sens."
+      },
+      {
+        "key": "ao-57-21-5935-R11",
+        "doi-asserted-by": "crossref",
+        "first-page": "1284",
+        "DOI": "10.1039/C4LC01358A",
+        "volume": "15",
+        "author": "Koydemir",
+        "year": "2015",
+        "journal-title": "Lab Chip"
+      },
+      {
+        "key": "ao-57-21-5935-R12",
+        "doi-asserted-by": "crossref",
+        "first-page": "1902",
+        "DOI": "10.1109/JSEN.2014.2367039",
+        "volume": "15",
+        "author": "San Park",
+        "year": "2015",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "key": "ao-57-21-5935-R13",
+        "doi-asserted-by": "crossref",
+        "first-page": "6236",
+        "DOI": "10.1039/C4AY01245C",
+        "volume": "6",
+        "author": "Gunda",
+        "year": "2014",
+        "journal-title": "Anal. Methods"
+      },
+      {
+        "key": "ao-57-21-5935-R14",
+        "doi-asserted-by": "crossref",
+        "first-page": "22374",
+        "DOI": "10.1039/C6RA02483A",
+        "volume": "6",
+        "author": "Hussain",
+        "year": "2016",
+        "journal-title": "RSC Adv."
+      },
+      {
+        "key": "ao-57-21-5935-R15",
+        "doi-asserted-by": "crossref",
+        "first-page": "312",
+        "DOI": "10.1364/JOSAA.31.000312",
+        "volume": "31",
+        "author": "Akkaynak",
+        "year": "2014",
+        "journal-title": "J. Opt. Soc. Am. A"
+      },
+      {
+        "key": "ao-57-21-5935-R16",
+        "doi-asserted-by": "crossref",
+        "first-page": "579",
+        "DOI": "10.1039/C6AY03073D",
+        "volume": "9",
+        "author": "Özdemir",
+        "year": "2017",
+        "journal-title": "Anal. Methods"
+      },
+      {
+        "key": "ao-57-21-5935-R18",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.1021/acs.jchemed.5b00654",
+        "volume": "93",
+        "author": "Grasse",
+        "year": "2015",
+        "journal-title": "J. Chem. Educ."
+      },
+      {
+        "key": "ao-57-21-5935-R19",
+        "doi-asserted-by": "crossref",
+        "first-page": "9183",
+        "DOI": "10.1364/AO.54.009183",
+        "volume": "54",
+        "author": "Jung",
+        "year": "2015",
+        "journal-title": "Appl. Opt."
+      }
+    ],
+    "container-title": [
+      "Applied Optics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.osapublishing.org/viewmedia.cfm?URI=ao-57-21-5935&seq=0",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          8,
+          2
+        ]
+      ],
+      "date-time": "2024-08-02T20:13:50Z",
+      "timestamp": 1722629630000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://opg.optica.org/abstract.cfm?URI=ao-57-21-5935"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          11
+        ]
+      ]
+    },
+    "references-count": 14,
+    "journal-issue": {
+      "issue": "21",
+      "published-online": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2018
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1364/ao.57.005935",
+    "relation": {},
+    "ISSN": [
+      "1559-128X",
+      "2155-3165"
+    ],
+    "issn-type": [
+      {
+        "value": "1559-128X",
+        "type": "print"
+      },
+      {
+        "value": "2155-3165",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "OSA - The Optical Society",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "https://doi.org/10.1364/AO.57.005935",
+        "name": "articlelink",
+        "label": "Crossref DOI link to publisher maintained version"
+      },
+      {
+        "value": "research-article",
+        "name": "content_type",
+        "label": "Article type"
+      },
+      {
+        "value": "Screened by Similarity Check",
+        "name": "cross_check",
+        "label": "Similarity check"
+      },
+      {
+        "value": "Yes",
+        "order": 0,
+        "name": "peer_reviewed",
+        "label": "Peer reviewed",
+        "group": {
+          "name": "peer_review",
+          "label": "Peer review"
+        }
+      },
+      {
+        "value": "Single blind",
+        "order": 1,
+        "name": "review_process",
+        "label": "Review process",
+        "group": {
+          "name": "peer_review",
+          "label": "Peer review"
+        }
+      },
+      {
+        "value": "22 February 2018",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "10 June 2018",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "11 July 2018",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "© 2018 Optical Society of America",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

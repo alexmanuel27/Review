@@ -1,0 +1,459 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2026-09-22T10:36:48Z",
+      "timestamp": 1790073408102,
+      "version": "4.0.1"
+    },
+    "reference-count": 27,
+    "publisher": "MDPI AG",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              1,
+              16
+            ]
+          ],
+          "date-time": "2018-01-16T00:00:00Z",
+          "timestamp": 1516060800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Sensors"
+    ],
+    "abstract": "<jats:p>HydroColor is a mobile application that utilizes a smartphone’s camera and auxiliary sensors to measure the remote sensing reflectance of natural water bodies. HydroColor uses the smartphone’s digital camera as a three-band radiometer. Users are directed by the application to collect a series of three images. These images are used to calculate the remote sensing reflectance in the red, green, and blue broad wavelength bands. As with satellite measurements, the reflectance can be inverted to estimate the concentration of absorbing and scattering substances in the water, which are predominately composed of suspended sediment, chlorophyll, and dissolved organic matter. This publication describes the measurement method and investigates the precision of HydroColor’s reflectance and turbidity estimates compared to commercial instruments. It is shown that HydroColor can measure the remote sensing reflectance to within 26% of a precision radiometer and turbidity within 24% of a portable turbidimeter. HydroColor distinguishes itself from other water quality camera methods in that its operation is based on radiometric measurements instead of image color. HydroColor is one of the few mobile applications to use a smartphone as a completely objective sensor, as opposed to subjective user observations or color matching using the human eye. This makes HydroColor a powerful tool for crowdsourcing of aquatic optical data.</jats:p>",
+    "DOI": "10.3390/s18010256",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          17
+        ]
+      ],
+      "date-time": "2018-01-17T04:23:44Z",
+      "timestamp": 1516163024000
+    },
+    "page": "256",
+    "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 112,
+    "title": [
+      "The HydroColor App: Above Water Measurements of Remote Sensing Reflectance and Turbidity Using a Smartphone Camera"
+    ],
+    "prefix": "10.3390",
+    "volume": "18",
+    "author": [
+      {
+        "given": "Thomas",
+        "family": "Leeuw",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Sequoia Scientific, Inc., 2700 Richards Road, Suite 107, Bellevue, WA 98005, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Emmanuel",
+        "family": "Boss",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Marine Sciences, University of Maine, 458 Aubert Hall, Orono, ME 04469, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "1968",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          16
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "ref_1",
+        "doi-asserted-by": "crossref",
+        "first-page": "7351",
+        "DOI": "10.1002/2014GL061462",
+        "article-title": "Mapping atmospheric aerosols with a citizen science networks of smartphone spectropolarimeters",
+        "volume": "41",
+        "author": "Snik",
+        "year": "2014",
+        "journal-title": "Geophys. Res. Lett."
+      },
+      {
+        "key": "ref_2",
+        "doi-asserted-by": "crossref",
+        "first-page": "4081",
+        "DOI": "10.1002/grl.50786",
+        "article-title": "Crowdsourcing urban air temperatures from smartphone battery temperatures",
+        "volume": "40",
+        "author": "Overeem",
+        "year": "2013",
+        "journal-title": "Geophys. Res. Lett."
+      },
+      {
+        "key": "ref_3",
+        "doi-asserted-by": "crossref",
+        "first-page": "e1501055",
+        "DOI": "10.1126/sciadv.1501055",
+        "article-title": "MyShake: A smartphone seismic network for earthquake early warning and beyond",
+        "volume": "2",
+        "author": "Kong",
+        "year": "2016",
+        "journal-title": "Sci. Adv."
+      },
+      {
+        "key": "ref_4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1335",
+        "DOI": "10.1175/BAMS-D-13-00014.1",
+        "article-title": "MPING: Crowd-sourcing weather reports for research",
+        "volume": "95",
+        "author": "Elmore",
+        "year": "2014",
+        "journal-title": "Bull. Am. Meteorol. Soc."
+      },
+      {
+        "key": "ref_5",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1002/2013EO470001",
+        "article-title": "Smartphones: Powerful tools for geoscience education",
+        "volume": "94",
+        "author": "Johnson",
+        "year": "2013",
+        "journal-title": "EOS"
+      },
+      {
+        "key": "ref_6",
+        "doi-asserted-by": "crossref",
+        "first-page": "5825",
+        "DOI": "10.3390/s90705825",
+        "article-title": "Fundamentals of in situ digital camera methodology for water quality monitoring of coast and ocean",
+        "volume": "9",
+        "author": "Dailloux",
+        "year": "2009",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "ref_7",
+        "doi-asserted-by": "crossref",
+        "first-page": "429",
+        "DOI": "10.1016/j.ecss.2005.10.002",
+        "article-title": "Using a digital camera for water quality measurements in Galway Bay",
+        "volume": "66",
+        "author": "Goddijn",
+        "year": "2006",
+        "journal-title": "Estuar. Costal Shelf Sci."
+      },
+      {
+        "key": "ref_8",
+        "doi-asserted-by": "crossref",
+        "first-page": "123",
+        "DOI": "10.1016/j.pocean.2013.12.008",
+        "article-title": "A review of ocean color remote sensing methods and statistical techniques for the detection, mapping and analysis of phytoplankton blooms in coastal and open oceans",
+        "volume": "123",
+        "author": "Gower",
+        "year": "2014",
+        "journal-title": "Prog. Oceanogr."
+      },
+      {
+        "key": "ref_9",
+        "doi-asserted-by": "crossref",
+        "first-page": "2259",
+        "DOI": "10.1080/01431160050029558",
+        "article-title": "The impact of bottom brightness on spectral reflectance of suspended sediments",
+        "volume": "21",
+        "author": "Tolk",
+        "year": "2000",
+        "journal-title": "Int. J. Remote Sens."
+      },
+      {
+        "key": "ref_10",
+        "doi-asserted-by": "crossref",
+        "first-page": "286",
+        "DOI": "10.4319/lo.1985.30.2.0286",
+        "article-title": "A remote sensing reflectance model of a red-tide dinoflagellate off west Florida",
+        "volume": "30",
+        "author": "Carder",
+        "year": "1985",
+        "journal-title": "Limnol. Oceanogr."
+      },
+      {
+        "key": "ref_11",
+        "unstructured": "Soffer, R.J., Harron, J.W., and Miller, J.R. (1995, January 13–15). Characterization of Kodak grey cards as reflectance reference panels in support of BOREAS field activities. Proceedings of the 17th Canadian Symposium on Remote Sensing, Saskatoon, SK, Canada."
+      },
+      {
+        "key": "ref_12",
+        "doi-asserted-by": "crossref",
+        "first-page": "7442",
+        "DOI": "10.1364/AO.38.007442",
+        "article-title": "Estimation of the remote-sensing reflectance from above surface measurements",
+        "volume": "38",
+        "author": "Mobley",
+        "year": "1999",
+        "journal-title": "Appl. Opt."
+      },
+      {
+        "key": "ref_13",
+        "doi-asserted-by": "crossref",
+        "first-page": "4828",
+        "DOI": "10.1364/AO.54.004828",
+        "article-title": "Polarized reflectance and transmittance properties of wind-blow sea surfaces",
+        "volume": "54",
+        "author": "Mobley",
+        "year": "2015",
+        "journal-title": "Appl. Opt."
+      },
+      {
+        "key": "ref_14",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Reda, I., and Andreas, A. (2008). Solar Position Algorithm for Solar Radiation Applications.",
+        "DOI": "10.2172/15003974"
+      },
+      {
+        "key": "ref_15",
+        "doi-asserted-by": "crossref",
+        "first-page": "854",
+        "DOI": "10.1016/j.rse.2009.11.022",
+        "article-title": "Calibration and validation of a generic multi sensor algorithm for mapping of total suspended matter in turbid waters",
+        "volume": "114",
+        "author": "Nechad",
+        "year": "2010",
+        "journal-title": "Remote Sens. Environ."
+      },
+      {
+        "key": "ref_16",
+        "doi-asserted-by": "crossref",
+        "first-page": "2623",
+        "DOI": "10.1364/AO.42.002623",
+        "article-title": "Remote-sensing reflectance of turbid sediment-dominated waters. Reduction of sediment type variations and changing illumination conditions effects by use of reflectance ratios",
+        "volume": "42",
+        "author": "Doxaran",
+        "year": "2003",
+        "journal-title": "Appl. Opt."
+      },
+      {
+        "key": "ref_17",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1109/TED.2002.806473",
+        "article-title": "Crosstalk and microlens study in a color CMOSE image sensor",
+        "volume": "50",
+        "author": "Agranov",
+        "year": "2003",
+        "journal-title": "IEEE Trans. Electron Devices"
+      },
+      {
+        "key": "ref_18",
+        "doi-asserted-by": "crossref",
+        "first-page": "803",
+        "DOI": "10.4319/lom.2009.7.803",
+        "article-title": "Comparison of inherent optical properties as a surrogate for particulate matter concentration in coastal waters",
+        "volume": "7",
+        "author": "Boss",
+        "year": "2009",
+        "journal-title": "Limnol. Oceanogr. Methods"
+      },
+      {
+        "key": "ref_19",
+        "doi-asserted-by": "crossref",
+        "first-page": "10909",
+        "DOI": "10.1029/JD093iD09p10909",
+        "article-title": "A Semianalytic radiance model of ocean color",
+        "volume": "93",
+        "author": "Gordon",
+        "year": "1988",
+        "journal-title": "J. Geophys. Res."
+      },
+      {
+        "key": "ref_20",
+        "doi-asserted-by": "crossref",
+        "first-page": "124",
+        "DOI": "10.4319/lo.2012.57.1.0124",
+        "article-title": "In situ variability of mass-specific beam attenuation and the backscattering of marine particles with respect to particle size, density, and composition",
+        "volume": "57",
+        "author": "Neukermans",
+        "year": "2012",
+        "journal-title": "Limnol. Oceanogr."
+      },
+      {
+        "key": "ref_21",
+        "first-page": "C09024",
+        "article-title": "Spectral dependency of optical backscattering by marine particles from satellite remote sensing of the global ocean",
+        "volume": "111",
+        "author": "Loisel",
+        "year": "2006",
+        "journal-title": "J. Geophys. Res."
+      },
+      {
+        "key": "ref_22",
+        "doi-asserted-by": "crossref",
+        "first-page": "756",
+        "DOI": "10.4319/lo.2004.49.3.0756",
+        "article-title": "Variations in the mass-specific absorption coefficient of mineral particles suspended in water",
+        "volume": "49",
+        "author": "Babin",
+        "year": "2004",
+        "journal-title": "Limnol. Oceanogr."
+      },
+      {
+        "key": "ref_23",
+        "doi-asserted-by": "crossref",
+        "first-page": "1743",
+        "DOI": "10.4319/lo.2012.57.6.1743",
+        "article-title": "Rate and apparent quantum yield of photodissolution of sedimentary organic matter",
+        "volume": "57",
+        "author": "Estapa",
+        "year": "2012",
+        "journal-title": "Limnol. Oceanogr."
+      },
+      {
+        "key": "ref_24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Secchi Disk Seafarers, Lavender, S., Beaugrand, G., Outram, N., Barlow, N., Crotty, D., Evans, J., and Kirby, R. (2017). Seafarer citizen scientist ocean transparency data as a resource for phytoplankton and climate research. PLoS ONE, 12.",
+        "DOI": "10.1371/journal.pone.0186092"
+      },
+      {
+        "key": "ref_25",
+        "doi-asserted-by": "crossref",
+        "first-page": "697",
+        "DOI": "10.1002/lom3.10059",
+        "article-title": "WACODI: A generic algorithm to derive the intrinsic color of natural waters from digital images",
+        "volume": "13",
+        "author": "Novoa",
+        "year": "2015",
+        "journal-title": "Limnol. Oceanogr. Methods"
+      },
+      {
+        "key": "ref_26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Busch, J.A., Bardaji, R., Ceccaroni, L., Friedrichs, A., Piera, J., Simon, C., Thijsse, P., Wernand, M., van der Woerd, H.J., and Zielinski, O. (2016). Citizen bio-optical observations from coast and ocean and their compatibility with ocean colour satellite measurements. Remote Sens., 8.",
+        "DOI": "10.3390/rs8110879"
+      },
+      {
+        "key": "ref_27",
+        "unstructured": "(2017, October 31). Surface Reflectance Factors. Available online: http://www.oceanopticsbook.info/view/remote_sensing/level_3/surface_reflectance_factors."
+      }
+    ],
+    "container-title": [
+      "Sensors"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/1424-8220/18/1/256/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          11
+        ]
+      ],
+      "date-time": "2025-10-11T14:51:29Z",
+      "timestamp": 1760194289000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.mdpi.com/1424-8220/18/1/256"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          16
+        ]
+      ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "s18010256"
+    ],
+    "URL": "https://doi.org/10.3390/s18010256",
+    "relation": {},
+    "ISSN": [
+      "1424-8220"
+    ],
+    "issn-type": [
+      {
+        "value": "1424-8220",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          16
+        ]
+      ]
+    }
+  }
+}

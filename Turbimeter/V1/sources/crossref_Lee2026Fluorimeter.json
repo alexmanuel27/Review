@@ -1,0 +1,760 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2026-07-17T20:06:03Z",
+      "timestamp": 1784318763003,
+      "version": "3.55.0"
+    },
+    "reference-count": 68,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "issue": "14",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              15
+            ]
+          ],
+          "date-time": "2026-07-15T00:00:00Z",
+          "timestamp": 1784073600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "funder": [
+      {
+        "name": "National Institute of Health",
+        "award": [
+          "U01AA029348"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "U01AA029348"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "U"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IEEE Sensors J."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          15
+        ]
+      ]
+    },
+    "DOI": "10.1109/jsen.2026.3693175",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          21
+        ]
+      ],
+      "date-time": "2026-05-21T19:44:31Z",
+      "timestamp": 1779392671000
+    },
+    "page": "20538-20555",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "A Dual-Port, Smartphone-Linked, Pocket-Size Fluorimeter for Rapid Molecular Diagnostic Assays at Point of Care"
+    ],
+    "prefix": "10.1109",
+    "volume": "26",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9332-3989",
+        "authenticated-orcid": false,
+        "given": "Han Keun",
+        "family": "Lee",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0961-117X",
+        "authenticated-orcid": false,
+        "given": "Jongwon",
+        "family": "Lim",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5684-7126",
+        "authenticated-orcid": false,
+        "given": "Skye",
+        "family": "Shepherd",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "My Thi Tra",
+        "family": "Nguyen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lucas",
+        "family": "Akin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0008-7587-9490",
+        "authenticated-orcid": false,
+        "given": "Amanda",
+        "family": "Bacon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yasmine",
+        "family": "Sidavi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Molecular and Cellular Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Max",
+        "family": "Shurgalin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "GENER8 LLC, Wilmington, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alban",
+        "family": "Cobi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Charles Stark Draper Laboratory, Cambridge, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-9956-4210",
+        "authenticated-orcid": false,
+        "given": "Andriy",
+        "family": "Nikolayenko",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "GENER8 LLC, Wilmington, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vladimir",
+        "family": "Fuflyigin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "GENER8 LLC, Wilmington, MA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7225-9180",
+        "authenticated-orcid": false,
+        "given": "Rashid",
+        "family": "Bashir",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9930-3287",
+        "authenticated-orcid": false,
+        "given": "Xing",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9681-2104",
+        "authenticated-orcid": false,
+        "given": "Brian T.",
+        "family": "Cunningham",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.yapd.2017.03.009"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/nu14214465"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cll.2007.07.003"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/bios10100133"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/b978-0-323-85147-3.00006-2"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00216-008-2287-2"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.trac.2017.10.015"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41551-021-00760-7"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/anie.202217932"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/D2AN00438K"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/D2LC00021K"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acssensors.4c00992"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0104667"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkad1132"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/clinchem/hvaf043"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkp045"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cbpa.2015.10.001"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3389/fbioe.2023.1143157"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bdq.2017.10.001"
+      },
+      {
+        "key": "ref20",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.2420166122"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bios.2020.112734"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.snb.2023.135194"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acs.analchem.3c03131"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/D1CS00098E"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1093/nar/gkaa017"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00216-018-1552-2"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/c2lc40100b"
+      },
+      {
+        "key": "ref28",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41588-025-02428-3"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1073/pnas.2014739117"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.cell.2020.12.001"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/aic.17365"
+      },
+      {
+        "key": "ref32",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bios.2025.117428"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1149/1945-7111/abd494"
+      },
+      {
+        "key": "ref34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acsnano.4c05734"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acssensors.4c01248"
+      },
+      {
+        "key": "ref36",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/sciadv.abh2944"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acsomega.0c04929"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.bios.2021.113390"
+      },
+      {
+        "key": "ref39",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-022-06632-7"
+      },
+      {
+        "key": "ref40",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/spectrum.00672-24"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/srep44778"
+      },
+      {
+        "key": "ref42",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10544-017-0209-9"
+      },
+      {
+        "key": "ref43",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-024-47518-8"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/D4LC00326H"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/bios13090876"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1364/BOE.10.000399"
+      },
+      {
+        "key": "ref47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.snb.2024.135295"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41467-024-50588-3"
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0220091"
+      },
+      {
+        "key": "ref50",
+        "volume-title": "Zika Virus",
+        "year": "2025"
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jiph.2024.102557"
+      },
+      {
+        "key": "ref52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jiph.2016.08.007"
+      },
+      {
+        "key": "ref53",
+        "volume-title": "HIV Data and Statistics",
+        "year": "2025"
+      },
+      {
+        "key": "ref54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/jcm.00620-24"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1200/jco.2010.32.6181"
+      },
+      {
+        "key": "ref56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00432-020-03296-6"
+      },
+      {
+        "key": "ref57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.21037/tlcr-21-356"
+      },
+      {
+        "key": "ref58",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/sciadv.abd5393"
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1097/00007435-199904000-00010"
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pmed.1001306"
+      },
+      {
+        "issue": "1",
+        "key": "ref61",
+        "first-page": "5",
+        "article-title": "On approach for prognosis of interaction of human immune system with infectious diseases with account changes in its conditions",
+        "volume": "9",
+        "author": "Pankratov",
+        "year": "2025",
+        "journal-title": "Int. J. Adv. Biomed."
+      },
+      {
+        "key": "ref62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1056/NEJMoa1714977"
+      },
+      {
+        "key": "ref63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-017-10072-z"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41596-020-0392-7"
+      },
+      {
+        "key": "ref65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1128/aem.00902-23"
+      },
+      {
+        "key": "ref66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1371/journal.pone.0235216"
+      },
+      {
+        "key": "ref67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/bbrc.2001.5921"
+      },
+      {
+        "key": "ref68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1039/D5LC00089K"
+      }
+    ],
+    "container-title": [
+      "IEEE Sensors Journal"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx8/7361/11612855/11533642.pdf?arnumber=11533642",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          17
+        ]
+      ],
+      "date-time": "2026-07-17T19:47:21Z",
+      "timestamp": 1784317641000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/11533642/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          15
+        ]
+      ]
+    },
+    "references-count": 68,
+    "journal-issue": {
+      "issue": "14"
+    },
+    "URL": "https://doi.org/10.1109/jsen.2026.3693175",
+    "relation": {},
+    "ISSN": [
+      "1530-437X",
+      "1558-1748",
+      "2379-9153"
+    ],
+    "issn-type": [
+      {
+        "value": "1530-437X",
+        "type": "print"
+      },
+      {
+        "value": "1558-1748",
+        "type": "electronic"
+      },
+      {
+        "value": "2379-9153",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          15
+        ]
+      ]
+    }
+  }
+}

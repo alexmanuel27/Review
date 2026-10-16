@@ -1,0 +1,2119 @@
+{
+  "sha": "e13c7b7b32205ea4632af3f718645d5a521985f9",
+  "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/e13c7b7b32205ea4632af3f718645d5a521985f9",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80c71eb9076266fcfad37f1513f31b31b5e87ade",
+      "size": 442,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/80c71eb9076266fcfad37f1513f31b31b5e87ade"
+    },
+    {
+      "path": "3D",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6adc89f036a0331c4f9034f0c97f31a6f697e09",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/c6adc89f036a0331c4f9034f0c97f31a6f697e09"
+    },
+    {
+      "path": "3D/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8110b900d28aac35f477fd609d7c5764ebd24786",
+      "size": 2063,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8110b900d28aac35f477fd609d7c5764ebd24786"
+    },
+    {
+      "path": "3D/cuerpo.stl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc275beb1cbcc561155571e24d3d77f84e4f3dd0",
+      "size": 474984,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/fc275beb1cbcc561155571e24d3d77f84e4f3dd0"
+    },
+    {
+      "path": "3D/enclosure-preview.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1411861f9b7e37ee2e59cf75a65072aed18ec864",
+      "size": 132073,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/1411861f9b7e37ee2e59cf75a65072aed18ec864"
+    },
+    {
+      "path": "3D/tapa.stl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b98c41c3f239a899393e22c03d574222fa835136",
+      "size": 352884,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/b98c41c3f239a899393e22c03d574222fa835136"
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a0496b907b058b03d39c9b25c500e05436db106",
+      "size": 235,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/6a0496b907b058b03d39c9b25c500e05436db106"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5c5b51da92eb702feeaaf4f9feb747b74b956f0",
+      "size": 8452,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/a5c5b51da92eb702feeaaf4f9feb747b74b956f0"
+    },
+    {
+      "path": "analysis",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d564d0bc3dd917926892c55e3706cc116d5b165e",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/d564d0bc3dd917926892c55e3706cc116d5b165e"
+    },
+    {
+      "path": "analysis/.gitkeep",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "android-app",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eedb97d98024fb99a07b665d4375c127f20d9dff",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/eedb97d98024fb99a07b665d4375c127f20d9dff"
+    },
+    {
+      "path": "android-app/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b912bdcf4271ccfaa4e60640fbf578261a826b6e",
+      "size": 3340,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/b912bdcf4271ccfaa4e60640fbf578261a826b6e"
+    },
+    {
+      "path": "android-app/app",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a100131aa88881459360da34b7a560668e25b046",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/a100131aa88881459360da34b7a560668e25b046"
+    },
+    {
+      "path": "android-app/app/build.gradle",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5772e6f6a16d215e4f60f482c779544fa9cd8e35",
+      "size": 412,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/5772e6f6a16d215e4f60f482c779544fa9cd8e35"
+    },
+    {
+      "path": "android-app/app/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9c534261de18b087f125d19e29ca827ef9d3baf7",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/9c534261de18b087f125d19e29ca827ef9d3baf7"
+    },
+    {
+      "path": "android-app/app/src/main",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e015ef89ce4ced9203ce73351d54f597b8303550",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/e015ef89ce4ced9203ce73351d54f597b8303550"
+    },
+    {
+      "path": "android-app/app/src/main/AndroidManifest.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34d96951782d941db821ea490696d5ec1dbb6af7",
+      "size": 829,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/34d96951782d941db821ea490696d5ec1dbb6af7"
+    },
+    {
+      "path": "android-app/app/src/main/java",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f85d794499df4d6e867f3a31693b6779473fac25",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/f85d794499df4d6e867f3a31693b6779473fac25"
+    },
+    {
+      "path": "android-app/app/src/main/java/org",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "867eee4a40e6e44ba8dd8867f74710b0e0c234e2",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/867eee4a40e6e44ba8dd8867f74710b0e0c234e2"
+    },
+    {
+      "path": "android-app/app/src/main/java/org/citizenscience",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1afd005a60829caeea94547a69c5f757048eb38f",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/1afd005a60829caeea94547a69c5f757048eb38f"
+    },
+    {
+      "path": "android-app/app/src/main/java/org/citizenscience/turbimeter",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "923ccdf9ad7bcf4ea1fc0bcdc42997b1cb68ef99",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/923ccdf9ad7bcf4ea1fc0bcdc42997b1cb68ef99"
+    },
+    {
+      "path": "android-app/app/src/main/java/org/citizenscience/turbimeter/LineFramer.java",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4ca02538e78f25bd9501d83cc478c9ca2cabb10",
+      "size": 823,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/e4ca02538e78f25bd9501d83cc478c9ca2cabb10"
+    },
+    {
+      "path": "android-app/app/src/main/java/org/citizenscience/turbimeter/MainActivity.java",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44fe58a72f0b7d3b0c54528f108061d46633e18c",
+      "size": 25708,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/44fe58a72f0b7d3b0c54528f108061d46633e18c"
+    },
+    {
+      "path": "android-app/app/src/main/java/org/citizenscience/turbimeter/MeasurementFrame.java",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8b4ef9fb8f171728008269716bf74f77f75bf01",
+      "size": 2984,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/f8b4ef9fb8f171728008269716bf74f77f75bf01"
+    },
+    {
+      "path": "android-app/app/src/main/java/org/citizenscience/turbimeter/UsbCdcReader.java",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e2e1fd5c4719f1f4442faa7603ef782eceb537d",
+      "size": 5335,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/0e2e1fd5c4719f1f4442faa7603ef782eceb537d"
+    },
+    {
+      "path": "android-app/app/src/main/res",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0b602264dfc3e2dd7413beb10449fc50c7278825",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/0b602264dfc3e2dd7413beb10449fc50c7278825"
+    },
+    {
+      "path": "android-app/app/src/main/res/drawable-nodpi",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5046f4037510dafb1fd7e8e1c5b99bd49b079566",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/5046f4037510dafb1fd7e8e1c5b99bd49b079566"
+    },
+    {
+      "path": "android-app/app/src/main/res/drawable-nodpi/ares_logo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e625cf61ba1430f29a108c005550cdd23cbe00b",
+      "size": 295705,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8e625cf61ba1430f29a108c005550cdd23cbe00b"
+    },
+    {
+      "path": "android-app/app/src/main/res/xml",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6662f6b3ae414d94f7beeb7e590228223481caf9",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/6662f6b3ae414d94f7beeb7e590228223481caf9"
+    },
+    {
+      "path": "android-app/app/src/main/res/xml/data_extraction_rules.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4a7a2a104372fcf5568201cc07d52764d8ea2ee",
+      "size": 219,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/b4a7a2a104372fcf5568201cc07d52764d8ea2ee"
+    },
+    {
+      "path": "android-app/branding",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3391863098d51f51652c2683c8f70800926d4bc1",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/3391863098d51f51652c2683c8f70800926d4bc1"
+    },
+    {
+      "path": "android-app/branding/Gemini_Generated_Image_n0yian0yian0yian-removebg-preview.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e625cf61ba1430f29a108c005550cdd23cbe00b",
+      "size": 295705,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8e625cf61ba1430f29a108c005550cdd23cbe00b"
+    },
+    {
+      "path": "android-app/build.gradle",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eba031aa1b3f32515ed72a1fc0a314de680a7601",
+      "size": 74,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/eba031aa1b3f32515ed72a1fc0a314de680a7601"
+    },
+    {
+      "path": "android-app/gradle",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "355b39d01aaaed925228c5d114720fc2582d4a73",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/355b39d01aaaed925228c5d114720fc2582d4a73"
+    },
+    {
+      "path": "android-app/gradle/wrapper",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa799a6e1287273d3e00ee2929d63206c8aa64ca",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/fa799a6e1287273d3e00ee2929d63206c8aa64ca"
+    },
+    {
+      "path": "android-app/gradle/wrapper/gradle-wrapper.jar",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c3521197d7c4586c843d1d3e9090525f1898cde",
+      "size": 43504,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/2c3521197d7c4586c843d1d3e9090525f1898cde"
+    },
+    {
+      "path": "android-app/gradle/wrapper/gradle-wrapper.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c99f97449423e41b3d152e2af4cb576b580bb390",
+      "size": 338,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/c99f97449423e41b3d152e2af4cb576b580bb390"
+    },
+    {
+      "path": "android-app/gradlew",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f5feea6d6b116baaca5a2642d4d9fa1f47d574a7",
+      "size": 8762,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/f5feea6d6b116baaca5a2642d4d9fa1f47d574a7"
+    },
+    {
+      "path": "android-app/gradlew.bat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b42019c7915b971238526075306ffba3b666dd5",
+      "size": 2966,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/9b42019c7915b971238526075306ffba3b666dd5"
+    },
+    {
+      "path": "android-app/play-store",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "30eb2e3d8f15d05f6c90899e9e5984c22ab34797",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/30eb2e3d8f15d05f6c90899e9e5984c22ab34797"
+    },
+    {
+      "path": "android-app/play-store/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4b16c2c8905b9e992811f64707d477ec39866b4b",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/4b16c2c8905b9e992811f64707d477ec39866b4b"
+    },
+    {
+      "path": "android-app/play-store/assets/feature-1024x500.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94b961702982893505967cea590e251ccea843f5",
+      "size": 79213,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/94b961702982893505967cea590e251ccea843f5"
+    },
+    {
+      "path": "android-app/play-store/assets/icon-512.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54c9a6c4cca47bded18dbb7467c2df3378702be6",
+      "size": 306130,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/54c9a6c4cca47bded18dbb7467c2df3378702be6"
+    },
+    {
+      "path": "android-app/play-store/assets/screenshots",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6e8ec5e20fa3bb80b9553416829fbbda3a86f12f",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/6e8ec5e20fa3bb80b9553416829fbbda3a86f12f"
+    },
+    {
+      "path": "android-app/play-store/assets/screenshots/history.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "082d30daff651143954074e2b0b4926c26691130",
+      "size": 90298,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/082d30daff651143954074e2b0b4926c26691130"
+    },
+    {
+      "path": "android-app/play-store/assets/screenshots/home.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02ce457b76b4fc7c35bedbcc6fa74c6dabde64d3",
+      "size": 125920,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/02ce457b76b4fc7c35bedbcc6fa74c6dabde64d3"
+    },
+    {
+      "path": "android-app/play-store/assets/screenshots/privacy.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02e52a7c91e48144a04a8119439abae797ff7a7d",
+      "size": 160958,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/02e52a7c91e48144a04a8119439abae797ff7a7d"
+    },
+    {
+      "path": "android-app/play-store/release-checklist.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6325bacf8a9bb4bee88ab45975a4f89b53adf04c",
+      "size": 2657,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/6325bacf8a9bb4bee88ab45975a4f89b53adf04c"
+    },
+    {
+      "path": "android-app/play-store/store-listing.en.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "746acf29cc23ee5cfcaf611aeb5019cd9fe60069",
+      "size": 1514,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/746acf29cc23ee5cfcaf611aeb5019cd9fe60069"
+    },
+    {
+      "path": "android-app/play-store/testers-template.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24bec9db58775e931291c97568a99c7a80dde152",
+      "size": 348,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/24bec9db58775e931291c97568a99c7a80dde152"
+    },
+    {
+      "path": "android-app/settings.gradle",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9cd620fc91224333e51b3183fcf18d4c752d72ac",
+      "size": 329,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/9cd620fc91224333e51b3183fcf18d4c752d72ac"
+    },
+    {
+      "path": "android-app/test",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "631fb9e049d86864cefd7794ac6e542dfffbaab9",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/631fb9e049d86864cefd7794ac6e542dfffbaab9"
+    },
+    {
+      "path": "android-app/test/MeasurementFrameCheck.java",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "656f94a453956fc1e2e20680565c476bb8935f80",
+      "size": 2037,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/656f94a453956fc1e2e20680565c476bb8935f80"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "76cf95f106d43c31c9eb96efb197e52b1cd46727",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/76cf95f106d43c31c9eb96efb197e52b1cd46727"
+    },
+    {
+      "path": "docs/BOM.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d437f7efae4caad1fc46dbca17c0348255da0d4b",
+      "size": 4996,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d437f7efae4caad1fc46dbca17c0348255da0d4b"
+    },
+    {
+      "path": "docs/datasheets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c95d348a7b106eb670863b352120f82ef0358415",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/c95d348a7b106eb670863b352120f82ef0358415"
+    },
+    {
+      "path": "docs/datasheets/arduino-nano.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1171168be669bf3cc62288d6b6166d95ea07fb13",
+      "size": 2159555,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/1171168be669bf3cc62288d6b6166d95ea07fb13"
+    },
+    {
+      "path": "docs/datasheets/dfrobot-sen0189.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82834009743fc4333f8cd206685a3d60fb7ea10f",
+      "size": 135333,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/82834009743fc4333f8cd206685a3d60fb7ea10f"
+    },
+    {
+      "path": "docs/diagrams",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f191b1b8dc799d2b52bc9f8a43539e6a5a851fd1",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/f191b1b8dc799d2b52bc9f8a43539e6a5a851fd1"
+    },
+    {
+      "path": "docs/diagrams/legacy-circuit-schematic.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf4f8cc08104143cf586428960ac117f39970e89",
+      "size": 9473,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/cf4f8cc08104143cf586428960ac117f39970e89"
+    },
+    {
+      "path": "docs/diagrams/optical-geometry.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdd0d1b273805f1b62849825d22a1c72dbca5516",
+      "size": 4334,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/bdd0d1b273805f1b62849825d22a1c72dbca5516"
+    },
+    {
+      "path": "docs/firmware.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52d549ad88bd2e878898c7d370ebfb797c6376c1",
+      "size": 4427,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/52d549ad88bd2e878898c7d370ebfb797c6376c1"
+    },
+    {
+      "path": "docs/optical-design.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "140b75ae6106fca13665c39b3cf446bcc61dd60f",
+      "size": 7389,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/140b75ae6106fca13665c39b3cf446bcc61dd60f"
+    },
+    {
+      "path": "docs/privacy-policy.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d85f4fd34fe5ec19ba03036552bf24a16c7352e",
+      "size": 2359,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/6d85f4fd34fe5ec19ba03036552bf24a16c7352e"
+    },
+    {
+      "path": "docs/shopping-list-prototype-usb-c.xlsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1ff482c0c7829a9c3bc3a22de53754b6197218c",
+      "size": 11385,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/b1ff482c0c7829a9c3bc3a22de53754b6197218c"
+    },
+    {
+      "path": "firmware",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c931c637d708b08ad66b80466313168c8026571e",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/c931c637d708b08ad66b80466313168c8026571e"
+    },
+    {
+      "path": "firmware/.gitkeep",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "firmware/firmware.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3aedcd68e696d345933bf7fb733155d42f4a103",
+      "size": 14253,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d3aedcd68e696d345933bf7fb733155d42f4a103"
+    },
+    {
+      "path": "firmware/legacy_sen0189",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0edce73b490b8874453dd07404967e6799a0df78",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/0edce73b490b8874453dd07404967e6799a0df78"
+    },
+    {
+      "path": "firmware/legacy_sen0189/firmware.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4533ece2a1c3775102af3e1bd07cc49a062f2b3a",
+      "size": 11578,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/4533ece2a1c3775102af3e1bd07cc49a062f2b3a"
+    },
+    {
+      "path": "firmware/usb_cdc_smoke_test",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e39bc62d29295d8d5e033a2ab7818710a143f48b",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/e39bc62d29295d8d5e033a2ab7818710a143f48b"
+    },
+    {
+      "path": "firmware/usb_cdc_smoke_test/usb_cdc_smoke_test.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "503503a99982d177007f7ee1e5ecf9deed28ffba",
+      "size": 403,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/503503a99982d177007f7ee1e5ecf9deed28ffba"
+    },
+    {
+      "path": "firmware/xiao_samd21_turbimeter",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "587aecaec8083c435271c3d624a60c777880490a",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/587aecaec8083c435271c3d624a60c777880490a"
+    },
+    {
+      "path": "firmware/xiao_samd21_turbimeter/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1414d9f235cabadfdcd40dcb51e4e4d7df8cebd8",
+      "size": 3659,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/1414d9f235cabadfdcd40dcb51e4e4d7df8cebd8"
+    },
+    {
+      "path": "firmware/xiao_samd21_turbimeter/xiao_samd21_turbimeter.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "739a860d0e6c37df0dcc95babb2cfcae3883e3fb",
+      "size": 5730,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/739a860d0e6c37df0dcc95babb2cfcae3883e3fb"
+    },
+    {
+      "path": "hardware",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6b142ae84e815b6d8e4fae118a9299dc4a890ee1",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/6b142ae84e815b6d8e4fae118a9299dc4a890ee1"
+    },
+    {
+      "path": "hardware/3dmodels",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b47f1372936809bbc75fc3a242ae20fd87e17761",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/b47f1372936809bbc75fc3a242ae20fd87e17761"
+    },
+    {
+      "path": "hardware/3dmodels/1-102010328-seeed-studio-xiao-samd21-45font.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81b2eaca8807081e5a0fbdcdd347ec44eb173771",
+      "size": 68558,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/81b2eaca8807081e5a0fbdcdd347ec44eb173771"
+    },
+    {
+      "path": "hardware/3dmodels/ADS1115.SLDPRT",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "519ddbb6e8f1b063a73e73a150cddf456feaeb76",
+      "size": 1863187,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/519ddbb6e8f1b063a73e73a150cddf456feaeb76"
+    },
+    {
+      "path": "hardware/3dmodels/ADS1115.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf86fa816f6c5ff0a52a30a96832737e91d169e7",
+      "size": 111098,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/bf86fa816f6c5ff0a52a30a96832737e91d169e7"
+    },
+    {
+      "path": "hardware/3dmodels/ADS1115Up.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3dc643aa07bc1acbc6a9816ec107d5bcfe6ea93",
+      "size": 71602,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d3dc643aa07bc1acbc6a9816ec107d5bcfe6ea93"
+    },
+    {
+      "path": "hardware/3dmodels/ADS1115_body.wrl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "403e064f0cfec0cbaef3566df6885f7aa9985ade",
+      "size": 1621182,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/403e064f0cfec0cbaef3566df6885f7aa9985ade"
+    },
+    {
+      "path": "hardware/3dmodels/ADS1115_supplied.step",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dac46b2e8833bf5f8c05e5c25b6a79f871bf5d80",
+      "size": 1930526,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/dac46b2e8833bf5f8c05e5c25b6a79f871bf5d80"
+    },
+    {
+      "path": "hardware/3dmodels/BPW34.step",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb44263db7100564bd669d2ab8c2add79cb1ff79",
+      "size": 157072,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/cb44263db7100564bd669d2ab8c2add79cb1ff79"
+    },
+    {
+      "path": "hardware/3dmodels/BPW34_body.wrl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0058195aad5c992b2d058867ec35dcf20922649",
+      "size": 12770,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/e0058195aad5c992b2d058867ec35dcf20922649"
+    },
+    {
+      "path": "hardware/3dmodels/BPW34_formed_leads.wrl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f33fa6a7f1590c27ce7817f029d3981aa3d3a707",
+      "size": 1594,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/f33fa6a7f1590c27ce7817f029d3981aa3d3a707"
+    },
+    {
+      "path": "hardware/3dmodels/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42b2f8533447722a787610e8034bcefd5e531138",
+      "size": 2870,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/42b2f8533447722a787610e8034bcefd5e531138"
+    },
+    {
+      "path": "hardware/3dmodels/Screenshot 2026-09-02 204032.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2e3559f7ece83b9de4d17b3dec295e1c1887438",
+      "size": 87573,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/c2e3559f7ece83b9de4d17b3dec295e1c1887438"
+    },
+    {
+      "path": "hardware/3dmodels/StackPins_1x06_P2mm.wrl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71bc59aed11e2ad63952da3b5b43424e84966e9a",
+      "size": 1579,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/71bc59aed11e2ad63952da3b5b43424e84966e9a"
+    },
+    {
+      "path": "hardware/3dmodels/StackPins_2x02_P1.27mm.wrl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5406f629df4c5d0727c9a2e552ef8961cc60a479",
+      "size": 1046,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/5406f629df4c5d0727c9a2e552ef8961cc60a479"
+    },
+    {
+      "path": "hardware/3dmodels/StackPins_2x03_P1.27mm.wrl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7600de534f99e3fdcec19c91a0584892e063f89f",
+      "size": 1508,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/7600de534f99e3fdcec19c91a0584892e063f89f"
+    },
+    {
+      "path": "hardware/3dmodels/XIAO_SAMD21_supplied.step",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22740dc382c4a031e9c1c916ee1b45ed25642da3",
+      "size": 9060867,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/22740dc382c4a031e9c1c916ee1b45ed25642da3"
+    },
+    {
+      "path": "hardware/3dmodels/ads1115-16-bit-adc-4-channel-i2c-module-1.snapshot.9.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b92f48ee2ea18ceb396223f899b10d42a7a476a",
+      "size": 8547299,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/0b92f48ee2ea18ceb396223f899b10d42a7a476a"
+    },
+    {
+      "path": "hardware/3dmodels/ads1115-5.snapshot.4.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf76103e52ce6ea40503649e2b32602ae934b3f6",
+      "size": 2046578,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/cf76103e52ce6ea40503649e2b32602ae934b3f6"
+    },
+    {
+      "path": "hardware/3dmodels/bpw34-2.snapshot.1.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17d2ab3e80485722c4a47e3c42f078d350282d26",
+      "size": 157230,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/17d2ab3e80485722c4a47e3c42f078d350282d26"
+    },
+    {
+      "path": "hardware/3dmodels/rebuild_visual_models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64034c76ed3e38865df1f1e0b99eb9e36d20a56f",
+      "size": 7042,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/64034c76ed3e38865df1f1e0b99eb9e36d20a56f"
+    },
+    {
+      "path": "hardware/3dmodels/seeed-studio-xiao-samd21-aka-seeeduino-xiao-1.snapshot.3.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4cca273dfd815d8b02b10c6c514129467824032",
+      "size": 18271957,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/b4cca273dfd815d8b02b10c6c514129467824032"
+    },
+    {
+      "path": "hardware/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c1bd5aca720cbc7d3b9fa029be1a8c21891f2ed",
+      "size": 12207,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/2c1bd5aca720cbc7d3b9fa029be1a8c21891f2ed"
+    },
+    {
+      "path": "hardware/Turbimeter.kicad_sym",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16c3066ad3552f291853656a3a8badfef4175713",
+      "size": 8968,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/16c3066ad3552f291853656a3a8badfef4175713"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dad1885ec882b5325de2d952df2cc832867fd059",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/dad1885ec882b5325de2d952df2cc832867fd059"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/ADS1115_TinyTronics_006632.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be02589cbd061b185cda52d91d6821a9b6d8bba5",
+      "size": 1862,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/be02589cbd061b185cda52d91d6821a9b6d8bba5"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/ADS1115_TinyTronics_Upright.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98f51de58bd84a279456da6ff8ed957381add513",
+      "size": 4025,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/98f51de58bd84a279456da6ff8ed957381add513"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/ADS1115_Upright_v08.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "985bec974a9de50139be4d93d40e6068f7c0b230",
+      "size": 4276,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/985bec974a9de50139be4d93d40e6068f7c0b230"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/BPW34_Holder_v08.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3161635bbf126dfefe31f1664eda1801e84db9f7",
+      "size": 7533,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/3161635bbf126dfefe31f1664eda1801e84db9f7"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/CP_Radial_D5_P2_SingleFace.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c4595b73fbe36f059551e9cc7fa44879ba19b13",
+      "size": 22755,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8c4595b73fbe36f059551e9cc7fa44879ba19b13"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/LED850_LeadPads_P2.54mm.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de09c213f6feefd50dc166e44e9c46cbce1093b3",
+      "size": 2598,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/de09c213f6feefd50dc166e44e9c46cbce1093b3"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/MCP6002_DIP8_SingleFace.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8104f986da14a156342ed846f5933298a856b381",
+      "size": 5074,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8104f986da14a156342ed846f5933298a856b381"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/StackHeader_1x04_P2.54mm_Left.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea84a74c696ce181477604744017b86376fe8607",
+      "size": 4255,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ea84a74c696ce181477604744017b86376fe8607"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/StackHeader_1x04_P2.54mm_Right.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ff2accb6549d56d1277f66df9e812da6d65c953",
+      "size": 4258,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/5ff2accb6549d56d1277f66df9e812da6d65c953"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/StackHeader_1x06_P2mm_Base_SingleFace.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d0745e0bfcb0758d5695a6330b56847e8fae62a",
+      "size": 4795,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/9d0745e0bfcb0758d5695a6330b56847e8fae62a"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/StackHeader_1x06_P2mm_Upper_v07.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d13581c3442fb1beab02deaf4e8a1a39707fd15",
+      "size": 4573,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8d13581c3442fb1beab02deaf4e8a1a39707fd15"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/StackSocket_1x04_P2.54mm_Left.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d45da9464f36bb7c1d9370c613c0e2da48b014",
+      "size": 7027,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/32d45da9464f36bb7c1d9370c613c0e2da48b014"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/StackSocket_1x06_P2mm_Upper_v08.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5c21a9ae8b1739f8b6ca13e2ba79a5de19f6177",
+      "size": 8917,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/c5c21a9ae8b1739f8b6ca13e2ba79a5de19f6177"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/USB_Cable_SolderPads_1x06.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "deec3957e896041a8437aad6443f427f6fc0c58e",
+      "size": 1334,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/deec3957e896041a8437aad6443f427f6fc0c58e"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/USB_Cable_WireHoles_2x02_P2mm.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcfe1dd3831fbf91c1078f23ca7033adbb4539a7",
+      "size": 1869,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/dcfe1dd3831fbf91c1078f23ca7033adbb4539a7"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/USB_StackHeader_2x02_P1.27mm_Base_v09.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1066392070643d26cd200afd7a4b81d04306375f",
+      "size": 4986,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/1066392070643d26cd200afd7a4b81d04306375f"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/USB_StackHeader_2x03_P1.27mm_Base_SingleFace.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cac36a29190a1c97a6378b74cfdef49d4c0d9c69",
+      "size": 5426,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/cac36a29190a1c97a6378b74cfdef49d4c0d9c69"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/USB_StackHeader_2x03_P1.27mm_Upper_v07.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57cea94e8f6f344ffadc6059c15ef3a6ee453caf",
+      "size": 5197,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/57cea94e8f6f344ffadc6059c15ef3a6ee453caf"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/XIAO_SAMD21_Header.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac7edf226968262daae023502c5d2532082f6a47",
+      "size": 2446,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ac7edf226968262daae023502c5d2532082f6a47"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/XIAO_SAMD21_Upper_v07.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15c3c4222fd3bdd62cc4a51e8eac14c5ab26809f",
+      "size": 4679,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/15c3c4222fd3bdd62cc4a51e8eac14c5ab26809f"
+    },
+    {
+      "path": "hardware/Turbimeter.pretty/XIAO_SAMD21_Upper_v08.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c04b09a366c6187ade00dbd6574051624229ff22",
+      "size": 5614,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/c04b09a366c6187ade00dbd6574051624229ff22"
+    },
+    {
+      "path": "hardware/adc",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b79b126aafa0cca102a574a23f13fe9a6b8c39b4",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/b79b126aafa0cca102a574a23f13fe9a6b8c39b4"
+    },
+    {
+      "path": "hardware/adc/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c0275c6e5af739b474d89ee01126ef27a2612a1",
+      "size": 376,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/6c0275c6e5af739b474d89ee01126ef27a2612a1"
+    },
+    {
+      "path": "hardware/archive",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3cd02f2cd50e6f4c7121e85ae80a3213b1b17be7",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/3cd02f2cd50e6f4c7121e85ae80a3213b1b17be7"
+    },
+    {
+      "path": "hardware/archive/single-board-v0.5",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6db205707662a9ded4cc412d5cb76d3ba739d078",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/6db205707662a9ded4cc412d5cb76d3ba739d078"
+    },
+    {
+      "path": "hardware/archive/single-board-v0.5/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc76e98f915cb5cdb2ec8ec41df7cbe90a73d3d1",
+      "size": 294,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/dc76e98f915cb5cdb2ec8ec41df7cbe90a73d3d1"
+    },
+    {
+      "path": "hardware/archive/single-board-v0.5/esque.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "453ae59aa31351de98f8cd3e21f09042c9d2f9f2",
+      "size": 4746,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/453ae59aa31351de98f8cd3e21f09042c9d2f9f2"
+    },
+    {
+      "path": "hardware/archive/single-board-v0.5/esque.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b73e3f748e381435c038d43c0153cd51777f20f9",
+      "size": 53804,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/b73e3f748e381435c038d43c0153cd51777f20f9"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "65911009b46abaab73defbf6bf13139fa2d2198c",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/65911009b46abaab73defbf6bf13139fa2d2198c"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce2971af9a7d8ae6ac600df8cd415c40657d2a7f",
+      "size": 305,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ce2971af9a7d8ae6ac600df8cd415c40657d2a7f"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/Turbimeter.kicad_sym",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16c3066ad3552f291853656a3a8badfef4175713",
+      "size": 8968,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/16c3066ad3552f291853656a3a8badfef4175713"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/Turbimeter.pretty",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "561450fbbb0f20327a6c98b48b7683f94e3b8b52",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/561450fbbb0f20327a6c98b48b7683f94e3b8b52"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/Turbimeter.pretty/ADS1115_TinyTronics_006632.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be02589cbd061b185cda52d91d6821a9b6d8bba5",
+      "size": 1862,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/be02589cbd061b185cda52d91d6821a9b6d8bba5"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/Turbimeter.pretty/ADS1115_TinyTronics_Upright.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98f51de58bd84a279456da6ff8ed957381add513",
+      "size": 4025,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/98f51de58bd84a279456da6ff8ed957381add513"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/Turbimeter.pretty/LED850_LeadPads_P2.54mm.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d058ea186357713cbbc5b5a1b3e57947c75126c",
+      "size": 1034,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/2d058ea186357713cbbc5b5a1b3e57947c75126c"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/Turbimeter.pretty/StackHeader_1x04_P2.54mm_Left.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea84a74c696ce181477604744017b86376fe8607",
+      "size": 4255,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ea84a74c696ce181477604744017b86376fe8607"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/Turbimeter.pretty/StackHeader_1x04_P2.54mm_Right.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ff2accb6549d56d1277f66df9e812da6d65c953",
+      "size": 4258,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/5ff2accb6549d56d1277f66df9e812da6d65c953"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/Turbimeter.pretty/StackSocket_1x04_P2.54mm_Left.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d45da9464f36bb7c1d9370c613c0e2da48b014",
+      "size": 7027,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/32d45da9464f36bb7c1d9370c613c0e2da48b014"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/Turbimeter.pretty/XIAO_SAMD21_Header.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac7edf226968262daae023502c5d2532082f6a47",
+      "size": 2446,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ac7edf226968262daae023502c5d2532082f6a47"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/adc",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7dcc3e3efdb5c5f2b7118d274a089be7ffd9a851",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/7dcc3e3efdb5c5f2b7118d274a089be7ffd9a851"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/adc/adc.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f405d5767ff5072422f3b783d0feef976070b5e",
+      "size": 23847,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8f405d5767ff5072422f3b783d0feef976070b5e"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/adc/adc.kicad_pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f330201bbc766cbb0a92910025aac984bb795dc",
+      "size": 8426,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/0f330201bbc766cbb0a92910025aac984bb795dc"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/adc/adc.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50de69e7980f8a0a93ee2b3ff78619ab3583f16f",
+      "size": 18884,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/50de69e7980f8a0a93ee2b3ff78619ab3583f16f"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/adc/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ada2785b687a708ccf0b9342d45c7997950ab07f",
+      "size": 151,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ada2785b687a708ccf0b9342d45c7997950ab07f"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/adc/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1c40a895c2ad5ac744f242831903801e165204f",
+      "size": 152,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d1c40a895c2ad5ac744f242831903801e165204f"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/check_stack.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "522753a9d9bbfa702eac28dc82a29c5d893f5a69",
+      "size": 6069,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/522753a9d9bbfa702eac28dc82a29c5d893f5a69"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/controller",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8978120b62c76af4b59cf5c43d3b28d018a00711",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/8978120b62c76af4b59cf5c43d3b28d018a00711"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/controller/controller.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7dbf126b977d88f134a774ecb4d9d93cebbb616b",
+      "size": 32747,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/7dbf126b977d88f134a774ecb4d9d93cebbb616b"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/controller/controller.kicad_pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23860c3f70d4c6c7d61588f2e6a03d00198f7587",
+      "size": 8433,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/23860c3f70d4c6c7d61588f2e6a03d00198f7587"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/controller/controller.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "528d68ee5fe2a9f351bd56417bc7de2dba3f5e58",
+      "size": 19844,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/528d68ee5fe2a9f351bd56417bc7de2dba3f5e58"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/controller/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ada2785b687a708ccf0b9342d45c7997950ab07f",
+      "size": 151,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ada2785b687a708ccf0b9342d45c7997950ab07f"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/controller/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1c40a895c2ad5ac744f242831903801e165204f",
+      "size": 152,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d1c40a895c2ad5ac744f242831903801e165204f"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/esque.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee6bcbf9ecfab0b82369b8fd58cd816cf0e81d87",
+      "size": 92263,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ee6bcbf9ecfab0b82369b8fd58cd816cf0e81d87"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/esque.kicad_pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e7a0765b6e71167e28c949addf2d91930333ff7",
+      "size": 14919,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/3e7a0765b6e71167e28c949addf2d91930333ff7"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/esque.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c2f5b34d31b2072eb63383fb51c0f572c954a70",
+      "size": 44856,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/2c2f5b34d31b2072eb63383fb51c0f572c954a70"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0563c1dc2a7dc9f26f59b11edf6b30712d3e303",
+      "size": 146,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/a0563c1dc2a7dc9f26f59b11edf6b30712d3e303"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/pcb-top-preview.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e6744cb718e089f0d05e3c78c6d68608c3ab876",
+      "size": 81115,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/5e6744cb718e089f0d05e3c78c6d68608c3ab876"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/stack-assembly.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32034ca177f0d266acb63917843daf1851133ccc",
+      "size": 4820,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/32034ca177f0d266acb63917843daf1851133ccc"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d1743936bcf04ec6bd422bfee131e061f9e2763",
+      "size": 140,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/4d1743936bcf04ec6bd422bfee131e061f9e2763"
+    },
+    {
+      "path": "hardware/archive/three-floor-v0.6/validation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5343ca55c7625e8dbadd6ce18c1ca6d220f03db",
+      "size": 2167,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d5343ca55c7625e8dbadd6ce18c1ca6d220f03db"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7c5f429958ce54fea71137e6e7e1b08b7e400389",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/7c5f429958ce54fea71137e6e7e1b08b7e400389"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f084c6e9d66f430982fd1a441107cbab715397db",
+      "size": 198,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/f084c6e9d66f430982fd1a441107cbab715397db"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.kicad_sym",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16c3066ad3552f291853656a3a8badfef4175713",
+      "size": 8968,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/16c3066ad3552f291853656a3a8badfef4175713"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4b4c54f3bc90abe5acf709c5776d7a6303f87c18",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/4b4c54f3bc90abe5acf709c5776d7a6303f87c18"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/ADS1115_TinyTronics_006632.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be02589cbd061b185cda52d91d6821a9b6d8bba5",
+      "size": 1862,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/be02589cbd061b185cda52d91d6821a9b6d8bba5"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/ADS1115_TinyTronics_Upright.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98f51de58bd84a279456da6ff8ed957381add513",
+      "size": 4025,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/98f51de58bd84a279456da6ff8ed957381add513"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/LED850_LeadPads_P2.54mm.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d058ea186357713cbbc5b5a1b3e57947c75126c",
+      "size": 1034,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/2d058ea186357713cbbc5b5a1b3e57947c75126c"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/StackHeader_1x04_P2.54mm_Left.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea84a74c696ce181477604744017b86376fe8607",
+      "size": 4255,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ea84a74c696ce181477604744017b86376fe8607"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/StackHeader_1x04_P2.54mm_Right.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ff2accb6549d56d1277f66df9e812da6d65c953",
+      "size": 4258,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/5ff2accb6549d56d1277f66df9e812da6d65c953"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/StackHeader_1x06_P2mm_Upper_v07.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d13581c3442fb1beab02deaf4e8a1a39707fd15",
+      "size": 4573,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8d13581c3442fb1beab02deaf4e8a1a39707fd15"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/StackSocket_1x04_P2.54mm_Left.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d45da9464f36bb7c1d9370c613c0e2da48b014",
+      "size": 7027,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/32d45da9464f36bb7c1d9370c613c0e2da48b014"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/USB_Cable_SolderPads_1x06.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "deec3957e896041a8437aad6443f427f6fc0c58e",
+      "size": 1334,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/deec3957e896041a8437aad6443f427f6fc0c58e"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/USB_StackHeader_2x03_P1.27mm_Upper_v07.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57cea94e8f6f344ffadc6059c15ef3a6ee453caf",
+      "size": 5197,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/57cea94e8f6f344ffadc6059c15ef3a6ee453caf"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/XIAO_SAMD21_Header.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac7edf226968262daae023502c5d2532082f6a47",
+      "size": 2446,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ac7edf226968262daae023502c5d2532082f6a47"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/Turbimeter.pretty/XIAO_SAMD21_Upper_v07.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15c3c4222fd3bdd62cc4a51e8eac14c5ab26809f",
+      "size": 4679,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/15c3c4222fd3bdd62cc4a51e8eac14c5ab26809f"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/controller",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9acc820d7f4ce2f0439a692e09892fe4c8bbe624",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/9acc820d7f4ce2f0439a692e09892fe4c8bbe624"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/controller/controller.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8913f7ab7f032b2c2872dd550f37e600f909cbe",
+      "size": 34843,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/a8913f7ab7f032b2c2872dd550f37e600f909cbe"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/controller/controller.kicad_pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad44488492869719bb402444814303ec77e58db8",
+      "size": 8433,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ad44488492869719bb402444814303ec77e58db8"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/controller/controller.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36c5dabd3da1bcdec371b07e71c8dbc3f6792d48",
+      "size": 30975,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/36c5dabd3da1bcdec371b07e71c8dbc3f6792d48"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/controller/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ada2785b687a708ccf0b9342d45c7997950ab07f",
+      "size": 151,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ada2785b687a708ccf0b9342d45c7997950ab07f"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/controller/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1c40a895c2ad5ac744f242831903801e165204f",
+      "size": 152,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d1c40a895c2ad5ac744f242831903801e165204f"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/esque.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15ff6277035825a2a1d881a695e8b7ac692255af",
+      "size": 103716,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/15ff6277035825a2a1d881a695e8b7ac692255af"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/esque.kicad_pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "454d74316b58fd1293f67414e120b8674bbfb09e",
+      "size": 8428,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/454d74316b58fd1293f67414e120b8674bbfb09e"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/esque.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efb8b8ba4780a20b39264f775623bf8ce848c594",
+      "size": 53069,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/efb8b8ba4780a20b39264f775623bf8ce848c594"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0563c1dc2a7dc9f26f59b11edf6b30712d3e303",
+      "size": 146,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/a0563c1dc2a7dc9f26f59b11edf6b30712d3e303"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/pcb-top-preview.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a66ee553cf89d2958f93dd45234b32e202f0d8f9",
+      "size": 79283,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/a66ee553cf89d2958f93dd45234b32e202f0d8f9"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/stack-assembly.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca3009c60801f77975573ba27c3952cda355bafc",
+      "size": 5469,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ca3009c60801f77975573ba27c3952cda355bafc"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d1743936bcf04ec6bd422bfee131e061f9e2763",
+      "size": 140,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/4d1743936bcf04ec6bd422bfee131e061f9e2763"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.7/validation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "074d45b632c74ae6b56b5fade485eee118685d20",
+      "size": 2266,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/074d45b632c74ae6b56b5fade485eee118685d20"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8bacbfd5b50918439696f0776064605f99c83cad",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/8bacbfd5b50918439696f0776064605f99c83cad"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d9946890f4bf242c6ad73e935600effff122e50",
+      "size": 198,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/2d9946890f4bf242c6ad73e935600effff122e50"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.kicad_sym",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16c3066ad3552f291853656a3a8badfef4175713",
+      "size": 8968,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/16c3066ad3552f291853656a3a8badfef4175713"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a88736afdfd5fd689bbd7e66082918ed1a2a3d3d",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/a88736afdfd5fd689bbd7e66082918ed1a2a3d3d"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/ADS1115_TinyTronics_006632.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be02589cbd061b185cda52d91d6821a9b6d8bba5",
+      "size": 1862,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/be02589cbd061b185cda52d91d6821a9b6d8bba5"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/ADS1115_TinyTronics_Upright.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98f51de58bd84a279456da6ff8ed957381add513",
+      "size": 4025,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/98f51de58bd84a279456da6ff8ed957381add513"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/ADS1115_Upright_v08.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "985bec974a9de50139be4d93d40e6068f7c0b230",
+      "size": 4276,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/985bec974a9de50139be4d93d40e6068f7c0b230"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/BPW34_Holder_v08.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3161635bbf126dfefe31f1664eda1801e84db9f7",
+      "size": 7533,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/3161635bbf126dfefe31f1664eda1801e84db9f7"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/CP_Radial_D5_P2_SingleFace.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c4595b73fbe36f059551e9cc7fa44879ba19b13",
+      "size": 22755,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8c4595b73fbe36f059551e9cc7fa44879ba19b13"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/LED850_LeadPads_P2.54mm.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de09c213f6feefd50dc166e44e9c46cbce1093b3",
+      "size": 2598,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/de09c213f6feefd50dc166e44e9c46cbce1093b3"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/MCP6002_DIP8_SingleFace.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8104f986da14a156342ed846f5933298a856b381",
+      "size": 5074,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8104f986da14a156342ed846f5933298a856b381"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/StackHeader_1x04_P2.54mm_Left.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea84a74c696ce181477604744017b86376fe8607",
+      "size": 4255,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ea84a74c696ce181477604744017b86376fe8607"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/StackHeader_1x04_P2.54mm_Right.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ff2accb6549d56d1277f66df9e812da6d65c953",
+      "size": 4258,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/5ff2accb6549d56d1277f66df9e812da6d65c953"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/StackHeader_1x06_P2mm_Base_SingleFace.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d0745e0bfcb0758d5695a6330b56847e8fae62a",
+      "size": 4795,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/9d0745e0bfcb0758d5695a6330b56847e8fae62a"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/StackHeader_1x06_P2mm_Upper_v07.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d13581c3442fb1beab02deaf4e8a1a39707fd15",
+      "size": 4573,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/8d13581c3442fb1beab02deaf4e8a1a39707fd15"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/StackSocket_1x04_P2.54mm_Left.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d45da9464f36bb7c1d9370c613c0e2da48b014",
+      "size": 7027,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/32d45da9464f36bb7c1d9370c613c0e2da48b014"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/StackSocket_1x06_P2mm_Upper_v08.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5c21a9ae8b1739f8b6ca13e2ba79a5de19f6177",
+      "size": 8917,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/c5c21a9ae8b1739f8b6ca13e2ba79a5de19f6177"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/USB_Cable_SolderPads_1x06.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "deec3957e896041a8437aad6443f427f6fc0c58e",
+      "size": 1334,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/deec3957e896041a8437aad6443f427f6fc0c58e"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/USB_StackHeader_2x03_P1.27mm_Base_SingleFace.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cac36a29190a1c97a6378b74cfdef49d4c0d9c69",
+      "size": 5426,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/cac36a29190a1c97a6378b74cfdef49d4c0d9c69"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/USB_StackHeader_2x03_P1.27mm_Upper_v07.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57cea94e8f6f344ffadc6059c15ef3a6ee453caf",
+      "size": 5197,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/57cea94e8f6f344ffadc6059c15ef3a6ee453caf"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/XIAO_SAMD21_Header.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac7edf226968262daae023502c5d2532082f6a47",
+      "size": 2446,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ac7edf226968262daae023502c5d2532082f6a47"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/XIAO_SAMD21_Upper_v07.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15c3c4222fd3bdd62cc4a51e8eac14c5ab26809f",
+      "size": 4679,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/15c3c4222fd3bdd62cc4a51e8eac14c5ab26809f"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/Turbimeter.pretty/XIAO_SAMD21_Upper_v08.kicad_mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c04b09a366c6187ade00dbd6574051624229ff22",
+      "size": 5614,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/c04b09a366c6187ade00dbd6574051624229ff22"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/controller",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e06c80c0887b979ddcf133206ef9d115b7ff00a6",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/e06c80c0887b979ddcf133206ef9d115b7ff00a6"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/controller/controller.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f36dfe5cbd74357bc2a9ace1ea48a4a0f1c2d13a",
+      "size": 45407,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/f36dfe5cbd74357bc2a9ace1ea48a4a0f1c2d13a"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/controller/controller.kicad_pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d477c5e1d3cf3947741dfadd56cd30ce0cd565bf",
+      "size": 8498,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d477c5e1d3cf3947741dfadd56cd30ce0cd565bf"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/controller/controller.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20974f5c5fad093ad12014d0a744b5df4836ae09",
+      "size": 30988,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/20974f5c5fad093ad12014d0a744b5df4836ae09"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/controller/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ada2785b687a708ccf0b9342d45c7997950ab07f",
+      "size": 151,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ada2785b687a708ccf0b9342d45c7997950ab07f"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/controller/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1c40a895c2ad5ac744f242831903801e165204f",
+      "size": 152,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d1c40a895c2ad5ac744f242831903801e165204f"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/esque.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9379890cf9a165b0746b2f61fd126f9a53fd48fc",
+      "size": 101450,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/9379890cf9a165b0746b2f61fd126f9a53fd48fc"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/esque.kicad_pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffb64c2f41e13c942b93b0fcd75616314bf715f7",
+      "size": 8489,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ffb64c2f41e13c942b93b0fcd75616314bf715f7"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/esque.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75189bc2d7f30b9714f3aa006fe8a6aba17c1d6c",
+      "size": 53059,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/75189bc2d7f30b9714f3aa006fe8a6aba17c1d6c"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0563c1dc2a7dc9f26f59b11edf6b30712d3e303",
+      "size": 146,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/a0563c1dc2a7dc9f26f59b11edf6b30712d3e303"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/pcb-top-preview.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "652775911611a6fd705cb7ead05d5ca01add2b22",
+      "size": 3772675,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/652775911611a6fd705cb7ead05d5ca01add2b22"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/stack-assembly.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76dbc74484d29015c7085ba9652fdc13e6b1078e",
+      "size": 873903,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/76dbc74484d29015c7085ba9652fdc13e6b1078e"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d1743936bcf04ec6bd422bfee131e061f9e2763",
+      "size": 140,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/4d1743936bcf04ec6bd422bfee131e061f9e2763"
+    },
+    {
+      "path": "hardware/archive/two-floor-v0.8/validation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0008c0b4544b03fa6a0baff1dc2efe907f9cfa40",
+      "size": 2801,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/0008c0b4544b03fa6a0baff1dc2efe907f9cfa40"
+    },
+    {
+      "path": "hardware/check_stack.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97b87aedf2bd7a1282c6d508a1f13b2d18b51b53",
+      "size": 9754,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/97b87aedf2bd7a1282c6d508a1f13b2d18b51b53"
+    },
+    {
+      "path": "hardware/controller",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c3c2f32434b613cb593b20e28a04cf12d40813cf",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/c3c2f32434b613cb593b20e28a04cf12d40813cf"
+    },
+    {
+      "path": "hardware/controller/controller.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1285f5a5fb7fd74278f3563b1d327515c626d4b7",
+      "size": 43406,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/1285f5a5fb7fd74278f3563b1d327515c626d4b7"
+    },
+    {
+      "path": "hardware/controller/controller.kicad_pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9920da4069af11e5253e4329331071217fd29f3",
+      "size": 8492,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/f9920da4069af11e5253e4329331071217fd29f3"
+    },
+    {
+      "path": "hardware/controller/controller.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "daa8ea20177eb74f90c690702fee4ab88e0d9883",
+      "size": 33672,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/daa8ea20177eb74f90c690702fee4ab88e0d9883"
+    },
+    {
+      "path": "hardware/controller/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ada2785b687a708ccf0b9342d45c7997950ab07f",
+      "size": 151,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ada2785b687a708ccf0b9342d45c7997950ab07f"
+    },
+    {
+      "path": "hardware/controller/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1c40a895c2ad5ac744f242831903801e165204f",
+      "size": 152,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d1c40a895c2ad5ac744f242831903801e165204f"
+    },
+    {
+      "path": "hardware/esque-Edge_Cuts.gbr",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a19923ab6a4efd12f1d6fb73c832f33599fabe18",
+      "size": 1351,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/a19923ab6a4efd12f1d6fb73c832f33599fabe18"
+    },
+    {
+      "path": "hardware/esque-NPTH.drl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ba04f79564110b0aa70f9fbe37edc459131a4f7",
+      "size": 269,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/1ba04f79564110b0aa70f9fbe37edc459131a4f7"
+    },
+    {
+      "path": "hardware/esque-PTH.drl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47172e505f8ae1046376019b7cdfd03706f455f1",
+      "size": 265,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/47172e505f8ae1046376019b7cdfd03706f455f1"
+    },
+    {
+      "path": "hardware/esque-job.gbrjob",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "009860e41d52542339771286fa54a89f54fe2e94",
+      "size": 1627,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/009860e41d52542339771286fa54a89f54fe2e94"
+    },
+    {
+      "path": "hardware/esque.kicad_pcb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e28283df15d49d8d116efee7fa4dd45bce1b5376",
+      "size": 100067,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/e28283df15d49d8d116efee7fa4dd45bce1b5376"
+    },
+    {
+      "path": "hardware/esque.kicad_pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77d0b8e6ff9a17b68a1f3338f25994c7f294e414",
+      "size": 8483,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/77d0b8e6ff9a17b68a1f3338f25994c7f294e414"
+    },
+    {
+      "path": "hardware/esque.kicad_sch",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7da5a4be5c70db74f444b134f70b8f791bfa61c1",
+      "size": 55809,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/7da5a4be5c70db74f444b134f70b8f791bfa61c1"
+    },
+    {
+      "path": "hardware/fp-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0563c1dc2a7dc9f26f59b11edf6b30712d3e303",
+      "size": 146,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/a0563c1dc2a7dc9f26f59b11edf6b30712d3e303"
+    },
+    {
+      "path": "hardware/gerber",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7b471b63159222b37305c2ee777a93ec466d3b3d",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/7b471b63159222b37305c2ee777a93ec466d3b3d"
+    },
+    {
+      "path": "hardware/gerber/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7eb34a2ae2d2178e0a1821312b1a41a26472a0eb",
+      "size": 722,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/7eb34a2ae2d2178e0a1821312b1a41a26472a0eb"
+    },
+    {
+      "path": "hardware/gerber/esque-Edge_Cuts.gbr",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f235bf709e76e45570191823bce8ad602df7b98",
+      "size": 1352,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/9f235bf709e76e45570191823bce8ad602df7b98"
+    },
+    {
+      "path": "hardware/gerber/esque-NPTH.drl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1aaa53d03b7a2ee4cce38999a3dc902930d3521e",
+      "size": 269,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/1aaa53d03b7a2ee4cce38999a3dc902930d3521e"
+    },
+    {
+      "path": "hardware/gerber/esque-PTH.drl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d06dc70a48f0fdb0174043c559a31dcab46d1fc6",
+      "size": 265,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d06dc70a48f0fdb0174043c559a31dcab46d1fc6"
+    },
+    {
+      "path": "hardware/gerber/esque-job.gbrjob",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea87cbc8a2d600d0e1cb356c89ef28532f9c339e",
+      "size": 1627,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/ea87cbc8a2d600d0e1cb356c89ef28532f9c339e"
+    },
+    {
+      "path": "hardware/gerber/esque.stl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d814737ab37ffd5ab4736272eb38e1c5bcf13362",
+      "size": 86036,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/d814737ab37ffd5ab4736272eb38e1c5bcf13362"
+    },
+    {
+      "path": "hardware/pcb-top-preview.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aaf8e720df5a59a81fe221dc655bafa4bcb2d343",
+      "size": 3897832,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/aaf8e720df5a59a81fe221dc655bafa4bcb2d343"
+    },
+    {
+      "path": "hardware/render_assembly.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc34ab50974fcd4c81cacc68dd6365768f2a6bcb",
+      "size": 11614,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/bc34ab50974fcd4c81cacc68dd6365768f2a6bcb"
+    },
+    {
+      "path": "hardware/renders",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8ea761eebe917edfca0f334bc242363f858720b9",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/8ea761eebe917edfca0f334bc242363f858720b9"
+    },
+    {
+      "path": "hardware/renders/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bebebc1a3ecd848e417ab61b0a31a3237bc62ac",
+      "size": 648,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/6bebebc1a3ecd848e417ab61b0a31a3237bc62ac"
+    },
+    {
+      "path": "hardware/renders/assembly-front.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96dca75f11dbbaf241dd705be16b2ec6d05df3ce",
+      "size": 234131,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/96dca75f11dbbaf241dd705be16b2ec6d05df3ce"
+    },
+    {
+      "path": "hardware/renders/assembly.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16a9e291762972a32472a300e49b130b72f5e4f1",
+      "size": 457156,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/16a9e291762972a32472a300e49b130b72f5e4f1"
+    },
+    {
+      "path": "hardware/renders/base-bottom.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4eabed05d33d782c1a1b7c215494a1c20d92613",
+      "size": 595136,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/a4eabed05d33d782c1a1b7c215494a1c20d92613"
+    },
+    {
+      "path": "hardware/renders/base-top.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdfaa98925803e4defab3267cea680521d0c49fe",
+      "size": 565760,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/bdfaa98925803e4defab3267cea680521d0c49fe"
+    },
+    {
+      "path": "hardware/renders/upper-bottom.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e675e6e27090c715c6c8cb2ce058651352b9be8",
+      "size": 498365,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/6e675e6e27090c715c6c8cb2ce058651352b9be8"
+    },
+    {
+      "path": "hardware/renders/upper-top.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "250720ec93d6ef5e57bf548277a69febfa127e47",
+      "size": 504600,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/250720ec93d6ef5e57bf548277a69febfa127e47"
+    },
+    {
+      "path": "hardware/stack-assembly.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26df672bb17d366908fe14d1b8b71e65d62f5877",
+      "size": 923752,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/26df672bb17d366908fe14d1b8b71e65d62f5877"
+    },
+    {
+      "path": "hardware/sym-lib-table",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d1743936bcf04ec6bd422bfee131e061f9e2763",
+      "size": 140,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/4d1743936bcf04ec6bd422bfee131e061f9e2763"
+    },
+    {
+      "path": "hardware/validation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdb628fba416d4038a3896c2c510ac452e4293df",
+      "size": 3495,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/bdb628fba416d4038a3896c2c510ac452e4293df"
+    },
+    {
+      "path": "img",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b5cc36fa8b32980695883acce2a47f9718ef6635",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/b5cc36fa8b32980695883acce2a47f9718ef6635"
+    },
+    {
+      "path": "img/3d",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "16a1939d848fe8a0cc4651e54c5b789434cd1c42",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/16a1939d848fe8a0cc4651e54c5b789434cd1c42"
+    },
+    {
+      "path": "img/3d/case.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3340edae1fff220f318066d2075d18e1c20ad99b",
+      "size": 645169,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/3340edae1fff220f318066d2075d18e1c20ad99b"
+    },
+    {
+      "path": "img/3d/lid.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ae2bca5171bd059003200127d2f4844130d871b",
+      "size": 539010,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/6ae2bca5171bd059003200127d2f4844130d871b"
+    },
+    {
+      "path": "img/3d/neck.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f76c70504b9c5d59d1dace3fc876a4003f0968dd",
+      "size": 455489,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/f76c70504b9c5d59d1dace3fc876a4003f0968dd"
+    },
+    {
+      "path": "img/3d/sensor_holder.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e53487deb5fb1b66fad7dd79c366936d9bb2a679",
+      "size": 366615,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/e53487deb5fb1b66fad7dd79c366936d9bb2a679"
+    },
+    {
+      "path": "img/assembly.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4830b711a92adb6f375145845f9eaa7d35fdb0b",
+      "size": 135691,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/f4830b711a92adb6f375145845f9eaa7d35fdb0b"
+    },
+    {
+      "path": "img/pcb_rotation.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b577b21bd766ceba92ac88bf4184547f9c836bf",
+      "size": 3825197,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/5b577b21bd766ceba92ac88bf4184547f9c836bf"
+    },
+    {
+      "path": "img/prototype.jpeg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5270072695f7e87fda346a98b85442b10a59b827",
+      "size": 84260,
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/blobs/5270072695f7e87fda346a98b85442b10a59b827"
+    }
+  ],
+  "truncated": false
+}

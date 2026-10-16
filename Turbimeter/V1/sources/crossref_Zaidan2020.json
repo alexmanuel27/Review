@@ -1,0 +1,911 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          23
+        ]
+      ],
+      "date-time": "2026-09-23T22:32:44Z",
+      "timestamp": 1790202764479,
+      "version": "4.1.0"
+    },
+    "reference-count": 72,
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "issue": "22",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2020,
+              11,
+              15
+            ]
+          ],
+          "date-time": "2020-11-15T00:00:00Z",
+          "timestamp": 1605398400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/legalcode"
+      }
+    ],
+    "funder": [
+      {
+        "name": "MegaSense Program at the University of Helsinki"
+      },
+      {
+        "name": "City of Helsinki Innovation Fund"
+      },
+      {
+        "name": "European Union through the Urban Innovative Action HealthyOutdoor Premises for Everyone",
+        "award": [
+          "UIA03-240"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "UIA03-240"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Helsinki Center for Data Science (HiDATA) Program within the Helsinki Institute for Information Technology"
+      },
+      {
+        "DOI": "10.13039/501100002341",
+        "name": "Academy of Finland Centre of Excellence in Atmospheric Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "307331"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "307331"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100002341",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "NanoBiomass",
+        "award": [
+          "307537"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "307537"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ACTRIS Finland",
+        "award": [
+          "328616"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "328616"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ACTRIS CF",
+        "award": [
+          "329274"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "329274"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Regional Innovations and Experimentations Funds AIKO Governed by the Helsinki Regional Council through the Project HAQT",
+        "award": [
+          "AIKO014"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "AIKO014"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Megasense Program"
+      },
+      {
+        "DOI": "10.13039/501100000780",
+        "name": "European Commission through ACTRIS2",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "654109"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "654109"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100000780",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "ACTRIS-IMP",
+        "award": [
+          "871115"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "871115"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "SMart URBan Solutions for Air Quality, Disasters, and City Growth",
+        "award": [
+          "689443"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "689443"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ERA-NET-Cofund, University of Helsinki"
+      },
+      {
+        "DOI": "10.13039/100010663",
+        "name": "European Research Council via Advanced Grant ATM-GTP",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "742206"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "742206"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100010663",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "name": "Academy Professor Project of Markku Kulmala"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "IEEE Sensors J."
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          15
+        ]
+      ]
+    },
+    "DOI": "10.1109/jsen.2020.3010316",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          20
+        ]
+      ],
+      "date-time": "2020-07-20T17:17:35Z",
+      "timestamp": 1595265455000
+    },
+    "page": "13638-13652",
+    "source": "Crossref",
+    "is-referenced-by-count": 109,
+    "title": [
+      "Intelligent Calibration and Virtual Sensing for Integrated Low-Cost Air Quality Sensors"
+    ],
+    "prefix": "10.1109",
+    "volume": "20",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-6348-1230",
+        "authenticated-orcid": false,
+        "given": "Martha Arbayani",
+        "family": "Zaidan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9923-9879",
+        "authenticated-orcid": false,
+        "given": "Naser",
+        "family": "Hossein Motlagh",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pak L.",
+        "family": "Fung",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Lu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Clarity Movements Company, Berkeley, CA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hilkka",
+        "family": "Timonen",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Finnish Meteorological Institute (FMI), Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joel",
+        "family": "Kuula",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Finnish Meteorological Institute (FMI), Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jarkko V.",
+        "family": "Niemi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Helsinki Region Environmental Services Authority (HSY), Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4220-3650",
+        "authenticated-orcid": false,
+        "given": "Sasu",
+        "family": "Tarkoma",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tuukka",
+        "family": "Petäjä",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Markku",
+        "family": "Kulmala",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0241-6435",
+        "authenticated-orcid": false,
+        "given": "Tareq",
+        "family": "Hussein",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "263",
+    "reference": [
+      {
+        "key": "ref72",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2523813"
+      },
+      {
+        "key": "ref71",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JETCAS.2013.2243032"
+      },
+      {
+        "key": "ref70",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.comnet.2020.107208"
+      },
+      {
+        "key": "ref39",
+        "first-page": "115",
+        "article-title": "Concentration variation of gaseous and particulate pollutants in the Helsinki city centre&#x2014;Observations from a two-year campaign from 2013&#x2013;2015",
+        "volume": "24",
+        "author": "teinilä",
+        "year": "2019",
+        "journal-title": "Boreal Environ Res"
+      },
+      {
+        "key": "ref38",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/360767.360779"
+      },
+      {
+        "key": "ref33",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/d41586-017-08967-y"
+      },
+      {
+        "key": "ref32",
+        "year": "2020",
+        "journal-title": "Helsinki Region Environmental Services"
+      },
+      {
+        "key": "ref31",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/jgrd.50171"
+      },
+      {
+        "key": "ref30",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.atmosenv.2019.06.035"
+      },
+      {
+        "key": "ref37",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/321607.321609"
+      },
+      {
+        "key": "ref36",
+        "first-page": "447",
+        "article-title": "Smart-SMEAR: On-line data exploration and visualization tool for SMEAR stations",
+        "volume": "14",
+        "author": "junninen",
+        "year": "2009",
+        "journal-title": "Boreal Environ Res"
+      },
+      {
+        "key": "ref35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.atmosenv.2018.06.031"
+      },
+      {
+        "key": "ref34",
+        "first-page": "86",
+        "article-title": "The urban measurement station SMEAR III: Continuous monitoring of air pollution and surface&#x2013;atmosphere interactions in Helsinki, Finland",
+        "volume": "14",
+        "author": "jarvi",
+        "year": "2009",
+        "journal-title": "Boreal Environ Res"
+      },
+      {
+        "key": "ref60",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2487575.2488188"
+      },
+      {
+        "key": "ref62",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JPROC.2013.2262913"
+      },
+      {
+        "key": "ref61",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph121214975"
+      },
+      {
+        "key": "ref63",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JSEN.2019.2917435"
+      },
+      {
+        "key": "ref28",
+        "first-page": "69e",
+        "article-title": "The impact of PM2.5 on the human respiratory system",
+        "volume": "8",
+        "author": "xing",
+        "year": "2016",
+        "journal-title": "Thoracic Diseases"
+      },
+      {
+        "key": "ref64",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/COMST.2020.2973314"
+      },
+      {
+        "key": "ref27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.atmosenv.2018.12.053"
+      },
+      {
+        "key": "ref65",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JSEN.2019.2919352"
+      },
+      {
+        "key": "ref66",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/INDIN41052.2019.8972332"
+      },
+      {
+        "key": "ref29",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.jclepro.2019.02.115"
+      },
+      {
+        "key": "ref67",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JSEN.2016.2546839"
+      },
+      {
+        "key": "ref68",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/I2MTC.2015.7151277"
+      },
+      {
+        "key": "ref69",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.comnet.2019.05.004"
+      },
+      {
+        "key": "ref2",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0140-6736(17)32345-0"
+      },
+      {
+        "key": "ref1",
+        "author": "organization",
+        "year": "2019",
+        "journal-title": "How air pollution is destroying our health"
+      },
+      {
+        "key": "ref20",
+        "first-page": "309",
+        "article-title": "Application of ensemble learning techniques to model the atmospheric concentration of SO?",
+        "volume": "5",
+        "author": "masih",
+        "year": "2019",
+        "journal-title": "Global Journal of Environmental Science & Management"
+      },
+      {
+        "key": "ref22",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3233/AIS-2010-0061"
+      },
+      {
+        "key": "ref21",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/ijerph16020258"
+      },
+      {
+        "key": "ref24",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.envres.2017.08.039"
+      },
+      {
+        "key": "ref23",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.buildenv.2018.09.054"
+      },
+      {
+        "key": "ref26",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/jes.2017.11"
+      },
+      {
+        "key": "ref25",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s20010182"
+      },
+      {
+        "key": "ref50",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/3477.558801"
+      },
+      {
+        "key": "ref51",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.neucom.2008.01.030"
+      },
+      {
+        "key": "ref59",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11869-016-0435-y"
+      },
+      {
+        "key": "ref58",
+        "first-page": "1",
+        "article-title": "MegaSense: Cyber-physical system for real-time urban air quality monitoring",
+        "author": "rebeiro-hargrave",
+        "year": "2020",
+        "journal-title": "Proc IEEE Conf Ind Electron Appl (ICIEA)"
+      },
+      {
+        "key": "ref57",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s18030738"
+      },
+      {
+        "key": "ref56",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.engappai.2009.04.002"
+      },
+      {
+        "key": "ref55",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TAC.2018.2813004"
+      },
+      {
+        "key": "ref54",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/ICNN.1997.614194"
+      },
+      {
+        "key": "ref53",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/neco.1992.4.3.415"
+      },
+      {
+        "key": "ref52",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.548162"
+      },
+      {
+        "key": "ref10",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JSEN.2017.2768403"
+      },
+      {
+        "key": "ref11",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s18092843"
+      },
+      {
+        "key": "ref40",
+        "first-page": "1",
+        "article-title": "Air quality sensing process using low-cost sensors: Validation by indoor-outdoor measurements",
+        "author": "motlagh",
+        "year": "2020",
+        "journal-title": "Proc IEEE Conf Ind Electron Appl (ICIEA)"
+      },
+      {
+        "key": "ref12",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/app9224976"
+      },
+      {
+        "key": "ref13",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/TII.2018.2793950"
+      },
+      {
+        "key": "ref14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/app9204475"
+      },
+      {
+        "key": "ref15",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5194/acp-19-12935-2019"
+      },
+      {
+        "key": "ref16",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10098-019-01709-w"
+      },
+      {
+        "key": "ref17",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.scitotenv.2018.10.193"
+      },
+      {
+        "key": "ref18",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.apr.2015.10.022"
+      },
+      {
+        "key": "ref19",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.scitotenv.2018.09.196"
+      },
+      {
+        "key": "ref4",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/JSEN.2015.2499308"
+      },
+      {
+        "key": "ref3",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/INDIN41052.2019.8971963"
+      },
+      {
+        "key": "ref6",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/COMST.2018.2881008"
+      },
+      {
+        "key": "ref5",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.scitotenv.2017.06.266"
+      },
+      {
+        "key": "ref8",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.atmosenv.2016.09.050"
+      },
+      {
+        "key": "ref7",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/MCOM.001.1900515"
+      },
+      {
+        "key": "ref49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/72.80202"
+      },
+      {
+        "key": "ref9",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/3191756"
+      },
+      {
+        "key": "ref46",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1109/INFOCOM.2016.7524478"
+      },
+      {
+        "key": "ref45",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1145/2668332.2668346"
+      },
+      {
+        "key": "ref48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1162/neco.1997.9.8.1735"
+      },
+      {
+        "key": "ref47",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.snb.2016.03.038"
+      },
+      {
+        "key": "ref42",
+        "first-page": "1",
+        "author": "lennart",
+        "year": "1999",
+        "journal-title": "System Identification Theory for the User"
+      },
+      {
+        "key": "ref41",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00207179008934126"
+      },
+      {
+        "key": "ref44",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.snb.2018.04.021"
+      },
+      {
+        "key": "ref43",
+        "first-page": "1",
+        "article-title": "Participatory air pollution monitoring using smartphones",
+        "volume": "1",
+        "author": "hasenfratz",
+        "year": "2012",
+        "journal-title": "Mobile Sensing"
+      }
+    ],
+    "container-title": [
+      "IEEE Sensors Journal"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/7361/9226628/09144227.pdf?arnumber=9144227",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          1,
+          29
+        ]
+      ],
+      "date-time": "2025-01-29T14:12:27Z",
+      "timestamp": 1738159947000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://ieeexplore.ieee.org/document/9144227/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          15
+        ]
+      ]
+    },
+    "references-count": 72,
+    "journal-issue": {
+      "issue": "22"
+    },
+    "URL": "https://doi.org/10.1109/jsen.2020.3010316",
+    "relation": {},
+    "ISSN": [
+      "1530-437X",
+      "1558-1748",
+      "2379-9153"
+    ],
+    "issn-type": [
+      {
+        "value": "1530-437X",
+        "type": "print"
+      },
+      {
+        "value": "1558-1748",
+        "type": "electronic"
+      },
+      {
+        "value": "2379-9153",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          15
+        ]
+      ]
+    }
+  }
+}

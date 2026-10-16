@@ -1,0 +1,260 @@
+{
+  "sha": "2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+  "node_id": "C_kwDOJC0KVdoAKDJmM2E5YTEwZmM4ZWQ2NDkxODZhYWY3MmYyYjAyN2FjNTk3NTQwMzM",
+  "commit": {
+    "author": {
+      "name": "Thomas Leeuw",
+      "email": "Thomas-Leeuw@users.noreply.github.com",
+      "date": "2025-02-04T03:17:06Z"
+    },
+    "committer": {
+      "name": "Thomas Leeuw",
+      "email": "Thomas-Leeuw@users.noreply.github.com",
+      "date": "2025-02-04T03:17:06Z"
+    },
+    "message": "Version 2.4 Release",
+    "tree": {
+      "sha": "5038b7f49bf76141328a140558896d5b79eea667",
+      "url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/git/trees/5038b7f49bf76141328a140558896d5b79eea667"
+    },
+    "url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/git/commits/2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+    "comment_count": 0,
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    }
+  },
+  "url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/commits/2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+  "html_url": "https://github.com/Thomas-Leeuw/HydroColor/commit/2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+  "comments_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/commits/2f3a9a10fc8ed649186aaf72f2b027ac59754033/comments",
+  "author": {
+    "login": "Thomas-Leeuw",
+    "id": 9384594,
+    "node_id": "MDQ6VXNlcjkzODQ1OTQ=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/9384594?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Thomas-Leeuw",
+    "html_url": "https://github.com/Thomas-Leeuw",
+    "followers_url": "https://api.github.com/users/Thomas-Leeuw/followers",
+    "following_url": "https://api.github.com/users/Thomas-Leeuw/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Thomas-Leeuw/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Thomas-Leeuw/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Thomas-Leeuw/subscriptions",
+    "organizations_url": "https://api.github.com/users/Thomas-Leeuw/orgs",
+    "repos_url": "https://api.github.com/users/Thomas-Leeuw/repos",
+    "events_url": "https://api.github.com/users/Thomas-Leeuw/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Thomas-Leeuw/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "Thomas-Leeuw",
+    "id": 9384594,
+    "node_id": "MDQ6VXNlcjkzODQ1OTQ=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/9384594?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Thomas-Leeuw",
+    "html_url": "https://github.com/Thomas-Leeuw",
+    "followers_url": "https://api.github.com/users/Thomas-Leeuw/followers",
+    "following_url": "https://api.github.com/users/Thomas-Leeuw/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Thomas-Leeuw/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Thomas-Leeuw/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Thomas-Leeuw/subscriptions",
+    "organizations_url": "https://api.github.com/users/Thomas-Leeuw/orgs",
+    "repos_url": "https://api.github.com/users/Thomas-Leeuw/repos",
+    "events_url": "https://api.github.com/users/Thomas-Leeuw/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Thomas-Leeuw/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "d8fd5aaa96146d1e5c85f72d8d199d3c9cd04650",
+      "url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/commits/d8fd5aaa96146d1e5c85f72d8d199d3c9cd04650",
+      "html_url": "https://github.com/Thomas-Leeuw/HydroColor/commit/d8fd5aaa96146d1e5c85f72d8d199d3c9cd04650"
+    }
+  ],
+  "stats": {
+    "total": 478,
+    "additions": 222,
+    "deletions": 256
+  },
+  "files": [
+    {
+      "sha": "30466315acbead706e987d3a3ae78865f079b361",
+      "filename": "HydroColor/Controls/CameraPreview.cs",
+      "status": "renamed",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FControls%2FCameraPreview.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FControls%2FCameraPreview.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FControls%2FCameraPreview.cs?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -4,7 +4,7 @@\n using CameraController = HydroColor.Platforms.iOS.CameraController;\n #endif\n \n-namespace HydroColor.ViewModels\n+namespace HydroColor.Controls\n {\n     public class CameraPreview : View\n     {",
+      "previous_filename": "HydroColor/ViewModels/CameraPreview.cs"
+    },
+    {
+      "sha": "6c61ff0191d43c7d49a717d98b2e059562defd53",
+      "filename": "HydroColor/Controls/CameraPreviewHandler.cs",
+      "status": "renamed",
+      "additions": 14,
+      "deletions": 16,
+      "changes": 30,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FControls%2FCameraPreviewHandler.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FControls%2FCameraPreviewHandler.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FControls%2FCameraPreviewHandler.cs?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -1,19 +1,20 @@\n ﻿using Microsoft.Maui.Handlers;\n-using HydroColor.ViewModels;\n+using HydroColor.Controls;\n+\n #if ANDROID\n-using CustomCameraView = HydroColor.Platforms.Android.CustomCameraView;\n+using NativeCameraView = HydroColor.Platforms.Android.NativeCameraView;\n #elif IOS\n-using CustomCameraView = HydroColor.Platforms.iOS.CustomCameraView;\n+using NativeCameraView = HydroColor.Platforms.iOS.NativeCameraView;\n #endif\n \n namespace HydroColor.Handlers\n {\n \n     // This handler class provides the link between the cross platform 'CameraPreview'\n-    // and the platform specific 'CameraPreivewRenderer' and 'CameraController' classes\n+    // and the platform specific 'NativeCameraView' and 'CameraController' classes\n     // The 'CameraPreview' has a 'CameraController' properity. \n \n-    public class CameraPreviewHandler : ViewHandler<CameraPreview, CustomCameraView>\n+    public class CameraPreviewHandler : ViewHandler<CameraPreview, NativeCameraView>\n     {\n         public static IPropertyMapper<CameraPreview, CameraPreviewHandler> PropertyMapper = new PropertyMapper<CameraPreview, CameraPreviewHandler>(ViewHandler.ViewMapper)\n         {\n@@ -29,31 +30,28 @@ public CameraPreviewHandler() : base(PropertyMapper, CommandMapper)\n         {\n         }\n \n-        protected override CustomCameraView CreatePlatformView() => new CustomCameraView();\n+        protected override NativeCameraView CreatePlatformView() => new NativeCameraView();\n \n-        protected override void ConnectHandler(CustomCameraView platformView)\n+        protected override void ConnectHandler(NativeCameraView platformView)\n         {\n             base.ConnectHandler(platformView);\n \n-            // The camera controller need some information about the view dimensions.\n-            // However these dimensions are only correct after the view has been\n+            // The camera controller needs a UI element to display the frames.\n+            // However the dimensions are only correct after the view has been\n             // fully laid out. So the view information is passed to the camera controller\n             // in this custom LayoutFinished event.\n             platformView.LayoutFinishedEvent += ((object sender, EventArgs e) =>\n             {\n #if ANDROID\n-                VirtualView.CameraControl.mTextureView = platformView.textureView;\n-                platformView.SetViewDimensions(VirtualView.CameraControl.GetRearFacingCameraCharacteristics());\n-\n+                VirtualView.CameraControl.SetTextureView(platformView.textureView);\n #elif IOS\n-                VirtualView.CameraControl.UILayer = platformView.Layer;\n-                VirtualView.CameraControl.UIBounds = platformView.Bounds;\n+                VirtualView.CameraControl.SetCALayer(platformView.Layer);\n #endif\n-                VirtualView.LayoutFinished = true;\n+                VirtualView.LayoutFinished = true; // set layout finished property on the 'CameraPreview' control\n             });\n         }\n \n-        protected override void DisconnectHandler(CustomCameraView platformView)\n+        protected override void DisconnectHandler(NativeCameraView platformView)\n         {\n             platformView.Dispose();\n             base.DisconnectHandler(platformView);",
+      "previous_filename": "HydroColor/Handlers/CameraPreviewHandler.cs"
+    },
+    {
+      "sha": "09b3d587da5122a13e16b9b63e1fbccda1883410",
+      "filename": "HydroColor/HydroColor.csproj",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 19,
+      "changes": 22,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FHydroColor.csproj",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FHydroColor.csproj",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FHydroColor.csproj?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -19,30 +19,14 @@\n \t\t<ApplicationIdGuid>40AF2490-DBFC-4C69-83AF-7F0E312CDDE2</ApplicationIdGuid>\n \n \t\t<!-- Versions -->\n-\t\t<ApplicationDisplayVersion>2.3</ApplicationDisplayVersion>\n-\t\t<ApplicationVersion>6</ApplicationVersion>\n+\t\t<ApplicationDisplayVersion>2.4</ApplicationDisplayVersion>\n+\t\t<ApplicationVersion>7</ApplicationVersion>\n \n \t\t<SupportedOSPlatformVersion Condition=\"$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'\">15.0</SupportedOSPlatformVersion>\n \t\t<SupportedOSPlatformVersion Condition=\"$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'android'\">21.0</SupportedOSPlatformVersion>\n \t</PropertyGroup>\n \n-\t<PropertyGroup Condition=\"'$(TargetFramework)'=='net9.0-ios' and '$(Configuration)' == 'Debug'\">\n-\t  <CodesignKey>Apple Development: Created via API (S4222GC659)</CodesignKey>\n-\t  <CodesignProvision>VS: WildCard Development</CodesignProvision>\n-\t</PropertyGroup>\n-  \n-  <PropertyGroup Condition=\"$(TargetFramework.Contains('-ios')) and '$(Configuration)' == 'Release'\">\n-\t\t<RuntimeIdentifier>ios-arm64</RuntimeIdentifier>\n-\t\t<CodesignKey>Apple Distribution: Thomas Leeuw (QYE35RULW5)</CodesignKey>\n-\t\t<CodesignProvision>HydroColorProvProfile</CodesignProvision>\n-\t</PropertyGroup>\n-  \n-  <PropertyGroup Condition=\"'$(TargetFramework)'=='net9.0-ios'\">\n-    <ProvisioningType>automatic</ProvisioningType>\n-    <CodesignKey>Apple Development: Created via API (S4222GC659)</CodesignKey>\n-    <CodesignProvision>VS: com.H2Optics.HydroColor Development</CodesignProvision>\n-  </PropertyGroup>\n-  \n+\n \n   <ItemGroup>\n \t\t<!-- App Icon -->"
+    },
+    {
+      "sha": "fc768ecb4d7c2710a0bdefa06a68d5b1b0b3d8da",
+      "filename": "HydroColor/MauiProgram.cs",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 2,
+      "changes": 5,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FMauiProgram.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FMauiProgram.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FMauiProgram.cs?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -1,4 +1,5 @@\n ﻿using CommunityToolkit.Maui;\n+using HydroColor.Controls;\n using HydroColor.ViewModels;\n using HydroColor.Views;\n \n@@ -20,12 +21,12 @@ public static MauiApp CreateMauiApp()\n             })\n             .ConfigureMauiHandlers(handlers =>\n             {\n-                handlers.AddHandler(typeof(CameraPreview), typeof(Handlers.CameraPreviewHandler));\n+                handlers.AddHandler<CameraPreview, Handlers.CameraPreviewHandler>();\n \n #if IOS\n                 // Added a custom shell to disable animation when switching tabs.\n                 // The animation was causing a flicker when switching tabs on iOS.\n-                handlers.AddHandler(typeof(Shell), typeof(HydroColor.Platforms.iOS.CustomShell));\n+                handlers.AddHandler<Shell, Platforms.iOS.CustomShell>();\n #endif\n             });\n "
+    },
+    {
+      "sha": "569503c41b251ebce062d0f7aeaf5227e489f8d9",
+      "filename": "HydroColor/Platforms/Android/AndroidManifest.xml",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FAndroid%2FAndroidManifest.xml",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FAndroid%2FAndroidManifest.xml",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FPlatforms%2FAndroid%2FAndroidManifest.xml?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -1,5 +1,5 @@\n ﻿<?xml version=\"1.0\" encoding=\"utf-8\"?>\n-<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\" package=\"com.h2optics.hydrocolor\" android:versionCode=\"14\" android:versionName=\"2.3\">\n+<manifest xmlns:android=\"http://schemas.android.com/apk/res/android\" package=\"com.h2optics.hydrocolor\" android:versionCode=\"15\" android:versionName=\"2.4\">\n \t<application android:allowBackup=\"true\" android:icon=\"@mipmap/appicon\" android:supportsRtl=\"false\" android:label=\"HydroColor\">\n \t\t<meta-data android:name=\"com.google.android.geo.API_KEY\" android:value=\"<google_api_key>\" />\n \t\t<meta-data android:name=\"com.google.android.gms.version\" android:value=\"@integer/google_play_services_version\" />"
+    },
+    {
+      "sha": "7fa47c915ccba8b72810f7c35a314ac58c285115",
+      "filename": "HydroColor/Platforms/Android/AutoFitTextureView.cs",
+      "status": "modified",
+      "additions": 0,
+      "deletions": 19,
+      "changes": 19,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FAndroid%2FAutoFitTextureView.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FAndroid%2FAutoFitTextureView.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FPlatforms%2FAndroid%2FAutoFitTextureView.cs?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -2,15 +2,13 @@\n using Android.Runtime;\n using Android.Util;\n using Android.Views;\n-using Color = Android.Graphics.Color;\n \n namespace HydroColor.Platforms.Android\n {\n     public class AutoFitTextureView : TextureView\n     {\n         int mRatioWidth = 0;\n         int mRatioHeight = 0;\n-        readonly object locker = new object();\n \n         public AutoFitTextureView(Context context) : this(context, null)\n         {\n@@ -63,22 +61,5 @@ protected override void OnMeasure(int widthMeasureSpec, int heightMeasureSpec)\n                 }\n             }\n         }\n-\n-        public void ClearCanvas(Color color)\n-        {\n-            using var canvas = LockCanvas(null);\n-            lock (locker)\n-            {\n-                try\n-                {\n-                    canvas.DrawColor(color);\n-                }\n-                finally\n-                {\n-                    UnlockCanvasAndPost(canvas);\n-                }\n-                Invalidate();\n-            }\n-        }\n     }\n }"
+    },
+    {
+      "sha": "31388db06709509303e6b3ecf0b1c11954d4becb",
+      "filename": "HydroColor/Platforms/Android/CameraController.cs",
+      "status": "modified",
+      "additions": 114,
+      "deletions": 5,
+      "changes": 119,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FAndroid%2FCameraController.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FAndroid%2FCameraController.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FPlatforms%2FAndroid%2FCameraController.cs?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -10,16 +10,17 @@\n using Android.Content;\n using HydroColor.Models;\n using HydroColor.Platforms.Android.Callbacks;\n-using HydroColor.Services;\n-using HydroColor.Resources.Strings;\n+using Java.Util;\n+using Java.Lang;\n \n namespace HydroColor.Platforms.Android\n {\n     public class CameraController\n     {\n         public event EventHandler<ImageCaptureEventArgs> ImageCaptureCompletedEvent;\n+        public HydroColorRawImageData mImageDataModel;\n \n-        public AutoFitTextureView mTextureView;\n+        AutoFitTextureView mTextureView;\n         Surface mOutputSurface;\n \n         HandlerThread mBackgroundThread;\n@@ -38,7 +39,6 @@ public class CameraController\n         ImageReader mRawImageReader;\n \n         TotalCaptureResult mTotalCaptureResult;\n-        public HydroColorRawImageData mImageDataModel;\n \n         public CameraCharacteristics GetRearFacingCameraCharacteristics()\n         {\n@@ -350,7 +350,96 @@ private void OnImageCaptureCompleted()\n             };\n \n             ImageCaptureCompletedEvent.Invoke(this, capArgs);\n-    }\n+        }\n+\n+        public void SetTextureView(AutoFitTextureView textureView)\n+        {\n+            mTextureView = textureView;\n+            ConfigureTextureViewSize(GetRearFacingCameraCharacteristics());\n+        }\n+\n+        public AutoFitTextureView GetTextureView()\n+        {\n+            return mTextureView;\n+        }\n+\n+        Size ConfigureTextureViewSize(CameraCharacteristics cameraCharacteristics)\n+        {\n+            if (cameraCharacteristics == null)\n+            {\n+                return new Size(0, 0);\n+            }\n+\n+            var map = (StreamConfigurationMap)cameraCharacteristics.Get(CameraCharacteristics.ScalerStreamConfigurationMap);\n+\n+            // For still image captures, we always use the largest available size.\n+            Size largestJpeg = (Size)Collections.Max(Arrays.AsList(map.GetOutputSizes((int)ImageFormatType.Jpeg)),\n+                                   new CompareSizesByArea());\n+\n+            // Swap the view dimensions as needed if they are rotated relative to\n+            // the sensor.\n+            int sensorOrientation = (int)cameraCharacteristics.Get(CameraCharacteristics.SensorOrientation);\n+            bool swappedDimensions = sensorOrientation == 90 || sensorOrientation == 270;\n+            int rotatedViewWidth = mTextureView.Width;\n+            int rotatedViewHeight = mTextureView.Height;\n+            if (swappedDimensions)\n+            {\n+                rotatedViewWidth = mTextureView.Height;\n+                rotatedViewHeight = mTextureView.Width;\n+            }\n+\n+\n+            // Find the best preview size for these view dimensions and configured JPEG size.\n+            Size previewSize = ChooseOptimalSize(map.GetOutputSizes(Class.FromType(typeof(SurfaceTexture))),\n+                                   rotatedViewWidth, rotatedViewHeight, largestJpeg);\n+\n+            if (swappedDimensions)\n+            {\n+                mTextureView.SetAspectRatio(\n+                    previewSize.Height, previewSize.Width);\n+            }\n+            else\n+            {\n+                mTextureView.SetAspectRatio(\n+                    previewSize.Width, previewSize.Height);\n+            }\n+\n+            // height and width of the buffer needs to match the image height and width, not the \n+            // texture view. So the dimensions are not swapped.\n+            mTextureView.SurfaceTexture.SetDefaultBufferSize(previewSize.Width, previewSize.Height);\n+\n+            return previewSize;\n+\n+        }\n+\n+        Size ChooseOptimalSize(Size[] choices, int width, int height, Size aspectRatio)\n+        {\n+            // Collect the supported resolutions that are at least as big as the preview Surface\n+            List<Size> bigEnough = new List<Size>();\n+            int w = aspectRatio.Width;\n+            int h = aspectRatio.Height;\n+            foreach (Size option in choices)\n+            {\n+                if (option.Height == option.Width * h / w &&\n+                    option.Width >= width && option.Height >= height)\n+                {\n+                    bigEnough.Add(option);\n+                }\n+            }\n+\n+            // Pick the smallest of those, assuming we found any\n+            if (bigEnough.Count > 0)\n+            {\n+                return (Size)Collections.Min(bigEnough, new CompareSizesByArea());\n+            }\n+            else\n+            {\n+                // None found\n+                return choices[0];\n+            }\n+        }\n+\n+\n \n         void StartBackgroundThread()\n         {\n@@ -391,4 +480,24 @@ public void CloseCamera()\n             StopBackgroundThread();\n         }\n     }\n+\n+    class CompareSizesByArea : Java.Lang.Object, IComparator\n+    {\n+        public int Compare(Size lhs, Size rhs)\n+        {\n+            // We cast here to ensure the multiplications won't overflow\n+            return Long.Signum((long)lhs.Width * lhs.Height -\n+            (long)rhs.Width * rhs.Height);\n+        }\n+\n+        int IComparator.Compare(Java.Lang.Object lhs, Java.Lang.Object rhs)\n+        {\n+            return 0;\n+        }\n+\n+        bool IComparator.Equals(Java.Lang.Object @object)\n+        {\n+            return false;\n+        }\n+    }\n }"
+    },
+    {
+      "sha": "24c658feb916b2d5e1a837463a457282d92c468a",
+      "filename": "HydroColor/Platforms/Android/CustomCameraView.cs",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 179,
+      "changes": 179,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/d8fd5aaa96146d1e5c85f72d8d199d3c9cd04650/HydroColor%2FPlatforms%2FAndroid%2FCustomCameraView.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/d8fd5aaa96146d1e5c85f72d8d199d3c9cd04650/HydroColor%2FPlatforms%2FAndroid%2FCustomCameraView.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FPlatforms%2FAndroid%2FCustomCameraView.cs?ref=d8fd5aaa96146d1e5c85f72d8d199d3c9cd04650",
+      "patch": "@@ -1,179 +0,0 @@\n-﻿using Android.App;\n-using Android.Graphics;\n-using Android.Hardware.Camera2;\n-using Android.Hardware.Camera2.Params;\n-using Android.Views;\n-using Android.Widget;\n-using Java.Lang;\n-using Java.Util;\n-using Size = Android.Util.Size;\n-using View = Android.Views.View;\n-\n-namespace HydroColor.Platforms.Android\n-{\n-    public class CustomCameraView : FrameLayout, TextureView.ISurfaceTextureListener\n-    {\n-        public event EventHandler LayoutFinishedEvent;\n-\n-        View view;\n-        public AutoFitTextureView textureView;\n-\n-        public CustomCameraView() : base(Platform.CurrentActivity)\n-        {\n-            SetupView();\n-        }\n-\n-        void SetupView()\n-        {\n-\n-            Activity activity = this.Context as Activity;\n-            view = activity.LayoutInflater.Inflate(Resource.Layout.CameraLayout, this, false);\n-\n-            textureView = view.FindViewById<AutoFitTextureView>(Resource.Id.textureView);\n-            textureView.SurfaceTextureListener = this;\n-\n-            AddView(view);\n-\n-        }\n-\n-        public void SetViewDimensions(CameraCharacteristics cameraCharacteristics)\n-        {\n-            ConfigureTransform(cameraCharacteristics, textureView.Width, textureView.Height);\n-        }\n-\n-        protected override void OnLayout(bool changed, int l, int t, int r, int b)\n-        {\n-            base.OnLayout(changed, l, t, r, b);\n-\n-            var msw = MeasureSpec.MakeMeasureSpec(r - l, MeasureSpecMode.Exactly);\n-            var msh = MeasureSpec.MakeMeasureSpec(b - t, MeasureSpecMode.Exactly);\n-\n-            view.Measure(msw, msh);\n-\n-            view.Layout(0, Height / 2 - textureView.Height / 2, r - l, b - t);\n-\n-        }\n-\n-        #region ISurfaceTextureListener\n-\n-        public void OnSurfaceTextureUpdated(SurfaceTexture surface)\n-        {\n-        }\n-\n-        public void OnSurfaceTextureAvailable(SurfaceTexture surface, int width, int height)\n-        {\n-            LayoutFinishedEvent.Invoke(this, EventArgs.Empty);\n-        }\n-\n-        public bool OnSurfaceTextureDestroyed(SurfaceTexture surface)\n-        {\n-            return true;\n-        }\n-\n-        public void OnSurfaceTextureSizeChanged(SurfaceTexture surface, int width, int height)\n-        {\n-        }\n-\n-        #endregion\n-\n-\n-        #region ConfigureCameraPreviewTransform\n-\n-        Size ConfigureTransform(CameraCharacteristics cameraCharacteristics, int viewWidth, int viewHeight)\n-        {\n-            if (cameraCharacteristics == null)\n-            {\n-                return new Size(0, 0);\n-            }\n-\n-            var map = (StreamConfigurationMap)cameraCharacteristics.Get(CameraCharacteristics.ScalerStreamConfigurationMap);\n-\n-            // For still image captures, we always use the largest available size.\n-            Size largestJpeg = (Size)Collections.Max(Arrays.AsList(map.GetOutputSizes((int)ImageFormatType.Jpeg)),\n-                                   new CompareSizesByArea());\n-\n-            // Swap the view dimensions as needed if they are rotated relative to\n-            // the sensor.\n-            int sensorOrientation = (int)cameraCharacteristics.Get(CameraCharacteristics.SensorOrientation);\n-            bool swappedDimensions = sensorOrientation == 90 || sensorOrientation == 270;\n-            int rotatedViewWidth = viewWidth;\n-            int rotatedViewHeight = viewHeight;\n-            if (swappedDimensions)\n-            {\n-                rotatedViewWidth = viewHeight;\n-                rotatedViewHeight = viewWidth;\n-            }\n-\n-\n-            // Find the best preview size for these view dimensions and configured JPEG size.\n-            Size previewSize = ChooseOptimalSize(map.GetOutputSizes(Class.FromType(typeof(SurfaceTexture))),\n-                                   rotatedViewWidth, rotatedViewHeight, largestJpeg);\n-\n-            if (swappedDimensions)\n-            {\n-                textureView.SetAspectRatio(\n-                    previewSize.Height, previewSize.Width);\n-            }\n-            else\n-            {\n-                textureView.SetAspectRatio(\n-                    previewSize.Width, previewSize.Height);\n-            }\n-\n-            return previewSize;\n-\n-        }\n-\n-        Size ChooseOptimalSize(Size[] choices, int width, int height, Size aspectRatio)\n-        {\n-            // Collect the supported resolutions that are at least as big as the preview Surface\n-            List<Size> bigEnough = new List<Size>();\n-            int w = aspectRatio.Width;\n-            int h = aspectRatio.Height;\n-            foreach (Size option in choices)\n-            {\n-                if (option.Height == option.Width * h / w &&\n-                    option.Width >= width && option.Height >= height)\n-                {\n-                    bigEnough.Add(option);\n-                }\n-            }\n-\n-            // Pick the smallest of those, assuming we found any\n-            if (bigEnough.Count > 0)\n-            {\n-                return (Size)Collections.Min(bigEnough, new CompareSizesByArea());\n-            }\n-            else\n-            {\n-                // None found\n-                return choices[0];\n-            }\n-        }\n-\n-        #endregion\n-\n-    }\n-\n-    class CompareSizesByArea : Java.Lang.Object, IComparator\n-    {\n-        public int Compare(Size lhs, Size rhs)\n-        {\n-            // We cast here to ensure the multiplications won't overflow\n-            return Long.Signum((long)lhs.Width * lhs.Height -\n-            (long)rhs.Width * rhs.Height);\n-        }\n-\n-        int IComparator.Compare(Java.Lang.Object lhs, Java.Lang.Object rhs)\n-        {\n-            return 0;\n-        }\n-\n-        bool IComparator.Equals(Java.Lang.Object @object)\n-        {\n-            return false;\n-        }\n-    }\n-\n-\n-}\n\\ No newline at end of file"
+    },
+    {
+      "sha": "16582eb69a626b6f5160baf88c229c177557daef",
+      "filename": "HydroColor/Platforms/Android/NativeCameraView.cs",
+      "status": "added",
+      "additions": 64,
+      "deletions": 0,
+      "changes": 64,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FAndroid%2FNativeCameraView.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FAndroid%2FNativeCameraView.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FPlatforms%2FAndroid%2FNativeCameraView.cs?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -0,0 +1,64 @@\n+﻿using Android.App;\n+using Android.Graphics;\n+using Android.Views;\n+using Android.Widget;\n+using View = Android.Views.View;\n+\n+namespace HydroColor.Platforms.Android\n+{\n+    public class NativeCameraView : FrameLayout, TextureView.ISurfaceTextureListener\n+    {\n+        public event EventHandler LayoutFinishedEvent;\n+        public AutoFitTextureView textureView { get; private set; }\n+\n+        View view;\n+\n+        public NativeCameraView() : base(Platform.CurrentActivity)\n+        {\n+            SetupView();\n+        }\n+\n+        void SetupView()\n+        {\n+            Activity activity = this.Context as Activity;\n+            view = activity.LayoutInflater.Inflate(Resource.Layout.CameraLayout, this, false);\n+\n+            textureView = view.FindViewById<AutoFitTextureView>(Resource.Id.textureView);\n+            textureView.SurfaceTextureListener = this;\n+\n+            AddView(view);\n+        }\n+\n+        protected override void OnLayout(bool changed, int l, int t, int r, int b)\n+        {\n+            base.OnLayout(changed, l, t, r, b);\n+\n+            var msw = MeasureSpec.MakeMeasureSpec(r - l, MeasureSpecMode.Exactly);\n+            var msh = MeasureSpec.MakeMeasureSpec(b - t, MeasureSpecMode.Exactly);\n+\n+            view.Measure(msw, msh);\n+\n+            view.Layout(0, Height / 2 - textureView.Height / 2, r - l, b - t);\n+\n+        }\n+\n+        public void OnSurfaceTextureUpdated(SurfaceTexture surface)\n+        {\n+        }\n+\n+        public void OnSurfaceTextureAvailable(SurfaceTexture surface, int width, int height)\n+        {\n+            LayoutFinishedEvent.Invoke(this, EventArgs.Empty);\n+        }\n+\n+        public bool OnSurfaceTextureDestroyed(SurfaceTexture surface)\n+        {\n+            return true;\n+        }\n+\n+        public void OnSurfaceTextureSizeChanged(SurfaceTexture surface, int width, int height)\n+        {\n+        }\n+    }\n+\n+}\n\\ No newline at end of file"
+    },
+    {
+      "sha": "5d7652c2dc7fa5ecd1af8d6711a93e7fd38cc94a",
+      "filename": "HydroColor/Platforms/iOS/CameraController.cs",
+      "status": "modified",
+      "additions": 13,
+      "deletions": 7,
+      "changes": 20,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FiOS%2FCameraController.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FiOS%2FCameraController.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FPlatforms%2FiOS%2FCameraController.cs?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -5,18 +5,14 @@\n using CoreVideo;\n using Foundation;\n using HydroColor.Models;\n-using HydroColor.Resources.Strings;\n-using HydroColor.Services;\n-using static Microsoft.Maui.ApplicationModel.Permissions;\n \n namespace HydroColor.Platforms.iOS\n {\n     public class CameraController\n     {\n         public event EventHandler<ImageCaptureEventArgs> ImageCaptureCompletedEvent;\n \n-        public CALayer UILayer;\n-        public CGRect UIBounds;\n+        public CALayer mCALayer;\n \n         HydroColorRawImageData mImageData = new();\n \n@@ -49,6 +45,16 @@ public CameraController()\n             };\n         }\n \n+        public void SetCALayer(CALayer layer)\n+        {\n+            mCALayer = layer;\n+        }\n+\n+        public CALayer GetCALayer()\n+        {\n+            return mCALayer;\n+        }\n+\n         public bool OpenCamera()\n         {\n \n@@ -82,11 +88,11 @@ public bool OpenCamera()\n \n             mPreviewLayer = new AVCaptureVideoPreviewLayer(mCaptureSession)\n             {\n-                Frame = UIBounds,\n+                Frame = mCALayer.Bounds,\n                 VideoGravity = AVLayerVideoGravity.ResizeAspect,\n             };\n   \n-            UILayer.AddSublayer(mPreviewLayer);\n+            mCALayer.AddSublayer(mPreviewLayer);\n             mCaptureSession.StartRunning();\n \n             return true;"
+    },
+    {
+      "sha": "1701eea1ddacf7a21ba4cf04afbd63c672e0c994",
+      "filename": "HydroColor/Platforms/iOS/Info.plist",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FiOS%2FInfo.plist",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FiOS%2FInfo.plist",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FPlatforms%2FiOS%2FInfo.plist?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -42,10 +42,10 @@\n \t<key>CFBundleDisplayName</key>\n \t<string>HydroColor</string>\n \t<key>CFBundleShortVersionString</key>\n-\t<string>2.3</string>\n+\t<string>2.4</string>\n \t<key>MinimumOSVersion</key>\n \t<string>15.0</string>\n \t<key>CFBundleVersion</key>\n-\t<string>6</string>\n+\t<string>7</string>\n </dict>\n </plist>"
+    },
+    {
+      "sha": "41ce4dffc81008d21567495b534a2d5645226aad",
+      "filename": "HydroColor/Platforms/iOS/NativeCameraView.cs",
+      "status": "renamed",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FiOS%2FNativeCameraView.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FPlatforms%2FiOS%2FNativeCameraView.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FPlatforms%2FiOS%2FNativeCameraView.cs?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -2,7 +2,7 @@\n \n namespace HydroColor.Platforms.iOS\n {\n-    public class CustomCameraView : UIView\n+    public class NativeCameraView : UIView\n     {\n         public event EventHandler LayoutFinishedEvent;\n ",
+      "previous_filename": "HydroColor/Platforms/iOS/CustomCameraView.cs"
+    },
+    {
+      "sha": "90916fc4e8ef3a10cda6d82c9c20e82e2c324c05",
+      "filename": "HydroColor/ViewModels/CaptureImageViewModel.cs",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FViewModels%2FCaptureImageViewModel.cs",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FViewModels%2FCaptureImageViewModel.cs",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FViewModels%2FCaptureImageViewModel.cs?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -86,6 +86,7 @@ public CaptureImageViewModel()\n             camControl.ImageCaptureCompletedEvent += ImageCaptureCompleted;\n         }\n \n+        // need to wait for the layout to finish before opening the camera\n         async partial void OnCameraPreviewLayoutFinishedChanged(bool value)\n         {\n             // Check camera permission"
+    },
+    {
+      "sha": "83878061692f93efc6516bb8997e27986de45bdd",
+      "filename": "HydroColor/Views/CaptureImageView.xaml",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 4,
+      "changes": 9,
+      "blob_url": "https://github.com/Thomas-Leeuw/HydroColor/blob/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FViews%2FCaptureImageView.xaml",
+      "raw_url": "https://github.com/Thomas-Leeuw/HydroColor/raw/2f3a9a10fc8ed649186aaf72f2b027ac59754033/HydroColor%2FViews%2FCaptureImageView.xaml",
+      "contents_url": "https://api.github.com/repos/Thomas-Leeuw/HydroColor/contents/HydroColor%2FViews%2FCaptureImageView.xaml?ref=2f3a9a10fc8ed649186aaf72f2b027ac59754033",
+      "patch": "@@ -6,6 +6,7 @@\n              xmlns:toolkit=\"http://schemas.microsoft.com/dotnet/2022/maui/toolkit\"\n              xmlns:strings=\"clr-namespace:HydroColor.Resources.Strings\"\n              xmlns:views=\"clr-namespace:HydroColor.Views\"\n+             xmlns:controls=\"clr-namespace:HydroColor.Controls\"\n              x:DataType=\"viewmodels:CaptureImageViewModel\"\n              x:Class=\"HydroColor.Views.CaptureImageView\"\n              Title=\"{Binding ImageType.DisplayName}\"\n@@ -76,21 +77,21 @@\n             FontSize=\"22\"\n             IsVisible=\"{Binding ShowNumericTiltAndHeading}\"/>\n \n-        <viewmodels:CameraPreview\n+        <controls:CameraPreview\n             x:Name=\"cameraPreview\"\n             Grid.Row=\"0\" \n             Grid.Column=\"1\" \n             Margin=\"20\"\n             LayoutFinished=\"{Binding CameraPreviewLayoutFinished}\"\n             CameraControl=\"{Binding CamControl}\">\n-        </viewmodels:CameraPreview>\n+        </controls:CameraPreview>\n \n         <Border Grid.Row=\"0\" Grid.Column=\"1\" \n                 StrokeThickness=\"{OnPlatform 8, iOS=8, Android=4}\" \n                 VerticalOptions=\"Center\" \n                 HorizontalOptions=\"Center\"\n-                WidthRequest=\"{Binding Source={x:Reference cameraPreview}, Path=Width, Converter={StaticResource CameraBoxOverlayWidthConverter}, x:DataType=viewmodels:CameraPreview}\"\n-                HeightRequest=\"{Binding Source={x:Reference cameraPreview}, Path=Width, Converter={StaticResource CameraBoxOverlayWidthConverter}, x:DataType=viewmodels:CameraPreview}\"\n+                WidthRequest=\"{Binding Source={x:Reference cameraPreview}, Path=Width, Converter={StaticResource CameraBoxOverlayWidthConverter}, x:DataType=controls:CameraPreview}\"\n+                HeightRequest=\"{Binding Source={x:Reference cameraPreview}, Path=Width, Converter={StaticResource CameraBoxOverlayWidthConverter}, x:DataType=controls:CameraPreview}\"\n                 BackgroundColor=\"Transparent\"\n                 Stroke=\"{Binding CaptureButtonColor}\">\n             <Border.StrokeShape>"
+    }
+  ]
+}

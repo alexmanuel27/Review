@@ -1,0 +1,1140 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ],
+      "date-time": "2026-09-02T04:00:19Z",
+      "timestamp": 1788321619202,
+      "version": "build-2803163510"
+    },
+    "reference-count": 84,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2018-11-01T00:00:00Z",
+          "timestamp": 1541030400000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "funder": [
+      {
+        "name": "Brazilian National Council for Scientific and Technological Development",
+        "award": [
+          "448945/2014-2"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "448945/2014-2"
+            ]
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Marine Pollution Bulletin"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.marpolbul.2018.08.031",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          6
+        ]
+      ],
+      "date-time": "2018-09-06T14:16:36Z",
+      "timestamp": 1536243396000
+    },
+    "page": "38-49",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 20,
+    "special_numbering": "C",
+    "title": [
+      "Hydrocarbon and sewage contamination near fringing reefs along the west coast of Havana, Cuba: A multiple sedimentary molecular marker approach"
+    ],
+    "prefix": "10.1016",
+    "volume": "136",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2515-5565",
+        "authenticated-orcid": false,
+        "given": "César C.",
+        "family": "Martins",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Susel",
+        "family": "Castellanos-Iglesias",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ana Caroline",
+        "family": "Cabral",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Amanda Câmara",
+        "family": "de Souza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mariana Aliceda",
+        "family": "Ferraz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thiago Pereira",
+        "family": "Alves",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0005",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1016/0304-4203(95)00098-4",
+        "article-title": "Lipid geochemistry of surficial sediments from the coastal environment of Egypt I. Aliphatic hydrocarbons - characterization and sources",
+        "volume": "54",
+        "author": "Aboul-Kassim",
+        "year": "1996",
+        "journal-title": "Mar. Chem."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1016/j.chemosphere.2013.11.052",
+        "article-title": "Sedimentary biomarkers along a contamination gradient in a human-impacted sub-estuary in Southern Brazil: a multi-parameter approach based on spatial and seasonal variability",
+        "volume": "103",
+        "author": "Abreu-Mota",
+        "year": "2014",
+        "journal-title": "Chemosphere"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "126",
+        "DOI": "10.1016/S0147-6513(03)00104-0",
+        "article-title": "Fish assemblages on fringe coral reefs of the northern coast of Cuba near Havana Harbor",
+        "volume": "58",
+        "author": "Aguilar",
+        "year": "2004",
+        "journal-title": "Ecotoxicol. Environ. Saf."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0020",
+        "first-page": "79",
+        "article-title": "Contexto ambiental para el manejo integrado del Río Luyanó, Ciudad Habana, Cuba",
+        "volume": "27",
+        "author": "Alvarez",
+        "year": "2006",
+        "journal-title": "Rev. Investig. Mar."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0025",
+        "first-page": "11",
+        "article-title": "Modelación numérica de corrientes marinas alrededor del occidente de Cuba",
+        "volume": "10",
+        "author": "Arriaza",
+        "year": "2012",
+        "journal-title": "Ser. Oceanol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "734",
+        "DOI": "10.1016/0025-326X(96)00034-3",
+        "article-title": "Distribution and origin of hydrocarbons in sediments from lagoons with fringing mangrove communities",
+        "volume": "32",
+        "author": "Bernard",
+        "year": "1996",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "183",
+        "DOI": "10.1016/j.marpolbul.2015.04.024",
+        "article-title": "Sedimentary hydrocarbons and sterols in a South Atlantic estuarine/shallow continental shelf transitional environment under oil terminal and grain port influences",
+        "volume": "95",
+        "author": "Bet",
+        "year": "2015",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1784",
+        "DOI": "10.1016/j.marpolbul.2006.09.011",
+        "article-title": "Assessment of contamination by polychlorinated biphenyls and aliphatic and aromatic hydrocarbons in sediments of the Santos and São Vicente Estuary System, São Paulo, Brazil",
+        "volume": "52",
+        "author": "Bícego",
+        "year": "2006",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0045",
+        "doi-asserted-by": "crossref",
+        "first-page": "974",
+        "DOI": "10.1126/science.140.3570.974",
+        "article-title": "Pristane in zooplankton",
+        "volume": "140",
+        "author": "Blumer",
+        "year": "1963",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0050",
+        "doi-asserted-by": "crossref",
+        "first-page": "261",
+        "DOI": "10.1039/B712809F",
+        "article-title": "Quantification and source identification of polycyclic aromatic hydrocarbons in sediment, soil, and water spinach from Hanoi, Vietnam",
+        "volume": "10",
+        "author": "Boll",
+        "year": "2008",
+        "journal-title": "J. Environ. Monit."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0055",
+        "first-page": "90",
+        "article-title": "Prueba de un índice de contaminación orgánica urbana basado en comunidades de esponjas de arrecifes de Cuba",
+        "volume": "10",
+        "author": "Busutil",
+        "year": "2012",
+        "journal-title": "Ser. Oceanol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "1071",
+        "DOI": "10.1016/j.envpol.2018.06.032",
+        "article-title": "Insights about sources, distribution, and degradation of sewage and biogenic molecular markers in surficial sediments and suspended particulate matter from a human-impacted subtropical estuary",
+        "volume": "241",
+        "author": "Cabral",
+        "year": "2018",
+        "journal-title": "Environ. Pollut."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "739",
+        "DOI": "10.1016/j.envpol.2017.12.109",
+        "article-title": "An integrated evaluation of some faecal indicator bacteria (FIB) and chemical markers as potential tools for monitoring sewage contamination in subtropical estuaries",
+        "volume": "235",
+        "author": "Cabral",
+        "year": "2018",
+        "journal-title": "Environ. Pollut."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "563",
+        "DOI": "10.1016/0146-6380(93)90024-6",
+        "article-title": "Seasonal variations in the sources and alteration of organic matter associated with recently-deposited sediments",
+        "volume": "20",
+        "author": "Canuel",
+        "year": "1993",
+        "journal-title": "Org. Geochem."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "219",
+        "DOI": "10.1016/j.envpol.2016.04.011",
+        "article-title": "A critical and comparative appraisal of polycyclic aromatic hydrocarbons in sediments and suspended particulate material from a large South American subtropical estuary",
+        "volume": "214",
+        "author": "Cardoso",
+        "year": "2016",
+        "journal-title": "Environ. Pollut."
+      },
+      {
+        "issue": "e6324",
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0080",
+        "first-page": "1",
+        "article-title": "Local stressors reduce coral resilience to bleaching",
+        "volume": "4",
+        "author": "Carilli",
+        "year": "2009",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0085",
+        "doi-asserted-by": "crossref",
+        "first-page": "587",
+        "DOI": "10.1016/j.ecss.2004.02.014",
+        "article-title": "Sterols as markers of sewage contamination in a tropical urban estuary (Guanabara Bay, Brazil): space–time variations",
+        "volume": "60",
+        "author": "Carreira",
+        "year": "2004",
+        "journal-title": "Estuar. Coast. Shelf Sci."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "192",
+        "DOI": "10.1016/j.watres.2017.06.061",
+        "article-title": "Urban sewage lipids in the suspended particulate matter of a coral reef under river influence in the South West Gulf of Mexico",
+        "volume": "123",
+        "author": "Carreón-Palau",
+        "year": "2017",
+        "journal-title": "Water Res."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "568",
+        "DOI": "10.1016/j.marpolbul.2018.06.003",
+        "article-title": "Organic contamination as a driver of structural changes of hydroid's assemblages of the coral reefs near to Havana Harbour, Cuba",
+        "volume": "133",
+        "author": "Castellanos-Iglesias",
+        "year": "2018",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "77",
+        "DOI": "10.1016/0141-1136(95)90001-8",
+        "article-title": "Molecular markers in Tokyo bay sediments: sources and distribution",
+        "volume": "40",
+        "author": "Chalaux",
+        "year": "1995",
+        "journal-title": "Mar. Environ. Res."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1016/j.cities.2005.10.001",
+        "article-title": "City profile: Havana",
+        "volume": "23",
+        "author": "Colantonio",
+        "year": "2006",
+        "journal-title": "Cities"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "750",
+        "DOI": "10.1016/j.scitotenv.2015.07.091",
+        "article-title": "Spatial and temporal distribution of aliphatic hydrocarbons and linear alkylbenzenes in the particulate phase from a subtropical estuary (Guaratuba Bay, SW Atlantic) under seasonal population fluctuation",
+        "volume": "536",
+        "author": "Dauner",
+        "year": "2015",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "408",
+        "DOI": "10.1016/j.scitotenv.2014.09.043",
+        "article-title": "Molecular characterisation of anthropogenic sources of sedimentary organic matter from Potter Cove, King George Island, Antarctica",
+        "volume": "502",
+        "author": "Dauner",
+        "year": "2015",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0120",
+        "first-page": "167",
+        "article-title": "Macrobentos del arrecife coralino adyacente al río Almendares, Habana, Cuba",
+        "volume": "22",
+        "author": "de La Guardia",
+        "year": "2001",
+        "journal-title": "Rev. Investig. Mar."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0125",
+        "doi-asserted-by": "crossref",
+        "first-page": "402",
+        "DOI": "10.1016/j.jhazmat.2011.09.037",
+        "article-title": "Reconstruction of metal pollution and recent sedimentation processes in Havana Bay (Cuba): a tool for coastal ecosystem management",
+        "volume": "196",
+        "author": "Díaz-Asencio",
+        "year": "2011",
+        "journal-title": "J. Hazard. Mater."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "523",
+        "DOI": "10.1021/es00115a006",
+        "article-title": "Long-chain alkylbenzenes as molecular tracers of domestic waters in the marine environment",
+        "volume": "17",
+        "author": "Eganhouse",
+        "year": "1983",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0135",
+        "first-page": "78",
+        "article-title": "Evaluation of reef fish assemblages in the west coast of Havana, north-western zone of Cuba",
+        "volume": "11",
+        "author": "García-Rodríguez",
+        "year": "2012",
+        "journal-title": "Ser. Oceanol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0140",
+        "first-page": "193",
+        "article-title": "Efectos de efluentes terrestres sobre las comunidades bentónicas de arrecifes coralinos de Ciudad de la Habana, Cuba",
+        "volume": "24",
+        "author": "González-Díaz",
+        "year": "2003",
+        "journal-title": "Rev. Investig. Mar."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "868",
+        "DOI": "10.1016/S0025-326X(98)00037-X",
+        "article-title": "Short-term spatio-temporal changes in urban pollution by means of faecal sterols analysis",
+        "volume": "36",
+        "author": "González-Oreja",
+        "year": "1998",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "766",
+        "DOI": "10.1016/j.ecolind.2009.11.009",
+        "article-title": "Reef fish diversity components as indicators of cumulative effects in a highly impacted fringe reef",
+        "volume": "10",
+        "author": "González-Sansón",
+        "year": "2010",
+        "journal-title": "Ecol. Indic."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "357",
+        "DOI": "10.1021/es00073a011",
+        "article-title": "Assessment of fecal sterols and ketones as indicator of urban sewage inputs to coastal waters",
+        "volume": "24",
+        "author": "Grimalt",
+        "year": "1990",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "983",
+        "DOI": "10.1016/0043-1354(77)90156-7",
+        "article-title": "Sterols in natural water and sediment",
+        "volume": "11",
+        "author": "Hassett",
+        "year": "1977",
+        "journal-title": "Water Res."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0165",
+        "first-page": "65",
+        "article-title": "Efectos de un emisario submarino de aguas “residuales” urbanas sobre comunidades de octocorales (Octocorallia: Alcyonacea) en Cuba",
+        "volume": "56",
+        "author": "Hernández-Muñoz",
+        "year": "2008",
+        "journal-title": "Rev. Biol. Trop."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/S0304-4203(01)00066-4",
+        "article-title": "Biogeochemistry of sterols in plankton, settling particles and recent sediments in a cold ocean ecosystem (Trinity Bay, Newfoundland)",
+        "volume": "76",
+        "author": "Hudson",
+        "year": "2001",
+        "journal-title": "Mar. Chem."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0175",
+        "doi-asserted-by": "crossref",
+        "first-page": "929",
+        "DOI": "10.1126/science.1085046",
+        "article-title": "Climate change, human impacts, and the resilience of coral reefs",
+        "volume": "301",
+        "author": "Hughes",
+        "year": "2003",
+        "journal-title": "Science"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0180",
+        "doi-asserted-by": "crossref",
+        "first-page": "633",
+        "DOI": "10.1016/j.tree.2010.07.011",
+        "article-title": "Rising to the challenge of sustaining coral reef resilience",
+        "volume": "25",
+        "author": "Hughes",
+        "year": "2010",
+        "journal-title": "Trends Ecol. Evol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0185",
+        "series-title": "Status and Trends of Caribbean Coral Reefs",
+        "author": "Jackson",
+        "year": "2014"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0190",
+        "doi-asserted-by": "crossref",
+        "first-page": "494",
+        "DOI": "10.1016/0025-326X(94)90523-1",
+        "article-title": "Sedimentary coprostanol in Kaohsiung Harbour and Tan-Shui Estuary, Taiwan",
+        "volume": "28",
+        "author": "Jeng",
+        "year": "1996",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "309",
+        "DOI": "10.1007/s10661-010-1738-3",
+        "article-title": "Sewage contamination of a densely populated coral ‘atoll’ (Bermuda)",
+        "volume": "179",
+        "author": "Jones",
+        "year": "2011",
+        "journal-title": "Environ. Monit. Assess."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1016/j.dsr2.2016.04.018",
+        "article-title": "The Gulf of Mexico ecosystem, six years after the Macondo oil well blowout",
+        "volume": "129",
+        "author": "Joye",
+        "year": "2016",
+        "journal-title": "Deep Sea Res. II Top. Stud. Oceanogr."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0210",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.2166/wst.1998.0369",
+        "article-title": "Discriminating faecal pollution: a case study of stormwater entering Port Phillip Bay, Australia",
+        "volume": "38",
+        "author": "Leeming",
+        "year": "1998",
+        "journal-title": "Water Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0215",
+        "doi-asserted-by": "crossref",
+        "first-page": "81",
+        "DOI": "10.1007/BF02472006",
+        "article-title": "Incidence of adverse biological effects within ranges of chemical concentration in marine and estuarine sediments",
+        "volume": "19",
+        "author": "Long",
+        "year": "1995",
+        "journal-title": "Environ. Manag."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "3355",
+        "DOI": "10.1016/j.envpol.2010.07.040",
+        "article-title": "Depositional history of sedimentary linear alkylbenzenes (LABs) in a large South American industrial coastal area (Santos Estuary, Southeastern Brazil)",
+        "volume": "158",
+        "author": "Martins",
+        "year": "2010",
+        "journal-title": "Environ. Pollut."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0225",
+        "doi-asserted-by": "crossref",
+        "first-page": "452",
+        "DOI": "10.1016/j.marpolbul.2011.03.017",
+        "article-title": "Polycyclic aromatic hydrocarbons (PAHs) in a large South American industrial coastal area (Santos Estuary, Southeastern Brazil): sources and depositional history",
+        "volume": "63",
+        "author": "Martins",
+        "year": "2011",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "2867",
+        "DOI": "10.1016/j.marpolbul.2012.08.019",
+        "article-title": "Sewage organic markers in surface sediments around the Brazilian Antarctic station: results from the 2009/10 austral summer and historical tendencies",
+        "volume": "64",
+        "author": "Martins",
+        "year": "2012",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "71",
+        "DOI": "10.1016/j.envpol.2014.01.022",
+        "article-title": "An integrated evaluation of molecular marker indices and linear alkylbenzenes (LABs) to measure sewage input in a subtropical estuary (Babitonga Bay, Brazil)",
+        "volume": "188",
+        "author": "Martins",
+        "year": "2014",
+        "journal-title": "Environ. Pollut."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0240",
+        "series-title": "Identification and Analysis of Organic Pollutants in Air",
+        "first-page": "353",
+        "article-title": "Characterization of biogenic and petroleum derived organic matter in aerosols, over remote, rural and urban areas",
+        "author": "Mazurek",
+        "year": "1983"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0245",
+        "doi-asserted-by": "crossref",
+        "first-page": "163",
+        "DOI": "10.1016/j.scitotenv.2015.12.055",
+        "article-title": "Toxicity assessment of atmospheric particulate matter in the Mediterranean and Black Seas open waters",
+        "volume": "545-546",
+        "author": "Mesquita",
+        "year": "2016",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "213",
+        "DOI": "10.1016/S0146-6380(97)00049-1",
+        "article-title": "Organic geochemical proxies of paleoceanographic, paleolimnologic and paleoclimatic processes",
+        "volume": "27",
+        "author": "Meyers",
+        "year": "1997",
+        "journal-title": "Org. Geochem."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0255",
+        "doi-asserted-by": "crossref",
+        "first-page": "4665",
+        "DOI": "10.1016/j.scitotenv.2010.07.012",
+        "article-title": "Distribution of sewage input in marine sediments around a maritime Antarctic research station indicated by molecular geochemical indicators",
+        "volume": "408",
+        "author": "Montone",
+        "year": "2010",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.1016/j.envpol.2005.01.015",
+        "article-title": "Identifying the source, transport path and sinks of sewage derived organic matter",
+        "volume": "136",
+        "author": "Mudge",
+        "year": "2005",
+        "journal-title": "Environ. Pollut."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0265",
+        "doi-asserted-by": "crossref",
+        "first-page": "1011",
+        "DOI": "10.1016/S0025-326X(99)00132-0",
+        "article-title": "Organic contamination of San Vicente Bay, Chile",
+        "volume": "38",
+        "author": "Mudge",
+        "year": "1999",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0270",
+        "doi-asserted-by": "crossref",
+        "first-page": "3945",
+        "DOI": "10.1016/j.watres.2005.07.011",
+        "article-title": "Assessment of heavy metal levels in Almendares River sediments—Havana City, Cuba",
+        "volume": "39",
+        "author": "Olivares-Rieumont",
+        "year": "2005",
+        "journal-title": "Water Res."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0275",
+        "author": "ONE (Oficina Nacional de Estatísticas de Cuba)"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0280",
+        "doi-asserted-by": "crossref",
+        "first-page": "985",
+        "DOI": "10.15517/rbt.v54i3.14078",
+        "article-title": "Distribución espacio-temporal de la meiofauna béntica en cuantro playas del Litoral Norte de la Habana",
+        "volume": "54",
+        "author": "Pérez",
+        "year": "2006",
+        "journal-title": "Rev. Biol. Trop."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0285",
+        "doi-asserted-by": "crossref",
+        "first-page": "48",
+        "DOI": "10.1016/S0025-326X(01)00189-8",
+        "article-title": "Petroleum and PAH contamination of the Black Sea",
+        "volume": "44",
+        "author": "Readman",
+        "year": "2002",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0290",
+        "series-title": "Caracterización de cepas de Escherichia coli de importancia clínica humana aisladas de ecosistemas dulceacuícolas de La Habana",
+        "author": "Romeu-Álvarez",
+        "year": "2012"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0295",
+        "article-title": "Calidad microbiológica de las aguas del rio Luyanó, La Habana, Cuba",
+        "volume": "43",
+        "author": "Romeu-Álvarez",
+        "year": "2012",
+        "journal-title": "Rev. CENIC Cienc. Biol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0300",
+        "first-page": "1325",
+        "article-title": "Experiences in the environmental monitoring: pollution of freshwater ecosystem of La Habana (Cuba)",
+        "volume": "15",
+        "author": "Romeu-Álvarez",
+        "year": "2015",
+        "journal-title": "Hig. Sanid. Ambient."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0305",
+        "doi-asserted-by": "crossref",
+        "first-page": "115",
+        "DOI": "10.3354/meps08438",
+        "article-title": "Regional spatio-temporal trends in Caribbean coral reef benthic communities",
+        "volume": "402",
+        "author": "Schutte",
+        "year": "2010",
+        "journal-title": "Mar. Ecol. Prog. Ser."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0310",
+        "doi-asserted-by": "crossref",
+        "first-page": "96",
+        "DOI": "10.1016/j.dsr2.2015.05.013",
+        "article-title": "Coral injuries observed at Mesophotic Reefs after the Deepwater Horizon oil discharge",
+        "volume": "129",
+        "author": "Silva",
+        "year": "2016",
+        "journal-title": "Deep Sea Res. II Top. Stud. Oceanogr."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0315",
+        "doi-asserted-by": "crossref",
+        "first-page": "223",
+        "DOI": "10.1016/0141-1136(92)90140-H",
+        "article-title": "The composition and distribution of saturated and aromatic hydrocarbons in nearshore sediments, river sediments, and coastal peat of Alaska Beaufort Sea: implications for detecting anthropogenic hydrocarbons input",
+        "volume": "33",
+        "author": "Steinhauer",
+        "year": "1992",
+        "journal-title": "Mar. Environ. Res."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0320",
+        "series-title": "Encyclopedia of Environmental Analysis and Remediation",
+        "first-page": "2883",
+        "article-title": "Molecular markers of anthropogenic waste",
+        "author": "Takada",
+        "year": "1998"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0325",
+        "doi-asserted-by": "crossref",
+        "first-page": "86",
+        "DOI": "10.1021/es00071a009",
+        "article-title": "Biodegradation experiments of linear alkylbenzenes (LABs): isomeric composition of C12-LABs as an indicator of the degree of LAB degradation in the aquatic environment",
+        "volume": "24",
+        "author": "Takada",
+        "year": "1990",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0330",
+        "doi-asserted-by": "crossref",
+        "first-page": "1062",
+        "DOI": "10.1021/es00055a015",
+        "article-title": "Transport of sludge-derived organic pollutants to deep-sea sediments at deep water dump site 106",
+        "volume": "28",
+        "author": "Takada",
+        "year": "1994",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0335",
+        "doi-asserted-by": "crossref",
+        "first-page": "1624",
+        "DOI": "10.1016/j.marpolbul.2009.07.006",
+        "article-title": "Inputs and sources of hydrocarbons in sediments from Cienfuegos Bay, Cuba",
+        "volume": "58",
+        "author": "Tolosa",
+        "year": "2009",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0345",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/j.marpolbul.2017.04.050",
+        "article-title": "Petroleum hydrocarbon toxicity to corals: a review",
+        "volume": "119",
+        "author": "Turner",
+        "year": "2017",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0350",
+        "series-title": "La Puerta de La Habana. El Pelícano de la Bahía de La Habana",
+        "first-page": "16",
+        "author": "Valdés",
+        "year": "2004"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0355",
+        "doi-asserted-by": "crossref",
+        "first-page": "208",
+        "DOI": "10.1021/es00072a009",
+        "article-title": "Sedimentary coprostanol as an index of sewage addition in Santa Monica Basin, southern California",
+        "volume": "24",
+        "author": "Venkatesan",
+        "year": "1990",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0360",
+        "doi-asserted-by": "crossref",
+        "first-page": "350",
+        "DOI": "10.1016/j.marenvres.2009.12.010",
+        "article-title": "Trace organic contaminants and their sources in surface sediments of Santa Monica Bay, California, USA",
+        "volume": "69",
+        "author": "Venkatesan",
+        "year": "2010",
+        "journal-title": "Mar. Environ. Res."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0365",
+        "doi-asserted-by": "crossref",
+        "first-page": "461",
+        "DOI": "10.1016/j.marpolbul.2014.06.056",
+        "article-title": "A multi-molecular marker assessment of organic pollution in shore sediments from the Río de la Plata Estuary, SW Atlantic",
+        "volume": "91",
+        "author": "Venturini",
+        "year": "2015",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0370",
+        "series-title": "Programme for Monitoring the Quality of Marine Ecosystems in High-risk Areas in the Wider Caribbean Region, Bahía de La Habana, Cuba. Center for Environmental Management of Bays and Coastal Areas. Final Report",
+        "first-page": "30",
+        "author": "Villasol",
+        "year": "2010"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0375",
+        "first-page": "91",
+        "article-title": "Size variation of Eunicea flexuosa and Plexaura kuekenthali (Cnidaria: Octocorallia) in coral reefs close to pollution sources in Havana, Cuba",
+        "volume": "11",
+        "author": "Villiers",
+        "year": "2012",
+        "journal-title": "Ser. Oceanol."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0380",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1016/0146-6380(86)90089-6",
+        "article-title": "A review of sterol markers for marine and terrigenous organic matter",
+        "volume": "9",
+        "author": "Volkman",
+        "year": "1986",
+        "journal-title": "Org. Geochem."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0385",
+        "doi-asserted-by": "crossref",
+        "first-page": "139",
+        "DOI": "10.1016/j.orggeochem.2004.06.013",
+        "article-title": "Sterols and other triterpenoids: source specificity and evolution of biosynthetic pathways",
+        "volume": "36",
+        "author": "Volkman",
+        "year": "2005",
+        "journal-title": "Org. Geochem."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0390",
+        "series-title": "The Handbook of Environmental Chemistry",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1007/698_2_002",
+        "article-title": "Lipid markers for marine organic matter",
+        "volume": "vol. 2",
+        "author": "Volkman",
+        "year": "2006"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0395",
+        "doi-asserted-by": "crossref",
+        "first-page": "1163",
+        "DOI": "10.1016/S0146-6380(98)00062-X",
+        "article-title": "Microalgal biomarkers: a review of recent research developments",
+        "volume": "29",
+        "author": "Volkman",
+        "year": "1998",
+        "journal-title": "Org. Geochem."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0400",
+        "doi-asserted-by": "crossref",
+        "first-page": "155",
+        "DOI": "10.1016/S0021-9673(00)01084-0",
+        "article-title": "Characterization and identification of a “mystery” oil spill from Quebec (1999)",
+        "volume": "909",
+        "author": "Wang",
+        "year": "2001",
+        "journal-title": "J. Chromatogr. A"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0405",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1111/nyas.12785",
+        "article-title": "Sewage pollution: mitigation is key for coral reef stewardship",
+        "volume": "1355",
+        "author": "Wear",
+        "year": "2015",
+        "journal-title": "Ann. N. Y. Acad. Sci."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0410",
+        "first-page": "1007",
+        "article-title": "Validation of an analytical method for geochemical organic markers determination in marine sediments",
+        "volume": "39",
+        "author": "Wisnieski",
+        "year": "2016",
+        "journal-title": "Quím. Nova"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0415",
+        "doi-asserted-by": "crossref",
+        "first-page": "1427",
+        "DOI": "10.1016/0043-1354(94)00304-P",
+        "article-title": "Sewage contamination in the upper Mississippi River as measured by the faecal sterol, coprostanol",
+        "volume": "29",
+        "author": "Writer",
+        "year": "1995",
+        "journal-title": "Water Res."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0420",
+        "series-title": "Control de la calidad ambiental de las aguas del litoral de Ciudad de la Habana, Cuba. Plan de vigilancia y monitoreo. Informe final de servicio científico – técnico",
+        "author": "Yamiris",
+        "year": "2013"
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0425",
+        "doi-asserted-by": "crossref",
+        "first-page": "489",
+        "DOI": "10.1016/S0146-6380(02)00002-5",
+        "article-title": "PAHs in Fraser River basin: a critical appraisal of PAH ratios as indicators of PAH source and composition",
+        "volume": "33",
+        "author": "Yunker",
+        "year": "2002",
+        "journal-title": "Org. Geochem."
+      },
+      {
+        "key": "10.1016/j.marpolbul.2018.08.031_bb0430",
+        "doi-asserted-by": "crossref",
+        "first-page": "1287",
+        "DOI": "10.1016/j.marpolbul.2005.04.045",
+        "article-title": "Hydrocarbons in surface sediments from the Sfax coastal zone (Tunisia) Mediterranean Sea",
+        "volume": "50",
+        "author": "Zaghden",
+        "year": "2005",
+        "journal-title": "Mar. Pollut. Bull."
+      }
+    ],
+    "container-title": [
+      "Marine Pollution Bulletin"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0025326X18305952?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0025326X18305952?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          26
+        ]
+      ],
+      "date-time": "2018-10-26T22:01:47Z",
+      "timestamp": 1540591307000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0025326X18305952"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11
+        ]
+      ]
+    },
+    "references-count": 84,
+    "alternative-id": [
+      "S0025326X18305952"
+    ],
+    "URL": "https://doi.org/10.1016/j.marpolbul.2018.08.031",
+    "relation": {},
+    "ISSN": [
+      "0025-326X"
+    ],
+    "issn-type": [
+      {
+        "value": "0025-326X",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Hydrocarbon and sewage contamination near fringing reefs along the west coast of Havana, Cuba: A multiple sedimentary molecular marker approach",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Marine Pollution Bulletin",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.marpolbul.2018.08.031",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2018 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

@@ -1,0 +1,684 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          29
+        ]
+      ],
+      "date-time": "2026-09-29T05:03:41Z",
+      "timestamp": 1790658221872,
+      "version": "4.1.0"
+    },
+    "reference-count": 33,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2024-12-01T00:00:00Z",
+          "timestamp": 1733011200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              1
+            ]
+          ],
+          "date-time": "2024-12-01T00:00:00Z",
+          "timestamp": 1733011200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              11
+            ]
+          ],
+          "date-time": "2024-10-11T00:00:00Z",
+          "timestamp": 1728604800000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100003407",
+        "name": "Ministero dell’Istruzione, dell’Università e della Ricerca",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100003407",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007514",
+        "name": "Università di Pisa",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "PRA_2022_16"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PRA_2022_16"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100007514",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100007514",
+        "name": "Università di Pisa",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "CUP_I53C22001890001"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "CUP_I53C22001890001"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100007514",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Results in Engineering"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.rineng.2024.103116",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          17
+        ]
+      ],
+      "date-time": "2024-10-17T01:32:38Z",
+      "timestamp": 1729128758000
+    },
+    "page": "103116",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "special_numbering": "C",
+    "title": [
+      "A smart, multi-configuration, and low-cost system for water turbidity monitoring"
+    ],
+    "prefix": "10.1016",
+    "volume": "24",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6894-7338",
+        "authenticated-orcid": false,
+        "given": "Alessio",
+        "family": "Vecchio",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Monica",
+        "family": "Bini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marco",
+        "family": "Lazzarotti",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marco",
+        "family": "Luppichini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maurizio",
+        "family": "Palmieri",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "issue": "1",
+        "key": "10.1016/j.rineng.2024.103116_br0010",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1038/s41598-022-14228-4",
+        "article-title": "Open-source, low-cost, in-situ turbidity sensor for river network monitoring",
+        "volume": "12",
+        "author": "Droujko",
+        "year": "2022",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0020",
+        "author": "ISO"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.rineng.2024.103116_br0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.1016/j.ijsrc.2017.11.003",
+        "article-title": "In-situ investigation on real-time suspended sediment measurement techniques: turbidimetry, acoustic attenuation, laser diffraction (lisst) and vibrating tube densimetry",
+        "volume": "33",
+        "author": "Felix",
+        "year": "2018",
+        "journal-title": "Int. J. Sediment. Res."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.rineng.2024.103116_br0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "3421",
+        "DOI": "10.5194/hess-22-3421-2018",
+        "article-title": "Hydroclimatic control on suspended sediment dynamics of a regulated Alpine catchment: a conceptual approach",
+        "volume": "22",
+        "author": "Costa",
+        "year": "2018",
+        "journal-title": "Hydrol. Earth Syst. Sci."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0050",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.catena.2023.107006",
+        "article-title": "Comparing in situ turbidity sensor measurements as a proxy for suspended sediments in North-western European streams",
+        "volume": "225",
+        "author": "Skarbøvik",
+        "year": "2023",
+        "journal-title": "Catena"
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0060",
+        "doi-asserted-by": "crossref",
+        "first-page": "99",
+        "DOI": "10.1016/j.jenvman.2017.05.017",
+        "article-title": "Measurement differences between turbidity instruments, and their implications for suspended sediment concentration and load calculations: a sensor inter-comparison study",
+        "volume": "199",
+        "author": "Rymszewicz",
+        "year": "2017",
+        "journal-title": "J. Environ. Manag."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.rineng.2024.103116_br0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "620",
+        "DOI": "10.1177/0309133317726540",
+        "article-title": "A review of the principles of turbidity measurement",
+        "volume": "41",
+        "author": "Kitchener",
+        "year": "2017",
+        "journal-title": "Prog. Phys. Geogr. Earth Environ."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0080",
+        "first-page": "160",
+        "article-title": "Comparisons of acoustic and optical sensors for suspended sediment concentration measurements under non-homogeneous solutions",
+        "author": "Vousdoukas",
+        "year": "2011",
+        "journal-title": "J. Coast. Res."
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.rineng.2024.103116_br0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.3390/s23063073",
+        "article-title": "Development of innovative online modularized device for turbidity monitoring",
+        "volume": "23",
+        "author": "Chu",
+        "year": "2023",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "128",
+        "DOI": "10.1016/j.measurement.2015.02.049",
+        "article-title": "Turbidimeter and RGB sensor for remote measurements in an aquatic medium",
+        "volume": "68",
+        "author": "Sampedro",
+        "year": "2015",
+        "journal-title": "Measurement"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.rineng.2024.103116_br0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "146",
+        "DOI": "10.1109/JSEN.2014.2340437",
+        "article-title": "A portable optical sensor for sea quality monitoring",
+        "volume": "15",
+        "author": "Attivissimo",
+        "year": "2015",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "10",
+        "DOI": "10.1016/j.aquaeng.2018.01.004",
+        "article-title": "Design and development of low cost smart turbidity sensor for water quality monitoring in fish farms",
+        "volume": "81",
+        "author": "Parra",
+        "year": "2018",
+        "journal-title": "Aquac. Eng."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.rineng.2024.103116_br0130",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s23041897",
+        "article-title": "Development of a frugal, in situ sensor implementing a ratiometric method for continuous monitoring of turbidity in natural waters",
+        "volume": "23",
+        "author": "Sanchez",
+        "year": "2023",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "20",
+        "key": "10.1016/j.rineng.2024.103116_br0140",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s19204439",
+        "article-title": "Development of a cost-effective optical sensor for continuous monitoring of turbidity and suspended particulate matter in marine environment",
+        "volume": "19",
+        "author": "Matos",
+        "year": "2019",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0150",
+        "series-title": "OCEANS 2022",
+        "first-page": "1",
+        "article-title": "A low-cost, low-power and low-size multi-parameter station for real-time and online monitoring of the coastal area",
+        "author": "Matos",
+        "year": "2022"
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0160",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.jenvman.2024.121660",
+        "article-title": "Design of a sensor to estimate suspended sediment transport in situ using the measurements of water velocity, suspended sediment concentration and depth",
+        "volume": "365",
+        "author": "Matos",
+        "year": "2024",
+        "journal-title": "J. Environ. Manag."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0170",
+        "series-title": "2023 IEEE SENSORS",
+        "first-page": "1",
+        "article-title": "Low-cost, portable in-situ spectral analysis sensor for monitoring water contamination",
+        "author": "Lopes",
+        "year": "2023"
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0180",
+        "first-page": "1",
+        "article-title": "A real-time water quality measurement instrument for simultaneously detecting turbidity and particle size by using single-photon counting technique",
+        "volume": "71",
+        "author": "Wang",
+        "year": "2022",
+        "journal-title": "IEEE Trans. Instrum. Meas."
+      },
+      {
+        "issue": "4",
+        "key": "10.1016/j.rineng.2024.103116_br0190",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s18041115",
+        "article-title": "Low-cost grin-lens-based nephelometric turbidity sensing in the range of 0.1–1000 ntu",
+        "volume": "18",
+        "author": "Metzger",
+        "year": "2018",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "11",
+        "key": "10.1016/j.rineng.2024.103116_br0200",
+        "doi-asserted-by": "crossref",
+        "first-page": "4689",
+        "DOI": "10.1109/JSEN.2018.2826778",
+        "article-title": "Low-cost turbidity sensor for low-power wireless monitoring of fresh-water courses",
+        "volume": "18",
+        "author": "Wang",
+        "year": "2018",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "issue": "7",
+        "key": "10.1016/j.rineng.2024.103116_br0210",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s20071993",
+        "article-title": "Towards the development of an affordable and practical light attenuation turbidity sensor for remote near real-time aquatic monitoring",
+        "volume": "20",
+        "author": "Trevathan",
+        "year": "2020",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.rineng.2024.103116_br0220",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1038/s41598-019-56474-z",
+        "article-title": "Smartphone-based turbidity reader",
+        "volume": "9",
+        "author": "Ceylan Koydemir",
+        "year": "2019",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "issue": "1",
+        "key": "10.1016/j.rineng.2024.103116_br0230",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s18010256",
+        "article-title": "The hydrocolor app: above water measurements of remote sensing reflectance and turbidity using a smartphone camera",
+        "volume": "18",
+        "author": "Leeuw",
+        "year": "2018",
+        "journal-title": "Sensors"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.rineng.2024.103116_br0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "1013",
+        "DOI": "10.1002/hyp.13372",
+        "article-title": "Monitoring turbidity from above: deploying small unoccupied aerial vehicles to image in-stream turbidity",
+        "volume": "33",
+        "author": "Ehmann",
+        "year": "2019",
+        "journal-title": "Hydrol. Process."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0250",
+        "doi-asserted-by": "crossref",
+        "first-page": "8490",
+        "DOI": "10.1109/JSTARS.2024.3381756",
+        "article-title": "Low-cost sensors and multitemporal remote sensing for operational turbidity monitoring in an East African wetland environment",
+        "volume": "17",
+        "author": "Steinbach",
+        "year": "2024",
+        "journal-title": "IEEE J. Sel. Top. Appl. Earth Obs. Remote Sens."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0260",
+        "doi-asserted-by": "crossref",
+        "first-page": "69481",
+        "DOI": "10.1109/ACCESS.2019.2918996",
+        "article-title": "Microwave sensing of water quality",
+        "volume": "7",
+        "author": "Zhang",
+        "year": "2019",
+        "journal-title": "IEEE Access"
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0270",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.rineng.2024.101916",
+        "article-title": "Mitigating suspended-sediment environmental pressure in subsea engineering through colliding turbidity currents",
+        "volume": "21",
+        "author": "Alhaddad",
+        "year": "2024",
+        "journal-title": "Results Eng."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0280",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.ohx.2023.e00395",
+        "article-title": "Ötz-t: 3d-printed open-source turbidity sensor with Arduino shield for suspended sediment monitoring",
+        "volume": "13",
+        "author": "Droujko",
+        "year": "2023",
+        "journal-title": "HardwareX"
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0290",
+        "doi-asserted-by": "crossref",
+        "first-page": "520",
+        "DOI": "10.1016/j.talanta.2014.09.045",
+        "article-title": "A low-cost autonomous optical sensor for water quality monitoring",
+        "volume": "132",
+        "author": "Murphy",
+        "year": "2015",
+        "journal-title": "Talanta"
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0300",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.rineng.2023.101585",
+        "article-title": "Enhancing sediment transport predictions through machine learning-based multi-scenario regression models",
+        "volume": "20",
+        "author": "Abid Almubaidin",
+        "year": "2023",
+        "journal-title": "Results Eng."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0310",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.1016/j.rineng.2024.102072",
+        "article-title": "Enhancing riverine load prediction of anthropogenic pollutants: harnessing the potential of feed-forward backpropagation (ffbp) artificial neural network (ann) models",
+        "volume": "22",
+        "author": "Khairudin",
+        "year": "2024",
+        "journal-title": "Results Eng."
+      },
+      {
+        "key": "10.1016/j.rineng.2024.103116_br0320",
+        "series-title": "OCEANS 2015",
+        "first-page": "1",
+        "article-title": "Biofouling protection by electro-chlorination on optical windows for oceanographic sensors and imaging devices",
+        "author": "Laurent",
+        "year": "2015"
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.rineng.2024.103116_br0330",
+        "doi-asserted-by": "crossref",
+        "DOI": "10.3390/s21020389",
+        "article-title": "Antifouling strategies for sensors used in water monitoring: review and future perspectives",
+        "volume": "21",
+        "author": "Delgado",
+        "year": "2021",
+        "journal-title": "Sensors"
+      }
+    ],
+    "container-title": [
+      "Results in Engineering"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2590123024013719?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2590123024013719?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          16
+        ]
+      ],
+      "date-time": "2026-05-16T05:10:46Z",
+      "timestamp": 1778908246000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2590123024013719"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "references-count": 33,
+    "alternative-id": [
+      "S2590123024013719"
+    ],
+    "URL": "https://doi.org/10.1016/j.rineng.2024.103116",
+    "relation": {},
+    "ISSN": [
+      "2590-1230"
+    ],
+    "issn-type": [
+      {
+        "value": "2590-1230",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          12
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "A smart, multi-configuration, and low-cost system for water turbidity monitoring",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Results in Engineering",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.rineng.2024.103116",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "© 2024 The Author(s). Published by Elsevier B.V.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ],
+    "article-number": "103116"
+  }
+}

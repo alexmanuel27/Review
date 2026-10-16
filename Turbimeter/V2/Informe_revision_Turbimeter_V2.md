@@ -1,0 +1,242 @@
+# Segunda revisión del protocolo de turbidimetría
+
+An Open Turbidimeter Powered by a Smartphone: Design and Validation Protocol
+
+16 de octubre de 2026
+
+
+Recomendación editorial: RECHAZAR V2 como artículo de investigación experimental para IEEE Sensors Journal. V2 es un borrador de diseño/protocolo mucho más claro que V1, pero todavía no contiene validación del sistema óptico ensamblado. Las correcciones editoriales adicionales pueden mejorar este documento de trabajo; no pueden convertirlo en un artículo experimental aceptable sin evidencia nueva.
+
+Se revisaron completas las nueve páginas del PDF inglés V2, con cinco figuras, dos tablas, dos ecuaciones numeradas y 47 referencias. Se contrastaron las nueve páginas de la versión española y las cinco del anexo interno inglés. La comparación se hizo contra el informe V1 y sus puntos M1–M10, m1–m8 y R1–R13. La versión española se examinó como comprobación complementaria de coherencia y maquetación; no constituye un estudio adicional. No se editó el manuscrito.
+
+La separación del material sintético está resuelta para el PDF principal: ya no contiene las figuras cuantitativas 6–9 de V1, la fotografía generada por IA ni sus estadísticas ficticias. Las figuras principales 1, 2 y 5 siguen siendo esquemas; 3 muestra renders y 4 una aplicación desconectada. El anexo Planning_Annex_EN.pdf conserva P1–P4, las cifras rojas y la imagen de IA, con avisos de material interno y de que no es un suplemento de envío. Esas cifras y figuras sintéticas NO son evidencia experimental, ni límites de aceptación, ni una justificación del tamaño muestral.
+
+La ciencia ciudadana en La Habana permanece correctamente como aplicación futura. No se exige realizar ese estudio para completar un artículo técnico de alcance limitado al instrumento. Sus usuarios, consentimientos, gobernanza y resultados deben seguir pendientes hasta un estudio específico.
+
+SHA-256: `495624e27da1092f85a1be6a862b1e9efef61aff3b6e7cea8555680be1e5b98c`
+
+## Resumen y evaluación general
+
+V2 conserva la arquitectura de 850 nm, dispersión a 90 grados, referencia del emisor, XIAO SAMD21, ADS1115 y alimentación/interfaz Android. Ahora documenta configuración, secuencia de adquisición, truncación de promedios, umbrales provisionales y salida DIAG del firmware. El protocolo propone separación por stock/evento, selección agrupada del modelo, ponderación por lote, conservación de fallos, incertidumbre y comparaciones exploratorias entre tres teléfonos y entre un donante y un receptor. La sección V declara el estado de evidencia en lugar de discutir números inventados. La evidencia observada continúa siendo documental y de comunicación de la controladora.
+
+La contribución potencial sigue siendo una integración instrumental incremental. V2 incorpora ColorX con una comparación técnicamente más precisa: fotodiodos, transreflectancia verde, batería y Bluetooth, frente a nephelometría infrarroja y alimentación USB. No encontré una nueva afirmación de primacía. La pregunta experimental se ha acotado de forma defendible a los dispositivos ensayados, aunque los ensayos aún no se han realizado.
+
+La solidez del protocolo mejora: se separan stocks/eventos completos, se congela la selección antes del hold-out, se define una adquisición individual como resultado primario y se evita usar CV/error relativo en el blanco. Se distingue la incertidumbre de predicción de la mera dispersión, y el registro propuesto incluye intentos inválidos. Estas son mejoras del diseño del estudio, no resultados que demuestren precisión, exactitud, autonomía o portabilidad.
+
+El documento se mantiene legible, pero aún tiene nueve páginas y algunos defectos locales en diagramas y en la traducción maquetada. La guía oficial mantiene ocho páginas como extensión ordinaria de un artículo regular antes de cargos por exceso [S1]. Esto afecta al objetivo económico de envío, no constituye por sí solo una razón científica para rechazarlo. No se debe recortar el protocolo esencial ni disminuir la legibilidad para forzar una página menos.
+
+## Estado de M1–M10
+
+| Punto | Estado | Ubicación V2 | Verificación |
+|---|---|---|---|
+
+| M1 | No resuelto | pp. 1 y 7, resumen, V y VII | Se resolvió el encuadre y la exclusión de maquetas. Sigue sin existir un conjunto óptico ensamblado y validado. [REQUIERE AL AUTOR] Fabricación, mediciones reales, validación independiente y análisis reproducible; no cerrar este punto por un cambio de título. |
+
+| M2 | Parcial | pp. 2–3, III-A; p. 4, figura 3 | Se documentan ADC, canales, tiempos, promedio truncado y umbrales; concuerdan con el firmware del commit citado [S2]. [REQUIERE AL AUTOR] Esquema y óptica finales fabricados, polaridad/punto de trabajo y comprobaciones de ruido, saturación, aislamiento y montaje. Los ajustes de fuente no verifican propiedades físicas. |
+
+| M3 | Parcial | pp. 4–5, IV-A y figura 5 | Se define mejor la magnitud equivalente al comparador y el control de materiales, estabilidad y verificaciones diarias. [REQUIERE AL AUTOR] Identificar el comparador real, materiales/controles, receta y límites de estabilidad; aportar sus verificaciones y procedencia. |
+
+| M4 | Parcial | p. 5, IV-B | Se fija la adquisición individual, la media de fracciones conformes por lote y tratamiento de fallos; se propone análisis agrupado. [REQUIERE AL AUTOR] Decidir a, b, rango, fracción mínima, confianza, márgenes de equivalencia y tamaños justificados. Sin esas decisiones no hay criterio operativo de aceptación. |
+
+| M5 | Parcial | pp. 5–6, IV-B | Se resuelve buena parte del riesgo de filtración entre stocks/eventos y se incorpora JCGM. [REQUIERE AL AUTOR] Particiones reales, modelo final, componentes medidos de incertidumbre y predicciones externas. No hay presupuesto numérico ni validación de matriz. |
+
+| M6 | Parcial | p. 3, III-A; p. 6, IV-C | Se identifica expresamente la censura del firmware y se propone conservar datos con signo, evaluar cociente frente a señal sola y definir rango bajo. [REQUIERE AL AUTOR] Registro sin pérdida, blancos, covarianza, reglas justificadas y prueba de normalización. La política propuesta no está implementada ni validada. |
+
+| M7 | Parcial | p. 1, I; p. 6, IV-D | Se resuelve la generalización excesiva al limitar los ensayos a un sensor/tres hosts y una pareja donante–receptor. [REQUIERE AL AUTOR] Ejecutarlos, identificar dispositivos y fijar márgenes. No queda demostrada equivalencia ni transferencia; una población de kits exigiría otro diseño. |
+
+| M8 | Parcial | p. 6, IV-C | Se distinguen energía del cabezal y carga incremental del teléfono, y se añaden temperatura y matrices costeras. [REQUIERE AL AUTOR] Condiciones, duración de estabilidad y mediciones reales de robustez/energía; no hay intervalo de chequeo ni ventaja energética demostrados. |
+
+| M9 | Parcial | p. 6, IV-E; p. 7, declaraciones; p. 8, [17] | Se define un registro por intento y se aclara que DIAG separado no reconstruye MEASURE anterior. El commit público ya pudo consultarse [S2]. [REQUIERE AL AUTOR] Implementar/verificar el registro y ensayos de integridad, y liberar un paquete licenciado coincidente con la revisión ensayada. Acceso al commit no equivale a apertura completa. |
+
+| M10 | Parcial | pp. 1–3, I–II y tabla I; p. 7, V y VII | ColorX y la pregunta acotada mejoran el posicionamiento. [REQUIERE AL AUTOR] Demostrar una aportación, limitación o fallo con resultados reales frente a los antecedentes. No basta declarar una ventaja prevista. |
+
+## Estado de m1–m8
+
+| Punto | Estado | Ubicación V2 | Verificación |
+|---|---|---|---|
+
+| m1 | Resuelto | pp. 8–9, referencias | Resuelto en lo formal revisado: DOI, fechas y snapshots específicos. Se comprobaron los nuevos documentos JCGM, ColorX y commits; no certifico el texto completo de todas las 47 fuentes. |
+
+| m2 | Resuelto | p. 2, II; p. 3, tabla I; p. 8, [29] | ColorX incorporado y diferenciado de la nephelometría infrarroja. La revisión general sugerida en V1 era opcional y no es necesaria para cerrar este punto. |
+
+| m3 | Resuelto | pp. 5–7, IV-B/D y V | Las figuras numéricas se retiraron del principal; se definen signo, unidad primaria, fallos y prohibición de CV/error relativo a cero. Los pies de futuros resultados solo podrán evaluarse cuando existan datos. |
+
+| m4 | Parcial | principal p. 7; anexo p. 2, P2(b/d) | Se elimina el antiguo párrafo huérfano del principal. La leyenda de deriva se movió, pero ahora invade el título de P2(d) en el anexo: queda un defecto local de maquetación interna. |
+
+| m5 | Parcial | pp. 1–2, resumen gráfico y figura 1; p. 4, figura 3 | Se diferencian resumen gráfico y cadena detallada. Las etiquetas de figura 1 aún quedan sobre bordes/flechas y las cotas de figura 3 siguen minúsculas; véase E1. |
+
+| m6 | Resuelto | p. 6, IV-E | Se retira EUR 76.52 como referencia de coste actual y se declara que no existe una cifra vigente. [REQUIERE AL AUTOR] Una nueva cifra, solo si se decide reclamar coste o ventaja económica. |
+
+| m7 | Parcial | PDF de 9 páginas; p. 7, declaraciones | Baja de diez a nueve páginas, pero no a ocho. Las declaraciones siguen pendientes y correctamente marcadas. [REQUIERE AL AUTOR] Autoría, afiliaciones, contribuciones, financiación, conflictos y aprobación del texto final. |
+
+| m8 | Resuelto | pp. 1–2 y 7, I y VI–VII | El carácter futuro y la ausencia de inferencias sobre contaminación, pescado o participación permanecen claros. [REQUIERE AL AUTOR] Un estudio ciudadano posterior si se desea formular esas afirmaciones. |
+
+## Estado de R1–R13
+
+| Punto | Estado | Ubicación V2 | Verificación |
+|---|---|---|---|
+
+| R1 | Resuelto | p. 1, título | Aplicado y ampliado con Design and Validation Protocol. |
+
+| R2 | Resuelto | p. 1, resumen | Frase dividida; photodiode for 90-degree scattering. |
+
+| R3 | Resuelto | p. 1, resumen | Compare one sensor across three phones y transfer its unchanged calibration. |
+
+| R4 | Resuelto | p. 1, I | Requires a documented measurement method and calibration. |
+
+| R5 | Resuelto | p. 2, II | Table I compares selected designs relevant to this study. |
+
+| R6 | Resuelto | p. 3, III-A | R descrito como uncalibrated optical index, not an NTU reading. |
+
+| R7 | Resuelto | p. 3, III-B | Sustituido por descripción más fiel: no RESULT frame; la salida calibrada sigue pendiente. |
+
+| R8 | Resuelto | p. 4, IV | Aplicado el reemplazo sobre paired measurements and batch separation. |
+
+| R9 | Resuelto | p. 4, IV-A | Resuelto por retirada del pasaje sobre un único nivel de chequeo; no se aplicó literalmente la propuesta y no se afirma autocalibración. |
+
+| R10 | Resuelto | p. 6, IV-E | Aplicado el reemplazo sobre los campos ausentes del CSV. |
+
+| R11 | Resuelto | p. 6, IV-D; anexo p. 3 | Aplicado Low variability within a unit... transferring its calibration. |
+
+| R12 | Resuelto | p. 7, VI | Aplicado The aim would be to address residents’ own questions... |
+
+| R13 | Resuelto | p. 7, VII | Aplicado Use by the community will require a separate evaluation. |
+
+## Problemas mayores abiertos
+
+### 1 La validación sigue sin realizarse
+
+Ubicación: pp. 1 y 7, resumen, V y VII; M1, M10
+
+V2 ha corregido la representación del estado del trabajo, pero mantiene sin evidencia las prestaciones y la contribución experimental. [REQUIERE AL AUTOR] Construir la revisión final, calibrarla frente a comparador documentado y obtener predicciones independientes con datos y análisis auditables. Cierre: resultados medidos que permitan evaluar la aportación, incluyendo resultados negativos o rango limitado.
+
+### 2 El protocolo aún contiene decisiones esenciales abiertas
+
+Ubicación: pp. 4–6, IV-A/B/D; M3–M5, M7
+
+La definición conceptual de conformidad y del análisis no establece todavía un ensayo ejecutable. [REQUIERE AL AUTOR] Elegir comparador, receta, ventanas temporales, estabilidad, tolerancias, alcance, tamaños, intervalos y modelo prerregistrado antes del hold-out. Cierre: plan operacional fechado, sin copiar valores o conteos ficticios del anexo. La IA puede ordenar los pendientes; no elegirlos como si existiera autorización o sustento experimental.
+
+### 3 La adquisición completa y el comportamiento físico no están verificados
+
+Ubicación: pp. 2–3 y 6, III-A/B y IV-C/E; M2, M6, M8, M9
+
+La inspección del código confirma los parámetros descritos, incluida la devolución de error sin canales para ciertas adquisiciones. No demuestra comportamiento óptico, integridad del registro ni la corrección del firmware con equipo real. [REQUIERE AL AUTOR] Instrumentar un registro por intento, conservar datos con signo/fallos y validar ruido, rango, normalización, estabilidad, USB y energía. Cierre: cada resultado es reconstruible desde el mismo intento y las prestaciones se apoyan en ensayos del conjunto.
+
+### 4 Apertura completa y declaraciones permanecen pendientes
+
+Ubicación: p. 6, IV-E; p. 7, declaraciones; M9, m7
+
+El commit de desarrollo es accesible, pero no es una liberación de un instrumento fabricado y validado. [REQUIERE AL AUTOR] Paquete persistente con licencias y datos/análisis coincidentes con la revisión probada; confirmar autoría, afiliaciones, financiación, conflictos y asistencia de IA. Cierre: acceso reproducible al paquete y declaraciones aprobadas. El estudio ciudadano y su eventual aprobación se mantienen separados y futuros.
+
+## Correcciones sin datos nuevos
+
+### E1 Etiquetas legibles en los diagramas
+
+Ubicación: EN/ES p. 2, figura 1; p. 4, figura 3
+
+En figura 1, Digital R, USB power, Assigned value y Frozen f quedan muy juntos a los bordes y flechas; ocurre también en la versión española. Las anotaciones de figura 3 son minúsculas.
+
+Acción: Separar rutas y rótulos, aumentar espacio o simplificar el gráfico manteniendo contenido. Aclarar que la flecha desde fotodiodos hacia MCP6002/ADS1115 representa señal analógica: ADC es el convertidor, no el nombre de esa señal. Presentar cotas existentes a tamaño legible; no inventar medidas ni fotos del montaje.
+
+Cierre: A tamaño de columna se leen todas las etiquetas sin colisión, y cada dirección de energía/datos/señal analógica queda inequívoca.
+
+### E2 Alinear figura 5 con la separación por stock o evento
+
+Ubicación: EN/ES p. 5, figura 5(b), título y cajas
+
+El pie y IV-B exigen separar stocks/eventos completos, pero el dibujo conserva Separation by independently prepared batch, calibration batches y new batches. Esa simplificación permite leer erróneamente que bastaría separar alícuotas/lotes del mismo stock.
+
+Acción: Actualizar título y cajas a training/internal-selection groups y independent hold-out stock/event groups; mostrar congelación de coeficientes, preprocesamiento, rango y reglas. Mantener la asignación pareada del comparador y la transferencia A→B sin reajuste. Aplicar los mismos cambios en ES.
+
+Cierre: Diagrama, pie y IV-B usan la misma unidad de separación y no sugieren reutilizar el hold-out para seleccionar el modelo.
+
+### E3 Explicitar las métricas con igual peso por lote
+
+Ubicación: EN p. 5, IV-B, párrafo que comienza We propose to test; ES p. 5
+
+Same batch weighting no define completamente la operación de RMSE ni el tratamiento de un lote sin resultados reportables. La media de RMSE por lote difiere de la raíz de la media de los errores cuadráticos por lote.
+
+Acción: Formalizar las métricas ya declaradas: para el conjunto de lotes con al menos una lectura reportable, sesgo = media de medias de e por lote; MAE = media de medias de |e| por lote; RMSE = raíz de la media de medias de e² por lote. Indicar que lotes sin valores reportables se contabilizan en disponibilidad/conformidad y se enumeran aparte de las métricas condicionales. Mantener todos los fallos en el denominador de conformidad cuando el comparador sea válido. No asignar a, b, confianza ni tamaños.
+
+Cierre: Las ecuaciones distinguen RMSE de la media de RMSE, definen denominadores y no ocultan lotes completamente fallidos. Si el autor pretende otro estimando, marcarlo [REQUIERE AL AUTOR] en lugar de cambiarlo silenciosamente.
+
+### E4 Corregir colisión en la tabla española y fragmentación
+
+Ubicación: ES p. 7, tabla II; EN pp. 3–6; ES pp. 3–5
+
+Energía/datos/publicación se pega a Energía medida en la última fila de la tabla II española. Varias continuaciones empiezan una columna/página con fragmentos como or enclosure sealing o can be calculated..., y las figuras interrumpen párrafos.
+
+Acción: Repartir anchuras o abreviar la primera etiqueta de tabla II; mantener separación entre columnas. Ajustar colocación de flotantes y párrafos para conservar bloques comprensibles. Reducir repeticiones si se persigue ocho páginas, conservando datos de fuente, límites y pendientes; no reducir letra ni forzar una afirmación de que el PDF final tendrá ocho páginas.
+
+Cierre: No hay texto de columnas pegado, cortes especialmente abruptos ni pérdida de contenido. Registrar el número final de páginas sin prometer que la edición cubrirá futuras figuras de resultados.
+
+### E5 Corregir la leyenda del anexo interno
+
+Ubicación: Planning_Annex_EN.pdf p. 2, figura P2(b/d); comprobar anexo ES equivalente
+
+La leyenda Scatter only / Ratio de la deriva ya no tapa la curva, pero está sobre el título de Reinsertion repeatability. El título Internal Planning Annex aparece después de la primera figura, aunque esta ya lleva aviso sintético.
+
+Acción: Mover la leyenda a una zona sin curvas ni títulos o ampliar espacio entre filas. Situar el título y aviso de uso interno antes de P1 si la reordenación no introduce problemas. Conservar avisos sintéticos/IA, cifras ficticias y separación del principal; no transformar el anexo en evidencia ni en suplemento de envío.
+
+Cierre: Leyenda y paneles no se superponen; el lector identifica uso interno antes de ver las maquetas. La prohibición de usar cifras sintéticas como evidencia queda visible.
+
+### E6 Pulir el registro y la traducción sin cerrar pendientes
+
+Ubicación: EN pp. 1, 3 y 7; ES p. 1; notas [REQUIERE AL AUTOR]
+
+El resumen español traduce error reporting como comunicación de errores, que puede confundirse con mensajes de fallo en lugar de métricas. La expresión real ratios en III-B también puede confundirse con mediciones ópticas ya demostradas.
+
+Acción: Usar en ES presentación de errores de medición y distinguirla de códigos de fallo. En EN/ES describir almacenamiento de valores recibidos en modo no demostración como función de software, manteniendo que la única prueba documentada es de comunicación. Aplicar las sugerencias de estilo S01–S10 solo si no alteran hechos ni pendientes.
+
+Cierre: Resumen e implementación no sugieren que se obtuvieron datos ópticos reales. Se conservan el alcance de protocolo, los avisos [REQUIERE AL AUTOR] y la ciencia ciudadana futura.
+
+## Comentarios al editor
+
+V2 responde seriamente a las objeciones textuales y ahora declara sus limitaciones de forma consistente. No recomendaría exigir un estudio ciudadano para evaluar la futura contribución del instrumento. Sí mantendría el rechazo como artículo experimental porque las observaciones indispensables no existen todavía. No hay en V2 una presentación oculta de maquetas como datos: la separación en anexo es explícita. Las correcciones E1–E6 sirven para mejorar el protocolo, no para levantar M1 ni aprobar el envío.
+
+## Recomendación
+
+RECHAZAR como investigación experimental en su estado actual. Como documento de planificación, V2 es coherente y sustancialmente mejor que V1, con ajustes locales E1–E6 aún posibles sin datos. Ninguno de los diez problemas mayores está completamente cerrado: M1 continúa no resuelto y M2–M10 son parciales. Cinco problemas menores y los trece puntos de redacción están resueltos en el alcance indicado; tres menores son parciales. Este resultado no equivale a que el PDF sea perfecto o publicable. Una siguiente versión deberá distinguir qué puntos se corrigieron con texto y cuáles se cerraron mediante evidencia nueva.
+
+## Redacción
+
+| Ubicación | Original | Propuesta | Motivo |
+|---|---|---|---|
+
+| S01 · p. 1, resumen, primera frase | This design and validation protocol describes an open turbidimeter intended to operate without its own display or battery. | We describe the design and validation protocol for an open turbidimeter intended to operate without its own display or battery. | Naturalidad: introduce una voz activa sin afirmar validación realizada. |
+
+| S02 · p. 1, resumen, evidencia | The available bench test establishes controller communication only; no assembled optical measurement or quantitative turbidity result has been validated. | The available bench test establishes only controller communication. Neither optical measurements from the assembled system nor quantitative turbidity results have been validated. | Claridad: separa qué se probó de lo que falta. |
+
+| S03 · p. 1, resumen, alcance | Their exploratory scope is limited to the tested devices. | These exploratory tests will support conclusions only about the devices tested. | Fluidez: da un antecedente concreto y mantiene el futuro. |
+
+| S04 · p. 2, II, apertura | An accessible paper does not imply reusable design files or licensed code. | Access to a paper does not imply access to reusable design files or licensed code. | Precisión: distingue acceso a publicación y acceso a recursos. |
+
+| S05 · p. 2, III-A, parámetros | These are configured settings, not verified settling or bandwidth. | These settings do not establish the system’s settling time or bandwidth. | Naturalidad y claridad del límite de la documentación de fuente. |
+
+| S06 · p. 3, III-A, umbrales | These are provisional bench thresholds, not validated quality limits. | These provisional bench thresholds have not been validated as quality limits. | Fluidez: conserva el estado provisional. |
+
+| S07 · p. 5, IV-B, decisiones | No numerical tolerances or minimum conformity fraction are justified yet. | Numerical tolerances and the minimum conformity fraction remain to be justified. | Naturalidad: expresa de forma directa el trabajo pendiente. |
+
+| S08 · p. 6, IV-D, transferencia | A single donor–recipient pair supports only an exploratory case, not manufacturing interchangeability. | A study with a single donor–recipient pair can provide exploratory evidence but cannot establish interchangeability across manufactured units. | Precisión de la inferencia condicional prevista; no afirma que el ensayo ya se hizo. |
+
+| S09 · p. 6, IV-E, apertura | A development commit alone is insufficient. | A development commit alone does not constitute a reproducible release. | Claridad: especifica para qué resulta insuficiente. |
+
+| S10 · p. 7, V, estado de evidencia | They are not results, acceptance limits, or a study-size justification. | These synthetic examples provide neither experimental results nor a basis for acceptance limits or sample-size justification. | Precisión y antecedente explícito sin cambiar el significado. |
+
+## Fuentes
+
+**S1. [IEEE Sensors Journal · Guide for Authors](https://ieee-sensors.org/ieee-sensors-journal/for-authors/page/31/)**. Fuente oficial consultada en esta ronda: manuscritos completos, plantilla y extensión ordinaria de ocho páginas; la política no establece que todo manuscrito de nueve páginas sea inadmisible.
+
+**S2. [Firmware XIAO en el commit e13c7b7b32205ea4632af3f718645d5a521985f9](https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/firmware/xiao_samd21_turbimeter/xiao_samd21_turbimeter.ino)**. Inspección independiente vía API GitHub del commit y blob 739a860d0e6c37df0dcc95babb2cfcae3883e3fb. Confirma AIN0/AIN1, 0x48, 128 muestras/s, PGA, cuatro ciclos, truncación entera, umbrales y DIAG. No es una prueba del conjunto físico.
+
+**S3. [Yallapragada et al. · ColorX (2025)](https://www.mdpi.com/1424-8220/25/16/4935)**. DOI 10.3390/s25164935. Texto indexado del editor y de los autores: soluciones de formazina comparadas mediante densidad óptica con espectrofotómetro. Sustenta la diferenciación añadida en II; no se extrapolan sus prestaciones.
+
+**S4. [JCGM 100:2008(E) · GUM](https://www.bipm.org/en/doi/10.59161/JCGM100-2008E)**. DOI y título comprobados en BIPM y metadatos. Referencia [36] nueva y pertinente para expresar incertidumbre; citarla no calcula un presupuesto.
+
+**S5. [JCGM 101:2008 · Propagation of distributions using a Monte Carlo method](https://www.bipm.org/en/committees/jc/jcgm/publications)**. DOI 10.59161/JCGM101-2008, comprobado en metadatos y catálogo oficial. Referencia [37] nueva y pertinente para modelos no lineales; no obliga a usar Monte Carlo sin justificar sus entradas.
+
+**S6. [Snapshots FFEM e HydroColor](https://github.com/foundation-for-environmental-monitoring/ffem-app/tree/5cbde5e2dde27e9fc2119de0b4b50f286395e945)**. La API confirma FFEM 5cbde5e... del 21-06-2022, HydroColor 2f3a9a1... del 04-02-2025 y ColorX c946ad1... del 26-07-2025. Las fechas del manuscrito para FFEM/HydroColor son coherentes. La consulta de commits no certifica cada licencia o todas las afirmaciones de sus publicaciones.
+
+## Prompt adicional
+
+Véase Prompt_correccion_Turbimeter_V2.md. Este prompt solo corrige el documento y conserva los pendientes que requieren al autor.

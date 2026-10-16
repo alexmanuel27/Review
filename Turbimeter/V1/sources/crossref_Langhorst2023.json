@@ -1,0 +1,996 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          28
+        ]
+      ],
+      "date-time": "2026-09-28T16:14:18Z",
+      "timestamp": 1790612058152,
+      "version": "4.1.0"
+    },
+    "reference-count": 36,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "9",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              4
+            ]
+          ],
+          "date-time": "2023-09-04T00:00:00Z",
+          "timestamp": 1693785600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              4
+            ]
+          ],
+          "date-time": "2023-09-04T00:00:00Z",
+          "timestamp": 1693785600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2153778"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2153778"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2153778"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2153778"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2153778"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2153778"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2153778"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2153778"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2153778"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2153778"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2153778"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2153778"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2153778"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2153778"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2153778"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2153778"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "2153778"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "2153778"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "1748653"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "1748653"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "1748653"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "1748653"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nat Water"
+    ],
+    "DOI": "10.1038/s44221-023-00124-2",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          5
+        ]
+      ],
+      "date-time": "2023-09-05T04:15:00Z",
+      "timestamp": 1693887300000
+    },
+    "page": "760-768",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+      "Increased scale and accessibility of sediment transport research in rivers through practical, open-source turbidity and depth sensors"
+    ],
+    "prefix": "10.1038",
+    "volume": "1",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0366-4809",
+        "authenticated-orcid": false,
+        "given": "Theodore",
+        "family": "Langhorst",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tamlin",
+        "family": "Pavelsky",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Emily",
+        "family": "Eidam",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-9498-6786",
+        "authenticated-orcid": false,
+        "given": "Lillian",
+        "family": "Cooper",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0979-8090",
+        "authenticated-orcid": false,
+        "given": "Julianne",
+        "family": "Davis",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2291-0190",
+        "authenticated-orcid": false,
+        "given": "Katie",
+        "family": "Spellman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Clement",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6485-6225",
+        "authenticated-orcid": false,
+        "given": "Christopher",
+        "family": "Arp",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Allen",
+        "family": "Bondurant",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0007-9372-2318",
+        "authenticated-orcid": false,
+        "given": "Elisa",
+        "family": "Friedmann",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3525-6220",
+        "authenticated-orcid": false,
+        "given": "Colin",
+        "family": "Gleason",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          4
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "124_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "1819",
+        "DOI": "10.1002/hyp.6763",
+        "volume": "22",
+        "author": "JPG Minella",
+        "year": "2008",
+        "unstructured": "Minella, J. P. G., Merten, G. H., Reichert, J. M. & Clarke, R. T. Estimating suspended sediment concentrations from turbidity measurements and the calibration problem. Hydrol. Process. 22, 1819–1830 (2008).",
+        "journal-title": "Hydrol. Process."
+      },
+      {
+        "key": "124_CR2",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Leopold, L. B. & Maddock, T. The Hydraulic Geometry of Stream Channels and Some Physiographic Implications Vol. 252 (US Government Printing Office, 1953).",
+        "DOI": "10.3133/pp252"
+      },
+      {
+        "key": "124_CR3",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Gray, J. R. & Simões, F. J. Estimating sediment discharge. in Sedimentation Engineering: Processes, Measurements, Modeling, and Practice, Series no. 110, 1067–1088 (American Society of Civil Engineers, 2008).",
+        "DOI": "10.1061/9780784408148.apd"
+      },
+      {
+        "key": "124_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "95",
+        "DOI": "10.1016/S0921-8181(03)00019-5",
+        "volume": "39",
+        "author": "MD Morehead",
+        "year": "2003",
+        "unstructured": "Morehead, M. D., Syvitski, J. P., Hutton, E. W. H. & Peckham, S. D. Modeling the temporal variability in the flux of sediment from ungauged river basins. Global Planet. Change 39, 95–110 (2003).",
+        "journal-title": "Global Planet. Change"
+      },
+      {
+        "key": "124_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "173",
+        "DOI": "10.4236/jwarp.2012.44020",
+        "volume": "04",
+        "author": "KA Chikita",
+        "year": "2012",
+        "unstructured": "Chikita, K. A., Wada, T., Kudo, I. & Kim, Y. The intra-annual variability of discharge, sediment load and chemical flux from the monitoring: the Yukon River, Alaska. JWARP 04, 173–179 (2012).",
+        "journal-title": "JWARP"
+      },
+      {
+        "key": "124_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "116",
+        "DOI": "10.1016/j.geomorph.2016.02.003",
+        "volume": "287",
+        "author": "L Mao",
+        "year": "2017",
+        "unstructured": "Mao, L. & Carrillo, R. Temporal dynamics of suspended sediment transport in a glacierized Andean basin. Geomorphology 287, 116–125 (2017).",
+        "journal-title": "Geomorphology"
+      },
+      {
+        "key": "124_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "159",
+        "DOI": "10.1191/0309133304pp409ra",
+        "volume": "28",
+        "author": "AL Collins",
+        "year": "2004",
+        "unstructured": "Collins, A. L. & Walling, D. E. Documenting catchment suspended sediment sources: problems, approaches and prospects. Prog. Phys. Geogr. 28, 159–196 (2004).",
+        "journal-title": "Prog. Phys. Geogr."
+      },
+      {
+        "key": "124_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "e83071",
+        "DOI": "10.7554/eLife.83071",
+        "volume": "11",
+        "author": "CY Chen",
+        "year": "2022",
+        "unstructured": "Chen, C. Y. et al. Systemic racial disparities in funding rates at the National Science Foundation. eLife 11, e83071 (2022).",
+        "journal-title": "eLife"
+      },
+      {
+        "key": "124_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2021EA002028",
+        "DOI": "10.1029/2021EA002028",
+        "volume": "9",
+        "author": "LB Corbett",
+        "year": "2022",
+        "unstructured": "Corbett, L. B., Bierman, P. R., Semken, S. & Whittaker, J. A. Can community laboratory facilities increase access and inclusivity in geoscience? Earth Space Sci. 9, e2021EA002028 (2022).",
+        "journal-title": "Earth Space Sci."
+      },
+      {
+        "key": "124_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "1061",
+        "DOI": "10.1093/icb/icac043",
+        "volume": "62",
+        "author": "M Oellermann",
+        "year": "2022",
+        "unstructured": "Oellermann, M. et al. Open hardware in science: the benefits of open electronics. Integr. Comp. Biol. 62, 1061–1075 (2022).",
+        "journal-title": "Integr. Comp. Biol."
+      },
+      {
+        "key": "124_CR11",
+        "doi-asserted-by": "publisher",
+        "first-page": "305",
+        "DOI": "10.1177/0309133320956567",
+        "volume": "45",
+        "author": "K Chan",
+        "year": "2021",
+        "unstructured": "Chan, K. et al. Low-cost electronic sensors for environmental research: pitfalls and opportunities. Prog. Phys. Geogr. 45, 305–338 (2021).",
+        "journal-title": "Prog. Phys. Geogr."
+      },
+      {
+        "key": "124_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "46",
+        "DOI": "10.1002/lom3.10469",
+        "volume": "20",
+        "author": "EF Eidam",
+        "year": "2021",
+        "unstructured": "Eidam, E. F., Langhorst, T., Goldstein, E. B. & McLean, M. OpenOBS: open-source, low-cost optical backscatter sensors for water quality and sediment-transport research. Limnol. Oceanogr. Methods 20, 46–59 (2021).",
+        "journal-title": "Limnol. Oceanogr. Methods"
+      },
+      {
+        "key": "124_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "3429",
+        "DOI": "10.1073/pnas.1214104110",
+        "volume": "110",
+        "author": "RM Cory",
+        "year": "2013",
+        "unstructured": "Cory, R. M., Crump, B. C., Dobkowski, J. A. & Kling, G. W. Surface exposure to sunlight stimulates CO2 release from permafrost soil carbon in the Arctic. Proc. Natl Acad. Sci. USA 110, 3429–3434 (2013).",
+        "journal-title": "Proc. Natl Acad. Sci. USA"
+      },
+      {
+        "key": "124_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "515",
+        "DOI": "10.1016/j.anbehav.2009.12.006",
+        "volume": "79",
+        "author": "MCO Ferrari",
+        "year": "2010",
+        "unstructured": "Ferrari, M. C. O., Lysak, K. R. & Chivers, D. P. Turbidity as an ecological constraint on learned predator recognition and generalization in a prey fish. Anim. Behav. 79, 515–519 (2010).",
+        "journal-title": "Anim. Behav."
+      },
+      {
+        "key": "124_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "2299",
+        "DOI": "10.1016/j.csr.2006.07.018",
+        "volume": "26",
+        "author": "J Downing",
+        "year": "2006",
+        "unstructured": "Downing, J. Twenty-five years with OBS sensors: the good, the bad, and the ugly. Cont. Shelf Res. 26, 2299–2318 (2006).",
+        "journal-title": "Cont. Shelf Res."
+      },
+      {
+        "key": "124_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "4439",
+        "DOI": "10.3390/s19204439",
+        "volume": "19",
+        "author": "T Matos",
+        "year": "2019",
+        "unstructured": "Matos, T. et al. Development of a cost-effective optical sensor for continuous monitoring of turbidity and suspended particulate matter in marine environment. Sensors 19, 4439 (2019).",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "124_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1993",
+        "DOI": "10.3390/s20071993",
+        "volume": "20",
+        "author": "J Trevathan",
+        "year": "2020",
+        "unstructured": "Trevathan, J., Read, W. & Schmidtke, S. Towards the development of an affordable and practical light attenuation turbidity sensor for remote near real-time aquatic monitoring. Sensors 20, 1993 (2020).",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "124_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "6441",
+        "DOI": "10.1109/JSEN.2020.2977348",
+        "volume": "20",
+        "author": "H Jiang",
+        "year": "2020",
+        "unstructured": "Jiang, H., Hu, Y., Yang, H., Wang, Y. & Ye, S. A highly sensitive deep-sea in-situ turbidity sensor with spectrum optimization modulation–demodulation method. IEEE Sens. J. 20, 6441–6449 (2020).",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "key": "124_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "520",
+        "DOI": "10.1016/j.talanta.2014.09.045",
+        "volume": "132",
+        "author": "K Murphy",
+        "year": "2015",
+        "unstructured": "Murphy, K. et al. A low-cost autonomous optical sensor for water quality monitoring. Talanta 132, 520–527 (2015).",
+        "journal-title": "Talanta"
+      },
+      {
+        "key": "124_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "7142",
+        "DOI": "10.3390/s140407142",
+        "volume": "14",
+        "author": "CD Kelley",
+        "year": "2014",
+        "unstructured": "Kelley, C. D. et al. An affordable open-source turbidimeter. Sensors 14, 7142–7155 (2014).",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "124_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "e00395",
+        "DOI": "10.1016/j.ohx.2023.e00395",
+        "volume": "13",
+        "author": "J Droujko",
+        "year": "2023",
+        "unstructured": "Droujko, J., Kunz, F. Jr & Molnar, P. Ötz-T: 3D-printed open-source turbidity sensor with Arduino shield for suspended sediment monitoring. HardwareX 13, e00395 (2023).",
+        "journal-title": "HardwareX"
+      },
+      {
+        "key": "124_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "530",
+        "DOI": "10.3390/s18020530",
+        "volume": "18",
+        "author": "PA Beddows",
+        "year": "2018",
+        "unstructured": "Beddows, P. A. & Mallon, E. K. Cave Pearl Data Logger: a flexible arduino-based logging platform for long-term monitoring in harsh environments. Sensors 18, 530 (2018).",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "124_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "335",
+        "DOI": "10.1002/lom3.10370",
+        "volume": "18",
+        "author": "TP Lyman",
+        "year": "2020",
+        "unstructured": "Lyman, T. P., Elsmore, K., Gaylord, B., Byrnes, J. E. K. & Miller, L. P. Open wave height logger: an open source pressure sensor data logger for wave measurement. Limnol. Oceanogr. Methods 18, 335–345 (2020).",
+        "journal-title": "Limnol. Oceanogr. Methods"
+      },
+      {
+        "key": "124_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "661",
+        "DOI": "10.2112/JCOASTRES-D-19-00118.1",
+        "volume": "36",
+        "author": "NA Temple",
+        "year": "2020",
+        "unstructured": "Temple, N. A., Webb, B. M., Sparks, E. L. & Linhoss, A. C. Low-cost pressure gauges for measuring water waves. J. Coast. Res. 36, 661–667 (2020).",
+        "journal-title": "J. Coast. Res."
+      },
+      {
+        "key": "124_CR25",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Thaler, A., Sturdivant, S. K., Neches, R. & Black, I. Openctd: construction and operation. MarXiv https://osf.io/preprints/marxiv/8evsq/ (2020).",
+        "DOI": "10.31230/osf.io/8evsq"
+      },
+      {
+        "key": "124_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "359",
+        "DOI": "10.1016/j.geomorph.2015.06.038",
+        "volume": "246",
+        "author": "EA Favaro",
+        "year": "2015",
+        "unstructured": "Favaro, E. A. & Lamoureux, S. F. Downstream patterns of suspended sediment transport in a high Arctic river influenced by permafrost disturbance and recent climate change. Geomorphology 246, 359–369 (2015).",
+        "journal-title": "Geomorphology"
+      },
+      {
+        "key": "124_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "232",
+        "DOI": "10.2166/nh.2013.199",
+        "volume": "46",
+        "author": "N Tananaev",
+        "year": "2015",
+        "unstructured": "Tananaev, N. Hysteresis effects of suspended sediment transport in relation to geomorphic conditions and dominant sediment sources in medium and large rivers of Russian Arctic. Hydrol. Res. 46, 232–243 (2015).",
+        "journal-title": "Hydrol. Res."
+      },
+      {
+        "key": "124_CR28",
+        "unstructured": "Schmidt, R. Mucking in the marshes. Endeavors https://endeavors.unc.edu/mucking-in-the-marshes/ (2022)."
+      },
+      {
+        "key": "124_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "620",
+        "DOI": "10.1177/0309133317726540",
+        "volume": "41",
+        "author": "BG Kitchener",
+        "year": "2017",
+        "unstructured": "Kitchener, B. G., Wainwright, J. & Parsons, A. J. A review of the principles of turbidity measurement. Prog. Phys. Geogr. 41, 620–642 (2017).",
+        "journal-title": "Prog. Phys. Geogr."
+      },
+      {
+        "key": "124_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "e14399",
+        "DOI": "10.1002/hyp.14399",
+        "volume": "35",
+        "author": "R Davies-Colley",
+        "year": "2021",
+        "unstructured": "Davies-Colley, R., Hughes, A. O., Vincent, A. G. & Heubeck, S. Weak numerical comparability of ISO-7027-compliant nephelometers. Ramifications for turbidity measurement applications. Hydrol. Process. 35, e14399 (2021).",
+        "journal-title": "Hydrol. Process."
+      },
+      {
+        "key": "124_CR31",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Snazelle, T. T. Field comparison of five in situ turbidity sensors. USGS https://doi.org/10.3133/ofr20201123 (2020).",
+        "DOI": "10.3133/ofr20201123"
+      },
+      {
+        "key": "124_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "719",
+        "DOI": "10.1007/s00216-016-9893-1",
+        "volume": "409",
+        "author": "M Münzberg",
+        "year": "2017",
+        "unstructured": "Münzberg, M., Hass, R., Dinh Duc Khanh, N. & Reich, O. Limitations of turbidity process probes and formazine as their calibration standard. Anal. Bioanal. Chem. 409, 719–728 (2017).",
+        "journal-title": "Anal. Bioanal. Chem."
+      },
+      {
+        "key": "124_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "9151",
+        "DOI": "10.1109/JSEN.2018.2869368",
+        "volume": "18",
+        "author": "WD Kirkey",
+        "year": "2018",
+        "unstructured": "Kirkey, W. D., Bonner, J. S. & Fuller, C. B. Low-cost submersible turbidity sensors using low-frequency source light modulation. IEEE Sens. J. 18, 9151–9162 (2018).",
+        "journal-title": "IEEE Sens. J."
+      },
+      {
+        "key": "124_CR34",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s10661-022-09825-9",
+        "volume": "194",
+        "author": "NJ Kinar",
+        "year": "2022",
+        "unstructured": "Kinar, N. J. & Brinkmann, M. Development of a sensor and measurement platform for water quality observations: design, sensor integration, 3D printing, and open-source hardware. Environ. Monit. Assess. 194, 207 (2022).",
+        "journal-title": "Environ. Monit. Assess."
+      },
+      {
+        "key": "124_CR35",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41598-022-14228-4",
+        "volume": "12",
+        "author": "J Droujko",
+        "year": "2022",
+        "unstructured": "Droujko, J. & Molnar, P. Open-source, low-cost, in-situ turbidity sensor for river network monitoring. Sci. Rep. 12, 10341 (2022).",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "124_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "1897",
+        "DOI": "10.3390/s23041897",
+        "volume": "23",
+        "author": "R Sanchez",
+        "year": "2023",
+        "unstructured": "Sanchez, R., Groc, M., Vuillemin, R., Pujo-Pay, M. & Raimbault, V. Development of a frugal, in situ sensor implementing a ratiometric method for continuous monitoring of turbidity in natural waters. Sensors 23, 1897 (2023).",
+        "journal-title": "Sensors"
+      }
+    ],
+    "container-title": [
+      "Nature Water"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s44221-023-00124-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s44221-023-00124-2",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s44221-023-00124-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          18
+        ]
+      ],
+      "date-time": "2023-09-18T11:03:06Z",
+      "timestamp": 1695034986000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s44221-023-00124-2"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          4
+        ]
+      ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+      "issue": "9",
+      "published-online": {
+        "date-parts": [
+          [
+            2023,
+            9
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "124"
+    ],
+    "URL": "https://doi.org/10.1038/s44221-023-00124-2",
+    "relation": {
+      "has-preprint": [
+        {
+          "id-type": "doi",
+          "id": "10.21203/rs.3.rs-2793579/v1",
+          "asserted-by": "object"
+        }
+      ]
+    },
+    "ISSN": [
+      "2731-6084"
+    ],
+    "issn-type": [
+      {
+        "value": "2731-6084",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          4
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "8 April 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "1 August 2023",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "4 September 2023",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ]
+  }
+}

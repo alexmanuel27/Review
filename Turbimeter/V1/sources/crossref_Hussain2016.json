@@ -1,0 +1,555 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2026-09-22T10:36:48Z",
+      "timestamp": 1790073408054,
+      "version": "4.0.1"
+    },
+    "reference-count": 42,
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "issue": "27",
+    "content-domain": {
+      "domain": [
+        "rsc.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "RSC Adv."
+    ],
+    "abstract": "<p>Smartphone based platform turbidimeter measuring turbidity in drinking and different environmental water bodies.</p>",
+    "DOI": "10.1039/c6ra02483a",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2016,
+          2,
+          15
+        ]
+      ],
+      "date-time": "2016-02-15T10:32:37Z",
+      "timestamp": 1455532357000
+    },
+    "page": "22374-22382",
+    "update-policy": "https://doi.org/10.1039/rsc_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 84,
+    "title": [
+      "Water turbidity sensing using a smartphone"
+    ],
+    "prefix": "10.1039",
+    "volume": "6",
+    "author": [
+      {
+        "given": "I.",
+        "family": "Hussain",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Applied Photonics and Nanophotnics Laboratory"
+          },
+          {
+            "name": "Department of Physics"
+          },
+          {
+            "name": "Tezpur University"
+          },
+          {
+            "name": "India"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "K.",
+        "family": "Ahamad",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil Engineering"
+          },
+          {
+            "name": "Tezpur University"
+          },
+          {
+            "name": "India"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Nath",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Applied Photonics and Nanophotnics Laboratory"
+          },
+          {
+            "name": "Department of Physics"
+          },
+          {
+            "name": "Tezpur University"
+          },
+          {
+            "name": "India"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "292",
+    "published-online": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "C6RA02483A-(cit1)/*[position()=1]",
+        "unstructured": "http://water.epa.gov/type/rsl/monitoring/vms55.cfm, (accessed September 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit2)/*[position()=1]",
+        "unstructured": "http://www.hc-sc.gc.ca/ewh-semt/pubs/water-eau/turbidity/index-eng.php, (accessed September 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit3)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "25",
+        "DOI": "10.2166/wst.1998.0168",
+        "volume": "38",
+        "author": "Wilen",
+        "year": "1998",
+        "journal-title": "Water Sci. Technol."
+      },
+      {
+        "key": "C6RA02483A-(cit4)/*[position()=1]",
+        "volume-title": "Perspectives in Southern Hemisphere Limnology",
+        "author": "Kirk",
+        "year": "1985",
+        "unstructured": "J. T. Kirk , in Perspectives in Southern Hemisphere Limnology, Springer, 1985, pp. 195–208"
+      },
+      {
+        "key": "C6RA02483A-(cit5)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "85",
+        "DOI": "10.1002/j.1551-8833.1990.tb06982.x",
+        "volume": "82",
+        "author": "Ongerth",
+        "year": "1990",
+        "journal-title": "J. - Am. Water Works Assoc."
+      },
+      {
+        "key": "C6RA02483A-(cit6)/*[position()=1]",
+        "unstructured": "http://www.hach.com/2100qportableturbidimeter/product?id=7640450963, (accessed September 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit7)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "909",
+        "DOI": "10.4319/lo.1986.31.5.0909",
+        "volume": "31",
+        "author": "Preisendorfer",
+        "year": "1986",
+        "journal-title": "Limnol. Oceanogr."
+      },
+      {
+        "key": "C6RA02483A-(cit8)/*[position()=1]",
+        "first-page": "10701",
+        "volume": "21",
+        "author": "Bilro",
+        "year": "2010",
+        "journal-title": "Meas. Sci. Technol."
+      },
+      {
+        "key": "C6RA02483A-(cit9)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "8311",
+        "DOI": "10.3390/s91008311",
+        "volume": "9",
+        "author": "Bin Omar",
+        "year": "2009",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "C6RA02483A-(cit10)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "44",
+        "DOI": "10.1016/j.optlastec.2015.04.005",
+        "volume": "73",
+        "author": "Yang",
+        "year": "2015",
+        "journal-title": "Opt. Laser Technol."
+      },
+      {
+        "key": "C6RA02483A-(cit11)/*[position()=1]",
+        "first-page": "252",
+        "author": "McCluney",
+        "year": "1975",
+        "journal-title": "J. - Water Pollut. Control Fed."
+      },
+      {
+        "key": "C6RA02483A-(cit12)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "387",
+        "DOI": "10.2105/AJPH.56.3.387",
+        "volume": "56",
+        "author": "Gilcreas",
+        "year": "1966",
+        "journal-title": "Am. J. Public Health Nation's Health"
+      },
+      {
+        "key": "C6RA02483A-(cit13)/*[position()=1]",
+        "unstructured": "http://water.epa.gov/scitech/methods/cwa/bioindicators/upload/007_07_10_methods_method_180_1.pdf, (accessed September 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit14)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "601",
+        "DOI": "10.1016/j.bios.2015.07.014",
+        "volume": "74",
+        "author": "Cho",
+        "year": "2015",
+        "journal-title": "Biosens. Bioelectron."
+      },
+      {
+        "key": "C6RA02483A-(cit15)/*[position()=1]",
+        "first-page": "90",
+        "volume": "29",
+        "author": "Roda",
+        "year": "2014",
+        "journal-title": "Luminescence"
+      },
+      {
+        "key": "C6RA02483A-(cit16)/*[position()=1]",
+        "first-page": "312",
+        "volume": "2014",
+        "author": "Sun",
+        "year": "2014",
+        "journal-title": "IEEE Biomedical Circuits and Systems Conference : Healthcare Technology"
+      },
+      {
+        "key": "C6RA02483A-(cit17)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "7399",
+        "DOI": "10.1039/C5AN01664A",
+        "volume": "140",
+        "author": "Zhang",
+        "year": "2015",
+        "journal-title": "Analyst"
+      },
+      {
+        "key": "C6RA02483A-(cit18)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "8453",
+        "DOI": "10.1166/jnn.2014.9920",
+        "volume": "14",
+        "author": "Lee",
+        "year": "2014",
+        "journal-title": "J. Nanosci. Nanotechnol."
+      },
+      {
+        "key": "C6RA02483A-(cit19)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "2124",
+        "DOI": "10.1039/c3lc40991k",
+        "volume": "13",
+        "author": "Gallegos",
+        "year": "2013",
+        "journal-title": "Lab Chip"
+      },
+      {
+        "key": "C6RA02483A-(cit20)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "3187",
+        "DOI": "10.1039/C4LC00010B",
+        "volume": "14",
+        "author": "Ozcan",
+        "year": "2014",
+        "journal-title": "Lab Chip"
+      },
+      {
+        "key": "C6RA02483A-(cit21)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "332",
+        "DOI": "10.1016/j.bios.2014.04.014",
+        "volume": "60",
+        "author": "Gopinath",
+        "year": "2014",
+        "journal-title": "Biosens. Bioelectron."
+      },
+      {
+        "key": "C6RA02483A-(cit22)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "5739",
+        "DOI": "10.1364/AO.54.005739",
+        "volume": "54",
+        "author": "Hussain",
+        "year": "2015",
+        "journal-title": "Appl. Opt."
+      },
+      {
+        "key": "C6RA02483A-(cit23)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "057151",
+        "DOI": "10.1063/1.4921835",
+        "volume": "5",
+        "author": "Dutta",
+        "year": "2015",
+        "journal-title": "AIP Adv."
+      },
+      {
+        "key": "C6RA02483A-(cit24)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "1284",
+        "DOI": "10.1039/C4LC01358A",
+        "volume": "15",
+        "author": "Koydemir",
+        "year": "2015",
+        "journal-title": "Lab Chip"
+      },
+      {
+        "key": "C6RA02483A-(cit25)/*[position()=1]",
+        "unstructured": "https://play.google.com/store/apps/details?id=net.mannoun.lightmeter&hl=en, (accessed September 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit26)/*[position()=1]",
+        "unstructured": "https://play.google.com/store/apps/details?id=com.apdla.stanxy&hl=en, (accessed September 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit27)/*[position()=1]",
+        "volume-title": "Water analysis",
+        "volume": "vol. 1",
+        "year": "1982",
+        "unstructured": "Inorganic species part 1, Water analysis, ed. R. A. Minear and L. H. Keith, vol. 1, Academic press, 1982, pp. 182–233"
+      },
+      {
+        "key": "C6RA02483A-(cit28)/*[position()=1]",
+        "volume-title": "Methods for Determination of Inorganic Substances in Environmental Samples.EPA-600/R/93/100-Draft",
+        "author": "U.S. Environmental Protection Agency",
+        "year": "1993",
+        "unstructured": "U.S. Environmental Protection Agency , Methods for Determination of Inorganic Substances in Environmental Samples.EPA-600/R/93/100-Draft, Environmental Monitoring Systems Lab., Cincinnati, Ohio, 1993"
+      },
+      {
+        "key": "C6RA02483A-(cit29)/*[position()=1]",
+        "unstructured": "www.hach.com/asset-get.downloaden.jsa?code=61799, (accessed September 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit30)/*[position()=1]",
+        "unstructured": "ISO 7027:1999, Water quality – Determination of turbidity, https://www.iso.org/obp/ui/#iso:std:iso:7027:ed-3:v1:en, (accessed October 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit31)/*[position()=1]",
+        "volume-title": "Light scattering by small particles",
+        "author": "Hulst",
+        "year": "1957",
+        "unstructured": "H. C. Hulst and H.van de Hulst, Light scattering by small particles, Dover publication, New York, 1957"
+      },
+      {
+        "key": "C6RA02483A-(cit32)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "587",
+        "DOI": "10.1016/S0025-3227(99)00080-8",
+        "volume": "162",
+        "author": "Sutherland",
+        "year": "2000",
+        "journal-title": "Mar. Geol."
+      },
+      {
+        "key": "C6RA02483A-(cit33)/*[position()=1]",
+        "volume-title": "Proceedings of the 2003 Georgia Water Resources Conference",
+        "author": "Holliday",
+        "year": "2003",
+        "unstructured": "C. Holliday , T. C.Rasmussen and W. P.Miller, Proceedings of the 2003 Georgia Water Resources Conference, Institute of Ecology, The University of Georgia, Athens, Georgia, 2003"
+      },
+      {
+        "key": "C6RA02483A-(cit34)/*[position()=1]",
+        "unstructured": "http://specdevice.com/showspec.php?id=6fca-4f5b-ffff-fffff133d5e9, (accessed October 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit35)/*[position()=1]",
+        "unstructured": "http://www.avagotech.com/products/optical-sensors/integrated-ambient-light-proximity-sensors/apds-9930, (accessed October 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit36)/*[position()=1]",
+        "unstructured": "http://ams.com/eng/Products/Light-Sensors/Ambient-Light-Sensor-Proximity-Detection, (accessed October 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit37)/*[position()=1]",
+        "doi-asserted-by": "crossref",
+        "first-page": "608",
+        "DOI": "10.1016/j.snb.2015.04.087",
+        "volume": "216",
+        "author": "Doeven",
+        "year": "2015",
+        "journal-title": "Sens. Actuators, B"
+      },
+      {
+        "key": "C6RA02483A-(cit38)/*[position()=1]",
+        "unstructured": "http://www.usb.org/developers/onthego, (Accessed October 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit39)/*[position()=1]",
+        "unstructured": "www.epa.ie/pubs/advice/drinkingwater/2015_04_21_ParametersStandaloneDoc.pdf, (accessed October 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit40)/*[position()=1]",
+        "unstructured": "Drinking water- specifications, IS 10500: 2012, http://cgwb.gov.in/NEW/Documents/WQ-standards.pdf. (accessed October 2015)"
+      },
+      {
+        "key": "C6RA02483A-(cit41)/*[position()=1]",
+        "unstructured": "https://confluence.cornell.edu/pages/viewpageattachments.action?pageId=190483240&metadataLink=true, (accessed january 2016)"
+      },
+      {
+        "key": "C6RA02483A-(cit42)/*[position()=1]",
+        "unstructured": "http://www.arborsci.com/media/datasheet/NL-2310_DS.pdf. (accessed january 2016)"
+      }
+    ],
+    "container-title": [
+      "RSC Advances"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://pubs.rsc.org/en/content/articlepdf/2016/RA/C6RA02483A",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          7
+        ]
+      ],
+      "date-time": "2026-07-07T18:48:27Z",
+      "timestamp": 1783450107000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.rsc.org/ra/article/6/27/22374-22382/534532"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+      "issue": "27",
+      "published-print": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1039/c6ra02483a",
+    "relation": {},
+    "ISSN": [
+      "2046-2069"
+    ],
+    "issn-type": [
+      {
+        "value": "2046-2069",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "This document is Similarity Check deposited",
+        "name": "similarity_check",
+        "explanation": {
+          "URL": "https://www.crossref.org/services/similarity-check/"
+        },
+        "group": {
+          "name": "similarity_check",
+          "label": "SIMILARITY CHECK"
+        }
+      },
+      {
+        "value": "Supplementary Information",
+        "URL": "https://doi.org/10.1039/C6RA02483A",
+        "name": "related_data",
+        "group": {
+          "name": "related_data",
+          "label": "RELATED DATA"
+        }
+      },
+      {
+        "value": "The Royal Society of Chemistry has an exclusive publication licence for this journal",
+        "name": "copyright_licence",
+        "group": {
+          "name": "copyright_licensing",
+          "label": "COPYRIGHT AND LICENSING"
+        }
+      },
+      {
+        "value": "Single-blind",
+        "order": 2,
+        "name": "peer_review_method",
+        "group": {
+          "name": "peer_review_method",
+          "label": "PEER REVIEW METHOD"
+        }
+      },
+      {
+        "value": "Received 27 January 2016; Accepted 13 February 2016; Accepted Manuscript published 15 February 2016; Version of Record published 26 February 2016",
+        "order": 1,
+        "name": "history",
+        "group": {
+          "name": "publication_history",
+          "label": "PUBLICATION HISTORY"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,707 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          22
+        ]
+      ],
+      "date-time": "2026-09-22T13:14:33Z",
+      "timestamp": 1790082873612,
+      "version": "4.0.1"
+    },
+    "reference-count": 48,
+    "publisher": "Elsevier BV",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2011-11-01T00:00:00Z",
+          "timestamp": 1320105600000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Journal of Hazardous Materials"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2011,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jhazmat.2011.09.037",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          9,
+          17
+        ]
+      ],
+      "date-time": "2011-09-17T05:15:32Z",
+      "timestamp": 1316236532000
+    },
+    "page": "402-411",
+    "source": "Crossref",
+    "is-referenced-by-count": 30,
+    "special_numbering": "C",
+    "title": [
+      "Reconstruction of metal pollution and recent sedimentation processes in Havana Bay (Cuba): A tool for coastal ecosystem management"
+    ],
+    "prefix": "10.1016",
+    "volume": "196",
+    "author": [
+      {
+        "given": "M.",
+        "family": "Díaz-Asencio",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J.A. Corcho",
+        "family": "Alvarado",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Alonso-Hernández",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Quejido-Cabezas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.C.",
+        "family": "Ruiz-Fernández",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Sanchez-Sanchez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.B.",
+        "family": "Gómez-Mancebo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P.",
+        "family": "Froidevaux",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J.A.",
+        "family": "Sanchez-Cabeza",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0005",
+        "unstructured": "ITT, Informe Final Proyecto CUB/80/001, Investigación y Control de la Contaminación Marina en la Bahía de la Habana, PNUMA, UNESCO (1985) (in Spanish)."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0010",
+        "unstructured": "A. Valdes-Mujica, La Bahia y la ciudad, Pasado, presente y futuro de un ecosistema, El pelicano (2008) 4–11."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0015",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1016/j.marchem.2005.10.026",
+        "article-title": "Marsh sediments as records of sedimentation, eutrophication and metal pollution in the urban Delaware Estuary",
+        "volume": "102",
+        "author": "Church",
+        "year": "2006",
+        "journal-title": "Mar. Chem."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0020",
+        "doi-asserted-by": "crossref",
+        "first-page": "108",
+        "DOI": "10.1016/j.marpolbul.2009.02.010",
+        "article-title": "One century sedimentary record of Hg and Pb pollution in the Sagua estuary (Cuba) derived from 210Pb and 137Cs chronology",
+        "volume": "59",
+        "author": "Díaz-Asencio",
+        "year": "2009",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0025",
+        "doi-asserted-by": "crossref",
+        "first-page": "1719",
+        "DOI": "10.1016/j.marpolbul.2008.07.006",
+        "article-title": "A 130 year record of pollution in the Suances estuary (southern Bay of Biscay), Implications for environmental management",
+        "volume": "56",
+        "author": "Irabien",
+        "year": "2008",
+        "journal-title": "Mar. Pollut. Bull."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0030",
+        "doi-asserted-by": "crossref",
+        "first-page": "551",
+        "DOI": "10.1007/s12237-009-9150-3",
+        "article-title": "Trace metals (Cd, Cu, Hg, and Pb) accumulation recorded in the intertidal mudflat sediments of three coastal lagoons in the Gulf of California, Mexico",
+        "volume": "32",
+        "author": "Ruiz-Fernández",
+        "year": "2009",
+        "journal-title": "Estuaries Coasts"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0035",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1016/S0304-4203(00)00101-8",
+        "article-title": "Accumulation rates and sources of sediments and organic carbon on the Palos Verdes shelf based on radioisotopic tracers 137Cs, 239,240Pu, 210Pb, 234Th, 238U and 14C",
+        "volume": "73",
+        "author": "Santschi",
+        "year": "2001",
+        "journal-title": "Mar. Chem."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0040",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1016/S0341-8162(78)80002-2",
+        "article-title": "The calculation of lead-210 dates assuming a constant rate of supply of unsupported 210Pb to the sediment",
+        "volume": "5",
+        "author": "Appleby",
+        "year": "1978",
+        "journal-title": "Catena"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0045",
+        "unstructured": "J.A. Sanchez-Cabeza, A.C. Ruiz-Fernandez, 210Pb sediment radiochronology: an integrated formulation and classification of dating models, Geochim. Cosmochim. Acta (submitted for publication)."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0050",
+        "series-title": "Tracking environmental change using lake sediments, vol. 1, Basin Analysis, Coring and Chronological Techniques",
+        "first-page": "576",
+        "article-title": "Chronostratigraphic techniques in recent sediments",
+        "author": "Appleby",
+        "year": "2001"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0055",
+        "doi-asserted-by": "crossref",
+        "first-page": "121",
+        "DOI": "10.1016/S0265-931X(00)00152-1",
+        "article-title": "Why should we believe 210Pb sediment geochronologies?",
+        "volume": "55",
+        "author": "Smith",
+        "year": "2001",
+        "journal-title": "J. Environ. Radioact."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0060",
+        "unstructured": "UNSCEAR, Sources and effects of ionising radiation, Report to the General Assembly, vol. 1, Annex C, United Nations Scientific Committee on the Effects of Atomic Radiation, New York, 2000."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0065",
+        "doi-asserted-by": "crossref",
+        "first-page": "35",
+        "DOI": "10.1007/BF00050929",
+        "article-title": "241Am dating of lake sediments",
+        "volume": "214",
+        "author": "Appleby",
+        "year": "1991",
+        "journal-title": "Hydrobiology"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0070",
+        "doi-asserted-by": "crossref",
+        "first-page": "15",
+        "DOI": "10.1007/BF00028422",
+        "article-title": "The use of fallout 137Cs and 239,240Pu for dating of lake sediments",
+        "volume": "103",
+        "author": "Jaakkola",
+        "year": "1983",
+        "journal-title": "Hydrobiology"
+      },
+      {
+        "issue": "8",
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0075",
+        "doi-asserted-by": "crossref",
+        "first-page": "2911",
+        "DOI": "10.1021/es9029649",
+        "article-title": "Vertical distributions of plutonium and 137Cs in lacustrine sediments in Northwestern China: quantifying sediment accumulation rates and source identifications",
+        "volume": "44",
+        "author": "Wu",
+        "year": "2010",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0080",
+        "doi-asserted-by": "crossref",
+        "first-page": "63",
+        "DOI": "10.1016/j.cities.2005.10.001",
+        "article-title": "City profile Havana",
+        "volume": "23",
+        "author": "Colantonio",
+        "year": "2006",
+        "journal-title": "Cities"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0085",
+        "article-title": "Effects of chronic and heavy pollution on macro- and meiobenthos of Havana Bay, Cuba",
+        "volume": "30",
+        "author": "Armenteros",
+        "year": "2009",
+        "journal-title": "Rev. Invest. Mar."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0090",
+        "doi-asserted-by": "crossref",
+        "first-page": "349",
+        "DOI": "10.1016/j.envint.2005.08.002",
+        "article-title": "Comparing environmental issues in Cuba before and after the special period, balancing sustainable development and survival",
+        "volume": "32",
+        "author": "Maal-Bared",
+        "year": "2006",
+        "journal-title": "Environ. Int."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0095",
+        "doi-asserted-by": "crossref",
+        "first-page": "235",
+        "DOI": "10.1016/0012-8252(92)90001-A",
+        "article-title": "Manual for the geochemical analyses of marine sediments and suspended particulate matter",
+        "volume": "32",
+        "author": "Loring",
+        "year": "1992",
+        "journal-title": "Earth Sci. Rev."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0100",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1007/BF02386425",
+        "article-title": "210Pb and 210Po analysis in sediments and soils by microwave acid digestion",
+        "volume": "227",
+        "author": "Sanchez-Cabeza",
+        "year": "1998",
+        "journal-title": "J. Radioanal. Nucl. Chem."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0105",
+        "doi-asserted-by": "crossref",
+        "first-page": "221",
+        "DOI": "10.1016/S0003-2670(00)89210-7",
+        "article-title": "The determination of low levels of polonium-210 in environmental materials",
+        "volume": "43",
+        "author": "Flynn",
+        "year": "1968",
+        "journal-title": "Anal. Chim. Acta"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0110",
+        "doi-asserted-by": "crossref",
+        "first-page": "628",
+        "DOI": "10.1016/0883-2889(86)90084-5",
+        "article-title": "Improved alpha-energy resolution for the determination of polonium isotopes by alpha-spectrometry",
+        "volume": "37",
+        "author": "Hamilton",
+        "year": "1986",
+        "journal-title": "Appl. Radiat. Isot."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0115",
+        "doi-asserted-by": "crossref",
+        "first-page": "425",
+        "DOI": "10.1007/s10967-009-0004-z",
+        "article-title": "A new method for the determination at ultra-low levels of plutonium and americium, using high pressure microwave digestion and alpha-spectrometry or ICP-SMS",
+        "volume": "281",
+        "author": "Luisier",
+        "year": "2009",
+        "journal-title": "J. Radioanal. Nucl. Chem."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0120",
+        "doi-asserted-by": "crossref",
+        "first-page": "745",
+        "DOI": "10.1007/BF02347389",
+        "article-title": "Electrodeposition of actinides for alpha-spectrometry",
+        "volume": "242",
+        "author": "Bajo",
+        "year": "1999",
+        "journal-title": "J. Radioanal. Nucl. Chem."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0125",
+        "first-page": "1",
+        "article-title": "Anthropogenic metal delivery in sediments of Porto Marghera and Venice Lagoon (Italy)",
+        "volume": "19",
+        "author": "Bellucci",
+        "year": "2010",
+        "journal-title": "Soil Sed. Contam."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0130",
+        "doi-asserted-by": "crossref",
+        "first-page": "175",
+        "DOI": "10.1016/0883-2927(94)00053-9",
+        "article-title": "Accumulation of contaminated metals in marine sediments of Halifax Harbour, Nova Scotia: environmental factors and historical trends",
+        "volume": "10",
+        "author": "Buckley",
+        "year": "1995",
+        "journal-title": "Appl. Geochem."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0135",
+        "doi-asserted-by": "crossref",
+        "first-page": "209",
+        "DOI": "10.1016/S0304-4203(98)00020-6",
+        "article-title": "Historical record of heavy metals in a highly contaminated mediterranean deposit: the Besos prodelta",
+        "volume": "61",
+        "author": "Palanques",
+        "year": "1998",
+        "journal-title": "Mar. Chem."
+      },
+      {
+        "issue": "3",
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0140",
+        "doi-asserted-by": "crossref",
+        "first-page": "561",
+        "DOI": "10.1023/A:1024572304648",
+        "article-title": "210Pb dating of sediments from Havana Bay",
+        "volume": "256",
+        "author": "Gelen",
+        "year": "2003",
+        "journal-title": "J. Radioanal. Nucl. Chem."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0145",
+        "doi-asserted-by": "crossref",
+        "first-page": "153",
+        "DOI": "10.1016/j.csr.2005.08.026",
+        "article-title": "Recent changes in sedimentation regime in Cienfuegos Bay, Cuba, as inferred from 210Pb and 137Cs vertical profiles",
+        "volume": "26",
+        "author": "Alonso-Hernandez",
+        "year": "2006",
+        "journal-title": "Cont. Shelf Res."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0150",
+        "doi-asserted-by": "crossref",
+        "first-page": "1495",
+        "DOI": "10.1021/es00006a010",
+        "article-title": "History of trace metal pollution in Sabine-Neches Estuary, Beaumont, Texas",
+        "volume": "29",
+        "author": "Ravichandran",
+        "year": "1995",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0155",
+        "doi-asserted-by": "crossref",
+        "first-page": "291",
+        "DOI": "10.1016/0009-2541(95)00082-W",
+        "article-title": "Geochronology of sediments in the Sabine-Neches Estuary, Texas, U.S.A.",
+        "volume": "125",
+        "author": "Ravichandran",
+        "year": "1995",
+        "journal-title": "Chem. Geol."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0160",
+        "doi-asserted-by": "crossref",
+        "first-page": "248",
+        "DOI": "10.1016/0012-821X(80)90208-3",
+        "article-title": "Pu in the coastal marine environment",
+        "volume": "51",
+        "author": "Santschi",
+        "year": "1980",
+        "journal-title": "Earth Planet. Sci. Lett."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0165",
+        "doi-asserted-by": "crossref",
+        "first-page": "378",
+        "DOI": "10.1021/es980378l",
+        "article-title": "Sediment transport and Hg recovery in Lavaca Bay, as evaluated from radionuclide and Hg distributions",
+        "volume": "33",
+        "author": "Santschi",
+        "year": "1999",
+        "journal-title": "Environ. Sci. Technol."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0170",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1016/S0265-931X(01)00037-6",
+        "article-title": "Distributions of Pu, Am and Cs in margin sediments from the western Mediterranean (Spanish coast)",
+        "volume": "59",
+        "author": "Gascó",
+        "year": "2002",
+        "journal-title": "J. Environ. Radioact."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0175",
+        "series-title": "Biochemistry of Lead in the Environment",
+        "article-title": "Geophysical applications of radioactive lead isotopes",
+        "author": "Robbins",
+        "year": "1978"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0180",
+        "article-title": "Tropical storms in Central America and the Caribbean. Characteristic rainfall and forecasting of flash floods",
+        "volume": "vol. 140",
+        "author": "Diaz Arenas",
+        "year": "1983"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0185",
+        "unstructured": "Opus Habana, El camino del viento, Huracanes sobre La Habana, Opus Habana 3 (2005) 4–13."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0190",
+        "unstructured": "C. Oria, Huracanes habaneros y sus insólitas secuelas, TRIBUNA de La Habana (2008)."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0195",
+        "series-title": "International Workshop La Niña summit: Review of the Causes and Consequences of Cold Events",
+        "article-title": "La Niña Impacts in Cuba: the opposite face of the coin?",
+        "author": "Naranjo Diaz",
+        "year": "1998"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0200",
+        "unstructured": "P. Cardenas, M. Perez, Eventos ENOS y anomalias de, las lluvias en Cuba, Technical Report, Instituto de Meteorologia, Havana, Cuba, 1991."
+      },
+      {
+        "issue": "2",
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0205",
+        "doi-asserted-by": "crossref",
+        "first-page": "3",
+        "DOI": "10.4067/S0717-71782002000200001",
+        "article-title": "El Niño-Oscilación del Sur (ENOS) y los frentes fríos que arriban a la región occidental cubana",
+        "volume": "30",
+        "author": "Hernandez",
+        "year": "2002",
+        "journal-title": "Invest. Mar."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0210",
+        "doi-asserted-by": "crossref",
+        "unstructured": "J. Rubiera, A. Caymares, Severe weather events induced by enso events during the Cuban winter season, Bulletin de l‘Institut francais d‘études Andins, 27 (3) (1998) 845–855.",
+        "DOI": "10.3406/bifea.1998.1340"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0215",
+        "article-title": "Using SST anomalies to predict flood and drought conditions for the Caribbean",
+        "volume": "vol. 49",
+        "author": "Chen",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0220",
+        "doi-asserted-by": "crossref",
+        "first-page": "1531",
+        "DOI": "10.1002/joc.1068",
+        "article-title": "The effect of concurrent sea-surface temperature Anomalies in the tropical pacific and atlantic on Caribbean rainfall",
+        "volume": "24",
+        "author": "Spence",
+        "year": "2004",
+        "journal-title": "Int. J. Climatol."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0225",
+        "unstructured": "J. Beltrán, M. Pérez, L. López, R. Regadera, Control y evolución de la calidad ambiental de la Bahía de La Habana, Final Report, Vigilancia ambiental para la, Bahía de La Habana, CIMAB, 2008"
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0230",
+        "doi-asserted-by": "crossref",
+        "first-page": "269",
+        "DOI": "10.1146/annurev.ea.11.050183.001413",
+        "article-title": "Rates of biogeochemical processes in anoxic sediments",
+        "volume": "11",
+        "author": "Reeburgh",
+        "year": "1983",
+        "journal-title": "Ann. Rev. Earth Planet. Sci."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0235",
+        "doi-asserted-by": "crossref",
+        "first-page": "1247",
+        "DOI": "10.4319/lo.1984.29.6.1247",
+        "article-title": "Microbial mediation of Mn(II) et Co(II) precipitation at the O2/H2S interfaces in two anoxic fjords",
+        "volume": "29",
+        "author": "Tebo",
+        "year": "1984",
+        "journal-title": "Limnol. Ocean."
+      },
+      {
+        "key": "10.1016/j.jhazmat.2011.09.037_bib0240",
+        "doi-asserted-by": "crossref",
+        "first-page": "2264",
+        "DOI": "10.1016/j.gca.2006.02.001",
+        "article-title": "Early diagenesis of trace metals (Cd, Cu, Co, Ni, U, Mo, and V) in the freshwater reaches of a macrotidal estuary",
+        "volume": "70",
+        "author": "Audry",
+        "year": "2006",
+        "journal-title": "Geochim. Cosmochim. Acta"
+      }
+    ],
+    "container-title": [
+      "Journal of Hazardous Materials"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S030438941101137X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S030438941101137X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          9
+        ]
+      ],
+      "date-time": "2023-06-09T17:20:10Z",
+      "timestamp": 1686331210000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S030438941101137X"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          11
+        ]
+      ]
+    },
+    "references-count": 48,
+    "alternative-id": [
+      "S030438941101137X"
+    ],
+    "URL": "https://doi.org/10.1016/j.jhazmat.2011.09.037",
+    "relation": {},
+    "ISSN": [
+      "0304-3894"
+    ],
+    "issn-type": [
+      {
+        "value": "0304-3894",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          11
+        ]
+      ]
+    }
+  }
+}

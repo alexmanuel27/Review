@@ -1,0 +1,851 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          5
+        ]
+      ],
+      "date-time": "2026-10-05T03:04:40Z",
+      "timestamp": 1791169480069,
+      "version": "4.1.0"
+    },
+    "reference-count": 70,
+    "publisher": "Elsevier BV",
+    "issue": "17-18",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2006-11-01T00:00:00Z",
+          "timestamp": 1162339200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2006,
+              11,
+              1
+            ]
+          ],
+          "date-time": "2006-11-01T00:00:00Z",
+          "timestamp": 1162339200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://www.elsevier.com/legal/tdmrep-license"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "elsevier.com",
+        "sciencedirect.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Continental Shelf Research"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2006,
+          11
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.csr.2006.07.018",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2006,
+          9,
+          19
+        ]
+      ],
+      "date-time": "2006-09-19T11:18:44Z",
+      "timestamp": 1158664724000
+    },
+    "page": "2299-2318",
+    "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 223,
+    "title": [
+      "Twenty-five years with OBS sensors: The good, the bad, and the ugly"
+    ],
+    "prefix": "10.1016",
+    "volume": "26",
+    "author": [
+      {
+        "given": "John",
+        "family": "Downing",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "78",
+    "reference": [
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib1",
+        "doi-asserted-by": "crossref",
+        "first-page": "65",
+        "DOI": "10.1016/j.margeo.2005.04.001",
+        "article-title": "Intertidal beach change during storm conditions; Egmond, The Netherlands",
+        "volume": "218",
+        "author": "Aagaard",
+        "year": "2005",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "issue": "11/12",
+        "key": "10.1016/j.csr.2006.07.018_bib2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1835",
+        "DOI": "10.1016/0198-0149(92)90002-B",
+        "article-title": "Light backscattering efficiency and related properties of some phytoplankters",
+        "volume": "39",
+        "author": "Ahn",
+        "year": "1992",
+        "journal-title": "Deep Sea Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib3",
+        "unstructured": "Al-Salem, A.A., 1993. Sediment transport in oscillatory boundary layers under sheet flow conditions. Ph.D. Thesis, Delft University of Technology."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib4",
+        "unstructured": "Battisto, G.M., Friedrichs C.T., Miller H.C., Resio D.T., 1999. Response of OBS to mixed grain-size suspensions during Sandyduck ‘97. Coastal Sediments ‘99, pp. 100–125."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib5",
+        "doi-asserted-by": "crossref",
+        "first-page": "61",
+        "DOI": "10.1016/0025-3227(88)90072-2",
+        "article-title": "Suspended sediment transport in the surf zone: response to cross-shore infragravity motion",
+        "volume": "80",
+        "author": "Beach",
+        "year": "1988",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib6",
+        "first-page": "114",
+        "article-title": "Infragravity driven suspended sediment transport in the swash, inner- and outer-surf zone",
+        "volume": "1",
+        "author": "Beach",
+        "year": "1992",
+        "journal-title": "Coastal Sediments ‘91"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib7",
+        "doi-asserted-by": "crossref",
+        "first-page": "513",
+        "DOI": "10.1016/0025-3227(92)90036-H",
+        "article-title": "A fiber optic sensor for monitoring suspended sediment",
+        "volume": "103",
+        "author": "Beach",
+        "year": "1992",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib8",
+        "doi-asserted-by": "crossref",
+        "first-page": "1735",
+        "DOI": "10.1364/AO.35.001735",
+        "article-title": "Monte Carlo calculation of backscattered light intensity by suspension: comparison with experimental data",
+        "volume": "35",
+        "author": "Bergougnoux",
+        "year": "1996",
+        "journal-title": "Applied Optics"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib9",
+        "first-page": "3",
+        "article-title": "The corps of engineers field research facility: more than two decades of coastal research",
+        "volume": "69",
+        "author": "Birkemeier",
+        "year": "2001",
+        "journal-title": "Shore and Beach"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib10",
+        "doi-asserted-by": "crossref",
+        "first-page": "137",
+        "DOI": "10.1016/0378-3839(94)90030-2",
+        "article-title": "Suspended sand measurements in a turbulent environment: field comparison of optical and pump sampling",
+        "volume": "24",
+        "author": "Black",
+        "year": "1994",
+        "journal-title": "Coastal Engineering"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib11",
+        "series-title": "Absorption and Scattering of Light by Small Particles",
+        "author": "Bohren",
+        "year": "1983"
+      },
+      {
+        "issue": "C01014",
+        "key": "10.1016/j.csr.2006.07.018_bib12",
+        "first-page": "1",
+        "article-title": "Particulate bachscattering ratio at LEO 15 and its use to study particle composition and distribution",
+        "volume": "109",
+        "author": "Boss",
+        "year": "2004",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib13",
+        "unstructured": "Buiteveld, H., Hakvoort, J.H.M., Donze, M., 1994. The Optical Properties of Pure Water. In: Jaffe J.S. (Ed.), Ocean Optics XII. Proceedings of the Society of Photo-Optical Instrumentation Engineers, vol. 2258, pp. 174–183."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib14",
+        "doi-asserted-by": "crossref",
+        "first-page": "1199",
+        "DOI": "10.1016/S0278-4343(99)00018-7",
+        "article-title": "Quantifying the response of optical backscatter devices and transmissometers to variations in suspended particulate matter",
+        "volume": "19",
+        "author": "Bunt",
+        "year": "1999",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "issue": "6",
+        "key": "10.1016/j.csr.2006.07.018_bib15",
+        "doi-asserted-by": "crossref",
+        "first-page": "771",
+        "DOI": "10.1080/02626669509491464",
+        "article-title": "Laboratory and field assessment of an infrared turbidity probe and its response to particle size in suspended sediment concentration",
+        "volume": "40",
+        "author": "Clifford",
+        "year": "1995",
+        "journal-title": "Hydrological Sciences"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib16",
+        "doi-asserted-by": "crossref",
+        "first-page": "151",
+        "DOI": "10.1016/0025-3227(92)90169-I",
+        "article-title": "A laboratory investigation of particle size effect on an optical backscatterance sensor",
+        "volume": "108",
+        "author": "Conner",
+        "year": "1992",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib17",
+        "unstructured": "Dabney, S.M., Locke, M.A., Wade, R., 2006. Turbidity Sensors Track Sediment Concentrations in Runoff from Agricultural Fields, In Proc. Joint 8th Federal Interagency Sedimentation Conference and 3rd Federal Interagency Hydrologic Modeling Conference, Reno, NV, April 2006, p. 8."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib18",
+        "doi-asserted-by": "crossref",
+        "first-page": "1393",
+        "DOI": "10.1175/1520-0485(1999)029<1393:AEPABS>2.0.CO;2",
+        "article-title": "Air entrainment process and bubble size distributions in the surf zone",
+        "volume": "29",
+        "author": "Deane",
+        "year": "1999",
+        "journal-title": "Journal of Physical Oceanography"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib19",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1016/0025-3227(81)90156-0",
+        "article-title": "New instrumentation for investigation of sediment suspension in the shallow marine environment",
+        "volume": "42",
+        "author": "Downing",
+        "year": "1981",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib20",
+        "unstructured": "Downing, J.P., 1983. Field studies of suspended sand transport, Twin Harbors Beach, Washington. Ph.D. Dissertation, University of Washington."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib21",
+        "doi-asserted-by": "crossref",
+        "first-page": "243",
+        "DOI": "10.1016/0025-3227(89)90053-4",
+        "article-title": "Laboratory apparatus for calibrating optical suspended solids sensors",
+        "volume": "86",
+        "author": "Downing",
+        "year": "1989",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib22",
+        "series-title": "Instruction manual for OBS-1 & OBS-3 sediment monitor",
+        "author": "Downing",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib23",
+        "series-title": "The Effects of Colored, Dissolved Matter on OBS Measurements",
+        "author": "Downing",
+        "year": "1997"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib24",
+        "unstructured": "Downing, J., 1998. Suspended particle concentration monitor. US Patent Number 5,796,481."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib25",
+        "unstructured": "Downing, J., Bergeron, R., Tolbert, J., 2004. Low-turbidity dredging of contaminated sediment. Sea Technology Magazine, March issue, 23–25."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib26",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Downing, J., 2005. Turbidity Monitoring. In: Environmental Instrumentation and Analysis Handbook. Wiley, New York, pp. 511–546.",
+        "DOI": "10.1002/0471473332.ch24"
+      },
+      {
+        "issue": "11–13",
+        "key": "10.1016/j.csr.2006.07.018_bib27",
+        "doi-asserted-by": "crossref",
+        "first-page": "1867",
+        "DOI": "10.1016/S0278-4343(02)00043-2",
+        "article-title": "Determining concentration and fall velocity of estuarine particle populations using ADV, OBS, and LISST",
+        "volume": "22",
+        "author": "Fugate",
+        "year": "2002",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib28",
+        "doi-asserted-by": "crossref",
+        "first-page": "501",
+        "DOI": "10.1029/JC083iC01p00501",
+        "article-title": "Light scattering from particles of different shapes",
+        "volume": "83",
+        "author": "Gibbs",
+        "year": "1978",
+        "journal-title": "Journal of Geophysical Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib29",
+        "doi-asserted-by": "crossref",
+        "first-page": "289",
+        "DOI": "10.1016/0025-3227(92)90078-V",
+        "article-title": "The effects of flocs on optical backscattering measurements of suspended material concentration",
+        "volume": "107",
+        "author": "Gibbs",
+        "year": "1992",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib30",
+        "doi-asserted-by": "crossref",
+        "first-page": "465",
+        "DOI": "10.1007/BF00026582",
+        "article-title": "The use of turbidimeters in suspended sediment research",
+        "volume": "176/177",
+        "author": "Gippel",
+        "year": "1989",
+        "journal-title": "Hydrobiologia"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib31",
+        "doi-asserted-by": "crossref",
+        "first-page": "83",
+        "DOI": "10.1002/hyp.3360090108",
+        "article-title": "Potential of turbidity monitoring for measuring the transport of suspended solids in streams",
+        "volume": "9",
+        "author": "Gippel",
+        "year": "1995",
+        "journal-title": "Hydrologic Processes"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib32",
+        "unstructured": "Greenwood, B., Osborne, P.D., Bowen, A.J., Hazen, D.G., Hay, A.E., 1990. C-COAST: the Canadian Coastal Sediment Transport Programme, suspended sediment transport under waves and currents. Proceedings of Canadian Coastal Conference ‘90, Kingston, Ontario, NRCC Assoc. Comm. on Shorelines, pp. 319–336."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib33",
+        "doi-asserted-by": "crossref",
+        "first-page": "427",
+        "DOI": "10.3989/scimar.2000.64n4427",
+        "article-title": "Field calibration of optical sensors for measuring suspended sediment concentration in the western Mediterranean",
+        "volume": "64",
+        "author": "Guillen",
+        "year": "2000",
+        "journal-title": "Scientia Marina"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib34",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Jaffe, B.E., Sternberg, R.W., Sallenger, A.H., 1985. The role of suspended sediment in shore-normal beach profile changes. In: Proceeding of the 19th Coastal Engineering Conference, Houston, Texas, pp. 1983–1996.",
+        "DOI": "10.1061/9780872624382.134"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib35",
+        "doi-asserted-by": "crossref",
+        "first-page": "253",
+        "DOI": "10.1016/0025-3227(92)90199-R",
+        "article-title": "Measurements of high concentration suspended sediments using the optical backscatterance sensor",
+        "volume": "108",
+        "author": "Kineke",
+        "year": "1992",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib36",
+        "doi-asserted-by": "crossref",
+        "first-page": "238",
+        "DOI": "10.1061/(ASCE)0733-950X(2002)128:6(238)",
+        "article-title": "Sand suspension and transport on equilibrium beach",
+        "volume": "November/December",
+        "author": "Kobayashi",
+        "year": "2002",
+        "journal-title": "Journal of Waterway, Port, Coastal and Ocean Engineering"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib37",
+        "doi-asserted-by": "crossref",
+        "first-page": "2299",
+        "DOI": "10.1029/96WR00991",
+        "article-title": "Turbidity-controlled suspended sediment sampling for runoff-event load estimation",
+        "volume": "32",
+        "author": "Lewis",
+        "year": "1996",
+        "journal-title": "Water Resources Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib38",
+        "doi-asserted-by": "crossref",
+        "first-page": "173",
+        "DOI": "10.1016/0025-3227(90)90111-V",
+        "article-title": "A laboratory evaluation of optical backscatterance suspended solids sensors exposed to sand–mud mixtures",
+        "volume": "94",
+        "author": "Ludwig",
+        "year": "1990",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib39",
+        "doi-asserted-by": "crossref",
+        "first-page": "1139",
+        "DOI": "10.1016/0278-4343(94)90032-9",
+        "article-title": "Determining suspended sediment particle size information from acoustical and optical backscatter measurements",
+        "volume": "14",
+        "author": "Lynch",
+        "year": "1994",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib40",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1016/0025-3227(92)90096-Z",
+        "article-title": "Notes on the performance of an optical backscatter sensor for cohesive sediment",
+        "volume": "104",
+        "author": "Maa",
+        "year": "1992",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib41",
+        "doi-asserted-by": "crossref",
+        "first-page": "1129",
+        "DOI": "10.1016/j.csr.2004.03.009",
+        "article-title": "Sedimentation from buoyant fine-grained suspensions",
+        "volume": "24",
+        "author": "McCool",
+        "year": "2004",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib42",
+        "first-page": "25",
+        "article-title": "Sedimentation estimation from ADCP measurements",
+        "volume": "July/August",
+        "author": "Mol",
+        "year": "2003",
+        "journal-title": "Hydro International"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib43",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Moore, C., 2001. Transmissometry and Nephelometry, In: Encyclopedia of Ocean Sciences, Academic Press Ltd., London.",
+        "DOI": "10.1016/B978-012374473-9.00323-4"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib44",
+        "first-page": "11",
+        "article-title": "Environmental monitoring: a key feature of dredging projects",
+        "volume": "March",
+        "author": "Nipius",
+        "year": "2003",
+        "journal-title": "Dredging and Port Construction"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib45",
+        "doi-asserted-by": "crossref",
+        "first-page": "1515",
+        "DOI": "10.1016/0278-4343(95)00036-Z",
+        "article-title": "On the importance of near bed sediment flux measurements for estimating sediment transport in the surf zone",
+        "volume": "15",
+        "author": "Ogston",
+        "year": "1995",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib46",
+        "doi-asserted-by": "crossref",
+        "first-page": "159",
+        "DOI": "10.1016/0278-4343(94)90011-6",
+        "article-title": "Measurement of suspended sand concentrations in the nearshore: field intercomparison of optical and acoustic backscatter sensors",
+        "volume": "14",
+        "author": "Osborne",
+        "year": "1994",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib47",
+        "series-title": "Documentation of Molecular Spectroscopy: Atlas of Organic and Inorganic Compounds",
+        "author": "Perkampus",
+        "year": "1967"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib48",
+        "series-title": "Volume Scattering Functions for Selected Ocean Waters",
+        "author": "Petzold",
+        "year": "1972"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib49",
+        "unstructured": "Schoellhamer, D., Wright, S., 2003. Continuous Measurement of Suspended-Sediment Discharge in Rivers By Use of Optical Backscatterance Sensors. The International Workshop on Erosion and Sediment Transport in Rivers: Technological & Methodological Advance, International Association of Hydrological Sciences, Oslo, Norway. IAHS Pub. No. 283, pp. 29–36."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib50",
+        "doi-asserted-by": "crossref",
+        "first-page": "303",
+        "DOI": "10.1016/0025-3227(93)90090-I",
+        "article-title": "Biological interference of optical backscatterance sensors in Tampa Bay, Florida",
+        "volume": "110",
+        "author": "Schoellhamer",
+        "year": "1993",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib51",
+        "doi-asserted-by": "crossref",
+        "first-page": "533",
+        "DOI": "10.1006/ecss.1996.0086",
+        "article-title": "Anthropogenic sediment resuspension mechanisms in shallow microtidal estuary, estuarine",
+        "volume": "43",
+        "author": "Schoellhamer",
+        "year": "1996",
+        "journal-title": "Coastal and Shelf Science"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib52",
+        "doi-asserted-by": "crossref",
+        "first-page": "1857",
+        "DOI": "10.1016/S0278-4343(02)00042-0",
+        "article-title": "Variability of suspended-sediment concentration at tidal to annual time scales in San Francisco Bay, USA",
+        "volume": "22",
+        "author": "Schoellhamer",
+        "year": "2002",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib53",
+        "doi-asserted-by": "crossref",
+        "first-page": "129",
+        "DOI": "10.1016/0278-4343(94)E0025-H",
+        "article-title": "Sediment Eddy diffusivities in the nearshore zone from multifrequency acoustic backscatter",
+        "volume": "15",
+        "author": "Sheng",
+        "year": "1995",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib54",
+        "doi-asserted-by": "crossref",
+        "first-page": "255",
+        "DOI": "10.1016/0025-3227(85)90119-7",
+        "article-title": "Predicting suspended sediment concentration on continental shelves",
+        "volume": "62",
+        "author": "Shi",
+        "year": "1985",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib55",
+        "doi-asserted-by": "crossref",
+        "first-page": "329",
+        "DOI": "10.1016/S0025-3227(02)00385-7",
+        "article-title": "Interaction between breaking/broken waves and infragravity-scale phenomena to control sediment suspension transport in the surf zone",
+        "volume": "187",
+        "author": "Smith",
+        "year": "2002",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib56",
+        "first-page": "776",
+        "article-title": "Consequences of sediment discharge from dune mining at Elizabeth Bay, Namibia",
+        "volume": "18",
+        "author": "Smith",
+        "year": "2002",
+        "journal-title": "Journal of Coastal Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib57",
+        "doi-asserted-by": "crossref",
+        "first-page": "187",
+        "DOI": "10.1016/0025-3227(86)90069-1",
+        "article-title": "An instrument system for monitoring and sampling suspended sediment in the benthic boundary layer",
+        "volume": "71",
+        "author": "Sternberg",
+        "year": "1986",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib58",
+        "series-title": "Nearshore Sediment Transport",
+        "first-page": "418",
+        "article-title": "Continuous measurements of suspended sediment",
+        "author": "Sternberg",
+        "year": "1989"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib59",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1016/0278-4343(91)90057-D",
+        "article-title": "An instrument system for profiling suspended sediment, fluid, and flow conditions in shallow marine environments",
+        "volume": "11",
+        "author": "Sternberg",
+        "year": "1991",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib60",
+        "first-page": "704",
+        "article-title": "Gas microbubbles: an assessment of their significance to light scattering in quiescent seas",
+        "volume": "XII",
+        "author": "Stramski",
+        "year": "1994",
+        "journal-title": "SPIE 2258 Ocean Optics"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib61",
+        "doi-asserted-by": "crossref",
+        "first-page": "343",
+        "DOI": "10.1016/0079-6611(91)90032-H",
+        "article-title": "Light scattering by microorganisms in the open ocean",
+        "volume": "28",
+        "author": "Stramski",
+        "year": "1991",
+        "journal-title": "Progress in Oceanography"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib62",
+        "unstructured": "Stramski, D., Bricaud, A., Morel, A., 1998. A database of single-particle optical properties. In: Proceedings, Ocean Optics XIV, Hawaii, November 1998, The Society of Photo-Optical Instrumentation Engineers."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib63",
+        "doi-asserted-by": "crossref",
+        "first-page": "27",
+        "DOI": "10.1016/j.pocean.2004.07.001",
+        "article-title": "The role of seawater constituents in light backscattering in the ocean",
+        "volume": "61",
+        "author": "Stramski",
+        "year": "2004",
+        "journal-title": "Progress in Oceanography"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib64",
+        "unstructured": "Sutherland, T.F., 1996, Biostabilization of subtidal estuarine sediments. Ph.D. Thesis, Dalhousie University, Halifax, Nova Scotia, pp. 184."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib65",
+        "doi-asserted-by": "crossref",
+        "first-page": "587",
+        "DOI": "10.1016/S0025-3227(99)00080-8",
+        "article-title": "The calibration of optical backscatter sensors for suspended sediment of varying darkness level",
+        "volume": "162",
+        "author": "Sutherland",
+        "year": "2000",
+        "journal-title": "Marine Geology"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib66",
+        "unstructured": "Terrill, E.J., Melville, W.K., Stramski, D., 1998. Bubble entrainment by breaking waves and their effects on the inherent optical properties of the upper ocean. Proceedings of Ocean Optics XIV."
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib67",
+        "first-page": "65",
+        "article-title": "Comparison of acoustical and optical measurements of suspended material in the Chesapeake Estuary",
+        "volume": "1",
+        "author": "Thevenot",
+        "year": "1993",
+        "journal-title": "Journal of Marine Environmental Engineering"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib68",
+        "doi-asserted-by": "crossref",
+        "first-page": "1219",
+        "DOI": "10.1016/0278-4343(93)90050-8",
+        "article-title": "Kinetics of breaking waves and associated suspended sediment in the nearshore zone",
+        "volume": "13",
+        "author": "Yu",
+        "year": "1993",
+        "journal-title": "Continental Shelf Research"
+      },
+      {
+        "key": "10.1016/j.csr.2006.07.018_bib69",
+        "unstructured": "Zaneveld, J.R.V., Spinrad, R.W., Bartz, R., 1979. Optical properties of turbidity standards. In: Proceedings of the Society of Photo-Optical Instrumentation Engineers. Soceity of Photo-Optical Instrumentation Engineers 208(6), 159–168."
+      },
+      {
+        "issue": "5",
+        "key": "10.1016/j.csr.2006.07.018_bib70",
+        "doi-asserted-by": "crossref",
+        "first-page": "1273",
+        "DOI": "10.4319/lo.2002.47.5.1273",
+        "article-title": "The Volume Scattering Function of Natural Bubble Populations",
+        "volume": "47",
+        "author": "Zhang",
+        "year": "2002",
+        "journal-title": "Limnology and Oceanography"
+      }
+    ],
+    "container-title": [
+      "Continental Shelf Research"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0278434306002469?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0278434306002469?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          3
+        ]
+      ],
+      "date-time": "2025-10-03T19:01:41Z",
+      "timestamp": 1759518101000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0278434306002469"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2006,
+          11
+        ]
+      ]
+    },
+    "references-count": 70,
+    "journal-issue": {
+      "issue": "17-18",
+      "published-print": {
+        "date-parts": [
+          [
+            2006,
+            11
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "S0278434306002469"
+    ],
+    "URL": "https://doi.org/10.1016/j.csr.2006.07.018",
+    "relation": {},
+    "ISSN": [
+      "0278-4343"
+    ],
+    "issn-type": [
+      {
+        "value": "0278-4343",
+        "type": "print"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2006,
+          11
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "Elsevier",
+        "name": "publisher",
+        "label": "This article is maintained by"
+      },
+      {
+        "value": "Twenty-five years with OBS sensors: The good, the bad, and the ugly",
+        "name": "articletitle",
+        "label": "Article Title"
+      },
+      {
+        "value": "Continental Shelf Research",
+        "name": "journaltitle",
+        "label": "Journal Title"
+      },
+      {
+        "value": "https://doi.org/10.1016/j.csr.2006.07.018",
+        "name": "articlelink",
+        "label": "CrossRef DOI link to publisher maintained version"
+      },
+      {
+        "value": "article",
+        "name": "content_type",
+        "label": "Content Type"
+      },
+      {
+        "value": "Copyright © 2006 Elsevier Ltd. All rights reserved.",
+        "name": "copyright",
+        "label": "Copyright"
+      }
+    ]
+  }
+}

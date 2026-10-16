@@ -1,0 +1,250 @@
+{
+  "sha": "e13c7b7b32205ea4632af3f718645d5a521985f9",
+  "node_id": "C_kwDOUIGIlNoAKGUxM2M3YjdiMzIyMDVlYTQ2MzJhZjNmNzE4NjQ1ZDVhNTIxOTg1Zjk",
+  "commit": {
+    "author": {
+      "name": "Alex Manuel Rivera Rivera",
+      "email": "alexmanuelrivera1@gmail.com",
+      "date": "2026-10-12T02:13:38Z"
+    },
+    "committer": {
+      "name": "Alex Manuel Rivera Rivera",
+      "email": "alexmanuelrivera1@gmail.com",
+      "date": "2026-10-12T02:13:38Z"
+    },
+    "message": "Refresh project overview and replace enclosure models",
+    "tree": {
+      "sha": "272470e9f2e0a52ddfc27a73e8a8916dccfaa78e",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/trees/272470e9f2e0a52ddfc27a73e8a8916dccfaa78e"
+    },
+    "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/git/commits/e13c7b7b32205ea4632af3f718645d5a521985f9",
+    "comment_count": 0,
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    }
+  },
+  "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/commits/e13c7b7b32205ea4632af3f718645d5a521985f9",
+  "html_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/commit/e13c7b7b32205ea4632af3f718645d5a521985f9",
+  "comments_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/commits/e13c7b7b32205ea4632af3f718645d5a521985f9/comments",
+  "author": {
+    "login": "alexmanuel27",
+    "id": 65981844,
+    "node_id": "MDQ6VXNlcjY1OTgxODQ0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/65981844?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/alexmanuel27",
+    "html_url": "https://github.com/alexmanuel27",
+    "followers_url": "https://api.github.com/users/alexmanuel27/followers",
+    "following_url": "https://api.github.com/users/alexmanuel27/following{/other_user}",
+    "gists_url": "https://api.github.com/users/alexmanuel27/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/alexmanuel27/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/alexmanuel27/subscriptions",
+    "organizations_url": "https://api.github.com/users/alexmanuel27/orgs",
+    "repos_url": "https://api.github.com/users/alexmanuel27/repos",
+    "events_url": "https://api.github.com/users/alexmanuel27/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/alexmanuel27/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "alexmanuel27",
+    "id": 65981844,
+    "node_id": "MDQ6VXNlcjY1OTgxODQ0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/65981844?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/alexmanuel27",
+    "html_url": "https://github.com/alexmanuel27",
+    "followers_url": "https://api.github.com/users/alexmanuel27/followers",
+    "following_url": "https://api.github.com/users/alexmanuel27/following{/other_user}",
+    "gists_url": "https://api.github.com/users/alexmanuel27/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/alexmanuel27/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/alexmanuel27/subscriptions",
+    "organizations_url": "https://api.github.com/users/alexmanuel27/orgs",
+    "repos_url": "https://api.github.com/users/alexmanuel27/repos",
+    "events_url": "https://api.github.com/users/alexmanuel27/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/alexmanuel27/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "4cae3b6e49e3dc7a769a70580a0a124ede0b92cd",
+      "url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/commits/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd",
+      "html_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/commit/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd"
+    }
+  ],
+  "stats": {
+    "total": 314,
+    "additions": 242,
+    "deletions": 72
+  },
+  "files": [
+    {
+      "sha": "ca2fdebffc5cf10fbb23a9348219a0f45da4a5d0",
+      "filename": "3D/CASE.stl",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd/3D%2FCASE.stl",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd/3D%2FCASE.stl",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/3D%2FCASE.stl?ref=4cae3b6e49e3dc7a769a70580a0a124ede0b92cd"
+    },
+    {
+      "sha": "19cfb64b1c9b76e3450e812a6f95aabd05df81e0",
+      "filename": "3D/LID.stl",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd/3D%2FLID.stl",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd/3D%2FLID.stl",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/3D%2FLID.stl?ref=4cae3b6e49e3dc7a769a70580a0a124ede0b92cd"
+    },
+    {
+      "sha": "0e30e38d3763d6ab9342d85c312d4469d0c79377",
+      "filename": "3D/NECK.stl",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd/3D%2FNECK.stl",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd/3D%2FNECK.stl",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/3D%2FNECK.stl?ref=4cae3b6e49e3dc7a769a70580a0a124ede0b92cd"
+    },
+    {
+      "sha": "8110b900d28aac35f477fd609d7c5764ebd24786",
+      "filename": "3D/README.md",
+      "status": "added",
+      "additions": 42,
+      "deletions": 0,
+      "changes": 42,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/3D%2FREADME.md",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/3D%2FREADME.md",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/3D%2FREADME.md?ref=e13c7b7b32205ea4632af3f718645d5a521985f9",
+      "patch": "@@ -0,0 +1,42 @@\n+# Current enclosure\n+\n+Design: **Ing. Alex M. Rivera**. Updated **12 October 2026**.\n+\n+![Body, cavity and lid](enclosure-preview.png)\n+\n+| File | Part | Mesh bounding box, interpreted in mm | Triangles |\n+| --- | --- | --- | --- |\n+| [cuerpo.stl](cuerpo.stl) | Body | 52 × 51.99 × 67.5 | 9,498 |\n+| [tapa.stl](tapa.stl) | Lid | 52 × 52 × 20 | 7,056 |\n+\n+These are the current user-supplied enclosure meshes. They replace the old\n+`CASE.stl`, `LID.stl`, `NECK.stl` and `SENSOR-HOLDER.stl` exports. Those files\n+remain recoverable in Git history; the animations in `../img/3d/` depict the\n+earlier geometry.\n+\n+STL does not declare units. The bounding boxes above assume millimetres and\n+are overall mesh extents, not verified internal cavity dimensions. The body\n+and lid have their supplied coordinates; do not add their heights to infer\n+assembled height. Confirm their seating and insertion depth in mechanical CAD\n+or a physical assembly.\n+\n+Only the 80-byte binary STL headers were updated to include the design\n+attribution. Triangle data, normals, coordinates and per-triangle attributes\n+were preserved. The preview renders the supplied meshes individually; it\n+does not show a verified assembled enclosure or installed electronics.\n+\n+## Fit checks with the electronics\n+\n+Use the [revision 0.9 two-board assembly](../hardware/README.md):\n+\n+- Preserve the base PCB's cable relief; it is filled on the upper PCB only.\n+- Verify the nominal 44 mm internal cylinder against the mesh and printed part.\n+- Check the 12.5 × 12.5 mm cuvette exterior, optical axes and opaque barriers.\n+- Check the upright ADS1115, connector mating heights and trimmed solder tails.\n+  The PCB-stack budget is provisionally 36–38 mm, before lid and cable space.\n+- Fit the compact plug at XIAO's left-facing USB socket and support both cables.\n+- Verify the actual cable diameter, gland, lid seal and light exclusion.\n+\n+The models have not been used to verify sealing, print tolerances or complete\n+PCB-to-enclosure clearance. Measure and test the physical assembly before\n+fabrication is considered complete."
+    },
+    {
+      "sha": "7a98442a96e00a344aadbb106c41a1af6e57dfae",
+      "filename": "3D/SENSOR-HOLDER.stl",
+      "status": "removed",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd/3D%2FSENSOR-HOLDER.stl",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/4cae3b6e49e3dc7a769a70580a0a124ede0b92cd/3D%2FSENSOR-HOLDER.stl",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/3D%2FSENSOR-HOLDER.stl?ref=4cae3b6e49e3dc7a769a70580a0a124ede0b92cd"
+    },
+    {
+      "sha": "fc275beb1cbcc561155571e24d3d77f84e4f3dd0",
+      "filename": "3D/cuerpo.stl",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/3D%2Fcuerpo.stl",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/3D%2Fcuerpo.stl",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/3D%2Fcuerpo.stl?ref=e13c7b7b32205ea4632af3f718645d5a521985f9"
+    },
+    {
+      "sha": "1411861f9b7e37ee2e59cf75a65072aed18ec864",
+      "filename": "3D/enclosure-preview.png",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/3D%2Fenclosure-preview.png",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/3D%2Fenclosure-preview.png",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/3D%2Fenclosure-preview.png?ref=e13c7b7b32205ea4632af3f718645d5a521985f9"
+    },
+    {
+      "sha": "b98c41c3f239a899393e22c03d574222fa835136",
+      "filename": "3D/tapa.stl",
+      "status": "added",
+      "additions": 0,
+      "deletions": 0,
+      "changes": 0,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/3D%2Ftapa.stl",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/3D%2Ftapa.stl",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/3D%2Ftapa.stl?ref=e13c7b7b32205ea4632af3f718645d5a521985f9"
+    },
+    {
+      "sha": "a5c5b51da92eb702feeaaf4f9feb747b74b956f0",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 154,
+      "deletions": 58,
+      "changes": 212,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/README.md",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/README.md",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/README.md?ref=e13c7b7b32205ea4632af3f718645d5a521985f9",
+      "patch": "@@ -1,62 +1,158 @@\n # Citizen-science turbidimeter\n \n-This repository tracks a **single, quantitative turbidimeter prototype**. The\n-target is to have the instrument, Android app, calibration, and validation\n-ready by **18 October 2026**. Community deployment follows that date.\n-\n-## Current design target\n-\n-- **Sensor:** 850 nm IR LED, BPW34 photodiode at 90° for scattered light, and\n-  a second BPW34 to monitor the LED. An MCP6002 dual amplifier and ADS1115\n-  read the two channels; a Seeed XIAO SAMD21 controls the LED.\n-- **Readout:** the Android phone supplies power through USB-C, displays the\n-  reading, and keeps a local history. Online upload is outside this release. The\n-  instrument has no battery, screen, or status LEDs.\n-- **Enclosure:** closed body with a fixed 2 m USB-C data cable through one M12\n-  cable gland. The technician cuts the sensor-side plug, routes the cable,\n-  then terminates and tests power, USB data, and USB-C configuration wiring\n-  before sealing. The selected cable has a 5.5 ± 0.15 mm outer diameter;\n-  the gland grips 3–6.5 mm cable.\n-- **Output:** a numeric NTU value is a *goal*, not a property of the current\n-  firmware. Dark-corrected scattered/reference readings must first be\n-  calibrated with known standards and validated on independent samples.\n-\n-The [optical and validation plan](docs/optical-design.md) describes the work\n-remaining. The [one-unit shopping list](docs/shopping-list-prototype-usb-c.xlsx)\n-is in English, shows VAT-inclusive prices and full supplier URLs as text, and\n-totals **€76.52** for priced items. Calibration standards require a quote;\n-delivery is excluded. The PCB and cuvettes are already available, so they are\n-not in the list. Confirm the lid groove before buying or using the selected\n-O-ring assortment.\n-\n-## Repository status\n-\n-| Path | Status |\n-| --- | --- |\n-| [`docs/optical-design.md`](docs/optical-design.md) | Current design and validation plan |\n-| [`docs/BOM.md`](docs/BOM.md) | Procurement notes; workbook above is the purchase list |\n-| [`firmware/xiao_samd21_turbimeter/`](firmware/xiao_samd21_turbimeter/) | Current XIAO optical bench firmware; reports diagnostic counts and an uncalibrated ratio over USB |\n-| [`firmware/firmware.ino`](firmware/firmware.ino) | Experimental optical-index sketch; still uses TL072 and status LEDs, so it is **not** the final USB-C/NTU firmware |\n-| [`android-app/`](android-app/) | Android USB-CDC screen/controller, prepared for Google Play closed testing; local readings only |\n-| [`firmware/legacy_sen0189/`](firmware/legacy_sen0189/) | Original DFRobot SEN0189 firmware, retained for reference |\n-| [`hardware/`](hardware/README.md) | Two KiCad projects: sensor/base and upper XIAO + upright ADS1115. Base outline preserved; cable relief filled only on upper PCB. 44 mm module envelope; THT on TOP, SMD/soldering/routing on BOTTOM (single copper face B.Cu); **no tracks**. 3D models and individual/connected renders included. ERC/placement checks pass; height provisionally 36–38 mm, pending dry fit. |\n-| [`3D/`](3D/) | Earlier enclosure files; mechanical revision is pending |\n-| [`docs/diagrams/legacy-circuit-schematic.svg`](docs/diagrams/legacy-circuit-schematic.svg) | Earlier TL072 circuit illustration, not a build schematic for this design |\n-\n-The original SEN0189 prototype is shown below. It is superseded by the\n-discrete 90° optical design.\n-\n-<img src=\"img/prototype.jpeg\" width=\"600\" alt=\"Earlier SEN0189 prototype\">\n-\n-## Before 18 October\n-\n-1. Bench-test the LED, both photodiodes, MCP6002, ADS1115, and feedback\n-   values with the actual sample chamber.\n-2. Route the two PCBs, fit-check the stack, actual connector heights and cuvette, verify the opaque optical holder and enclosure, choose a lid seal that fits the final groove,\n-   and verify USB-C power/data plus cable-gland sealing.\n-3. Test the new XIAO firmware and Android app together on a USB-C phone and\n-   distribute the app through Google Play closed testing.\n-4. Calibrate against known turbidity standards, quantify repeatability and\n-   error across the intended range, and only then enable NTU reporting.\n+A compact, reproducible instrument for measuring water turbidity with an\n+**Android USB-C phone as its power supply, screen and controller**.\n+\n+Design: **Ing. Alex M. Rivera**. Updated **12 October 2026**.\n+\n+The current prototype combines a custom optical sensor, two stacked carrier\n+PCBs, a printed enclosure and an Android app. It has **no battery or display**.\n+The aim is a reliable quantitative result after calibration and independent\n+validation. The current firmware reports an **uncalibrated optical ratio**.\n+\n+![Current two-board assembly](hardware/renders/assembly.png)\n+\n+*Revision 0.9 placement render. The PCBs are unrouted; connector reach,\n+module dimensions and enclosure fit require a physical assembly check.*\n+\n+## Current status\n+\n+| Part | Available now | Remaining work |\n+| --- | --- | --- |\n+| Electronics | Two KiCad 9 projects, schematics, placed components and 3D models; electrical and placement checks pass | Route, verify manufacturing outputs, fabricate and solder |\n+| Enclosure | Updated body and lid meshes: `cuerpo.stl` and `tapa.stl` | Check the complete stack, optical alignment, USB plug, gland and lid seal |\n+| Firmware | XIAO SAMD21 USB-CDC firmware; dark/lit acquisition, ratio and hardware errors | Test with the assembled ADS1115 and optical circuit; add validated calibration |\n+| Android app | Version 0.4: connect, measure, local history, CSV sharing, privacy and deletion; Google Play closed-test preparation | Test the release with the completed instrument and finish the Play checklist |\n+| Quantitative measurement | Calibration and validation plan | Measure standards and independent samples; establish range, uncertainty and reportable unit |\n+\n+**Target: instrument, app, calibration and validation ready by 18 October\n+2026. Community deployment follows that date.** This is a development target;\n+the assembled optical instrument has not yet been validated. Google Play\n+publication follows its separate testing and review process.\n+\n+## How it works\n+\n+An **850 nm infrared LED** illuminates a sample in a spectrophotometer cuvette\n+with **10 mm optical path** and a provisional **12.5 × 12.5 mm exterior**.\n+A BPW34 photodiode detects light scattered at **90°**. A second, shielded BPW34\n+monitors a fixed fraction of the LED output.\n+\n+```mermaid\n+flowchart LR\n+    LED[850 nm LED] --> Sample[Cuvette]\n+    Sample --> Scatter[90° scatter photodiode]\n+    LED --> Reference[Shielded reference photodiode]\n+    Scatter --> Amplifier[MCP6002 dual amplifier]\n+    Reference --> Amplifier\n+    Amplifier --> ADC[ADS1115]\n+    ADC --> MCU[XIAO SAMD21]\n+    MCU <-->|USB CDC| Phone[Android app]\n+```\n+\n+For each measurement, the firmware reads both channels with the LED off and\n+on, subtracts the dark readings and calculates the scatter/reference ratio.\n+This approach is intended to reduce sensitivity to LED-output changes; its\n+performance must be demonstrated with the real instrument and different phones.\n+\n+The XIAO's regulated **3.3 V** rail powers the analog circuit and ADS1115.\n+A **10 µF rail capacitor** provides additional decoupling. D7 controls the LED\n+through two series 220 Ω resistors; the circuit limits current with resistors.\n+LED current, amplifier gain, noise and saturation remain bench-test items.\n+\n+**A ratio is not an FNU/NTU value.** Calibration with known turbidity standards,\n+a defined valid range and independent validation are required before reporting\n+turbidity. See the [optical design and validation plan](docs/optical-design.md).\n+\n+## Two stacked PCBs\n+\n+| Floor | Project | Main parts |\n+| --- | --- | --- |\n+| Base: sensor and cable entry | [hardware/esque.kicad_pro](hardware/esque.kicad_pro) | LED, two BPW34s, MCP6002, passives, J2 cable holes and J1/J4 interboard links |\n+| Upper: controller and ADC | [hardware/controller/controller.kicad_pro](hardware/controller/controller.kicad_pro) | XIAO SAMD21, upright ADS1115, C5, mating J1/J4 sockets and J5 pigtail holes |\n+\n+- **Single copper face: B.Cu only.** Through-hole parts face upwards; SMD\n+  parts and all solder joints are underneath. Routing remains manual.\n+- The proven base outline and its cable relief are retained. The upper PCB\n+  fills that relief and keeps the cuvette opening.\n+- Modules may overhang the carriers within the **44 mm internal cylinder**.\n+- J1 carries analog signals, LED control and 3.3 V power. J4 carries the four\n+  USB 2.0 power/data signals. J2/J5 are **four bare through-hole wire lands**.\n+- The preferred stack height is **35 mm**. The present provisional budget is\n+  **36–38 mm**, before lid clearance and cable bends; it is not a verified fit.\n+\n+[Assembly, connector pinouts and routing notes](hardware/README.md) ·\n+[Board views and individual/connected renders](hardware/pcb-top-preview.svg) ·\n+[Validation results](hardware/validation.md)\n+\n+Existing geometry exports/Gerbers predate this revision. Generate a new\n+fabrication set after routing and mechanical checks.\n+\n+## Updated enclosure\n+\n+![Current body and lid](3D/enclosure-preview.png)\n+\n+The current printable meshes are [cuerpo.stl](3D/cuerpo.stl) (body) and\n+[tapa.stl](3D/tapa.stl) (lid). They replace the earlier separate case, neck,\n+sensor-holder and lid exports. Dimensions, source notes and assembly checks\n+are in the [enclosure README](3D/README.md).\n+\n+The closed instrument uses a fixed cable through one gland. Verify cable\n+strain relief, the actual gland diameter, the lid seal, light exclusion and\n+the USB pigtail clearance before closing it. The STL files alone do not\n+establish a watertight assembly or optical alignment.\n+\n+## Android app and USB connection\n+\n+The app works locally: **Connect sensor → Measure now → History**. Real\n+readings are saved with their UTC timestamp and calibration status, and can\n+be shared as CSV. Privacy explains local storage and allows deletion.\n+**This release has no online upload, contributor form or location capture.**\n+\n+The phone must support **USB host/OTG**. The current carriers carry four\n+signals: VBUS, GND, D− and D+. USB-C role detection must be handled correctly\n+in the plugs or OTG adapter; four conductors alone do not prove compatibility.\n+The cable runs through base J2, interboard J4 and upper J5 to a short USB-C\n+pigtail plugged into the XIAO. Its 14 edge pins do not expose USB data.\n+The left-facing socket needs a compact plug and a physical clearance check.\n+\n+[App setup and serial protocol](android-app/README.md) ·\n+[Current firmware and upload instructions](firmware/xiao_samd21_turbimeter/README.md) ·\n+[Google Play closed-test checklist](android-app/play-store/release-checklist.md)\n+\n+The XIAO-only USB bench test verified `PING` and the expected missing-ADC\n+error. It did not validate an optical reading. The complete sensor and app\n+must be tested together after assembly.\n+\n+## Procurement\n+\n+The [English purchase workbook](docs/shopping-list-prototype-usb-c.xlsx)\n+contains supplier links and VAT-inclusive prices for one prototype. It\n+predates the current stack: **do not order directly from it without reading\n+[BOM revision notes](docs/BOM.md)**. Those notes cover the XIAO replacement,\n+SMD passives, interboard connectors, carrier PCBs and USB pigtail.\n+Check stock before ordering; the cuvettes and XIAO are already available.\n+\n+## Work before 18 October\n+\n+1. Finish routing both PCBs and check the real modules, mating connectors,\n+   cuvette, optics and cable against the updated enclosure.\n+2. Generate and verify manufacturing files, fabricate the carriers, solder\n+   the assembly and check power, LED current and USB communication.\n+3. Test firmware acquisition, dark subtraction, reference level, noise,\n+   saturation and repeatability with the real optical circuit.\n+4. Calibrate with known standards; validate independent samples, the usable\n+   range and uncertainty, including measurements across compatible phones.\n+5. Test the Android release with the complete sensor: connection, measurement,\n+   history, CSV export, privacy, deletion and restart. Complete the Play\n+   closed-test steps before wider distribution.\n \n Community deployment is the phase after 18 October.\n+\n+## Earlier designs\n+\n+The [SEN0189 firmware](firmware/legacy_sen0189/),\n+[experimental Nano/TL072 sketch](firmware/firmware.ino),\n+[earlier circuit drawing](docs/diagrams/legacy-circuit-schematic.svg) and\n+[archived KiCad revisions](hardware/archive/) are retained as references.\n+They are not the active XIAO design. Older enclosure animations remain in\n+`img/3d/`; current geometry is in `3D/`."
+    },
+    {
+      "sha": "b912bdcf4271ccfaa4e60640fbf578261a826b6e",
+      "filename": "android-app/README.md",
+      "status": "modified",
+      "additions": 8,
+      "deletions": 3,
+      "changes": 11,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/android-app%2FREADME.md",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/android-app%2FREADME.md",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/android-app%2FREADME.md?ref=e13c7b7b32205ea4632af3f718645d5a521985f9",
+      "patch": "@@ -1,5 +1,7 @@\n # Android app\n \n+Design: **Ing. Alex M. Rivera**. Current release: **0.4 / code 4**.\n+\n The Android phone is the turbidimeter's screen and controller. This version\n connects to a USB-CDC XIAO SAMD21 and requests a reading. The side menu has\n Home, History, and Privacy. Each real reading is saved locally with its UTC\n@@ -20,9 +22,12 @@ The app does not upload readings or request location permission.\n    its [wiring and test steps](../firmware/xiao_samd21_turbimeter/README.md)\n    before connecting the analog circuit.\n \n-For the final sealed instrument, the cable cut and passed through the gland\n-still needs a sound electrical termination at the board's USB-C connection.\n-Test the complete cable and the intended Android phone before sealing.\n+For the sealed instrument, the four-wire cable runs through base J2,\n+interboard J4 and upper J5 to a compact USB-C pigtail in the XIAO socket.\n+USB-C host/device detection must be handled by suitable plugs or an OTG\n+adapter; it is not established by counting the four wires. Follow the\n+[hardware cable and assembly notes](../hardware/README.md), and test the\n+complete sensor with compatible Android phones before sealing.\n \n ## Serial contract, version 1\n "
+    },
+    {
+      "sha": "d437f7efae4caad1fc46dbca17c0348255da0d4b",
+      "filename": "docs/BOM.md",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 0,
+      "changes": 5,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/docs%2FBOM.md",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/docs%2FBOM.md",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/docs%2FBOM.md?ref=e13c7b7b32205ea4632af3f718645d5a521985f9",
+      "patch": "@@ -28,6 +28,11 @@ is preserved on the base; only its cable relief is filled on the upper PCB.\n The old PCB cannot replace these two carrier boards. No battery, display, separate turbidimeter, or additional gland sizes\n are needed.\n \n+The updated enclosure files are [cuerpo.stl](../3D/cuerpo.stl) and\n+[tapa.stl](../3D/tapa.stl). Check the actual lid groove and gland seat on\n+these parts before selecting seals; the updated meshes do not validate the\n+workbook's O-ring assortment or cable diameter.\n+\n ## Changes not yet reflected in the workbook — revision 0.9\n \n Do not use the spreadsheet subtotal as the cost of the new stack. Confirm stock"
+    },
+    {
+      "sha": "140b75ae6106fca13665c39b3cf446bcc61dd60f",
+      "filename": "docs/optical-design.md",
+      "status": "modified",
+      "additions": 18,
+      "deletions": 11,
+      "changes": 29,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/docs%2Foptical-design.md",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/docs%2Foptical-design.md",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/docs%2Foptical-design.md?ref=e13c7b7b32205ea4632af3f718645d5a521985f9",
+      "patch": "@@ -7,11 +7,12 @@ Design: **Ing. Alex M. Rivera**.\n Build one closed turbidimeter that any compatible Android USB-C phone with USB\n host support can power and read. Calibration belongs to the instrument, not\n to a particular phone: changing phones must not require new coefficients.\n-The app will show a quantitative turbidity value and optionally upload it to the\n-citizen-science website. The instrument has no battery, screen, or status\n-LEDs. **The optical bench, firmware, app, and NTU calibration are not yet\n-validated.** They must be ready before 18 October 2026; community deployment\n-comes afterward.\n+The Android 0.4 release reads the instrument, keeps local history and exports\n+CSV. Online upload, contributor identity and location capture are deferred;\n+the citizen-science API is not specified. The instrument has no battery,\n+screen, or status LEDs. **The assembled optical circuit and quantitative\n+calibration are not yet validated.** Instrument, firmware, app and calibration\n+must be ready before 18 October 2026; community deployment comes afterward.\n \n The DFRobot SEN0189 sensor and its firmware are retained only as an earlier\n prototype. The reviewed monolithic schematic is archived. The active\n@@ -72,6 +73,11 @@ outputs a relative index and controls LEDs. The current USB bench sketch is\n \n ## Enclosure and USB cable\n \n+The current enclosure is supplied as [cuerpo.stl](../3D/cuerpo.stl) and\n+[tapa.stl](../3D/tapa.stl). These replace the earlier four separate exports.\n+The [enclosure notes and preview](../3D/README.md) record the overall mesh\n+dimensions; they do not verify the internal 44 mm envelope or complete PCB fit.\n+\n The earlier purchase workbook specifies Goobay 66508 (USB-C to USB-C,\n 5.5 ± 0.15 mm outer diameter) and a 3–6.5 mm M12 gland. The user's actual\n four-wire cable has not been identified. Check its diameter against the gland.\n@@ -84,7 +90,7 @@ sealing before closing the enclosure. The left-facing XIAO socket needs a\n compact plug; the provisional 5.5 mm plug-tail allowance needs a dry fit.\n Verify lid dimensions before choosing an O-ring from the assortment.\n \n-## From optical ratio to reliable NTU\n+## From optical ratio to quantitative turbidity\n \n 1. Fix the final optical geometry and record LED-off/LED-on readings from both\n    channels, including the clear-water background.\n@@ -101,10 +107,11 @@ Verify lid dimensions before choosing an O-ring from the assortment.\n    dark/lit detector signals and the corrected ratio. Verify that differences\n    stay within the instrument's stated measurement uncertainty; reject a\n    measurement if the phone cannot power or enumerate the instrument.\n-6. Show/upload NTU only when the calibration is valid for that range; otherwise\n+6. Show a quantitative result only when the calibration and reportable unit\n+   are valid for that range; otherwise\n    label the reading as an uncalibrated optical ratio or out of range.\n \n-The Android app prototype is present, but the citizen-science API has not yet\n-been specified. Upload must remain optional. A published measurement record\n-should include the reading, unit, calibration identity, timestamp, and quality\n-status.\n+The current Android app does not upload readings or collect location. A future\n+upload feature must remain optional and include reading, unit, calibration\n+identity, timestamp and quality status. Contributor signature and acquisition\n+location belong to that later feature and require explicit user controls."
+    },
+    {
+      "sha": "2c1bd5aca720cbc7d3b9fa029be1a8c21891f2ed",
+      "filename": "hardware/README.md",
+      "status": "modified",
+      "additions": 9,
+      "deletions": 0,
+      "changes": 9,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/hardware%2FREADME.md",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/hardware%2FREADME.md",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/hardware%2FREADME.md?ref=e13c7b7b32205ea4632af3f718645d5a521985f9",
+      "patch": "@@ -202,3 +202,12 @@ Regenerate viewer meshes and renders with KiCad Python:\n \n The renders show assembly geometry without manual tracks. They do not\n establish enclosure fit or electrical correctness of a generic module model.\n+\n+## Current enclosure files\n+\n+The updated body and lid are [cuerpo.stl](../3D/cuerpo.stl) and\n+[tapa.stl](../3D/tapa.stl). The [enclosure preview and dimensions](../3D/README.md)\n+replace the older four-part exports. The nominal 44 mm internal envelope,\n+stack height, cuvette, module overhangs, compact USB plug and lid seating\n+must be checked against these meshes and the real printed parts. The PCB\n+renders above do not include the enclosure and do not establish that fit."
+    },
+    {
+      "sha": "bdb628fba416d4038a3896c2c510ac452e4293df",
+      "filename": "hardware/validation.md",
+      "status": "modified",
+      "additions": 6,
+      "deletions": 0,
+      "changes": 6,
+      "blob_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/blob/e13c7b7b32205ea4632af3f718645d5a521985f9/hardware%2Fvalidation.md",
+      "raw_url": "https://github.com/alexmanuel27/Turbimeter_Citizen_science/raw/e13c7b7b32205ea4632af3f718645d5a521985f9/hardware%2Fvalidation.md",
+      "contents_url": "https://api.github.com/repos/alexmanuel27/Turbimeter_Citizen_science/contents/hardware%2Fvalidation.md?ref=e13c7b7b32205ea4632af3f718645d5a521985f9",
+      "patch": "@@ -45,6 +45,12 @@ Analog gain, feedback compensation, LED current, supply stability, noise,\n phone independence and quantitative turbidity still need bench tests and\n calibration. Generate manufacturing outputs only after routing and fit checks.\n \n+The current enclosure meshes are `../3D/cuerpo.stl` and `../3D/tapa.stl`.\n+Their binary record counts and bounding boxes were checked for documentation;\n+triangle data was preserved when adding attribution to their STL headers.\n+The enclosure preview shows the separate meshes. No PCB-to-enclosure collision,\n+internal-diameter, sealing or assembled-height validation has been performed.\n+\n The supplied ADS model prints A3/A2/A1/A0, while the schematic uses\n A0/A1/A2/A3. Its geometry is visual guidance only; confirm the real module\n before fabrication. No electrical pin mapping was changed based on the STEP."
+    }
+  ]
+}

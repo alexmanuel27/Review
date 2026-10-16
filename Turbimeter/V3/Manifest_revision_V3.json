@@ -1,0 +1,17 @@
+{
+  "review_date": "2026-10-16",
+  "reviewed_english_pdf_sha256": "196792085d581e042641547ebce2b8f38483d163660dfe07d2d077179c9a6e52",
+  "status": "Cierre documental E1–E6 y S01–S10; pendientes del autor conservados",
+  "visual_qa": "29 páginas de entrada y 3 páginas del informe inspeccionadas",
+  "files": {
+    "Informe_revision_Turbimeter_V3.docx": "08143348ce309d9d91e664c98b939eec2626074ab880a42802705b318dae2997",
+    "Informe_revision_Turbimeter_V3.md": "b6f6aa9d8c9308d4a50379487382f6b522cd60c6cda2ce86402750b55acf9d50",
+    "Planning_Annex_EN.pdf": "e6e813b86333af0fc7162d22452240a83d1bdf222cebb287f797187fa548bec3",
+    "Planning_Annex_ES.pdf": "534fb1c2479662fe3df223d5f64143300384b37018178c7386ff96aea91ab4d2",
+    "Prompt_correccion_Turbimeter_V3.md": "a81db3c0dbd0b9c2587b91a0bb73ce10593958d1022b43933aab9c5bd18282b6",
+    "SHA256.json": "5fa1a0f7e8ab8bb84c85f9062a1be6d6961b854f4b6d3c2396ad467d3db021bb",
+    "Turbimeter_EN.pdf": "196792085d581e042641547ebce2b8f38483d163660dfe07d2d077179c9a6e52",
+    "Turbimeter_ES.pdf": "8286db2fedb68d6c309d4a5b27abdadfd8ae4c84579b6b8134f6b8f66b3dc3a4",
+    "graphical_abstract.pdf": "bee084893e269e9603a42a2bf1d3e4f985097dbfe9ef849747bb2b090c344ee9"
+  }
+}

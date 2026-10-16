@@ -1,0 +1,20 @@
+{
+  "review_date": "2026-10-16",
+  "version": "V1",
+  "paper": "A Phone-Powered Open Turbidimeter",
+  "recommendation": "rechazar la versión actual como artículo experimental",
+  "source_sha256": "ba7de73f5814952773fca1f9c9cf3663a6ad4b5d74476088c392351db8fd17df",
+  "source_pages": 10,
+  "review_pages": 9,
+  "major_issues": 10,
+  "minor_issues": 8,
+  "writing_suggestions": 13,
+  "manuscript_modified": false,
+  "files": {
+    "Turbimeter_EN_V1.pdf": "ba7de73f5814952773fca1f9c9cf3663a6ad4b5d74476088c392351db8fd17df",
+    "Informe_revision_Turbimeter_V1.docx": "846ace2fd4f1757a9a2c6f02504f5668eb7749edaa9292923cc9b55c7d69bab5",
+    "Prompt_correccion_Turbimeter_V1.md": "74893bd879c71a2a956e011606644b9a2be6107afedcd7f5df7f4ae91f884769",
+    "SHA256_Turbimeter_V1.txt": "0e77c071bf0709accff2315c6faa0c8940960c3ff5dd0bca65f92f0bd839d03d",
+    "Informe_revision_Turbimeter_V1.md": "10572f59c1f442fcb607a50f2a31ff62a6d0847789f69d6e5fc69ef8153c469b"
+  }
+}

@@ -1,0 +1,1369 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          6
+        ]
+      ],
+      "date-time": "2026-10-06T23:39:04Z",
+      "timestamp": 1791329944829,
+      "version": "4.3.1"
+    },
+    "reference-count": 134,
+    "publisher": "Ubiquity Press, Ltd.",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              8,
+              28
+            ]
+          ],
+          "date-time": "2018-08-28T00:00:00Z",
+          "timestamp": 1535414400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "CSTP"
+    ],
+    "DOI": "10.5334/cstp.126",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2018-08-28T21:10:31Z",
+      "timestamp": 1535490631000
+    },
+    "page": "3",
+    "source": "Crossref",
+    "is-referenced-by-count": 169,
+    "title": [
+      "A Framework for Articulating and Measuring Individual Learning Outcomes\n                        from Participation in Citizen Science"
+    ],
+    "prefix": "10.5334",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Tina",
+        "family": "Phillips",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Norman",
+        "family": "Porticella",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark",
+        "family": "Constas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rick",
+        "family": "Bonney",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "3285",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          28
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "key20180828133515_B1",
+        "volume-title": "Action Control, From Cognition to Behavior",
+        "year": "1985"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B2",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.1016/0749-5978(91)90020-T",
+        "article-title": "The theory of planned behavior",
+        "volume": "50",
+        "year": "1991",
+        "journal-title": "Organizational Behavior and Human Decision Processes"
+      },
+      {
+        "key": "key20180828133515_B3",
+        "volume-title": "Benchmarks for science literacy",
+        "author": "American Association for the Advancement of Science",
+        "year": "1993"
+      },
+      {
+        "key": "key20180828133515_B4",
+        "article-title": "Investigating the cognitive validity of science performance assessment with think alouds: Technical aspects",
+        "year": "2002"
+      },
+      {
+        "issue": "5–6",
+        "key": "key20180828133515_B5",
+        "first-page": "611",
+        "article-title": "Participatory action research and environmental learning: Implications for resilient forests and communities",
+        "volume": "16",
+        "year": "2010",
+        "journal-title": "Environmental Education Research"
+      },
+      {
+        "key": "key20180828133515_B6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Ballard, HL, Fernandez-Gimenez, ME and Sturtevant, VE. 2008. Integration of local ecological knowledge and conventional science: A study of seven community-based forestry organizations in the USA. Ecology and Society, 13(2): 37. http://hdl.handle.net/10535/2424.",
+        "DOI": "10.5751/ES-02594-130237"
+      },
+      {
+        "issue": "4",
+        "key": "key20180828133515_B7",
+        "doi-asserted-by": "crossref",
+        "first-page": "529",
+        "DOI": "10.1007/s10745-006-9048-7",
+        "article-title": "Salal harvester local ecological knowledge, harvest practices and understory management on the Olympic Peninsula, Washington",
+        "volume": "34",
+        "year": "2006",
+        "journal-title": "Human Ecology"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B8",
+        "doi-asserted-by": "crossref",
+        "first-page": "122",
+        "DOI": "10.1037/0003-066X.37.2.122",
+        "article-title": "Self-efficacy mechanism in human agency",
+        "volume": "37",
+        "year": "1982",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "key": "key20180828133515_B9",
+        "volume-title": "Self-efficacy: The exercise of control",
+        "year": "1997",
+        "edition": "1st edition"
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B10",
+        "doi-asserted-by": "crossref",
+        "first-page": "75",
+        "DOI": "10.1111/1467-8721.00064",
+        "article-title": "Exercise of human agency through collective efficacy",
+        "volume": "9",
+        "year": "2000",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B11",
+        "doi-asserted-by": "crossref",
+        "first-page": "125",
+        "DOI": "10.1037/0022-3514.35.3.125",
+        "article-title": "Cognitive processes mediating behavioral change",
+        "volume": "35",
+        "year": "1977",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B12",
+        "doi-asserted-by": "crossref",
+        "first-page": "30",
+        "DOI": "10.1177/016224390002500102",
+        "article-title": "Public knowledge of and attitudes to Science: Alternative measures that may end the “science war.”",
+        "volume": "25",
+        "year": "2000",
+        "journal-title": "Science, Technology and Human Values"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B13",
+        "article-title": "Embedded assessment as an essential method for understanding public engagement in citizen science",
+        "volume": "1",
+        "year": "2016",
+        "journal-title": "Citizen Science: Theory and Practice"
+      },
+      {
+        "issue": "12",
+        "key": "key20180828133515_B14",
+        "article-title": "Awareness and learning in participatory noise sensing",
+        "volume": "8",
+        "year": "2013",
+        "journal-title": "PLOS ONE"
+      },
+      {
+        "issue": "5",
+        "key": "key20180828133515_B15",
+        "doi-asserted-by": "crossref",
+        "first-page": "990",
+        "DOI": "10.1111/cobi.12762",
+        "article-title": "Learning and the transformative potential of citizen science: Lessons from the Study of Nature",
+        "volume": "30",
+        "year": "2016",
+        "journal-title": "Conservation Biology"
+      },
+      {
+        "issue": "14",
+        "key": "key20180828133515_B16",
+        "doi-asserted-by": "crossref",
+        "first-page": "3443",
+        "DOI": "10.1007/s10531-008-9357-9",
+        "article-title": "What counts? Volunteers and their organisations in the recording and monitoring of biodiversity",
+        "volume": "17",
+        "year": "2008",
+        "journal-title": "Biodiversity and Conservation"
+      },
+      {
+        "key": "key20180828133515_B17",
+        "first-page": "227",
+        "volume-title": "Environmental Education and Advocacy: Changing Perspectives of Ecology and Education",
+        "year": "2005"
+      },
+      {
+        "issue": "87",
+        "key": "key20180828133515_B18",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1002/ev.1186",
+        "article-title": "Summing up program theory",
+        "volume": "2000",
+        "year": "2000",
+        "journal-title": "New Directions for Evaluation"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B19",
+        "doi-asserted-by": "crossref",
+        "first-page": "47",
+        "DOI": "10.3200/JOEE.39.2.47-58",
+        "article-title": "Integrating Instructional Technologies in a Local Watershed Investigation with Urban Elementary Learners",
+        "volume": "39",
+        "year": "2008",
+        "journal-title": "The Journal of Environmental Education"
+      },
+      {
+        "key": "key20180828133515_B20",
+        "first-page": "199",
+        "volume-title": "Creating Connections: Museums and the Public Understanding of Current Research",
+        "year": "2004"
+      },
+      {
+        "key": "key20180828133515_B21",
+        "volume-title": "Public Participation in Scientific Research: Defining the Field and Assessing Its Potential for Informal Science Education. A CAISE Inquiry Group Report",
+        "year": "2009"
+      },
+      {
+        "issue": "11",
+        "key": "key20180828133515_B22",
+        "doi-asserted-by": "crossref",
+        "first-page": "977",
+        "DOI": "10.1525/bio.2009.59.11.9",
+        "article-title": "Citizen Science: A Developing Tool for Expanding Science Knowledge and Scientific Literacy",
+        "volume": "59",
+        "year": "2009",
+        "journal-title": "Bioscience"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B23",
+        "doi-asserted-by": "crossref",
+        "first-page": "2",
+        "DOI": "10.1177/0963662515607406",
+        "article-title": "Can citizen science enhance public understanding of science?",
+        "volume": "25",
+        "year": "2016",
+        "journal-title": "Public Understanding of Science"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B24",
+        "doi-asserted-by": "crossref",
+        "first-page": "19",
+        "DOI": "10.1007/s10841-009-9221-6",
+        "article-title": "Realizing a synergy between research and education: How participation in ant monitoring helps raise biodiversity awareness in a resource-poor country",
+        "volume": "14",
+        "year": "2010",
+        "journal-title": "Journal of Insect Conservation"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B25",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.1046/j.1523-1739.2002.01613.x",
+        "article-title": "Outreach and partnership programs for conservation education where endangered species conservation and research occur",
+        "volume": "16",
+        "year": "2002",
+        "journal-title": "Conservation Biology"
+      },
+      {
+        "issue": "9",
+        "key": "key20180828133515_B26",
+        "doi-asserted-by": "crossref",
+        "first-page": "1099",
+        "DOI": "10.1080/09500690500069483",
+        "article-title": "Scientific knowledge and attitude change: The impact of a citizen science project",
+        "volume": "27",
+        "year": "2005",
+        "journal-title": "International Journal of Science Education"
+      },
+      {
+        "key": "key20180828133515_B27",
+        "author": "Center for the Advancement of Informal Science Education",
+        "year": "2011"
+      },
+      {
+        "key": "key20180828133515_B28",
+        "volume-title": "Promoting Rigorous Citizen Science: Coastal Observation and Seabird Survey Team (COASST) Evaluation Report on Citizen Impact",
+        "year": "2014"
+      },
+      {
+        "key": "key20180828133515_B29",
+        "volume-title": "Encyclopedia of Evaluation",
+        "year": "2005"
+      },
+      {
+        "issue": "5",
+        "key": "key20180828133515_B30",
+        "doi-asserted-by": "crossref",
+        "first-page": "156",
+        "DOI": "10.1111/1467-8721.00037",
+        "article-title": "The motivations to volunteer: Theoretical and practical considerations",
+        "volume": "8",
+        "year": "1999",
+        "journal-title": "Current Directions in Psychological Science"
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B31",
+        "doi-asserted-by": "crossref",
+        "first-page": "1516",
+        "DOI": "10.1037/0022-3514.74.6.1516",
+        "article-title": "Understanding and assessing the motivations of volunteers: A functional approach",
+        "volume": "74",
+        "year": "1998",
+        "journal-title": "Journal of Personality and Social Psychology"
+      },
+      {
+        "key": "key20180828133515_B32",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Cooper, CB, Dickinson, J, Phillips, TB and Bonney, R. 2007. Citizen Science as a Tool for Conservation in Residential Ecosystems. Ecology and Society, 12(2): 11. [online] URL: http://www.ecologyandsociety.org/vol12/iss2/art11/.",
+        "DOI": "10.5751/ES-02197-120211"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B33",
+        "doi-asserted-by": "crossref",
+        "first-page": "101",
+        "DOI": "10.1177/0306312711430440",
+        "article-title": "Co-producing conservation and knowledge: Citizen-based sea turtle monitoring in North Carolina, USA",
+        "volume": "42",
+        "year": "2012",
+        "journal-title": "Social Studies of Science"
+      },
+      {
+        "issue": "4",
+        "key": "key20180828133515_B34",
+        "article-title": "Observations of everyday biodiversity: A new perspective for conservation?",
+        "volume": "17",
+        "year": "2012",
+        "journal-title": "Ecology and Society"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B35",
+        "doi-asserted-by": "crossref",
+        "first-page": "641",
+        "DOI": "10.1146/annurev-environ-030713-154609",
+        "article-title": "Citizen science: A tool for integrating studies of human and natural systems",
+        "volume": "39",
+        "year": "2014",
+        "journal-title": "Annual Review of Environment and Resources"
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B36",
+        "first-page": "745",
+        "article-title": "The impacts of an invasive species citizen science training program on participant attitudes, behavior, and science literacy",
+        "volume": "22",
+        "year": "2012",
+        "journal-title": "Public Understanding of Science"
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B37",
+        "doi-asserted-by": "crossref",
+        "first-page": "433",
+        "DOI": "10.1111/j.1755-263X.2011.00196.x",
+        "article-title": "Assessing citizen science data quality: An invasive species case study: Assessing citizen science data quality",
+        "volume": "4",
+        "year": "2011",
+        "journal-title": "Conservation Letters"
+      },
+      {
+        "issue": "4",
+        "key": "key20180828133515_B38",
+        "doi-asserted-by": "crossref",
+        "first-page": "143",
+        "DOI": "10.1177/1045159513499550",
+        "article-title": "Elevating adult civic science literacy through a renewed citizen science paradigm",
+        "volume": "24",
+        "year": "2013",
+        "journal-title": "Adult Learning"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B39",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.1111/j.1523-1739.2008.01063.x",
+        "article-title": "Local participation in natural resource monitoring: A characterization of approaches",
+        "volume": "23",
+        "year": "2009",
+        "journal-title": "Conservation Biology"
+      },
+      {
+        "key": "key20180828133515_B40",
+        "doi-asserted-by": "crossref",
+        "first-page": "236",
+        "DOI": "10.1093/biosci/biu001",
+        "article-title": "A multicountry assessment of tropical resource monitoring by local communities",
+        "volume": "64",
+        "year": "2014",
+        "journal-title": "BioScience"
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B41",
+        "doi-asserted-by": "crossref",
+        "first-page": "354",
+        "DOI": "10.1111/j.1472-4642.2009.00615.x",
+        "article-title": "Beyond scarcity: Citizen science programmes as useful tools for conservation biogeography: Citizen science and conservation biogeography",
+        "volume": "16",
+        "year": "2010",
+        "journal-title": "Diversity and Distributions"
+      },
+      {
+        "key": "key20180828133515_B42",
+        "volume-title": "Experience and education",
+        "year": "1938"
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B43",
+        "doi-asserted-by": "crossref",
+        "first-page": "485",
+        "DOI": "10.1177/0013916593253003",
+        "article-title": "Changing Behavior and Making It Stick: The Conceptualization and Management of Conservation Behavior",
+        "volume": "25",
+        "year": "1993",
+        "journal-title": "Environment and Behavior"
+      },
+      {
+        "key": "key20180828133515_B44",
+        "volume-title": "Perspectives on activity theory",
+        "year": "1999"
+      },
+      {
+        "key": "key20180828133515_B45",
+        "volume-title": "Developing the volunteer motivation inventory to assess the underlying motivational drives of volunteers in Western Australia",
+        "year": "2004"
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B46",
+        "doi-asserted-by": "crossref",
+        "first-page": "589",
+        "DOI": "10.1111/j.1523-1739.2005.00s01.x",
+        "article-title": "The Neighborhood Nestwatch Program: Participant outcomes of a citizen-science ecological research project",
+        "volume": "19",
+        "year": "2005",
+        "journal-title": "Conservation Biology"
+      },
+      {
+        "key": "key20180828133515_B47",
+        "volume-title": "Lessons without Limit: How free-choice learning is transforming education",
+        "year": "2003"
+      },
+      {
+        "issue": "4",
+        "key": "key20180828133515_B48",
+        "doi-asserted-by": "crossref",
+        "first-page": "455",
+        "DOI": "10.1177/0963662506064240",
+        "article-title": "Investigating public science interest and understanding: Evidence for the importance of free-choice learning",
+        "volume": "16",
+        "year": "2007",
+        "journal-title": "Public Understanding of Science"
+      },
+      {
+        "key": "key20180828133515_B49",
+        "volume-title": "Surrounded by science: Learning science in informal environments",
+        "year": "2010"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B50",
+        "doi-asserted-by": "crossref",
+        "first-page": "4",
+        "DOI": "10.5751/ES-02400-130204",
+        "article-title": "Adaptive management and social learning in collaborative and community-based monitoring: A study of five community-based forestry organizations in the western USA",
+        "volume": "13",
+        "year": "2008",
+        "journal-title": "Ecology and Society"
+      },
+      {
+        "key": "key20180828133515_B51",
+        "volume-title": "Belief, attitude, intention, and behavior: An introduction to theory and research",
+        "year": "1975"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B52",
+        "article-title": "Contribution of multimedia to girls’ experience of citizen science",
+        "volume": "1",
+        "year": "2016",
+        "journal-title": "Citizen Science: Theory and Practice"
+      },
+      {
+        "key": "key20180828133515_B53",
+        "volume-title": "Framework for evaluating impacts of informal science education projects",
+        "year": "2008"
+      },
+      {
+        "issue": "87",
+        "key": "key20180828133515_B54",
+        "doi-asserted-by": "crossref",
+        "first-page": "91",
+        "DOI": "10.1002/ev.1185",
+        "article-title": "Developing and using a program theory matrix for program evaluation and performance monitoring",
+        "volume": "2000",
+        "year": "2000",
+        "journal-title": "New Directions for Evaluation"
+      },
+      {
+        "key": "key20180828133515_B55",
+        "first-page": "31",
+        "volume-title": "Purposeful program theory: Effective use of theories of change and logic models",
+        "year": "2011"
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B56",
+        "doi-asserted-by": "crossref",
+        "first-page": "215",
+        "DOI": "10.1080/13504620802148881",
+        "article-title": "Understanding behavior to understand behavior change: A literature review",
+        "volume": "14",
+        "year": "2008",
+        "journal-title": "Environmental Education Research"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B57",
+        "doi-asserted-by": "crossref",
+        "first-page": "111",
+        "DOI": "10.1207/s15326985ep4102_4",
+        "article-title": "The four-phase model of interest development",
+        "volume": "41",
+        "year": "2006",
+        "journal-title": "Educational Psychologist"
+      },
+      {
+        "key": "key20180828133515_B58",
+        "unstructured": "Hiller, SE. 2012. The impact of a citizen science program on student achievement and motivation: A social cognitive career perspective. Thesis (PhD). George Mason University."
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B59",
+        "doi-asserted-by": "crossref",
+        "first-page": "364",
+        "DOI": "10.1016/j.jnc.2012.08.002",
+        "article-title": "Motivations and barriers in relation to community participation in biodiversity recording",
+        "volume": "20",
+        "year": "2012",
+        "journal-title": "Journal for Nature Conservation"
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B60",
+        "doi-asserted-by": "crossref",
+        "first-page": "8",
+        "DOI": "10.1080/00958964.1990.10753743",
+        "article-title": "Changing learner behavior through environmental education",
+        "volume": "21",
+        "year": "1990",
+        "journal-title": "The Journal of Environmental Education"
+      },
+      {
+        "key": "key20180828133515_B61",
+        "first-page": "1624",
+        "article-title": "Motivations for sustained participation in crowdsourcing: Case studies of citizen science on the role of talk",
+        "year": "2014",
+        "journal-title": "IEEE"
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B62",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1890/110280",
+        "article-title": "Key issues and new approaches for evaluating citizen-science learning outcomes",
+        "volume": "10",
+        "year": "2012",
+        "journal-title": "Frontiers in Ecology and the Environment"
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B63",
+        "doi-asserted-by": "crossref",
+        "first-page": "1148",
+        "DOI": "10.1111/j.1523-1739.2011.01745.x",
+        "article-title": "Knowledge gain and behavioral change in citizen-science programs: Citizen-scientist knowledge gain",
+        "volume": "25",
+        "year": "2011",
+        "journal-title": "Conservation Biology"
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B64",
+        "doi-asserted-by": "crossref",
+        "first-page": "169",
+        "DOI": "10.1016/0272-4944(95)90001-2",
+        "article-title": "The restorative benefits of nature: Toward an integrative framework",
+        "volume": "15",
+        "year": "1995",
+        "journal-title": "Journal of Environmental Psychology"
+      },
+      {
+        "key": "key20180828133515_B65",
+        "volume-title": "The biophilia hypothesis",
+        "year": "1993"
+      },
+      {
+        "key": "key20180828133515_B66",
+        "volume-title": "Experiential Learning: Experience as the Source of Learning and Development",
+        "year": "1984",
+        "edition": "1st ed."
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B67",
+        "doi-asserted-by": "crossref",
+        "first-page": "239",
+        "DOI": "10.1080/13504620220145401",
+        "article-title": "Mind the gap: Why do people act environmentally and what are the barriers to pro-environmental behavior?",
+        "volume": "8",
+        "year": "2002",
+        "journal-title": "Environmental Education Research"
+      },
+      {
+        "issue": "10",
+        "key": "key20180828133515_B68",
+        "doi-asserted-by": "crossref",
+        "first-page": "551",
+        "DOI": "10.1002/fee.1436",
+        "article-title": "Assessing data quality in citizen science",
+        "volume": "14",
+        "year": "2016",
+        "journal-title": "Frontiers in Ecology and the Environment"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B69",
+        "first-page": "10",
+        "article-title": "Citizen science and youth audiences: Educational outcomes of the Monarch Larva Monitoring Project",
+        "volume": "1",
+        "year": "2008",
+        "journal-title": "Journal of Community Engagement and Scholarship"
+      },
+      {
+        "key": "key20180828133515_B70",
+        "first-page": "292",
+        "volume-title": "Environmental education and advocacy: Changing perspectives of ecology and education",
+        "year": "2005"
+      },
+      {
+        "key": "key20180828133515_B71",
+        "volume-title": "Situated learning: Legitimate peripheral participation",
+        "year": "1991"
+      },
+      {
+        "issue": "4",
+        "key": "key20180828133515_B72",
+        "doi-asserted-by": "crossref",
+        "first-page": "331",
+        "DOI": "10.1002/tea.3660290404",
+        "article-title": "Students’ and teachers’ conceptions of the nature of science: A review of the research",
+        "volume": "29",
+        "year": "1992",
+        "journal-title": "Journal of Research in Science Teaching"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B73",
+        "article-title": "EJSE Editorial: The state of science education: Subject matter without context",
+        "volume": "3",
+        "year": "1999",
+        "journal-title": "Electronic Journal of Science Education"
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B74",
+        "doi-asserted-by": "crossref",
+        "first-page": "497",
+        "DOI": "10.1002/tea.10034",
+        "article-title": "Views of nature of science questionnaire: Toward valid and meaningful assessment of learners’ conceptions of nature of science",
+        "volume": "39",
+        "year": "2002",
+        "journal-title": "Journal of Research in Science Teaching"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B75",
+        "doi-asserted-by": "crossref",
+        "first-page": "135",
+        "DOI": "10.1080/14926150109556458",
+        "article-title": "Pre-service teachers’ understanding and teaching of nature of science: An intervention study",
+        "volume": "1",
+        "year": "2001",
+        "journal-title": "Canadian Journal of Science, Mathematics and Technology Education"
+      },
+      {
+        "key": "key20180828133515_B76",
+        "doi-asserted-by": "crossref",
+        "first-page": "106",
+        "DOI": "10.1016/j.biocon.2015.07.029",
+        "article-title": "Butterfly citizen scientists in the United States increase their engagement in conservation",
+        "volume": "208",
+        "year": "2017",
+        "journal-title": "Biological Conservation"
+      },
+      {
+        "issue": "5",
+        "key": "key20180828133515_B77",
+        "doi-asserted-by": "crossref",
+        "first-page": "669",
+        "DOI": "10.1080/09500690902792385",
+        "article-title": "Eyeballs in the fridge: Sources of early interest in science",
+        "volume": "32",
+        "year": "2010",
+        "journal-title": "International Journal of Science Education"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B78",
+        "first-page": "70",
+        "article-title": "Using citizen science in urban bird studies",
+        "volume": "3",
+        "year": "2005",
+        "journal-title": "Urban Habitats"
+      },
+      {
+        "key": "key20180828133515_B79",
+        "volume-title": "Many experts, many audiences: Public engagement with science and informal science education",
+        "year": "2009"
+      },
+      {
+        "key": "key20180828133515_B80",
+        "first-page": "15",
+        "article-title": "Citizen science can improve conservation science, natural resource management, and environmental protection",
+        "volume": "208",
+        "year": "2016",
+        "journal-title": "Biological Conservation"
+      },
+      {
+        "issue": "5",
+        "key": "key20180828133515_B81",
+        "doi-asserted-by": "crossref",
+        "first-page": "545",
+        "DOI": "10.1177/0963662509335456",
+        "article-title": "Participation and competence as joint components in a cross-national analysis of scientific citizenship",
+        "volume": "19",
+        "year": "2010",
+        "journal-title": "Public Understanding of Science"
+      },
+      {
+        "issue": "4",
+        "key": "key20180828133515_B82",
+        "article-title": "Citizen science as a REAL environment for authentic scientific inquiry",
+        "volume": "52",
+        "year": "2014",
+        "journal-title": "Journal of Extension"
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B83",
+        "doi-asserted-by": "crossref",
+        "first-page": "285",
+        "DOI": "10.1890/110278",
+        "article-title": "The history of public participation in ecological research",
+        "volume": "10",
+        "year": "2012",
+        "journal-title": "Frontiers in Ecology and the Environment"
+      },
+      {
+        "key": "key20180828133515_B84",
+        "first-page": "109",
+        "article-title": "Planet hunters and seafloor explorers: legitimate peripheral participation through practice proxies in online citizen science",
+        "year": "2014"
+      },
+      {
+        "key": "key20180828133515_B85",
+        "volume-title": "Science Literacy: Concepts, Contexts, and Consequences",
+        "author": "National Academies of Sciences, Engineering, and Medicine",
+        "year": "2016"
+      },
+      {
+        "key": "key20180828133515_B86",
+        "volume-title": "National Science Education Standards",
+        "author": "National Research Council",
+        "year": "1996"
+      },
+      {
+        "key": "key20180828133515_B87",
+        "volume-title": "Learning science in informal environments: People, places, and pursuits",
+        "author": "National Research Council",
+        "year": "2009"
+      },
+      {
+        "key": "key20180828133515_B88",
+        "volume-title": "Science and engineering indicators 2014",
+        "author": "National Science Board",
+        "year": "2014"
+      },
+      {
+        "key": "key20180828133515_B89",
+        "volume-title": "Next generation science standards: For states, by states",
+        "author": "NGSS Lead States",
+        "year": "2013"
+      },
+      {
+        "issue": "4",
+        "key": "key20180828133515_B90",
+        "article-title": "Scientists@Home: What drives the quantity and quality of online citizen science participation?",
+        "volume": "9",
+        "year": "2014",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B91",
+        "doi-asserted-by": "crossref",
+        "first-page": "103",
+        "DOI": "10.1093/ae/54.2.103",
+        "article-title": "Citizen science: Creating a research army for conservation",
+        "volume": "54",
+        "year": "2008",
+        "journal-title": "American Entomologist"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B92",
+        "doi-asserted-by": "crossref",
+        "first-page": "257",
+        "DOI": "10.1177/0013916511402673",
+        "article-title": "Environmental sustainability and behavioral science meta-analysis of proenvironmental behavior experiments",
+        "volume": "44",
+        "year": "2012",
+        "journal-title": "Environment and Behavior"
+      },
+      {
+        "issue": "9",
+        "key": "key20180828133515_B93",
+        "doi-asserted-by": "crossref",
+        "first-page": "1049",
+        "DOI": "10.1080/0950069032000032199",
+        "article-title": "Attitudes towards science: A review of the literature and its implications",
+        "volume": "25",
+        "year": "2003",
+        "journal-title": "International Journal of Science Education"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B94",
+        "first-page": "177",
+        "article-title": "Volunteer stream monitoring and local participation in natural resource issues",
+        "volume": "11",
+        "year": "2004",
+        "journal-title": "Human Ecology Review"
+      },
+      {
+        "key": "key20180828133515_B95",
+        "unstructured": "Phillips, T, Ferguson, M, Minarchek, M, Porticella, N and Bonney, R. 2014. User’s Guide for Evaluating Learning Outcomes in Citizen Science. Ithaca, NY: Cornell Lab of Ornithology. Retrieved from: http://cdn1.safmc.net/wp-content/uploads/2016/11/28101058/CitizenScienceUsersGuide_Evaluation_2014.pdf."
+      },
+      {
+        "key": "key20180828133515_B96",
+        "doi-asserted-by": "crossref",
+        "first-page": "82",
+        "DOI": "10.7591/cornell/9780801449116.003.0006",
+        "volume-title": "Citizen science: Public participation in environmental research",
+        "year": "2012"
+      },
+      {
+        "key": "key20180828133515_B97",
+        "first-page": "317",
+        "volume-title": "At the human scale, international practices in science communication",
+        "year": "2006"
+      },
+      {
+        "issue": "7",
+        "key": "key20180828133515_B98",
+        "doi-asserted-by": "crossref",
+        "first-page": "773",
+        "DOI": "10.1002/tea.21090",
+        "article-title": "Changes in participants’ scientific attitudes and epistemological beliefs during an astronomical citizen science project",
+        "volume": "50",
+        "year": "2013",
+        "journal-title": "Journal of Research in Science Teaching"
+      },
+      {
+        "key": "key20180828133515_B99",
+        "first-page": "46",
+        "article-title": "Citizen science: Status and research directions for the coming decade",
+        "year": "2009",
+        "journal-title": "AGB Stars and Related Phenomenastro 2010: The Astronomy and Astrophysics Decadal Survey, 2010"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B100",
+        "article-title": "Galaxy Zoo: Exploring the motivations of citizen science volunteers",
+        "volume": "9",
+        "year": "2010",
+        "journal-title": "Astronomy Education Review"
+      },
+      {
+        "key": "key20180828133515_B101",
+        "first-page": "610",
+        "article-title": "An exploratory factor analysis of motivations for participating in Zooniverse, a collection of virtual citizen science projects",
+        "year": "2013"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B102",
+        "doi-asserted-by": "crossref",
+        "first-page": "33",
+        "DOI": "10.1088/0963-6625/11/1/302",
+        "article-title": "Scientific literacy as a collective praxis",
+        "volume": "11",
+        "year": "2002",
+        "journal-title": "Public Understanding of Science"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B103",
+        "doi-asserted-by": "crossref",
+        "first-page": "263",
+        "DOI": "10.1002/sce.10113",
+        "article-title": "Science education as/for participation in the community",
+        "volume": "88",
+        "year": "2004",
+        "journal-title": "Science Education"
+      },
+      {
+        "issue": "5",
+        "key": "key20180828133515_B104",
+        "doi-asserted-by": "crossref",
+        "first-page": "503",
+        "DOI": "10.1002/tea.3660300508",
+        "article-title": "The concept map as a tool for the collaborative construction of knowledge: A microanalysis of high school physics students",
+        "volume": "30",
+        "year": "1993",
+        "journal-title": "Journal of Research in Science Teaching"
+      },
+      {
+        "key": "key20180828133515_B105",
+        "first-page": "217",
+        "article-title": "Dynamic changes in motivation in collaborative citizen-science projects",
+        "year": "2012"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B106",
+        "doi-asserted-by": "crossref",
+        "first-page": "54",
+        "DOI": "10.1006/ceps.1999.1020",
+        "article-title": "Intrinsic and extrinsic motivations: Classic definitions and new directions",
+        "volume": "25",
+        "year": "2000",
+        "journal-title": "Contemporary Educational Psychology"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B107",
+        "doi-asserted-by": "crossref",
+        "first-page": "68",
+        "DOI": "10.1037/0003-066X.55.1.68",
+        "article-title": "Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being",
+        "volume": "55",
+        "year": "2000",
+        "journal-title": "American Psychologist"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B108",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1111/j.1523-1739.2008.01125.x",
+        "article-title": "Advantages of volunteer-based biodiversity monitoring in Europe",
+        "volume": "23",
+        "year": "2009",
+        "journal-title": "Conservation Biology"
+      },
+      {
+        "key": "key20180828133515_B109",
+        "volume-title": "Measuring results",
+        "year": "2003"
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B110",
+        "doi-asserted-by": "crossref",
+        "first-page": "1080",
+        "DOI": "10.1111/j.1523-1739.2011.01766.x",
+        "article-title": "Conservation means behavior",
+        "volume": "25",
+        "year": "2011",
+        "journal-title": "Conservation Biology"
+      },
+      {
+        "issue": "3–4",
+        "key": "key20180828133515_B111",
+        "first-page": "207",
+        "article-title": "Self-efficacy and academic motivation",
+        "volume": "26",
+        "year": "1991",
+        "journal-title": "Educational Psychologist"
+      },
+      {
+        "key": "key20180828133515_B112",
+        "volume-title": "The myth of scientific literacy",
+        "year": "1995"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B113",
+        "article-title": "Public participation in scientific research: A framework for deliberate design",
+        "volume": "17",
+        "year": "2012",
+        "journal-title": "Ecology and Society"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B114",
+        "doi-asserted-by": "crossref",
+        "first-page": "109",
+        "DOI": "10.1080/1533015X.2014.947051",
+        "article-title": "Scientific value and educational goals: Balancing priorities and increasing adult engagement in a citizen science project",
+        "volume": "13",
+        "year": "2014",
+        "journal-title": "Applied Environmental Education and Communication"
+      },
+      {
+        "issue": "4",
+        "key": "key20180828133515_B115",
+        "doi-asserted-by": "crossref",
+        "first-page": "31",
+        "DOI": "10.3200/JOEE.39.4.31-43",
+        "article-title": "What difference does it make? Assessing outcomes from participation in a residential environmental education program",
+        "volume": "39",
+        "year": "2008",
+        "journal-title": "The Journal of Environmental Education"
+      },
+      {
+        "issue": "3",
+        "key": "key20180828133515_B116",
+        "doi-asserted-by": "crossref",
+        "first-page": "407",
+        "DOI": "10.1111/0022-4537.00175",
+        "article-title": "New environmental theories: Toward a coherent theory of environmentally significant behavior",
+        "volume": "56",
+        "year": "2000",
+        "journal-title": "Journal of Social Issues"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B117",
+        "doi-asserted-by": "crossref",
+        "first-page": "55",
+        "DOI": "10.1177/0963662504042690",
+        "article-title": "Science in society: Re-evaluating the deficit model of public attitudes",
+        "volume": "13",
+        "year": "2004",
+        "journal-title": "Public Understanding of Science"
+      },
+      {
+        "issue": "10",
+        "key": "key20180828133515_B118",
+        "doi-asserted-by": "crossref",
+        "first-page": "2282",
+        "DOI": "10.1016/j.biocon.2009.05.006",
+        "article-title": "eBird: A citizen-based bird observation network in the biological sciences",
+        "volume": "142",
+        "year": "2009",
+        "journal-title": "Biological Conservation"
+      },
+      {
+        "issue": "5777",
+        "key": "key20180828133515_B119",
+        "doi-asserted-by": "crossref",
+        "first-page": "1143",
+        "DOI": "10.1126/science.1128690",
+        "article-title": "Planning early for careers in science",
+        "volume": "312",
+        "year": "2006",
+        "journal-title": "Science"
+      },
+      {
+        "key": "key20180828133515_B120",
+        "doi-asserted-by": "crossref",
+        "first-page": "236",
+        "DOI": "10.1016/j.biocon.2014.10.021",
+        "article-title": "Global change and local solutions: Tapping the unrealized potential of citizen science for biodiversity research",
+        "volume": "181",
+        "year": "2015",
+        "journal-title": "Biological Conservation"
+      },
+      {
+        "key": "key20180828133515_B121",
+        "first-page": "187",
+        "article-title": "Evaluating the impacts of participation in an online citizen science project: A mixed-methods approach",
+        "year": "2007"
+      },
+      {
+        "issue": "1",
+        "key": "key20180828133515_B122",
+        "first-page": "50",
+        "article-title": "Can citizen science lead to positive conservation attitudes and behaviors?",
+        "volume": "20",
+        "year": "2013",
+        "journal-title": "Human Ecology Review"
+      },
+      {
+        "key": "key20180828133515_B123",
+        "doi-asserted-by": "crossref",
+        "first-page": "179",
+        "DOI": "10.7591/cornell/9780801449116.003.0013",
+        "volume-title": "Citizen science: Public participation in environmental research",
+        "year": "2012"
+      },
+      {
+        "issue": "2",
+        "key": "key20180828133515_B124",
+        "doi-asserted-by": "crossref",
+        "first-page": "265",
+        "DOI": "10.1002/(SICI)1098-237X(200003)84:2<265::AID-SCE7>3.0.CO;2-5",
+        "article-title": "Thinking scientifically during participation in a citizen-science project",
+        "volume": "84",
+        "year": "2000",
+        "journal-title": "Science Education"
+      },
+      {
+        "issue": "6",
+        "key": "key20180828133515_B125",
+        "doi-asserted-by": "crossref",
+        "first-page": "879",
+        "DOI": "10.1002/sce.20081",
+        "article-title": "Developing materials to promote inquiry: Lessons learned",
+        "volume": "89",
+        "year": "2005",
+        "journal-title": "Science Education"
+      },
+      {
+        "key": "key20180828133515_B126",
+        "first-page": "73",
+        "volume-title": "The biophilia hypothesis",
+        "year": "1993"
+      },
+      {
+        "key": "key20180828133515_B127",
+        "first-page": "541",
+        "volume-title": "New handbook of environmental psychology",
+        "year": "2002"
+      },
+      {
+        "key": "key20180828133515_B128",
+        "volume-title": "Mind in society: the development of higher psychological processes",
+        "year": "1978"
+      },
+      {
+        "issue": "4",
+        "key": "key20180828133515_B129",
+        "doi-asserted-by": "crossref",
+        "first-page": "320",
+        "DOI": "10.1123/jsp.1.4.320",
+        "article-title": "Expectations and performance: An empirical test of Bandura’s self-efficacy theory",
+        "volume": "1",
+        "year": "1979",
+        "journal-title": "Journal of Sport Psychology"
+      },
+      {
+        "key": "key20180828133515_B130",
+        "doi-asserted-by": "crossref",
+        "first-page": "201",
+        "DOI": "10.7591/cornell/9780801449116.003.0015",
+        "volume-title": "Citizen science: Public participation in environmental research",
+        "year": "2012"
+      },
+      {
+        "key": "key20180828133515_B131",
+        "volume-title": "Communities of practice: Learning, meaning, and identity",
+        "year": "1998"
+      },
+      {
+        "key": "key20180828133515_B132",
+        "volume-title": "Biophilia: The human bond with other species",
+        "year": "1984"
+      },
+      {
+        "issue": "10",
+        "key": "key20180828133515_B133",
+        "doi-asserted-by": "crossref",
+        "first-page": "1362",
+        "DOI": "10.1289/ehp.11250",
+        "article-title": "Air pollution and odor in communities near industrial swine operations",
+        "volume": "116",
+        "year": "2008",
+        "journal-title": "Environmental Health Perspectives"
+      },
+      {
+        "issue": "9",
+        "key": "key20180828133515_B134",
+        "doi-asserted-by": "crossref",
+        "first-page": "1013",
+        "DOI": "10.1080/08941920.2015.1054976",
+        "article-title": "Understanding the motivations and satisfactions of volunteers to improve the effectiveness of citizen science programs",
+        "volume": "28",
+        "year": "2015",
+        "journal-title": "Society and Natural Resources"
+      }
+    ],
+    "container-title": [
+      "Citizen Science: Theory and Practice"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://doi.org/10.5334/cstp.126",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2022,
+          7,
+          11
+        ]
+      ],
+      "date-time": "2022-07-11T09:17:26Z",
+      "timestamp": 1657531046000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://theoryandpractice.citizenscienceassociation.org/article/10.5334/cstp.126/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          28
+        ]
+      ]
+    },
+    "references-count": 134,
+    "journal-issue": {
+      "issue": "2",
+      "published-online": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            16
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.5334/cstp.126",
+    "relation": {},
+    "ISSN": [
+      "2057-4991"
+    ],
+    "issn-type": [
+      {
+        "value": "2057-4991",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          28
+        ]
+      ]
+    }
+  }
+}

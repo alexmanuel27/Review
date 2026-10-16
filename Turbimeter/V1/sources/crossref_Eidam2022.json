@@ -1,0 +1,594 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          1
+        ]
+      ],
+      "date-time": "2026-07-01T19:06:17Z",
+      "timestamp": 1782932777000,
+      "version": "3.54.5"
+    },
+    "reference-count": 57,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              9
+            ]
+          ],
+          "date-time": "2021-12-09T00:00:00Z",
+          "timestamp": 1639008000000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "aslopubs.onlinelibrary.wiley.com"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Limnology &amp; Ocean Methods"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          1
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Optical backscatter sensors (OBSs) are commonly used to measure the turbidity, or light obscuration, of water in fresh and marine environments and various industrial applications. These turbidity data are commonly calibrated to yield total suspended solids (TSS) or suspended sediment concentration (SSC) measurements for water quality, sediment transport, and diverse other research and environmental management applications. Commercial sensors generally cost &gt; $1000–3000. Here we leveraged simple, low‐cost microprocessors, electronics, and housing components to design and construct open‐source OBSs for &lt; $150 per unit. The circuit relies on a photodiode to sense backscattered light, two stages of signal amplification, and a high‐resolution analog‐to‐digital converter to read the detected signal. The instrument and logger utilize inexpensive, custom‐printed circuit boards with through‐hole soldering mounts; micro‐SD card reader and real‐time clock modules; and PVC housings with commercial end caps and epoxy‐potted diode emitter and receiver. All parts are readily and publicly available, and minimal experience in soldering and coding is required to build and deploy the sensor. In lab and field tests, standard deviations were comparable to those measured by commercial sensors (~ 2–3% of the mean for suspended muds and 20–30% for suspended sands). These open‐source sensors represent a useful advance in inexpensive sensing technology with broad applications across scientific and environmental management disciplines.</jats:p>",
+    "DOI": "10.1002/lom3.10469",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          9
+        ]
+      ],
+      "date-time": "2021-12-09T18:41:52Z",
+      "timestamp": 1639075312000
+    },
+    "page": "46-59",
+    "update-policy": "https://doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+      "<scp>OpenOBS</scp>: Open‐source, low‐cost optical backscatter sensors for water quality and sediment‐transport research"
+    ],
+    "prefix": "10.1002",
+    "volume": "20",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-1906-8692",
+        "authenticated-orcid": false,
+        "given": "Emily F.",
+        "family": "Eidam",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Marine Sciences University of North Carolina  Chapel Hill North Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Theodore",
+        "family": "Langhorst",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Geological Sciences University of North Carolina  Chapel Hill North Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9358-1016",
+        "authenticated-orcid": false,
+        "given": "Evan B.",
+        "family": "Goldstein",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Geography, Environment, and Sustainability University of North Carolina  Greensboro North Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "McKenzie",
+        "family": "McLean",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Marine Sciences University of North Carolina  Chapel Hill North Carolina USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "311",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          9
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "e_1_2_9_2_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Adzuan M.A. Rahiman M.H.F.andAzman A.A.2017. Design and development of infrared turbidity sensor for aluminium sulfate coagulant process. In IEEE 8th Control and System Graduate Research Colloquium (ICSGRC) ( 105–109).",
+        "DOI": "10.1109/ICSGRC.2017.8070577"
+      },
+      {
+        "key": "e_1_2_9_3_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s16030373"
+      },
+      {
+        "key": "e_1_2_9_4_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s18020530"
+      },
+      {
+        "key": "e_1_2_9_5_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/BF02334191"
+      },
+      {
+        "key": "e_1_2_9_6_1",
+        "first-page": "3",
+        "article-title": "The Corps of Engineers Field Research Facility: More than two decades of coastal research",
+        "volume": "69",
+        "author": "Birkemeier W. A.",
+        "year": "2001",
+        "journal-title": "Shore Beach"
+      },
+      {
+        "key": "e_1_2_9_7_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0278-4343(99)00018-7"
+      },
+      {
+        "key": "e_1_2_9_8_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Curtis J.A. Flint L.E. Alpers C.N. Wright S.A.andSnyder N.P. 2006.Use of sediment rating curves and optical backscatter data to characterize sediment transport in the upper Yuba River watershed California 2001–03. USGS Scientific Investigations Report 2005–5246 Sacramento CA.",
+        "DOI": "10.3133/sir20055246"
+      },
+      {
+        "key": "e_1_2_9_9_1",
+        "first-page": "334",
+        "article-title": "Biofouling of optical backscatter sensors: Prevention and analytical correction of data",
+        "author": "Dolphin T. J.",
+        "year": "2001",
+        "journal-title": "J. Coast. Res."
+      },
+      {
+        "key": "e_1_2_9_10_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Downing J. 1983.An optical instrument for monitoring suspended particulates in ocean and laboratory. In Proceedings OCEANS(199–202).",
+        "DOI": "10.1109/OCEANS.1983.1152088"
+      },
+      {
+        "key": "e_1_2_9_11_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csr.2006.07.018"
+      },
+      {
+        "key": "e_1_2_9_12_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0025-3227(81)90156-0"
+      },
+      {
+        "key": "e_1_2_9_13_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.37023/ee.6.1.2"
+      },
+      {
+        "key": "e_1_2_9_14_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1029/2019EO116611"
+      },
+      {
+        "key": "e_1_2_9_15_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s19143039"
+      },
+      {
+        "key": "e_1_2_9_16_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s12237-019-00602-5"
+      },
+      {
+        "key": "e_1_2_9_17_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s11270-018-4034-4"
+      },
+      {
+        "key": "e_1_2_9_18_1",
+        "unstructured": "Gray J.R. Glysson G.D. Turcios L.M. Schwarz G.E. 2000.Comparability of suspended‐sediment concentration and total suspended solids data. U.S. Geological Survey Water‐Resources Investigations Report 00‐4191. Reston VA."
+      },
+      {
+        "key": "e_1_2_9_19_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5194/esurf-7-231-2019"
+      },
+      {
+        "key": "e_1_2_9_20_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csr.2004.07.017"
+      },
+      {
+        "key": "e_1_2_9_21_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hyp.9856"
+      },
+      {
+        "key": "e_1_2_9_22_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.marpolbul.2015.10.049"
+      },
+      {
+        "key": "e_1_2_9_23_1",
+        "volume-title": "Operational amplifier noise: techniques and tips for analyzing and reducing noise",
+        "author": "Kay A.",
+        "year": "2012"
+      },
+      {
+        "key": "e_1_2_9_24_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/s140407142"
+      },
+      {
+        "key": "e_1_2_9_25_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Kinar N. J. andBrinkmann M. 2021.Development of a sensor and measurement platform for water quality observations: Design sensor integration 3D printing and open‐source hardware. doi:10.21203/rs.3.rs-449278/v1",
+        "DOI": "10.21203/rs.3.rs-449278/v1"
+      },
+      {
+        "key": "e_1_2_9_26_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0025-3227(89)90039-X"
+      },
+      {
+        "key": "e_1_2_9_27_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0025-3227(92)90199-R"
+      },
+      {
+        "key": "e_1_2_9_28_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.ohx.2019.e00052"
+      },
+      {
+        "key": "e_1_2_9_29_1",
+        "first-page": "1",
+        "article-title": "Smartphone‐based turbidity reader",
+        "volume": "9",
+        "author": "Koydemir H. C.",
+        "year": "2019",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "e_1_2_9_30_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/lom3.10370"
+      },
+      {
+        "key": "e_1_2_9_31_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/esp.4616"
+      },
+      {
+        "key": "e_1_2_9_32_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3390/jmse7020037"
+      },
+      {
+        "key": "e_1_2_9_33_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0278-4343(00)00065-0"
+      },
+      {
+        "key": "e_1_2_9_34_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0025-3227(95)00002-X"
+      },
+      {
+        "key": "e_1_2_9_35_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00338-003-0352-z"
+      },
+      {
+        "key": "e_1_2_9_36_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/science.1228183"
+      },
+      {
+        "key": "e_1_2_9_37_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.margeo.2006.04.008"
+      },
+      {
+        "key": "e_1_2_9_38_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.3133/tm3C4"
+      },
+      {
+        "key": "e_1_2_9_39_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.34237/1008923"
+      },
+      {
+        "key": "e_1_2_9_40_1",
+        "unstructured": "Reine K. Clarke D. Dickerson C.andPickard S. 2007 Assessment of potential impacts of bucket dredging plumes on walleye spawning habitat in Maumee Bay Ohio. In Proceedings of the 18th World Dredging Congress (WODCON XVIII)(619–636)."
+      },
+      {
+        "key": "e_1_2_9_41_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/0025-3227(94)90044-2"
+      },
+      {
+        "key": "e_1_2_9_42_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1006/ecss.2000.0635"
+      },
+      {
+        "key": "e_1_2_9_43_1",
+        "unstructured": "Schoellhamer D.H.andWright S.A. 2003.Continuous measurement of suspended‐sediment discharge in rivers by use of optical backscatterance sensors. Erosion and sediment transport measurement in rivers: Technological and methodological advances: Workshop 28–36."
+      },
+      {
+        "key": "e_1_2_9_44_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/00221688209499472"
+      },
+      {
+        "key": "e_1_2_9_45_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/978-1-4899-2531-2_23"
+      },
+      {
+        "key": "e_1_2_9_46_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1007/s00338-015-1268-0"
+      },
+      {
+        "key": "e_1_2_9_47_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/hyp.6234"
+      },
+      {
+        "key": "e_1_2_9_48_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csr.2007.12.003"
+      },
+      {
+        "key": "e_1_2_9_49_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2112/JCOASTRES-D-19-00118.1"
+      },
+      {
+        "key": "e_1_2_9_50_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.csr.2003.08.001"
+      },
+      {
+        "key": "e_1_2_9_51_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1002/2017JF004504"
+      },
+      {
+        "key": "e_1_2_9_52_1",
+        "first-page": "957",
+        "article-title": "Turbidity measurement system for aquaculture effluents using an open‐source software and hardware",
+        "volume": "17",
+        "author": "Valenzuela C.",
+        "year": "2018",
+        "journal-title": "Nature Environ. Poll. Technol."
+      },
+      {
+        "key": "e_1_2_9_53_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0278-4343(02)00051-1"
+      },
+      {
+        "key": "e_1_2_9_54_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.2112/JCOASTRES-D-16-00083.1"
+      },
+      {
+        "key": "e_1_2_9_55_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0048-9697(00)00537-4"
+      },
+      {
+        "key": "e_1_2_9_56_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.5194/hess-23-2065-2019"
+      },
+      {
+        "key": "e_1_2_9_57_1",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wiranto G. Hermida I.D.P.andFatah A. 2016.Design and realisation of a turbidimeter using TSL250 photodetector and Arduino microcontroller. In IEEE International Conference on Semiconductor Electronics (ICSE) ( 324‐327).",
+        "DOI": "10.1109/SMELEC.2016.7573657"
+      },
+      {
+        "key": "e_1_2_9_58_1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1021/acsomega.9b04488"
+      }
+    ],
+    "container-title": [
+      "Limnology and Oceanography: Methods"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/lom3.10469",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/lom3.10469",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://aslopubs.onlinelibrary.wiley.com/doi/pdf/10.1002/lom3.10469",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          28
+        ]
+      ],
+      "date-time": "2023-08-28T05:38:05Z",
+      "timestamp": 1693201085000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lom3.10469"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          9
+        ]
+      ]
+    },
+    "references-count": 57,
+    "journal-issue": {
+      "issue": "1",
+      "published-print": {
+        "date-parts": [
+          [
+            2022,
+            1
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "10.1002/lom3.10469"
+    ],
+    "URL": "https://doi.org/10.1002/lom3.10469",
+    "archive": [
+      "Portico"
+    ],
+    "relation": {},
+    "ISSN": [
+      "1541-5856",
+      "1541-5856"
+    ],
+    "issn-type": [
+      {
+        "value": "1541-5856",
+        "type": "print"
+      },
+      {
+        "value": "1541-5856",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          12,
+          9
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "2021-06-16",
+        "order": 0,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-11-09",
+        "order": 1,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      },
+      {
+        "value": "2021-12-09",
+        "order": 2,
+        "name": "published",
+        "label": "Published",
+        "group": {
+          "name": "publication_history",
+          "label": "Publication History"
+        }
+      }
+    ]
+  }
+}

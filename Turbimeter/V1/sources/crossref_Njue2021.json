@@ -1,0 +1,1230 @@
+{
+  "status": "ok",
+  "message-type": "work",
+  "message-version": "1.0.0",
+  "message": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          3,
+          28
+        ]
+      ],
+      "date-time": "2026-03-28T11:36:53Z",
+      "timestamp": 1774697813679,
+      "version": "3.50.1"
+    },
+    "reference-count": 93,
+    "publisher": "Frontiers Media SA",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              6,
+              11
+            ]
+          ],
+          "date-time": "2021-06-11T00:00:00Z",
+          "timestamp": 1623369600000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100006456",
+        "name": "Bundesministerium für Wirtschaftliche Zusammenarbeit und Entwicklung",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100006456",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100011099",
+        "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100011099",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001659",
+        "name": "Deutsche Forschungsgemeinschaft",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001659",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100015815",
+        "name": "Consortium of International Agricultural Research Centers",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100015815",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001655",
+        "name": "Deutscher Akademischer Austauschdienst",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001655",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100016400",
+        "name": "National Research Fund, Kenya",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100016400",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "frontiersin.org"
+      ],
+      "crossmark-restriction": true
+    },
+    "short-container-title": [
+      "Front. Water"
+    ],
+    "abstract": "<jats:p>Catchments are complex systems, which require regular monitoring of hydro-chemical parameters in space and time to provide comprehensive datasets. These are needed to characterize catchment behavior on a local level, make future projections based on models, implement mitigation measures and meet policy targets. However, many developing countries lack a good infrastructure for hydrological monitoring since its establishment is costly and the required resources are often not available. To overcome such challenges in data scarce regions like Kenya, a participatory citizen science approach can be a promising strategy for monitoring water resources. This study evaluates the potential of using a contributory citizen science approach to explore spatiotemporal turbidity and suspended sediment dynamics in the Sondu-Miriu river basin, western Kenya. A group of 19 citizen scientists was trained to monitor turbidity using turbidity tubes and water levels with water level gauges in six nested subcatchments of the Sondu-Miriu river basin. Over the course of the project, a total of 37 citizen scientists participated and contributed to the overall dataset of turbidity. The sampling effort and data contribution varied from year to year and among participants with the majority of the data (72%) originating from 8 (22%) citizen scientists. Comparison between citizen-scientist collected suspended sediment data and measurements from automated stations showed high correlation (<jats:italic>R</jats:italic><jats:sup>2</jats:sup> &amp;gt; 0.9) which demonstrates that data collected by citizen scientists can be comparable to data collected using expensive monitoring equipment. However, there was reduced precision of the measurements of suspended sediment concentrations at low and high levels attributed largely to the detection limitations of the turbidity tubes and citizen scientists not capturing major sediment export events. Suspended sediment concentrations were significantly higher downstream (109 ± 94 mg L<jats:sup>−1</jats:sup>), a subcatchment dominated by agriculture and rangeland with low forest vegetation cover, as compared to a subcatchment with high forest cover (50 ± 24.7 mg L<jats:sup>−1</jats:sup>). This finding indicates that forest cover is a key landscape feature to control suspended sediment concentrations in the region. Future citizen science projects should focus on motivation and engagement strategies and the application of robust methods with improved detection limits and resolution to advance hydrological monitoring.</jats:p>",
+    "DOI": "10.3389/frwa.2021.656770",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          11
+        ]
+      ],
+      "date-time": "2021-06-11T07:58:02Z",
+      "timestamp": 1623398282000
+    },
+    "update-policy": "https://doi.org/10.3389/crossmark-policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+      "Monitoring of Suspended Sediments in a Tropical Forested Landscape With Citizen Science"
+    ],
+    "prefix": "10.3389",
+    "volume": "3",
+    "author": [
+      {
+        "given": "Naomi",
+        "family": "Njue",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jan",
+        "family": "Gräf",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Björn",
+        "family": "Weeser",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Mariana C.",
+        "family": "Rufino",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lutz",
+        "family": "Breuer",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Suzanne R.",
+        "family": "Jacobs",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "member": "1965",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          11
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "B1",
+        "doi-asserted-by": "publisher",
+        "first-page": "179",
+        "DOI": "10.1111/j.1440-1770.2005.00272.x",
+        "article-title": "The assessment of suspended sediment inputs to Volta Lake",
+        "volume": "10",
+        "author": "Akrasi",
+        "year": "2005",
+        "journal-title": "Lakes Reserv. Res. Manag."
+      },
+      {
+        "key": "B2",
+        "doi-asserted-by": "publisher",
+        "first-page": "110",
+        "DOI": "10.1080/07438140409354355",
+        "article-title": "Use of transparency tubes for rapid assessment of total suspended solids and turbidity in streams",
+        "volume": "20",
+        "author": "Anderson",
+        "year": "2004",
+        "journal-title": "Lake Reser. Manag."
+      },
+      {
+        "key": "B3",
+        "doi-asserted-by": "publisher",
+        "first-page": "244",
+        "DOI": "10.1016/0022-0531(70)90039-6",
+        "article-title": "On the measurement of inequality",
+        "volume": "2",
+        "author": "Atkinson",
+        "year": "1970",
+        "journal-title": "J. Eco. Theory"
+      },
+      {
+        "key": "B4",
+        "doi-asserted-by": "publisher",
+        "first-page": "46",
+        "DOI": "10.1111/j.1365-2028.2007.00806.x",
+        "article-title": "Assessing land cover change in Kenya's Mau Forest region using remotely sensed data",
+        "volume": "46",
+        "author": "Baldyga",
+        "year": "2008",
+        "journal-title": "Afr. J. Ecol."
+      },
+      {
+        "key": "B5",
+        "doi-asserted-by": "publisher",
+        "first-page": "104052",
+        "DOI": "10.1016/j.landusepol.2019.104052",
+        "article-title": "Exploring land use/land cover changes, drivers and their implications in contrasting agro-ecological environments of Ethiopia",
+        "volume": "87",
+        "author": "Berihun",
+        "year": "2019",
+        "journal-title": "Land Use Policy"
+      },
+      {
+        "key": "B6",
+        "volume-title": "Public Participation in Scientific Research: Defining the Field and Assessing Its Potential for Informal Science Education",
+        "author": "Bonney",
+        "year": ""
+      },
+      {
+        "key": "B7",
+        "doi-asserted-by": "publisher",
+        "first-page": "977",
+        "DOI": "10.1525/bio.2009.59.11.9",
+        "article-title": "Citizen science: a developing tool for expanding science knowledge and scientific literacy",
+        "volume": "59",
+        "author": "Bonney",
+        "year": "",
+        "journal-title": "BioScience"
+      },
+      {
+        "key": "B8",
+        "doi-asserted-by": "crossref",
+        "first-page": "307",
+        "DOI": "10.1016/j.agee.2018.06.011",
+        "article-title": "Sustainable intensification of dairy production can reduce forest disturbance in Kenyan montane forests",
+        "volume": "265",
+        "author": "Brandt",
+        "year": "2018",
+        "journal-title": "Agriculture, ecosystems and environment"
+      },
+      {
+        "key": "B9",
+        "doi-asserted-by": "publisher",
+        "first-page": "606",
+        "DOI": "10.1177/0963662519840934",
+        "article-title": "Increasing research impact with citizen science: the influence of recruitment strategies on sample diversity",
+        "volume": "28",
+        "author": "Brouwer",
+        "year": "2019",
+        "journal-title": "Public Underst. Sci."
+      },
+      {
+        "key": "B10",
+        "doi-asserted-by": "publisher",
+        "first-page": "284",
+        "DOI": "10.3390/w10030284",
+        "article-title": "Public participation in science: the future and value of citizen science in the drinking water research",
+        "volume": "10",
+        "author": "Brouwer",
+        "year": "2018",
+        "journal-title": "Water"
+      },
+      {
+        "key": "B11",
+        "doi-asserted-by": "publisher",
+        "first-page": "26",
+        "DOI": "10.3389/feart.2014.00026",
+        "article-title": "Citizen science in hydrology and water resources: opportunities for knowledge generation, ecosystem service management, and sustainable development",
+        "volume": "2",
+        "author": "Buytaert",
+        "year": "2014",
+        "journal-title": "Front. Earth Sci."
+      },
+      {
+        "key": "B12",
+        "doi-asserted-by": "publisher",
+        "first-page": "306",
+        "DOI": "10.1080/09640568.2017.1415869",
+        "article-title": "Beyond water data: benefits to volunteers and to local water from a citizen science program",
+        "volume": "62",
+        "author": "Church",
+        "year": "2019",
+        "journal-title": "J. Environ. Planning Manag."
+      },
+      {
+        "key": "B13",
+        "doi-asserted-by": "publisher",
+        "first-page": "124",
+        "DOI": "10.5334/cstp.124",
+        "article-title": "Testing the waters: a demonstration of a novel water quality mapping system for citizen science groups",
+        "volume": "3",
+        "author": "Compas",
+        "year": "2018",
+        "journal-title": "Citizen Sci Theory Practice"
+      },
+      {
+        "key": "B14",
+        "doi-asserted-by": "publisher",
+        "first-page": "314",
+        "DOI": "10.5751/ES-07578-200314",
+        "article-title": "Trends, challenges, and responses of a 20-year, volunteer water monitoring program in Alabama",
+        "volume": "20",
+        "author": "Deutsch",
+        "year": "2015",
+        "journal-title": "Ecol. Soc"
+      },
+      {
+        "key": "B15",
+        "doi-asserted-by": "publisher",
+        "first-page": "40",
+        "DOI": "10.1016/j.biocon.2016.08.020",
+        "article-title": "Why watch bees? Motivations of citizen science volunteers in the Great Pollinator Project",
+        "volume": "208",
+        "author": "Domroese",
+        "year": "2017",
+        "journal-title": "Biol. Conserv."
+      },
+      {
+        "key": "B16",
+        "doi-asserted-by": "publisher",
+        "first-page": "233",
+        "DOI": "10.2166/washdev.2011.058",
+        "article-title": "Turbidity tubes for drinking water quality assessments",
+        "volume": "1",
+        "author": "Dorea",
+        "year": "2011",
+        "journal-title": "J. Water Sanit. Hyg. Dev."
+      },
+      {
+        "key": "B17",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0192828",
+        "DOI": "10.1371/journal.pone.0192828",
+        "article-title": "The influence of a semi-arid sub-catchment on suspended sediments in the Mara River, Kenya",
+        "volume": "13",
+        "author": "Dutton",
+        "year": "2018",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B18",
+        "doi-asserted-by": "publisher",
+        "first-page": "562",
+        "DOI": "10.1016/j.jhydrol.2018.10.066",
+        "article-title": "Medium term high frequency observation of discharges and suspended sediment in a Mediterranean mountainous catchment",
+        "volume": "568",
+        "author": "Esteves",
+        "year": "2019",
+        "journal-title": "J. Hydrol."
+      },
+      {
+        "key": "B19",
+        "doi-asserted-by": "crossref",
+        "first-page": "357",
+        "DOI": "10.3390/rs9040357",
+        "article-title": "The Role of Citizen Science in Earth Observation",
+        "volume": "9",
+        "author": "Fritz",
+        "year": "2017",
+        "journal-title": "Rem. Sensing."
+      },
+      {
+        "key": "B20",
+        "doi-asserted-by": "publisher",
+        "first-page": "239",
+        "DOI": "10.1016/j.catena.2006.06.002",
+        "article-title": "Suspended-sediment transport in an intensively cultivated watershed in southeastern California",
+        "volume": "69",
+        "author": "Gao",
+        "year": "2007",
+        "journal-title": "Catena"
+      },
+      {
+        "key": "B21",
+        "doi-asserted-by": "publisher",
+        "first-page": "465",
+        "DOI": "10.1080/17524032.2019.1687101",
+        "article-title": "Engagement and communication features of scientifically successful citizen science projects",
+        "volume": "14",
+        "author": "Golumbic",
+        "year": "2020",
+        "journal-title": "Environ. Commun."
+      },
+      {
+        "key": "B22",
+        "doi-asserted-by": "publisher",
+        "first-page": "648",
+        "DOI": "10.1016/j.pce.2010.07.025",
+        "article-title": "Establishment of a hydrological monitoring network in a tropical African catchment: an integrated participatory approach",
+        "volume": "35",
+        "author": "Gomani",
+        "year": "2010",
+        "journal-title": "Phys. Chem. Earth, Parts A/B/C"
+      },
+      {
+        "key": "B23",
+        "doi-asserted-by": "publisher",
+        "first-page": "2529",
+        "DOI": "10.5194/hess-17-2529-2013",
+        "article-title": "Variation in turbidity with precipitation and flow in a regulated river system &ndash; river Göta Älv, SW Sweden",
+        "volume": "17",
+        "author": "Göransson",
+        "year": "2013",
+        "journal-title": "Hydrol. Earth Syst. Sci."
+      },
+      {
+        "key": "B24",
+        "volume-title": "Comparability of Suspended-Sediment Concentration and Total Suspended Solids Data. US Geological Survey Water-Resources Investigations Report 00-4191 20 Reston, Virginia, USA.",
+        "author": "Gray",
+        "year": "2000"
+      },
+      {
+        "key": "B25",
+        "volume-title": "Citizen Science and Policy: A European Perspective",
+        "author": "Haklay",
+        "year": "2015"
+      },
+      {
+        "key": "B26",
+        "doi-asserted-by": "publisher",
+        "first-page": "e0238349",
+        "DOI": "10.1371/journal.pone.0238349",
+        "article-title": "Citizen science: an alternative way for water monitoring in Hong Kong",
+        "volume": "15",
+        "author": "Ho",
+        "year": "2020",
+        "journal-title": "PLoS ONE"
+      },
+      {
+        "key": "B27",
+        "doi-asserted-by": "publisher",
+        "first-page": "364",
+        "DOI": "10.1016/j.jnc.2012.08.002",
+        "article-title": "Motivations and barriers in relation to community participation in biodiversity recording",
+        "volume": "20",
+        "author": "Hobbs",
+        "year": "2012",
+        "journal-title": "J. Nat. Conserv."
+      },
+      {
+        "key": "B28",
+        "doi-asserted-by": "publisher",
+        "first-page": "519",
+        "DOI": "10.1016/j.scitotenv.2017.06.100",
+        "article-title": "Land use affects total dissolved nitrogen and nitrate concentrations in tropical montane streams in Kenya",
+        "volume": "604",
+        "author": "Jacobs",
+        "year": "2017",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B29",
+        "doi-asserted-by": "publisher",
+        "first-page": "1812",
+        "DOI": "10.1002/2017WR021592",
+        "article-title": "Using high-resolution data to assess land use impact on nitrate dynamics in east african tropical montane catchments",
+        "volume": "54",
+        "author": "Jacobs",
+        "year": "2018",
+        "journal-title": "Water Resour. Res."
+      },
+      {
+        "key": "B30",
+        "volume-title": "Farm Management Handbook of Kenya. Volume II: Natural Conditions and Farm Management Information, Part B Central Kenya (Rift Valley and Central Provinces).",
+        "author": "Jaetzold",
+        "year": "1983"
+      },
+      {
+        "key": "B31",
+        "unstructured": "KinyanjuiM. J.\n          Unpublished Ph D thesisThe effect of human encroachment on forest cover, composition and structure in the western blocks of the mau forest complex2009"
+      },
+      {
+        "key": "B32",
+        "first-page": "1",
+        "article-title": "Minnesota methods for analyzing, applying and disseminating volunteer lake monitoring data",
+        "volume-title": "NWQMC National Monitoring Conference 2000, April 25-27, 2000",
+        "author": "Klang",
+        "year": "2000"
+      },
+      {
+        "key": "B33",
+        "doi-asserted-by": "publisher",
+        "first-page": "2507",
+        "DOI": "10.5194/hess-14-2507-2010",
+        "article-title": "Establishment of a catchment monitoring network through a participatory approach in a rural community in South Africa",
+        "volume": "14",
+        "author": "Kongo",
+        "year": "2010",
+        "journal-title": "Hydrol. Earth Syst. Sci."
+      },
+      {
+        "key": "B34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1080/17565529.2020.1748847",
+        "article-title": "Smallholder farmers' use of mobile phone services in central Kenya",
+        "volume": "13",
+        "author": "Krell",
+        "year": "2020",
+        "journal-title": "Clim. Dev."
+      },
+      {
+        "key": "B35",
+        "doi-asserted-by": "publisher",
+        "first-page": "193",
+        "DOI": "10.2307/3673447",
+        "article-title": "The impact of resource utilization on the hydrology of the Mau Hills forest in Kenya",
+        "volume": "8",
+        "author": "Krhoda",
+        "year": "1988",
+        "journal-title": "Mount. Res. Dev."
+      },
+      {
+        "key": "B36",
+        "article-title": "Cross-stream variations in suspended sediment transport over dunes, implications for sampling",
+        "volume-title": "Proceedings of the Federal Interagency Sediment Monitoring Instrument and Analysis Research Workshop",
+        "author": "Kuhnle",
+        "year": "2005"
+      },
+      {
+        "key": "B37",
+        "doi-asserted-by": "publisher",
+        "first-page": "256",
+        "DOI": "10.3390/s18010256",
+        "article-title": "The HydroColor app: above water measurements of remote sensing reflectance and turbidity using a smartphone camera",
+        "volume": "18",
+        "author": "Leeuw",
+        "year": "2018",
+        "journal-title": "Sensors"
+      },
+      {
+        "key": "B38",
+        "doi-asserted-by": "publisher",
+        "first-page": "698",
+        "DOI": "10.1002/hyp.11069",
+        "article-title": "Exploring suspended sediment delivery dynamics of two Mediterranean nested catchments",
+        "volume": "31",
+        "author": "López-Tarazón",
+        "year": "2017",
+        "journal-title": "Hydrol. Proc."
+      },
+      {
+        "key": "B39",
+        "doi-asserted-by": "publisher",
+        "first-page": "151",
+        "DOI": "10.1111/j.1745-6584.2012.00956.x",
+        "article-title": "CrowdHydrology: crowdsourcing hydrologic data and engaging citizen scientists",
+        "volume": "51",
+        "author": "Lowry",
+        "year": "2013",
+        "journal-title": "GroundWater"
+      },
+      {
+        "key": "B40",
+        "doi-asserted-by": "publisher",
+        "first-page": "1578",
+        "DOI": "10.3390/rs12101578",
+        "article-title": "An evaluation of citizen science smartphone apps for inland water quality assessment",
+        "volume": "12",
+        "author": "Malthus",
+        "year": "2020",
+        "journal-title": "Rem. Sensing"
+      },
+      {
+        "key": "B41",
+        "unstructured": "MaseseF. O.\n            MwasiB. N.\n            EtiegniL.\n            RaburuP. O.\n          INTECH Open Access PublisherEffects of Deforestation on Water Resources: Integrating Science and Community Perspectives in the Sondu-Miriu River Basin, Kenya"
+      },
+      {
+        "key": "B42",
+        "first-page": "1",
+        "article-title": "Effects of deforestation on water resources: integrating science and community perspectives in the Sondu-Miriu River Basin, Kenya",
+        "volume-title": "New Advances and Contributions to Forestry Research",
+        "author": "Masese",
+        "year": ""
+      },
+      {
+        "key": "B43",
+        "doi-asserted-by": "publisher",
+        "first-page": "130",
+        "DOI": "10.1016/j.catena.2018.04.027",
+        "article-title": "Effects of land use and land cover on water quality of low-order streams in Southeastern Brazil: Watershed versus riparian zone",
+        "volume": "167",
+        "author": "Mello",
+        "year": "2018",
+        "journal-title": "CATENA"
+      },
+      {
+        "key": "B44",
+        "doi-asserted-by": "publisher",
+        "first-page": "303",
+        "DOI": "10.1086/703460",
+        "article-title": "Local and landscape influences on turbidity in urban streams: a global approach using citizen scientists",
+        "volume": "38",
+        "author": "Miguel-Chinchilla",
+        "year": "2019",
+        "journal-title": "Freshwater Sci."
+      },
+      {
+        "key": "B45",
+        "article-title": "Testing simple sediment and nutrient methods for landholder use. ACTFR Report No. 07/06, Townsville",
+        "author": "Mitchell",
+        "year": "2007"
+      },
+      {
+        "key": "B46",
+        "doi-asserted-by": "publisher",
+        "first-page": "38",
+        "DOI": "10.5334/cstp.212",
+        "article-title": "Dynamics of engagement in citizen science: results from the “yes, i do!”-project",
+        "volume": "4",
+        "author": "Moor",
+        "year": "2019",
+        "journal-title": "Citizen Sci. Theory Practice"
+      },
+      {
+        "key": "B47",
+        "doi-asserted-by": "publisher",
+        "first-page": "1588",
+        "DOI": "10.1002/hyp.11495",
+        "article-title": "Rainfall, run-off, and sediment transport dynamics in a humid mountain badland area: long-term results from a small catchment",
+        "volume": "32",
+        "author": "Nadal-Romero",
+        "year": "2018",
+        "journal-title": "Hydrol. Proc."
+      },
+      {
+        "key": "B48",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1080/02626667.2020.1849707",
+        "article-title": "Citizens AND HYdrology (CANDHY): conceptualizing a transdisciplinary framework for citizen science addressing hydrological challenges",
+        "author": "Nardi",
+        "year": "2020",
+        "journal-title": "Hydrol. Sci. J"
+      },
+      {
+        "key": "B49",
+        "doi-asserted-by": "publisher",
+        "first-page": "373",
+        "DOI": "10.4236/ojf.2016.65030",
+        "article-title": "Influence of land use activities on riparian vegetation, soil and water quality: an indicator of biodiversity loss, South West Mau Forest, Kenya",
+        "volume": "6",
+        "author": "Njue",
+        "year": "2016",
+        "journal-title": "Open J. Forestry"
+      },
+      {
+        "key": "B50",
+        "doi-asserted-by": "publisher",
+        "first-page": "133531",
+        "DOI": "10.1016/j.scitotenv.2019.07.337",
+        "article-title": "Citizen science in hydrological monitoring and ecosystem services management: state of the art and future prospects",
+        "volume": "693",
+        "author": "Njue",
+        "year": "2019",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B51",
+        "doi-asserted-by": "publisher",
+        "first-page": "80",
+        "DOI": "10.1002/hyp.7821",
+        "article-title": "Effects of land cover change on flood peak discharges and runoff volumes: model estimates for the Nyando River Basin, Kenya",
+        "volume": "25",
+        "author": "Olang",
+        "year": "2011",
+        "journal-title": "Hydrol. Proc."
+      },
+      {
+        "key": "B52",
+        "unstructured": "OlangL. O.\n            KunduP. M.\n          Land Degradation of the Mau Forest Complex in Eastern Africa: A Review for Management and Restoration Planning2011"
+      },
+      {
+        "key": "B53",
+        "volume-title": "Effects of Watershed Degradation on Hydrological Functions in the Sondu River Catchment",
+        "author": "Otuoma",
+        "year": "2012"
+      },
+      {
+        "key": "B54",
+        "doi-asserted-by": "publisher",
+        "first-page": "114",
+        "DOI": "10.1007/s12665-015-4884-7",
+        "article-title": "Landscape influences on water quality in riparian buffer zone of drinking water source area, Northern China",
+        "volume": "75",
+        "author": "Ou",
+        "year": "2016",
+        "journal-title": "Environ. Earth Sci."
+      },
+      {
+        "key": "B55",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1080/02626667.2015.1051982",
+        "article-title": "Estimation of suspended sediment concentration in the Saint John River using rating curves and a machine learning approach",
+        "volume": "61",
+        "author": "Ouellet-Proulx",
+        "year": "2016",
+        "journal-title": "Hydrol. Sci. J."
+      },
+      {
+        "key": "B56",
+        "unstructured": "Spatial-temporal variation of nitrogen, phosphorus and sediments in surface runoff and adjacent river system in Sondu-Miriu basin, Kenya147157\n            OumaK. O.\n            MungaiN. W.\n            VuaiS. a,. H.\n            IbembeJ. D.\n          Natural Resources Management and Land Use. Proceedings of the Cluster Workshop, Nairobi, Kenya, 30th November - 2nd December 20112011"
+      },
+      {
+        "key": "B57",
+        "doi-asserted-by": "publisher",
+        "first-page": "36",
+        "DOI": "10.1016/j.still.2017.10.003",
+        "article-title": "Conversion of natural forest results in a significant degradation of soil hydraulic properties in the highlands of Kenya",
+        "volume": "176",
+        "author": "Owuor",
+        "year": "2018",
+        "journal-title": "Soil Tillage Res."
+      },
+      {
+        "key": "B58",
+        "doi-asserted-by": "publisher",
+        "first-page": "110",
+        "DOI": "10.1016/j.scitotenv.2014.03.069",
+        "article-title": "Soil losses in rural watersheds with environmental land use conflicts",
+        "volume": "486",
+        "author": "Pacheco",
+        "year": "2014",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B59",
+        "doi-asserted-by": "publisher",
+        "first-page": "310",
+        "DOI": "10.2489/jswc.71.4.310",
+        "article-title": "Surface water quality monitoring of an agricultural watershed for nonpoint source pollution control",
+        "volume": "71",
+        "author": "Poudel",
+        "year": "2016",
+        "journal-title": "J. Soil Water Conserv."
+      },
+      {
+        "key": "B60",
+        "doi-asserted-by": "publisher",
+        "first-page": "010103",
+        "DOI": "10.3847/AER2009036",
+        "article-title": "Galaxy zoo: exploring the motivations of citizen science volunteers",
+        "volume": "9",
+        "author": "Raddick",
+        "year": "2009",
+        "journal-title": "Astronomy Education Review."
+      },
+      {
+        "key": "B61",
+        "doi-asserted-by": "publisher",
+        "first-page": "138",
+        "DOI": "10.3389/fenvs.2018.00138",
+        "article-title": "Water resources users associations in the mara basin, kenya: pitfalls and opportunities for community based natural resources management",
+        "volume": "6",
+        "author": "Richards",
+        "year": "2018",
+        "journal-title": "Front. Environ. Sci."
+      },
+      {
+        "key": "B62",
+        "doi-asserted-by": "publisher",
+        "first-page": "1302",
+        "DOI": "10.3390/w10101302",
+        "article-title": "Long-term suspended sediment concentrations and loads from a relatively undisturbed agroforested catchment in the northwest of the Iberian Peninsula",
+        "volume": "10",
+        "author": "Rodríguez-Blanco",
+        "year": "2018",
+        "journal-title": "Water"
+      },
+      {
+        "key": "B63",
+        "doi-asserted-by": "publisher",
+        "first-page": "217",
+        "DOI": "10.1145/2145204.2145238",
+        "article-title": "Dynamic changes in motivation in collaborative citizen-science projects",
+        "author": "Rotman",
+        "year": "2012",
+        "journal-title": "Proceedings of the ACM 2012 Conference on Computer Supported Cooperative Work"
+      },
+      {
+        "key": "B64",
+        "doi-asserted-by": "publisher",
+        "first-page": "373",
+        "DOI": "10.1007/s12665-013-2307-1",
+        "article-title": "Turbidity as a proxy for total suspended solids (TSS) and particle facilitated pollutant transport in catchments",
+        "volume": "69",
+        "author": "Rügner",
+        "year": "2013",
+        "journal-title": "Environ. Earth Sci."
+      },
+      {
+        "key": "B65",
+        "doi-asserted-by": "publisher",
+        "first-page": "679",
+        "DOI": "10.1073/pnas.1408907112",
+        "article-title": "Crowd science user contribution patterns and their implications",
+        "volume": "112",
+        "author": "Sauermann",
+        "year": "2015",
+        "journal-title": "Proc. Natl. Acad. Sci. U.S.A."
+      },
+      {
+        "key": "B66",
+        "doi-asserted-by": "publisher",
+        "first-page": "738",
+        "DOI": "10.1016/j.scitotenv.2017.01.201",
+        "article-title": "Monitoring water quality in Toronto's urban stormwater ponds: assessing participation rates and data quality of water sampling by citizen scientists in the FreshWater Watch",
+        "volume": "592",
+        "author": "Scott",
+        "year": "2017",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B67",
+        "doi-asserted-by": "publisher",
+        "first-page": "22",
+        "DOI": "10.5334/cstp.200",
+        "article-title": "Data quality and participant engagement in citizen science: comparing two approaches for monitoring pollinators in France and South Korea",
+        "volume": "4",
+        "author": "Serret",
+        "year": "2019",
+        "journal-title": "Citizen Sci. Theory Practice"
+      },
+      {
+        "key": "B68",
+        "doi-asserted-by": "publisher",
+        "first-page": "229",
+        "DOI": "10.5751/ES-04705-170229",
+        "article-title": "Public participation in scientific research: a framework for deliberate design",
+        "volume": "17",
+        "author": "Shirk",
+        "year": "2012",
+        "journal-title": "Ecol. Soc."
+      },
+      {
+        "key": "B69",
+        "doi-asserted-by": "publisher",
+        "first-page": "745",
+        "DOI": "10.1016/j.scitotenv.2017.02.195",
+        "article-title": "High resolution stream water quality assessment in the Vancouver, British Columbia region: a citizen science study",
+        "volume": "603",
+        "author": "Shupe",
+        "year": "2017",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B70",
+        "doi-asserted-by": "publisher",
+        "first-page": "2743",
+        "DOI": "10.5194/nhess-12-2743-2012",
+        "article-title": "A hydrological analysis of the 4 November 2011 event in Genoa",
+        "volume": "12",
+        "author": "Silvestro",
+        "year": "2012",
+        "journal-title": "Natu. Hazards Earth Syst. Sci."
+      },
+      {
+        "key": "B71",
+        "doi-asserted-by": "publisher",
+        "first-page": "1008",
+        "DOI": "10.1111/gcb.13068",
+        "article-title": "Global change pressures on soils from land use and management",
+        "volume": "22",
+        "author": "Smith",
+        "year": "2016",
+        "journal-title": "Global Change Biol."
+      },
+      {
+        "key": "B72",
+        "volume-title": "Exploratory Soil Map and Agro-Climatic Zone Map of Kenya, 1980. Scale 1: 1,000,000.",
+        "author": "Sombroek",
+        "year": "1982"
+      },
+      {
+        "key": "B73",
+        "doi-asserted-by": "publisher",
+        "first-page": "14827",
+        "DOI": "10.1038/s41598-020-71924-9",
+        "article-title": "Agricultural land is the main source of stream sediments after conversion of an African montane forest",
+        "volume": "10",
+        "author": "Stenfert Kroese",
+        "year": "",
+        "journal-title": "Sci. Rep."
+      },
+      {
+        "key": "B74",
+        "doi-asserted-by": "publisher",
+        "first-page": "e2020W",
+        "DOI": "10.1029/2020WR027495",
+        "article-title": "Tropical montane forest conversion is a critical driver for sediment supply in east african catchments",
+        "volume": "56",
+        "author": "Stenfert Kroese",
+        "year": "",
+        "journal-title": "Water Resour. Res."
+      },
+      {
+        "key": "B75",
+        "doi-asserted-by": "publisher",
+        "first-page": "219",
+        "DOI": "10.1016/0168-1923(92)90051-5",
+        "article-title": "Climate and weather variability at the Tea Research Foundation of Kenya",
+        "volume": "61",
+        "author": "Stephens",
+        "year": "1992",
+        "journal-title": "Agricult. Forest Meteor."
+      },
+      {
+        "key": "B76",
+        "volume-title": "Monitoring 40 years of land use change in the Mau forest complex",
+        "author": "Swart",
+        "year": "2016"
+      },
+      {
+        "key": "B77",
+        "doi-asserted-by": "publisher",
+        "first-page": "333",
+        "DOI": "10.1016/j.agee.2015.10.016",
+        "article-title": "Influence of watershed land use and riparian characteristics on biological indicators of stream water quality in southeastern Brazil",
+        "volume": "216",
+        "author": "Tanaka",
+        "year": "2016",
+        "journal-title": "Agricult. Ecosyst. Environ."
+      },
+      {
+        "key": "B78",
+        "doi-asserted-by": "publisher",
+        "first-page": "1984",
+        "DOI": "10.3390/w11101984",
+        "article-title": "A low-cost water quality monitoring system for the ayeyarwady river in myanmar using a participatory approach",
+        "volume": "11",
+        "author": "Thatoe Nwe Win",
+        "year": "2019",
+        "journal-title": "Water"
+      },
+      {
+        "key": "B79",
+        "doi-asserted-by": "publisher",
+        "first-page": "720",
+        "DOI": "10.1093/biosci/biw089",
+        "article-title": "The citizen science opportunity for researchers and agencies",
+        "volume": "66",
+        "author": "Thornhill",
+        "year": "2016",
+        "journal-title": "BioScience"
+      },
+      {
+        "key": "B80",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1007/s00267-011-9738-9",
+        "article-title": "Spatial variations in the relationships between land use and water quality across an urbanization gradient in the watersheds of northern Georgia, USA",
+        "volume": "51",
+        "author": "Tu",
+        "year": "2013",
+        "journal-title": "Environ. Manag."
+      },
+      {
+        "key": "B81",
+        "volume-title": "Shuttle Radar Topography Mission (SRTM) 1 Arc-Second Global Reston",
+        "year": "2000"
+      },
+      {
+        "key": "B82",
+        "doi-asserted-by": "publisher",
+        "first-page": "289",
+        "DOI": "10.1098/rspb.2001.1850",
+        "article-title": "History and timing of human impact on Lake Victoria, East Africa",
+        "volume": "269",
+        "author": "Verschuren",
+        "year": "2002",
+        "journal-title": "Proc. R. Soc. London B Biol. Sci."
+      },
+      {
+        "key": "B83",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.4172/2157-7617.1000119",
+        "article-title": "Spatial Variation 0f Nutrients in Sondu-Miriu and Simiyu-Duma Rivers: Implication on Sources and Factors Influencing their Transportation into the Lake Victoria",
+        "volume": "3",
+        "author": "Vuai",
+        "year": "2012",
+        "journal-title": "J. Earth Sci. Climate Change"
+      },
+      {
+        "key": "B84",
+        "doi-asserted-by": "publisher",
+        "first-page": "562",
+        "DOI": "10.1111/cobi.12627",
+        "article-title": "Design principles for engaging and retaining virtual citizen scientists",
+        "volume": "30",
+        "author": "Wald",
+        "year": "2016",
+        "journal-title": "Conserv. Biol."
+      },
+      {
+        "key": "B85",
+        "doi-asserted-by": "publisher",
+        "first-page": "713",
+        "DOI": "10.1016/j.jhydrol.2016.04.062",
+        "article-title": "Filling the observational void: scientific value and quantitative validation of hydrometeorological data from a community-based monitoring programme",
+        "volume": "538",
+        "author": "Walker",
+        "year": "2016",
+        "journal-title": "J. Hydrol."
+      },
+      {
+        "key": "B86",
+        "doi-asserted-by": "publisher",
+        "first-page": "602422",
+        "DOI": "10.3389/feart.2020.602422",
+        "article-title": "Crowdsourced water level monitoring in kenya's sondu-miriu basin—who is “the crowd”?",
+        "volume": "8",
+        "author": "Weeser",
+        "year": "2021",
+        "journal-title": "Front. Earth Sci."
+      },
+      {
+        "key": "B87",
+        "doi-asserted-by": "publisher",
+        "first-page": "1590",
+        "DOI": "10.1016/j.scitotenv.2018.03.130",
+        "article-title": "Citizen science pioneers in Kenya – A crowdsourced approach for hydrological monitoring",
+        "volume": "632",
+        "author": "Weeser",
+        "year": "2018",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B88",
+        "doi-asserted-by": "crossref",
+        "first-page": "14",
+        "DOI": "10.1109/eScienceW.2011.27",
+        "article-title": "Mechanisms for data quality and validation in citizen science",
+        "author": "Wiggins",
+        "year": "2011",
+        "journal-title": "2011 IEEE Seventh International Conference on e-Science Workshops (IEEE)"
+      },
+      {
+        "key": "B89",
+        "doi-asserted-by": "crossref",
+        "first-page": "302",
+        "DOI": "10.1145/1386790.1386837",
+        "article-title": "Strong regularities in online peer production",
+        "volume-title": "Proceedings of the 9th ACM conference on Electronic Commerce",
+        "author": "Wilkinson",
+        "year": "2008"
+      },
+      {
+        "key": "B90",
+        "doi-asserted-by": "publisher",
+        "first-page": "651",
+        "DOI": "10.1016/j.scitotenv.2017.01.093",
+        "article-title": "Combining citizen science and land use data to identify drivers of eutrophication in the Huangpu River system",
+        "volume": "585",
+        "author": "Zhang",
+        "year": "2017",
+        "journal-title": "Sci. Total Environ."
+      },
+      {
+        "key": "B91",
+        "doi-asserted-by": "publisher",
+        "first-page": "949",
+        "DOI": "10.5194/hess-21-949-2017",
+        "article-title": "Monitoring surface water quality using social media in the context of citizen science",
+        "volume": "21",
+        "author": "Zheng",
+        "year": "2017",
+        "journal-title": "Hydrol. Earth Syst. Sci."
+      },
+      {
+        "key": "B92",
+        "doi-asserted-by": "publisher",
+        "first-page": "105009",
+        "DOI": "10.1088/1748-9326/9/10/105009",
+        "article-title": "Regional nitrogen budget of the Lake Victoria Basin, East Africa: syntheses, uncertainties and perspectives",
+        "volume": "9",
+        "author": "Zhou",
+        "year": "2014",
+        "journal-title": "Environ. Res. Lett."
+      },
+      {
+        "key": "B93",
+        "doi-asserted-by": "publisher",
+        "first-page": "2020",
+        "DOI": "10.1016/j.jhydrol.2014.09.010",
+        "article-title": "Turbidity-based sediment monitoring in northern Thailand: hysteresis, variability, and uncertainty",
+        "volume": "519",
+        "author": "Ziegler",
+        "year": "2014",
+        "journal-title": "J. Hydrol."
+      }
+    ],
+    "container-title": [
+      "Frontiers in Water"
+    ],
+    "original-title": [],
+    "link": [
+      {
+        "URL": "https://www.frontiersin.org/articles/10.3389/frwa.2021.656770/full",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          11
+        ]
+      ],
+      "date-time": "2021-06-11T07:58:27Z",
+      "timestamp": 1623398307000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.frontiersin.org/articles/10.3389/frwa.2021.656770/full"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          11
+        ]
+      ]
+    },
+    "references-count": 93,
+    "alternative-id": [
+      "10.3389/frwa.2021.656770"
+    ],
+    "URL": "https://doi.org/10.3389/frwa.2021.656770",
+    "relation": {},
+    "ISSN": [
+      "2624-9375"
+    ],
+    "issn-type": [
+      {
+        "value": "2624-9375",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          6,
+          11
+        ]
+      ]
+    },
+    "article-number": "656770"
+  }
+}

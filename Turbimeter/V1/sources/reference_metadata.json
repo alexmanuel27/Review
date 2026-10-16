@@ -1,0 +1,4314 @@
+[
+  {
+    "key": "Wang2024",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.3390/s24123926",
+      "title": [
+        "A Compact, Low-Cost, and Low-Power Turbidity Sensor for Continuous In Situ Stormwater Monitoring"
+      ],
+      "container-title": [
+        "Sensors"
+      ],
+      "volume": "24",
+      "issue": "12",
+      "page": "3926",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            6,
+            17
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Miao",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Civil Engineering, Monash University, Wellington Road, Melbourne 3800, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Baiqian",
+          "family": "Shi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Civil Engineering, Monash University, Wellington Road, Melbourne 3800, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8967-5853",
+          "authenticated-orcid": false,
+          "given": "Stephen",
+          "family": "Catsamas",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Civil Engineering, Monash University, Wellington Road, Melbourne 3800, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peter",
+          "family": "Kolotelo",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Civil Engineering, Monash University, Wellington Road, Melbourne 3800, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "McCarthy",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Civil and Environmental Engineering, Queensland University of Technology, S Block, Level 7, S727, Brisbane 4000, Australia"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.3390/s24123926"
+    }
+  },
+  {
+    "key": "Kelley2014",
+    "status": "unverified",
+    "reason": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "key": "Ozt2023",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1016/j.ohx.2023.e00395",
+      "title": [
+        "Ötz-T: 3D-printed open-source turbidity sensor with Arduino shield for suspended sediment monitoring"
+      ],
+      "container-title": [
+        "HardwareX"
+      ],
+      "volume": "13",
+      "issue": null,
+      "page": "e00395",
+      "article-number": "e00395",
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            3
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Jessica",
+          "family": "Droujko",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Felix",
+          "family": "Kunz Jr",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peter",
+          "family": "Molnar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.ohx.2023.e00395"
+    }
+  },
+  {
+    "key": "OpenProbe2023",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.3390/s23041897",
+      "title": [
+        "Development of a Frugal, In Situ Sensor Implementing a Ratiometric Method for Continuous Monitoring of Turbidity in Natural Waters"
+      ],
+      "container-title": [
+        "Sensors"
+      ],
+      "volume": "23",
+      "issue": "4",
+      "page": "1897",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            2,
+            8
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Raul",
+          "family": "Sanchez",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "LAAS-CNRS, Université de Toulouse, CNRS, 31400 Toulouse, France"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7574-0359",
+          "authenticated-orcid": false,
+          "given": "Michel",
+          "family": "Groc",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sorbonne Université, CNRS, FR3724, Observatoire Océanologique de Banyuls, 66651 Banyuls-sur-Mer, France"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Renaud",
+          "family": "Vuillemin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sorbonne Université, CNRS, FR3724, Observatoire Océanologique de Banyuls, 66651 Banyuls-sur-Mer, France"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mireille",
+          "family": "Pujo-Pay",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Sorbonne Université, CNRS, UMR7621, Laboratoire d’Océanographie Microbienne (LOMIC), 66651 Banyuls-sur-Mer, France"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1812-0409",
+          "authenticated-orcid": false,
+          "given": "Vincent",
+          "family": "Raimbault",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "LAAS-CNRS, Université de Toulouse, CNRS, 31400 Toulouse, France"
+            }
+          ],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.3390/s23041897"
+    }
+  },
+  {
+    "key": "Droujko2022",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1038/s41598-022-14228-4",
+      "title": [
+        "Open-source, low-cost, in-situ turbidity sensor for river network monitoring"
+      ],
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "volume": "12",
+      "issue": "1",
+      "page": null,
+      "article-number": "10341",
+      "published": {
+        "date-parts": [
+          [
+            2022,
+            6,
+            20
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Jessica",
+          "family": "Droujko",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peter",
+          "family": "Molnar",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1038/s41598-022-14228-4"
+    }
+  },
+  {
+    "key": "Eidam2022",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1002/lom3.10469",
+      "title": [
+        "<scp>OpenOBS</scp>: Open‐source, low‐cost optical backscatter sensors for water quality and sediment‐transport research"
+      ],
+      "container-title": [
+        "Limnology and Oceanography: Methods"
+      ],
+      "volume": "20",
+      "issue": "1",
+      "page": "46-59",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            12,
+            9
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1906-8692",
+          "authenticated-orcid": false,
+          "given": "Emily F.",
+          "family": "Eidam",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Marine Sciences University of North Carolina  Chapel Hill North Carolina USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Theodore",
+          "family": "Langhorst",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Geological Sciences University of North Carolina  Chapel Hill North Carolina USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9358-1016",
+          "authenticated-orcid": false,
+          "given": "Evan B.",
+          "family": "Goldstein",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Geography, Environment, and Sustainability University of North Carolina  Greensboro North Carolina USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "McKenzie",
+          "family": "McLean",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Marine Sciences University of North Carolina  Chapel Hill North Carolina USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1002/lom3.10469"
+    }
+  },
+  {
+    "key": "Langhorst2023",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1038/s44221-023-00124-2",
+      "title": [
+        "Increased scale and accessibility of sediment transport research in rivers through practical, open-source turbidity and depth sensors"
+      ],
+      "container-title": [
+        "Nature Water"
+      ],
+      "volume": "1",
+      "issue": "9",
+      "page": "760-768",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            9,
+            4
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0003-0366-4809",
+          "authenticated-orcid": false,
+          "given": "Theodore",
+          "family": "Langhorst",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tamlin",
+          "family": "Pavelsky",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Emily",
+          "family": "Eidam",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0004-9498-6786",
+          "authenticated-orcid": false,
+          "given": "Lillian",
+          "family": "Cooper",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0979-8090",
+          "authenticated-orcid": false,
+          "given": "Julianne",
+          "family": "Davis",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-2291-0190",
+          "authenticated-orcid": false,
+          "given": "Katie",
+          "family": "Spellman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Sarah",
+          "family": "Clement",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6485-6225",
+          "authenticated-orcid": false,
+          "given": "Christopher",
+          "family": "Arp",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Allen",
+          "family": "Bondurant",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0007-9372-2318",
+          "authenticated-orcid": false,
+          "given": "Elisa",
+          "family": "Friedmann",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-3525-6220",
+          "authenticated-orcid": false,
+          "given": "Colin",
+          "family": "Gleason",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1038/s44221-023-00124-2"
+    }
+  },
+  {
+    "key": "Gillett2019",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.3390/s19143039",
+      "title": [
+        "A Low-Cost Continuous Turbidity Monitor"
+      ],
+      "container-title": [
+        "Sensors"
+      ],
+      "volume": "19",
+      "issue": "14",
+      "page": "3039",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            7,
+            10
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-1868-4274",
+          "authenticated-orcid": false,
+          "given": "David",
+          "family": "Gillett",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Chemical Engineering, Bucknell University, Lewisburg, PA 17837, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8318-0657",
+          "authenticated-orcid": false,
+          "given": "Alan",
+          "family": "Marchiori",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science, Bucknell University, Lewisburg, PA 17837, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.3390/s19143039"
+    }
+  },
+  {
+    "key": "Gisi2024",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1007/s10661-024-13327-1",
+      "title": [
+        "From dishwasher to river: how to adapt a low-cost turbidimeter for water quality monitoring"
+      ],
+      "container-title": [
+        "Environmental Monitoring and Assessment"
+      ],
+      "volume": "196",
+      "issue": "12",
+      "page": null,
+      "article-number": "1180",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            11,
+            8
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Maria Fernanda Sobierajski",
+          "family": "Gisi",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Oldrich",
+          "family": "Navratil",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Frédéric",
+          "family": "Cherqui",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Kathryn",
+          "family": "Russell",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Tim",
+          "family": "Fletcher",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Paulo Vitor Ribeiro Marques",
+          "family": "da Silva",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Etienne",
+          "family": "Cossart",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1007/s10661-024-13327-1"
+    }
+  },
+  {
+    "key": "Vecchio2024",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1016/j.rineng.2024.103116",
+      "title": [
+        "A smart, multi-configuration, and low-cost system for water turbidity monitoring"
+      ],
+      "container-title": [
+        "Results in Engineering"
+      ],
+      "volume": "24",
+      "issue": null,
+      "page": "103116",
+      "article-number": "103116",
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6894-7338",
+          "authenticated-orcid": false,
+          "given": "Alessio",
+          "family": "Vecchio",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Monica",
+          "family": "Bini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marco",
+          "family": "Lazzarotti",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marco",
+          "family": "Luppichini",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Maurizio",
+          "family": "Palmieri",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.rineng.2024.103116"
+    }
+  },
+  {
+    "key": "Quinlivan2020",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1016/j.scitotenv.2019.134255",
+      "title": [
+        "Validating citizen science monitoring of ambient water quality for the United Nations sustainable development goals"
+      ],
+      "container-title": [
+        "Science of The Total Environment"
+      ],
+      "volume": "699",
+      "issue": null,
+      "page": "134255",
+      "article-number": "134255",
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            1
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Lauren",
+          "family": "Quinlivan",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Deborah V.",
+          "family": "Chapman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1093-0602",
+          "authenticated-orcid": false,
+          "given": "Timothy",
+          "family": "Sullivan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.scitotenv.2019.134255"
+    }
+  },
+  {
+    "key": "Njue2021",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.3389/frwa.2021.656770",
+      "title": [
+        "Monitoring of Suspended Sediments in a Tropical Forested Landscape With Citizen Science"
+      ],
+      "container-title": [
+        "Frontiers in Water"
+      ],
+      "volume": "3",
+      "issue": null,
+      "page": null,
+      "article-number": "656770",
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            6,
+            11
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Naomi",
+          "family": "Njue",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Jan",
+          "family": "Gräf",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Björn",
+          "family": "Weeser",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mariana C.",
+          "family": "Rufino",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Lutz",
+          "family": "Breuer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Suzanne R.",
+          "family": "Jacobs",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.3389/frwa.2021.656770"
+    }
+  },
+  {
+    "key": "Neale2024",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1371/journal.pone.0305505",
+      "title": [
+        "Participatory science methods to monitor water quality and ground truth remote sensing of the Chesapeake Bay"
+      ],
+      "container-title": [
+        "PLOS ONE"
+      ],
+      "volume": "19",
+      "issue": "10",
+      "page": "e0305505",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            10,
+            31
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4047-8098",
+          "authenticated-orcid": true,
+          "given": "Patrick",
+          "family": "Neale",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8726-7933",
+          "authenticated-orcid": true,
+          "given": "Shelby",
+          "family": "Brown",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tara",
+          "family": "Sill",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alison",
+          "family": "Cawood",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Maria",
+          "family": "Tzortziou",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jieun",
+          "family": "Park",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Min-Sun",
+          "family": "Lee",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Beth",
+          "family": "Paquette",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1371/journal.pone.0305505"
+    }
+  },
+  {
+    "key": "DiazAsencio2011",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1016/j.jhazmat.2011.09.037",
+      "title": [
+        "Reconstruction of metal pollution and recent sedimentation processes in Havana Bay (Cuba): A tool for coastal ecosystem management"
+      ],
+      "container-title": [
+        "Journal of Hazardous Materials"
+      ],
+      "volume": "196",
+      "issue": null,
+      "page": "402-411",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2011,
+            11
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "M.",
+          "family": "Díaz-Asencio",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.A. Corcho",
+          "family": "Alvarado",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "C.",
+          "family": "Alonso-Hernández",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.",
+          "family": "Quejido-Cabezas",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "A.C.",
+          "family": "Ruiz-Fernández",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.",
+          "family": "Sanchez-Sanchez",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "M.B.",
+          "family": "Gómez-Mancebo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "P.",
+          "family": "Froidevaux",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "J.A.",
+          "family": "Sanchez-Cabeza",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.jhazmat.2011.09.037"
+    }
+  },
+  {
+    "key": "Shirk2012",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.5751/es-04705-170229",
+      "title": [
+        "Public Participation in Scientific Research: a Framework for Deliberate Design"
+      ],
+      "container-title": [
+        "Ecology and Society"
+      ],
+      "volume": "17",
+      "issue": "2",
+      "page": null,
+      "article-number": "art29",
+      "published": {
+        "date-parts": [
+          [
+            2012
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Jennifer L.",
+          "family": "Shirk",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Heidi L.",
+          "family": "Ballard",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Candie C.",
+          "family": "Wilderman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tina",
+          "family": "Phillips",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andrea",
+          "family": "Wiggins",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rebecca",
+          "family": "Jordan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ellen",
+          "family": "McCallie",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Matthew",
+          "family": "Minarchek",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Bruce V.",
+          "family": "Lewenstein",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Marianne E.",
+          "family": "Krasny",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rick",
+          "family": "Bonney",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.5751/es-04705-170229"
+    }
+  },
+  {
+    "key": "Wilkinson2016",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1038/sdata.2016.18",
+      "title": [
+        "The FAIR Guiding Principles for scientific data management and stewardship"
+      ],
+      "container-title": [
+        "Scientific Data"
+      ],
+      "volume": "3",
+      "issue": "1",
+      "page": null,
+      "article-number": "160018",
+      "published": {
+        "date-parts": [
+          [
+            2016,
+            3,
+            15
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0001-6960-357X",
+          "authenticated-orcid": false,
+          "given": "Mark D.",
+          "family": "Wilkinson",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4727-9435",
+          "authenticated-orcid": false,
+          "given": "Michel",
+          "family": "Dumontier",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0209-4480",
+          "authenticated-orcid": false,
+          "given": "IJsbrand Jan",
+          "family": "Aalbersberg",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0179-7384",
+          "authenticated-orcid": false,
+          "given": "Gabrielle",
+          "family": "Appleton",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8042-4131",
+          "authenticated-orcid": false,
+          "given": "Myles",
+          "family": "Axton",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2829-6715",
+          "authenticated-orcid": false,
+          "given": "Arie",
+          "family": "Baak",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4155-5910",
+          "authenticated-orcid": false,
+          "given": "Niklas",
+          "family": "Blomberg",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0327-638X",
+          "authenticated-orcid": false,
+          "given": "Jan-Willem",
+          "family": "Boiten",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1164-1351",
+          "authenticated-orcid": false,
+          "given": "Luiz Bonino",
+          "family": "da Silva Santos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7618-7292",
+          "authenticated-orcid": false,
+          "given": "Philip E.",
+          "family": "Bourne",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jildau",
+          "family": "Bouwman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8686-0017",
+          "authenticated-orcid": false,
+          "given": "Anthony J.",
+          "family": "Brookes",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4060-7360",
+          "authenticated-orcid": false,
+          "given": "Tim",
+          "family": "Clark",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1304-1939",
+          "authenticated-orcid": false,
+          "given": "Mercè",
+          "family": "Crosas",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5654-2392",
+          "authenticated-orcid": false,
+          "given": "Ingrid",
+          "family": "Dillo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8599-7345",
+          "authenticated-orcid": false,
+          "given": "Olivier",
+          "family": "Dumon",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6444-1436",
+          "authenticated-orcid": false,
+          "given": "Scott",
+          "family": "Edmunds",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5301-3142",
+          "authenticated-orcid": false,
+          "given": "Chris T.",
+          "family": "Evelo",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4368-8058",
+          "authenticated-orcid": false,
+          "given": "Richard",
+          "family": "Finkers",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3499-8262",
+          "authenticated-orcid": false,
+          "given": "Alejandra",
+          "family": "Gonzalez-Beltran",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5711-4872",
+          "authenticated-orcid": false,
+          "given": "Alasdair J.G.",
+          "family": "Gray",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0183-6910",
+          "authenticated-orcid": false,
+          "given": "Paul",
+          "family": "Groth",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1219-2137",
+          "authenticated-orcid": false,
+          "given": "Carole",
+          "family": "Goble",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5212-7052",
+          "authenticated-orcid": false,
+          "given": "Jeffrey S.",
+          "family": "Grethe",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8641-4930",
+          "authenticated-orcid": false,
+          "given": "Jaap",
+          "family": "Heringa",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4450-3112",
+          "authenticated-orcid": false,
+          "given": "Peter A.C",
+          "family": "’t Hoen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6825-9439",
+          "authenticated-orcid": false,
+          "given": "Rob",
+          "family": "Hooft",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1267-0234",
+          "authenticated-orcid": false,
+          "given": "Tobias",
+          "family": "Kuhn",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ruben",
+          "family": "Kok",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7352-1400",
+          "authenticated-orcid": false,
+          "given": "Joost",
+          "family": "Kok",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-2401-4223",
+          "authenticated-orcid": false,
+          "given": "Scott J.",
+          "family": "Lusher",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8406-3871",
+          "authenticated-orcid": false,
+          "given": "Maryann E.",
+          "family": "Martone",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Albert",
+          "family": "Mons",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9610-5728",
+          "authenticated-orcid": false,
+          "given": "Abel L.",
+          "family": "Packer",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3165-5344",
+          "authenticated-orcid": false,
+          "given": "Bengt",
+          "family": "Persson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9853-5668",
+          "authenticated-orcid": false,
+          "given": "Philippe",
+          "family": "Rocca-Serra",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-8691-772X",
+          "authenticated-orcid": false,
+          "given": "Marco",
+          "family": "Roos",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rene",
+          "family": "van Schaik",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5306-5690",
+          "authenticated-orcid": false,
+          "given": "Susanna-Assunta",
+          "family": "Sansone",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-8888-635X",
+          "authenticated-orcid": false,
+          "given": "Erik",
+          "family": "Schultes",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7516-6246",
+          "authenticated-orcid": false,
+          "given": "Thierry",
+          "family": "Sengstag",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1386-0731",
+          "authenticated-orcid": false,
+          "given": "Ted",
+          "family": "Slater",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "George",
+          "family": "Strawn",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0979-3401",
+          "authenticated-orcid": false,
+          "given": "Morris A.",
+          "family": "Swertz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7633-1442",
+          "authenticated-orcid": false,
+          "given": "Mark",
+          "family": "Thompson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Johan",
+          "family": "van der Lei",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-1377-9386",
+          "authenticated-orcid": false,
+          "given": "Erik",
+          "family": "van Mulligen",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4836-6568",
+          "authenticated-orcid": false,
+          "given": "Jan",
+          "family": "Velterop",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9773-4008",
+          "authenticated-orcid": false,
+          "given": "Andra",
+          "family": "Waagmeester",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Peter",
+          "family": "Wittenburg",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-1279-5133",
+          "authenticated-orcid": false,
+          "given": "Katherine",
+          "family": "Wolstencroft",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6935-9028",
+          "authenticated-orcid": false,
+          "given": "Jun",
+          "family": "Zhao",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-3934-0072",
+          "authenticated-orcid": false,
+          "given": "Barend",
+          "family": "Mons",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1038/sdata.2016.18"
+    }
+  },
+  {
+    "key": "BlandAltman1986",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1016/s0140-6736(86)90837-8",
+      "title": [
+        "STATISTICAL METHODS FOR ASSESSING AGREEMENT BETWEEN TWO METHODS OF CLINICAL MEASUREMENT"
+      ],
+      "container-title": [
+        "The Lancet"
+      ],
+      "volume": "327",
+      "issue": "8476",
+      "page": "307-310",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            1986,
+            2
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "J.",
+          "family": "Martin Bland",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "DouglasG.",
+          "family": "Altman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1016/s0140-6736(86)90837-8"
+    }
+  },
+  {
+    "key": "Downing2006",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1016/j.csr.2006.07.018",
+      "title": [
+        "Twenty-five years with OBS sensors: The good, the bad, and the ugly"
+      ],
+      "container-title": [
+        "Continental Shelf Research"
+      ],
+      "volume": "26",
+      "issue": "17-18",
+      "page": "2299-2318",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2006,
+            11
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "John",
+          "family": "Downing",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.csr.2006.07.018"
+    }
+  },
+  {
+    "key": "Kirby2021",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1038/s41598-021-95029-z",
+      "title": [
+        "Citizens and scientists collect comparable oceanographic data: measurements of ocean transparency from the Secchi Disk study and science programmes"
+      ],
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "volume": "11",
+      "issue": "1",
+      "page": null,
+      "article-number": "15499",
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            29
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Richard R.",
+          "family": "Kirby",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Gregory",
+          "family": "Beaugrand",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Loick",
+          "family": "Kleparski",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Susie",
+          "family": "Goodall",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Samantha",
+          "family": "Lavender",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1038/s41598-021-95029-z"
+    }
+  },
+  {
+    "key": "Metzger2018",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.3390/s18041115",
+      "title": [
+        "Low-Cost GRIN-Lens-Based Nephelometric Turbidity Sensing in the Range of 0.1–1000 NTU"
+      ],
+      "container-title": [
+        "Sensors"
+      ],
+      "volume": "18",
+      "issue": "4",
+      "page": "1115",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            4,
+            6
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Michael",
+          "family": "Metzger",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute for Applied Research, Faculty for Mechanical and Medical Engineering, Furtwangen University, 78054 Villingen-Schwenningen, Germany"
+            },
+            {
+              "name": "Institute of Physical and Theoretical Chemistry, University of Tuebingen, 72076 Tuebingen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alexander",
+          "family": "Konrad",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Physical and Theoretical Chemistry, University of Tuebingen, 72076 Tuebingen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Felix",
+          "family": "Blendinger",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Applied Research, Faculty for Mechanical and Medical Engineering, Furtwangen University, 78054 Villingen-Schwenningen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Andreas",
+          "family": "Modler",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Mathematics, Physics and Chemistry, Beuth University of Applied Sciences, 13353 Berlin, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alfred",
+          "family": "Meixner",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Physical and Theoretical Chemistry, University of Tuebingen, 72076 Tuebingen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Volker",
+          "family": "Bucher",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Applied Research, Faculty for Mechanical and Medical Engineering, Furtwangen University, 78054 Villingen-Schwenningen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5537-1448",
+          "authenticated-orcid": false,
+          "given": "Marc",
+          "family": "Brecht",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute of Physical and Theoretical Chemistry, University of Tuebingen, 72076 Tuebingen, Germany"
+            },
+            {
+              "name": "Process Analysis and Technology (PA&amp;T), Reutlingen Research Institute, Reutlingen University, 72762 Reutlingen, Germany"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.3390/s18041115"
+    }
+  },
+  {
+    "key": "Leeuw2018",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.3390/s18010256",
+      "title": [
+        "The HydroColor App: Above Water Measurements of Remote Sensing Reflectance and Turbidity Using a Smartphone Camera"
+      ],
+      "container-title": [
+        "Sensors"
+      ],
+      "volume": "18",
+      "issue": "1",
+      "page": "256",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            1,
+            16
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Thomas",
+          "family": "Leeuw",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Sequoia Scientific, Inc., 2700 Richards Road, Suite 107, Bellevue, WA 98005, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Emmanuel",
+          "family": "Boss",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Marine Sciences, University of Maine, 458 Aubert Hall, Orono, ME 04469, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.3390/s18010256"
+    }
+  },
+  {
+    "key": "Diviacco2021",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.3389/fmars.2021.619898",
+      "title": [
+        "MaDCrow, a Citizen Science Infrastructure to Monitor Water Quality in the Gulf of Trieste (North Adriatic Sea)"
+      ],
+      "container-title": [
+        "Frontiers in Marine Science"
+      ],
+      "volume": "8",
+      "issue": null,
+      "page": null,
+      "article-number": "619898",
+      "published": {
+        "date-parts": [
+          [
+            2021,
+            7,
+            22
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Paolo",
+          "family": "Diviacco",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Antonio",
+          "family": "Nadali",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Massimiliano",
+          "family": "Iurcev",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Rodrigo",
+          "family": "Carbajales",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Alessandro",
+          "family": "Busato",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Alessandro",
+          "family": "Pavan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Mihai",
+          "family": "Burca",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Lorenzo",
+          "family": "Grio",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Massimiliano",
+          "family": "Nolich",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Andrea",
+          "family": "Molinaro",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        },
+        {
+          "given": "Francesca",
+          "family": "Malfatti",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "role": "author",
+              "vocabulary": "crossref"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.3389/fmars.2021.619898"
+    }
+  },
+  {
+    "key": "Martins2018",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1016/j.marpolbul.2018.08.031",
+      "title": [
+        "Hydrocarbon and sewage contamination near fringing reefs along the west coast of Havana, Cuba: A multiple sedimentary molecular marker approach"
+      ],
+      "container-title": [
+        "Marine Pollution Bulletin"
+      ],
+      "volume": "136",
+      "issue": null,
+      "page": "38-49",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            11
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2515-5565",
+          "authenticated-orcid": false,
+          "given": "César C.",
+          "family": "Martins",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Susel",
+          "family": "Castellanos-Iglesias",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Ana Caroline",
+          "family": "Cabral",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Amanda Câmara",
+          "family": "de Souza",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mariana Aliceda",
+          "family": "Ferraz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Thiago Pereira",
+          "family": "Alves",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.marpolbul.2018.08.031"
+    }
+  },
+  {
+    "key": "Phillips2018",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.5334/cstp.126",
+      "title": [
+        "A Framework for Articulating and Measuring Individual Learning Outcomes\n                        from Participation in Citizen Science"
+      ],
+      "container-title": [
+        "Citizen Science: Theory and Practice"
+      ],
+      "volume": "3",
+      "issue": "2",
+      "page": "3",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            8,
+            28
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Tina",
+          "family": "Phillips",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Norman",
+          "family": "Porticella",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Mark",
+          "family": "Constas",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Rick",
+          "family": "Bonney",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.5334/cstp.126"
+    }
+  },
+  {
+    "key": "Jollymore2017",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1016/j.jenvman.2017.05.083",
+      "title": [
+        "Citizen science for water quality monitoring: Data implications of citizen perspectives"
+      ],
+      "container-title": [
+        "Journal of Environmental Management"
+      ],
+      "volume": "200",
+      "issue": null,
+      "page": "456-467",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2017,
+            9
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-2363-815X",
+          "authenticated-orcid": false,
+          "given": "Ashlee",
+          "family": "Jollymore",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7680-5521",
+          "authenticated-orcid": false,
+          "given": "Morgan J.",
+          "family": "Haines",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Terre",
+          "family": "Satterfield",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-5070-7539",
+          "authenticated-orcid": false,
+          "given": "Mark S.",
+          "family": "Johnson",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1016/j.jenvman.2017.05.083"
+    }
+  },
+  {
+    "key": "WangRajib2018",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1109/jsen.2018.2826778",
+      "title": [
+        "Low-Cost Turbidity Sensor for Low-Power Wireless Monitoring of Fresh-Water Courses"
+      ],
+      "container-title": [
+        "IEEE Sensors Journal"
+      ],
+      "volume": "18",
+      "issue": "11",
+      "page": "4689-4696",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            6,
+            1
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-4197-8123",
+          "authenticated-orcid": false,
+          "given": "Youchao",
+          "family": "Wang",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "S. M. Shariar Morshed",
+          "family": "Rajib",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Chris",
+          "family": "Collins",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5130-3592",
+          "authenticated-orcid": false,
+          "given": "Bruce",
+          "family": "Grieve",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/jsen.2018.2826778"
+    }
+  },
+  {
+    "key": "Chen2023",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1109/jsen.2023.3326550",
+      "title": [
+        "High-Precision Monitoring System for Turbidity of Drinking Water by Using Scattering Method"
+      ],
+      "container-title": [
+        "IEEE Sensors Journal"
+      ],
+      "volume": "23",
+      "issue": "23",
+      "page": "29525-29535",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2023,
+            12,
+            1
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0001-4633-524X",
+          "authenticated-orcid": false,
+          "given": "Kai",
+          "family": "Chen",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "School of Mechanical, Electrical and Information Engineering, Shandong University, Weihai, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7420-321X",
+          "authenticated-orcid": false,
+          "given": "Xiaoli",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Mechanical, Electrical and Information Engineering, Shandong University, Weihai, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0901-2492",
+          "authenticated-orcid": false,
+          "given": "Chengyou",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "School of Mechanical, Electrical and Information Engineering, Shandong University, Weihai, China"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/jsen.2023.3326550"
+    }
+  },
+  {
+    "key": "Hagh2024",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1109/jsen.2024.3403416",
+      "title": [
+        "A Low-Cost LoRa Optical Fluorometer–Nephelometer for Wireless Monitoring of Water Quality Parameters in Real Time"
+      ],
+      "container-title": [
+        "IEEE Sensors Journal"
+      ],
+      "volume": "24",
+      "issue": "13",
+      "page": "21511-21519",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2024,
+            7,
+            1
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0009-0006-5448-4831",
+          "authenticated-orcid": false,
+          "given": "Soheyl Faghir",
+          "family": "Hagh",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering, University of Vermont, Burlington, VT, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0004-6661-0300",
+          "authenticated-orcid": false,
+          "given": "Parmida",
+          "family": "Amngostar",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering, University of Vermont, Burlington, VT, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Wenzhe",
+          "family": "Chen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering, University of Vermont, Burlington, VT, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jessica",
+          "family": "Sheridan",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Civil and Environmental Engineering, University of Vermont, Burlington, VT, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-0624-9168",
+          "authenticated-orcid": false,
+          "given": "Clayton J.",
+          "family": "Williams",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Environmental Studies and Science, Saint Michael&#x2019;s College, Colchester, VT, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-6204-2626",
+          "authenticated-orcid": false,
+          "given": "Ana M.",
+          "family": "Morales-Williams",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Rubenstein School of Environmental and Natural Resources, University of Vermont, Burlington, VT, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0957-0574",
+          "authenticated-orcid": false,
+          "given": "Dryver",
+          "family": "Huston",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Mechanical Engineering, University of Vermont, Burlington, VT, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-4395-7350",
+          "authenticated-orcid": false,
+          "given": "Tian",
+          "family": "Xia",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical Engineering, University of Vermont, Burlington, VT, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/jsen.2024.3403416"
+    }
+  },
+  {
+    "key": "Anderson2005",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.3133/twri09a6.7",
+      "title": [
+        "Chapter A6. Section 6.7. Turbidity"
+      ],
+      "container-title": [],
+      "volume": null,
+      "issue": null,
+      "page": null,
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2005
+          ]
+        ]
+      },
+      "author": null,
+      "URL": "https://doi.org/10.3133/twri09a6.7"
+    }
+  },
+  {
+    "key": "Hussain2016",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1039/c6ra02483a",
+      "title": [
+        "Water turbidity sensing using a smartphone"
+      ],
+      "container-title": [
+        "RSC Advances"
+      ],
+      "volume": "6",
+      "issue": "27",
+      "page": "22374-22382",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2016
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "I.",
+          "family": "Hussain",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Applied Photonics and Nanophotnics Laboratory"
+            },
+            {
+              "name": "Department of Physics"
+            },
+            {
+              "name": "Tezpur University"
+            },
+            {
+              "name": "India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "K.",
+          "family": "Ahamad",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Civil Engineering"
+            },
+            {
+              "name": "Tezpur University"
+            },
+            {
+              "name": "India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "P.",
+          "family": "Nath",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Applied Photonics and Nanophotnics Laboratory"
+            },
+            {
+              "name": "Department of Physics"
+            },
+            {
+              "name": "Tezpur University"
+            },
+            {
+              "name": "India"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1039/c6ra02483a"
+    }
+  },
+  {
+    "key": "Bayram2018",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1364/ao.57.005935",
+      "title": [
+        "Development and application of a low-cost smartphone-based turbidimeter using scattered light"
+      ],
+      "container-title": [
+        "Applied Optics"
+      ],
+      "volume": "57",
+      "issue": "21",
+      "page": "5935",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2018,
+            7,
+            11
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6077-517X",
+          "authenticated-orcid": true,
+          "given": "Abdullah",
+          "family": "Bayram",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Eyyup",
+          "family": "Yalcin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Serafettin",
+          "family": "Demic",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Orhan",
+          "family": "Gunduz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-6916-8835",
+          "authenticated-orcid": true,
+          "given": "Mehmet Ertugrul",
+          "family": "Solmaz",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1364/ao.57.005935"
+    }
+  },
+  {
+    "key": "Koydemir2019",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1038/s41598-019-56474-z",
+      "title": [
+        "Smartphone-based turbidity reader"
+      ],
+      "container-title": [
+        "Scientific Reports"
+      ],
+      "volume": "9",
+      "issue": "1",
+      "page": null,
+      "article-number": "19901",
+      "published": {
+        "date-parts": [
+          [
+            2019,
+            12,
+            27
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Hatice",
+          "family": "Ceylan Koydemir",
+          "sequence": "first",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Simran",
+          "family": "Rajpal",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Esin",
+          "family": "Gumustekin",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Doruk",
+          "family": "Karinca",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Kyle",
+          "family": "Liang",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Zoltan",
+          "family": "Göröcs",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-7203-6537",
+          "authenticated-orcid": false,
+          "given": "Derek",
+          "family": "Tseng",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0717-683X",
+          "authenticated-orcid": false,
+          "given": "Aydogan",
+          "family": "Ozcan",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1038/s41598-019-56474-z"
+    }
+  },
+  {
+    "key": "Zaidan2020",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1109/jsen.2020.3010316",
+      "title": [
+        "Intelligent Calibration and Virtual Sensing for Integrated Low-Cost Air Quality Sensors"
+      ],
+      "container-title": [
+        "IEEE Sensors Journal"
+      ],
+      "volume": "20",
+      "issue": "22",
+      "page": "13638-13652",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            15
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-6348-1230",
+          "authenticated-orcid": false,
+          "given": "Martha Arbayani",
+          "family": "Zaidan",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9923-9879",
+          "authenticated-orcid": false,
+          "given": "Naser",
+          "family": "Hossein Motlagh",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Pak L.",
+          "family": "Fung",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "David",
+          "family": "Lu",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Clarity Movements Company, Berkeley, CA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Hilkka",
+          "family": "Timonen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Finnish Meteorological Institute (FMI), Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Joel",
+          "family": "Kuula",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Finnish Meteorological Institute (FMI), Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Jarkko V.",
+          "family": "Niemi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Helsinki Region Environmental Services Authority (HSY), Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0003-4220-3650",
+          "authenticated-orcid": false,
+          "given": "Sasu",
+          "family": "Tarkoma",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Computer Science, University of Helsinki, Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Tuukka",
+          "family": "Petäjä",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Markku",
+          "family": "Kulmala",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0241-6435",
+          "authenticated-orcid": false,
+          "given": "Tareq",
+          "family": "Hussein",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Helsinki, Finland"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/jsen.2020.3010316"
+    }
+  },
+  {
+    "key": "Lee2026Fluorimeter",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1109/jsen.2026.3693175",
+      "title": [
+        "A Dual-Port, Smartphone-Linked, Pocket-Size Fluorimeter for Rapid Molecular Diagnostic Assays at Point of Care"
+      ],
+      "container-title": [
+        "IEEE Sensors Journal"
+      ],
+      "volume": "26",
+      "issue": "14",
+      "page": "20538-20555",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2026,
+            7,
+            15
+          ]
+        ]
+      },
+      "author": [
+        {
+          "ORCID": "https://orcid.org/0000-0002-9332-3989",
+          "authenticated-orcid": false,
+          "given": "Han Keun",
+          "family": "Lee",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-0961-117X",
+          "authenticated-orcid": false,
+          "given": "Jongwon",
+          "family": "Lim",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-5684-7126",
+          "authenticated-orcid": false,
+          "given": "Skye",
+          "family": "Shepherd",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "My Thi Tra",
+          "family": "Nguyen",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Lucas",
+          "family": "Akin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0008-7587-9490",
+          "authenticated-orcid": false,
+          "given": "Amanda",
+          "family": "Bacon",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Yasmine",
+          "family": "Sidavi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Molecular and Cellular Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Max",
+          "family": "Shurgalin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "GENER8 LLC, Wilmington, MA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Alban",
+          "family": "Cobi",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Charles Stark Draper Laboratory, Cambridge, MA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0009-0006-9956-4210",
+          "authenticated-orcid": false,
+          "given": "Andriy",
+          "family": "Nikolayenko",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "GENER8 LLC, Wilmington, MA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Vladimir",
+          "family": "Fuflyigin",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "GENER8 LLC, Wilmington, MA, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-7225-9180",
+          "authenticated-orcid": false,
+          "given": "Rashid",
+          "family": "Bashir",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0001-9930-3287",
+          "authenticated-orcid": false,
+          "given": "Xing",
+          "family": "Wang",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Bioengineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "ORCID": "https://orcid.org/0000-0002-9681-2104",
+          "authenticated-orcid": false,
+          "given": "Brian T.",
+          "family": "Cunningham",
+          "sequence": "additional",
+          "affiliation": [
+            {
+              "name": "Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, USA"
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1109/jsen.2026.3693175"
+    }
+  },
+  {
+    "key": "Pearce2012",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1126/science.1228183",
+      "title": [
+        "Building Research Equipment with Free, Open-Source Hardware"
+      ],
+      "container-title": [
+        "Science"
+      ],
+      "volume": "337",
+      "issue": "6100",
+      "page": "1303-1304",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2012,
+            9,
+            14
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "Joshua M.",
+          "family": "Pearce",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "Department of Materials Science and Engineering, Michigan Technological University, Houghton, MI 49931, USA."
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1126/science.1228183"
+    }
+  },
+  {
+    "key": "BlandAltman2007",
+    "status": "resolved",
+    "metadata": {
+      "DOI": "10.1080/10543400701329422",
+      "title": [
+        "Agreement Between Methods of Measurement with Multiple Observations Per Individual"
+      ],
+      "container-title": [
+        "Journal of Biopharmaceutical Statistics"
+      ],
+      "volume": "17",
+      "issue": "4",
+      "page": "571-582",
+      "article-number": null,
+      "published": {
+        "date-parts": [
+          [
+            2007,
+            7,
+            2
+          ]
+        ]
+      },
+      "author": [
+        {
+          "given": "J. Martin",
+          "family": "Bland",
+          "sequence": "first",
+          "affiliation": [
+            {
+              "name": "University of York",
+              "place": [
+                "UK"
+              ]
+            }
+          ],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        },
+        {
+          "given": "Douglas G.",
+          "family": "Altman",
+          "sequence": "additional",
+          "affiliation": [],
+          "role": [
+            {
+              "vocabulary": "crossref",
+              "role": "author"
+            }
+          ]
+        }
+      ],
+      "URL": "https://doi.org/10.1080/10543400701329422"
+    }
+  }
+]

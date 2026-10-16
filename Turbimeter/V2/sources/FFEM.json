@@ -1,0 +1,245 @@
+{
+  "sha": "5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+  "node_id": "C_kwDOBvpgkNoAKDVjYmRlNWUyZGRlMjdlOWZjMjExOWRlMGI0YjUwZjI4NjM5NWU5NDU",
+  "commit": {
+    "author": {
+      "name": "nhternup",
+      "email": "nhternup@users.noreply.github.com",
+      "date": "2022-06-21T22:33:30Z"
+    },
+    "committer": {
+      "name": "nhternup",
+      "email": "nhternup@users.noreply.github.com",
+      "date": "2022-06-21T22:33:30Z"
+    },
+    "message": "Update dependency versions",
+    "tree": {
+      "sha": "862316b174648898f0f8ebd5146eb6bfc8b36baf",
+      "url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/git/trees/862316b174648898f0f8ebd5146eb6bfc8b36baf"
+    },
+    "url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/git/commits/5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+    "comment_count": 0,
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    }
+  },
+  "url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/commits/5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+  "html_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/commit/5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+  "comments_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/commits/5cbde5e2dde27e9fc2119de0b4b50f286395e945/comments",
+  "author": {
+    "login": "nhternup",
+    "id": 4124856,
+    "node_id": "MDQ6VXNlcjQxMjQ4NTY=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4124856?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nhternup",
+    "html_url": "https://github.com/nhternup",
+    "followers_url": "https://api.github.com/users/nhternup/followers",
+    "following_url": "https://api.github.com/users/nhternup/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nhternup/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nhternup/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nhternup/subscriptions",
+    "organizations_url": "https://api.github.com/users/nhternup/orgs",
+    "repos_url": "https://api.github.com/users/nhternup/repos",
+    "events_url": "https://api.github.com/users/nhternup/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nhternup/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "nhternup",
+    "id": 4124856,
+    "node_id": "MDQ6VXNlcjQxMjQ4NTY=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/4124856?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nhternup",
+    "html_url": "https://github.com/nhternup",
+    "followers_url": "https://api.github.com/users/nhternup/followers",
+    "following_url": "https://api.github.com/users/nhternup/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nhternup/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nhternup/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nhternup/subscriptions",
+    "organizations_url": "https://api.github.com/users/nhternup/orgs",
+    "repos_url": "https://api.github.com/users/nhternup/repos",
+    "events_url": "https://api.github.com/users/nhternup/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nhternup/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "49a2a98d7af7ade523091fd56f5ac4f6f5202d3e",
+      "url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/commits/49a2a98d7af7ade523091fd56f5ac4f6f5202d3e",
+      "html_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/commit/49a2a98d7af7ade523091fd56f5ac4f6f5202d3e"
+    }
+  ],
+  "stats": {
+    "total": 86,
+    "additions": 47,
+    "deletions": 39
+  },
+  "files": [
+    {
+      "sha": "3a2d2d625b469746b5a1545a42ba3f8437c0f178",
+      "filename": "caddisfly-app/app/build.gradle",
+      "status": "modified",
+      "additions": 16,
+      "deletions": 16,
+      "changes": 32,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fbuild.gradle",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fbuild.gradle",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fbuild.gradle?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -12,7 +12,7 @@ if (propertyFile.exists()) {\n }\n \n android {\n-    compileSdkVersion 31\n+    compileSdkVersion 32\n     testOptions.unitTests.includeAndroidResources = true\n \n     defaultConfig {\n@@ -121,15 +121,15 @@ dependencies {\n     // Support\n     implementation 'androidx.legacy:legacy-support-v4:1.0.0'\n     implementation 'androidx.cardview:cardview:1.0.0'\n-    implementation 'androidx.appcompat:appcompat:1.4.0'\n-    implementation 'com.google.android.material:material:1.4.0'\n+    implementation 'androidx.appcompat:appcompat:1.4.2'\n+    implementation 'com.google.android.material:material:1.6.1'\n     implementation 'androidx.recyclerview:recyclerview:1.2.1'\n-    implementation 'androidx.constraintlayout:constraintlayout:2.1.2'\n-    implementation 'androidx.preference:preference-ktx:1.1.1'\n+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'\n+    implementation 'androidx.preference:preference-ktx:1.2.0'\n \n     implementation 'com.simplecityapps:recyclerview-fastscroll:2.0.1'\n \n-    implementation 'com.google.android.play:core:1.10.2'\n+    implementation 'com.google.android.play:core:1.10.3'\n \n     // Math\n     implementation 'org.apache.commons:commons-math3:3.6.1'\n@@ -141,12 +141,12 @@ dependencies {\n     implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'\n \n     // Room\n-    implementation 'androidx.room:room-runtime:2.3.0'\n-    kapt 'androidx.room:room-compiler:2.3.0'\n+    implementation 'androidx.room:room-runtime:2.4.2'\n+    kapt 'androidx.room:room-compiler:2.4.2'\n     kapt 'android.arch.persistence.room:compiler:1.1.1'\n \n     // Gson\n-    implementation 'com.google.code.gson:gson:2.8.8'\n+    implementation 'com.google.code.gson:gson:2.9.0'\n \n     implementation 'com.jjoe64:graphview:4.2.2'\n \n@@ -156,13 +156,13 @@ dependencies {\n     implementation files('libs/mail.jar')\n \n     // Dagger\n-    kapt 'com.google.dagger:dagger-compiler:2.40'\n-    kapt 'com.google.dagger:dagger-android-processor:2.40'\n-    implementation 'com.google.dagger:dagger-android:2.40'\n-    kaptAndroidTest 'com.google.dagger:dagger-compiler:2.40'\n+    kapt 'com.google.dagger:dagger-compiler:2.41'\n+    kapt 'com.google.dagger:dagger-android-processor:2.41'\n+    implementation 'com.google.dagger:dagger-android:2.41'\n+    kaptAndroidTest 'com.google.dagger:dagger-compiler:2.41'\n \n-    implementation \"androidx.core:core-ktx:1.7.0\"\n-    implementation \"androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0\"\n+    implementation \"androidx.core:core-ktx:1.8.0\"\n+    implementation \"androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1\"\n     implementation \"org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version\"\n \n     // Testing\n@@ -184,7 +184,7 @@ dependencies {\n     }\n \n     // Robolectric\n-    testImplementation 'org.robolectric:robolectric:4.5.1'\n+    testImplementation 'org.robolectric:robolectric:4.7.3'\n \n     // UIAutomator\n     androidTestImplementation 'androidx.test.uiautomator:uiautomator:2.2.0'"
+    },
+    {
+      "sha": "b350f5e7478ea99662e3e1db09bfaf34c6701032",
+      "filename": "caddisfly-app/app/src/androidTestWater/java/org/akvo/caddisfly/test/TitrationTest.kt",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2FandroidTestWater%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Ftest%2FTitrationTest.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2FandroidTestWater%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Ftest%2FTitrationTest.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2FandroidTestWater%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Ftest%2FTitrationTest.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -214,8 +214,8 @@ class TitrationTest {\n \n         sleep(1000)\n \n-        assertNotNull(mDevice.findObject(By.text(getString(string.total_hardness) + \": \")))\n-        assertNotNull(mDevice.findObject(By.text(\"3075.00\")))\n+        assertNotNull(mDevice.findObject(By.text(getString(string.total_hardness))))\n+        assertNotNull(mDevice.findObject(By.text(\"2460.00\")))\n \n         takeScreenshot(screenshotName)\n "
+    },
+    {
+      "sha": "7e3b2186ca81b49157e9ee80d1ed5a03d53ea537",
+      "filename": "caddisfly-app/app/src/main/java/org/akvo/caddisfly/preference/AppPreferences.kt",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FAppPreferences.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FAppPreferences.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FAppPreferences.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -253,7 +253,7 @@ object AppPreferences {\n         if (BuildConfig.TEST_RUNNING.get()) {\n             return true\n         }\n-        val lastCheck = PreferencesUtil.getLong(app, \"lastUpdateCheck\")\n+        val lastCheck = PreferencesUtil.getLong(app!!, \"lastUpdateCheck\")\n         return TimeUnit.MILLISECONDS.toDays(Calendar.getInstance().timeInMillis - lastCheck) > 0\n     }\n }\n\\ No newline at end of file"
+    },
+    {
+      "sha": "4b03a6fe58eb0a4b25b468d8375ca9afd6454023",
+      "filename": "caddisfly-app/app/src/main/java/org/akvo/caddisfly/preference/OtherPreferenceFragment.kt",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 0,
+      "changes": 3,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FOtherPreferenceFragment.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FOtherPreferenceFragment.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FOtherPreferenceFragment.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -137,13 +137,15 @@ class OtherPreferenceFragment : PreferenceFragmentCompat() {\n         private lateinit var viewModel: TestListViewModel\n         private lateinit var testList: List<TestInfo>\n \n+        @Deprecated(\"Deprecated in Java\")\n         override fun onPreExecute() {\n             super.onPreExecute()\n             val context = (activityReference.get()?.activity as FragmentActivity)\n             viewModel = ViewModelProvider(context).get(TestListViewModel::class.java)\n             testList = viewModel.getTests(TestSampleType.ALL)\n         }\n \n+        @Deprecated(\"Deprecated in Java\")\n         override fun doInBackground(vararg params: Void?): Int? {\n             for (testInfo in testList) {\n                 if (testInfo.isGroup) {\n@@ -199,6 +201,7 @@ class OtherPreferenceFragment : PreferenceFragmentCompat() {\n             return null\n         }\n \n+        @Deprecated(\"Deprecated in Java\")\n         override fun onPostExecute(value: Int?) {\n             super.onPostExecute(value)\n             if (listener != null) {"
+    },
+    {
+      "sha": "d7f39d9959a1da30b3d10c19ee76ce1c93ac89d5",
+      "filename": "caddisfly-app/app/src/main/java/org/akvo/caddisfly/preference/PreferenceCategoryCustom.kt",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FPreferenceCategoryCustom.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FPreferenceCategoryCustom.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FPreferenceCategoryCustom.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -28,12 +28,12 @@ import org.akvo.caddisfly.R\n  */\n class PreferenceCategoryCustom : PreferenceCategory {\n     @Suppress(\"unused\")\n-    constructor(context: Context?) : super(context) {\n+    constructor(context: Context) : super(context) {\n         layoutResource = R.layout.preference_category_custom\n     }\n \n     @Suppress(\"unused\")\n-    constructor(context: Context?, attrs: AttributeSet?) : super(context, attrs) {\n+    constructor(context: Context, attrs: AttributeSet?) : super(context, attrs) {\n         layoutResource = R.layout.preference_category_custom\n     }\n }\n\\ No newline at end of file"
+    },
+    {
+      "sha": "848919b6e3d939f5b6a7c87c2e66d73a59f066ca",
+      "filename": "caddisfly-app/app/src/main/java/org/akvo/caddisfly/preference/TestingPreferenceFragment.kt",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FTestingPreferenceFragment.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FTestingPreferenceFragment.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fpreference%2FTestingPreferenceFragment.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -58,7 +58,7 @@ class TestingPreferenceFragment : PreferenceFragmentCompat() {\n         if (nextUpdateCheckPreference != null) {\n             if (!isNonStoreVersion(requireContext())) {\n                 val nextUpdateTime =\n-                    PreferencesUtil.getLong(activity, ConstantKey.NEXT_UPDATE_CHECK)\n+                    PreferencesUtil.getLong(requireActivity(), ConstantKey.NEXT_UPDATE_CHECK)\n                 val dateString =\n                     DateFormat.format(\"dd/MMM/yyyy hh:mm\", Date(nextUpdateTime)).toString()\n                 nextUpdateCheckPreference.summary = dateString"
+    },
+    {
+      "sha": "4a65c70fcf26734ac12ed865f29e48ad1bedd2af",
+      "filename": "caddisfly-app/app/src/main/java/org/akvo/caddisfly/repository/TestConfigRepository.kt",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 3,
+      "changes": 5,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Frepository%2FTestConfigRepository.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Frepository%2FTestConfigRepository.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Frepository%2FTestConfigRepository.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -17,7 +17,6 @@ import org.akvo.caddisfly.util.PreferencesUtil.getLong\n import timber.log.Timber\n import java.io.IOException\n import java.util.*\n-import kotlin.collections.ArrayList\n \n class TestConfigRepository {\n     private val assetsManager: AssetsManager = AssetsManager()\n@@ -255,7 +254,7 @@ class TestConfigRepository {\n \n     private fun getBackedUpCalibrations(testInfo: TestInfo): List<Calibration> {\n         var calibrations: ArrayList<Calibration> = ArrayList()\n-        val context: Context? = app\n+        val context: Context = app!!\n         val colors = testInfo.results!![0].colors\n         for (color in colors) {\n             val key = String.format(\n@@ -271,7 +270,7 @@ class TestConfigRepository {\n         val calibrationDetail = CalibrationDetail()\n         calibrationDetail.uid = testInfo.uuid\n         val date = getLong(\n-            context!!,\n+            context,\n             testInfo.uuid, R.string.calibrationDateKey\n         )\n         if (date > 0) {"
+    },
+    {
+      "sha": "2633bed278fe92f8a3d9a19a514a9b369db81f47",
+      "filename": "caddisfly-app/app/src/main/java/org/akvo/caddisfly/sensor/chamber/BaseRunTest.kt",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 0,
+      "changes": 2,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fsensor%2Fchamber%2FBaseRunTest.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fsensor%2Fchamber%2FBaseRunTest.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fsensor%2Fchamber%2FBaseRunTest.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -123,6 +123,8 @@ open class BaseRunTest : Fragment(), RunTest {\n     }\n \n     protected open fun waitForStillness() {}\n+\n+    @Deprecated(\"Deprecated in Java\")\n     override fun onActivityCreated(savedInstanceState: Bundle?) {\n         super.onActivityCreated(savedInstanceState)\n         if (mCalibration != null && activity != null) { // disable the key guard when device wakes up and shake alert is displayed"
+    },
+    {
+      "sha": "a0c4c1812964a1916b1b35c4b58c4c1458eddcde",
+      "filename": "caddisfly-app/app/src/main/java/org/akvo/caddisfly/ui/TestActivity.kt",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fui%2FTestActivity.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fui%2FTestActivity.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fui%2FTestActivity.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -288,6 +288,7 @@ class TestActivity : AppUpdateActivity() {\n         }\n     }\n \n+    @Deprecated(\"Deprecated in Java\")\n     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {\n         super.onActivityResult(requestCode, resultCode, data)\n         if (requestCode == REQUEST_TEST && resultCode == Activity.RESULT_OK) { //return the test result to the external app"
+    },
+    {
+      "sha": "61a94674cc85cb816e02b777a84ddaa1da65878c",
+      "filename": "caddisfly-app/app/src/main/java/org/akvo/caddisfly/updater/UpdateCheckTask.kt",
+      "status": "modified",
+      "additions": 4,
+      "deletions": 1,
+      "changes": 5,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fupdater%2FUpdateCheckTask.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fupdater%2FUpdateCheckTask.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Fupdater%2FUpdateCheckTask.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -38,6 +38,8 @@ import java.net.URL\n \n internal class UpdateCheckTask(context: Context) : AsyncTask<String?, String?, String?>() {\n     private val contextRef: WeakReference<Context> = WeakReference(context)\n+\n+    @Deprecated(\"Deprecated in Java\")\n     override fun doInBackground(vararg params: String?): String? {\n         val context = contextRef.get()\n \n@@ -52,7 +54,7 @@ internal class UpdateCheckTask(context: Context) : AsyncTask<String?, String?, S\n                     packageInfo.versionCode.toLong()\n                 }\n \n-            if (getInt(contextRef.get(), \"serverVersionCode\", 0) < versionCode) {\n+            if (getInt(context, \"serverVersionCode\", 0) < versionCode) {\n                 var connection: HttpURLConnection? = null\n                 var reader: BufferedReader? = null\n                 try {\n@@ -85,6 +87,7 @@ internal class UpdateCheckTask(context: Context) : AsyncTask<String?, String?, S\n         return null\n     }\n \n+    @Deprecated(\"Deprecated in Java\")\n     override fun onPostExecute(result: String?) {\n         super.onPostExecute(result)\n         val context = contextRef.get()"
+    },
+    {
+      "sha": "0181c4e42b66f50c2105bc78b40040751718598e",
+      "filename": "caddisfly-app/app/src/main/java/org/akvo/caddisfly/util/PreferencesUtil.kt",
+      "status": "modified",
+      "additions": 10,
+      "deletions": 10,
+      "changes": 20,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Futil%2FPreferencesUtil.kt",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Futil%2FPreferencesUtil.kt",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fapp%2Fsrc%2Fmain%2Fjava%2Forg%2Fakvo%2Fcaddisfly%2Futil%2FPreferencesUtil.kt?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -95,9 +95,9 @@ object PreferencesUtil {\n      * @return stored int value\n      */\n     @JvmStatic\n-    fun getInt(context: Context?, key: String?, defaultValue: Int): Int {\n+    fun getInt(context: Context, key: String?, defaultValue: Int): Int {\n         val sharedPreferences = PreferenceManager\n-                .getDefaultSharedPreferences(context)\n+            .getDefaultSharedPreferences(context)\n         return sharedPreferences.getInt(key, defaultValue)\n     }\n \n@@ -126,9 +126,9 @@ object PreferencesUtil {\n      * @param value   the value to set\n      */\n     @JvmStatic\n-    fun setInt(context: Context?, key: String?, value: Int) {\n+    fun setInt(context: Context, key: String?, value: Int) {\n         val sharedPreferences = PreferenceManager\n-                .getDefaultSharedPreferences(context)\n+            .getDefaultSharedPreferences(context)\n         val editor = sharedPreferences.edit()\n         editor.putInt(key, value)\n         editor.apply()\n@@ -155,9 +155,9 @@ object PreferencesUtil {\n      * @return the stored long value\n      */\n     @JvmStatic\n-    fun getLong(context: Context?, key: String?): Long {\n+    fun getLong(context: Context, key: String?): Long {\n         val sharedPreferences = PreferenceManager\n-                .getDefaultSharedPreferences(context)\n+            .getDefaultSharedPreferences(context)\n         return sharedPreferences.getLong(key, -1L)\n     }\n \n@@ -184,9 +184,9 @@ object PreferencesUtil {\n      * @param key     the int key id\n      */\n     @JvmStatic\n-    fun setLong(context: Context?, key: String?, value: Long) {\n+    fun setLong(context: Context, key: String?, value: Long) {\n         val sharedPreferences = PreferenceManager\n-                .getDefaultSharedPreferences(context)\n+            .getDefaultSharedPreferences(context)\n         val editor = sharedPreferences.edit()\n         editor.putLong(key, value)\n         editor.apply()\n@@ -216,9 +216,9 @@ object PreferencesUtil {\n      * @return the stored string value\n      */\n     @JvmStatic\n-    fun getString(context: Context?, keyId: String?, defaultValue: String?): String? {\n+    fun getString(context: Context, keyId: String?, defaultValue: String?): String? {\n         val sharedPreferences = PreferenceManager\n-                .getDefaultSharedPreferences(context)\n+            .getDefaultSharedPreferences(context)\n         return sharedPreferences.getString(keyId, defaultValue)\n     }\n "
+    },
+    {
+      "sha": "d1721b14d3bd35ac6e2a31f6b8b5d501e116ba21",
+      "filename": "caddisfly-app/build.gradle",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 2,
+      "changes": 4,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fbuild.gradle",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fbuild.gradle",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fbuild.gradle?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -1,13 +1,13 @@\n // Top-level build file where you can add configuration options common to all sub-projects/modules.\n \n buildscript {\n-    ext.kotlin_version = '1.6.0'\n+    ext.kotlin_version = '1.6.20'\n     repositories {\n         google()\n         mavenCentral()\n     }\n     dependencies {\n-        classpath 'com.android.tools.build:gradle:7.0.3'\n+        classpath 'com.android.tools.build:gradle:7.1.3'\n         classpath \"org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version\"\n     }\n }"
+    },
+    {
+      "sha": "f16d03d2c9f2302a207d5a47f681767dd1aac78c",
+      "filename": "caddisfly-app/gradle/wrapper/gradle-wrapper.properties",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/blob/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fgradle%2Fwrapper%2Fgradle-wrapper.properties",
+      "raw_url": "https://github.com/foundation-for-environmental-monitoring/ffem-app/raw/5cbde5e2dde27e9fc2119de0b4b50f286395e945/caddisfly-app%2Fgradle%2Fwrapper%2Fgradle-wrapper.properties",
+      "contents_url": "https://api.github.com/repos/foundation-for-environmental-monitoring/ffem-app/contents/caddisfly-app%2Fgradle%2Fwrapper%2Fgradle-wrapper.properties?ref=5cbde5e2dde27e9fc2119de0b4b50f286395e945",
+      "patch": "@@ -3,4 +3,4 @@ distributionBase=GRADLE_USER_HOME\n distributionPath=wrapper/dists\n zipStoreBase=GRADLE_USER_HOME\n zipStorePath=wrapper/dists\n-distributionUrl=https\\://services.gradle.org/distributions/gradle-7.3-bin.zip\n+distributionUrl=https\\://services.gradle.org/distributions/gradle-7.4.2-bin.zip"
+    }
+  ]
+}
