@@ -1,0 +1,109 @@
+\section{Calibration and validation practices}\label{sec:validation}
+
+Calibration ties the instrument signal to the quantity of interest; validation asks whether that link is good enough for a stated purpose.\citep{jcgm2012vim,eurachem2014fitness} To tell which of the two a study actually reports, one needs to know what was measured, which samples went into the calibration fit, and how performance was judged afterwards.
+
+\subsection{Wavelength assignment and verification}
+
+To assign wavelengths to pixels or scan positions, one needs known spectral features spread across the working range. In the studies we reviewed, these were lamp lines and lasers checked against laboratory spectra;\citep{long2014smartphone,woodburn2019analysis} nominal laser wavelengths on their own may not be accurate enough.\citep{vidal2021use} Two features are enough to define a linear mapping, but checking its residuals between and beyond them takes more.
+
+With fixed bands, the relevant quantity is the combined response of source, optics, and detector. When channels were measured with a monochromator, they departed from their specifications,\citep{dolgalev2025development,besozzi2026flexible} and grating modules showed offsets at laser lines.\citep{hotra2022investigation,firago2022diffuse} The wavelength scale can also move later on, when the device is reattached, warms up, or changes temperature.\citep{zhang2016g,markvart2020continuous,wilkes2019pispec}
+
+\subsection{Photometric calibration and prediction}
+
+Absorbance is the base-10 logarithm of the ratio between the dark-corrected blank and sample intensities, a ratio that exposure, gain, nonlinear processing, and stray light can all distort.\citep{feng2021open,tonelli2021sensing,nguyen2025portable} Broadly, the calibrations we found do one of three jobs.
+
+The first is response correction, in which the instrument itself is characterized through dark subtraction, linearization, and correction of its spectral sensitivity. A correction of this kind may only apply to one exposure setting or one sensor unit,\citep{hotra2022investigation,troscianko2023osprad,firago2022diffuse} and it is valid only for the source, model, and range in which it was established. The second job, analyte calibration, relates standards to concentration. Once calibrated, instruments with different response slopes can return comparable concentrations; residuals and curvature tests then tell whether the model fits.\citep{prairie2020accurate} Logistic or power models call for an explicit selection procedure,\citep{long2014smartphone,nonno2022portuino} and if the optical paths differ, the normalization must be justified or the comparison moved to the concentration scale.\citep{silva2022smartphone}
+
+The third is multivariate prediction, which maps channel signals onto properties or labels.\citep{tran2020portable,kilic2018single} Such a model can only be interpreted if the preprocessing, the predictors, the model complexity, the tuning, and the number of independent physical samples are known. In the devices we reviewed, a new unit or sensor package meant a new calibration,\citep{stevens2024low,klueppel2026environmental} and transfer benchmarks run on public datasets said nothing about transfer for the authors' own instrument.\citep{krause2021smartspectrometer}
+
+\subsection{Validation design and reference comparisons}
+
+Repeated readings speak to repeatability; new samples, days, batches, and units test the instrument under progressively broader conditions. If a correction and its error come from the same spectra, as in one reflectance study, we still do not know how the instrument does on new samples.\citep{perezavila2024assessment} An assay can also be evaluated with independently prepared control samples, without any formal split into training and test sets.\citep{konnel2025low} With data-driven models, preprocessing, fitting, and tuning have to stay inside the training data, and repeated spectra of one physical sample have to stay together. Nested cross-validation keeps tuning apart from error estimation,\citep{varma2006bias} and one leaf study paired it with grouping by sample.\citep{lopin2025evaluation}
+
+Comparing an instrument with a reference calls for paired evaluation samples and some account of the reference's own uncertainty.\citep{bland1986statistical} Fitting slopes or detection limits separately on each instrument does not show how individual measurements differ.\citep{wittbrodt2015open,grasse2015teaching,bruininks2022inexpensive} Genuine paired comparisons in the literature include unknown dye mixtures\citep{clippard2016construction} and field water subsamples analyzed independently.\citep{bulusu2024technical} If the two instruments rely on different reagents or sample preparation, as with wine assays run on different kits, what is being compared is two complete analytical methods.\citep{tonelli2025portable} The target needs to be explicit as well. One hydroponic instrument was calibrated against the volume of nutrient solution added but evaluated against conductivity in use, so its statistics refer to two different quantities.\citep{stevens2024low}
+
+\subsection{Reading performance measures}
+
+Table~\ref{tab:metricguide} sets out what each common performance measure is for, gives examples from the reviewed studies, and lists what a reader needs in order to interpret it. RMSE and MAE stand for root-mean-square and mean absolute error; SD, RSD, and CV for standard deviation, relative standard deviation, and coefficient of variation. Because the examples come from studies with different targets, they should not be read as a ranking.
+
+A calibration $R^2$ is not a test of linearity,\citep{prairie2020accurate} and it cannot stand in for errors given in the units of the target over the relevant range of samples.\citep{cirrone2026analytical} With paired measurements, Bland--Altman limits describe how widely the differences spread. They should be weighed against a tolerance set by the application, bearing in mind their own uncertainty and any dependence on signal level. A mean bias that is not statistically significant does not, by itself, show that agreement is acceptable, and neither does a large fraction of points falling inside the estimated limits.\citep{bland1986statistical}
+
+\begingroup
+\setlength{\tabcolsep}{4pt}
+\begin{xltabular}{\textwidth}{@{}>{\raggedright\arraybackslash}p{.17\textwidth} >{\raggedright\arraybackslash}X >{\raggedright\arraybackslash}X@{}}
+\caption{Performance measures and their interpretation}\label{tab:metricguide}\\
+\toprule
+Measure & Meaning and examples from reviewed studies & Context needed for interpretation \\
+\midrule
+\endfirsthead
+\multicolumn{3}{l}{Table \thetable{} (continued)} \\
+\toprule
+Measure & Meaning and examples from reviewed studies & Context needed for interpretation \\
+\midrule
+\endhead
+$R^2$ & Calibration fit in chemical assays;\citep{laganovska2020portable} predictive performance for fruit soluble solids.\citep{tran2020portable} & Calculation method; calibration or evaluation set; sample number and range; not a test of linearity or agreement. \\
+Detection or quantification limit & Low-level capability: vitamin B12, phosphate, and peroxide assays;\citep{laganovska2020portable} glucose/fructose assay.\citep{tonelli2025portable} & Definition, noise estimate, calibration model, units, and experimental verification near the claimed limit. \\
+Prediction RMSE or MAE & Error in target units: nitrate concentration (RMSE);\citep{bulusu2024technical} leaf chlorophyll content (MAE).\citep{lopin2025evaluation} & Evaluation samples, range, and split procedure; training errors distinguished from errors on new samples. \\
+Mean bias & Average paired difference from a reference: wine glucose/fructose measurements.\citep{tonelli2025portable} & Sign convention, units, and uncertainty; a small mean bias can conceal large individual differences. \\
+Bland--Altman limits & Spread of paired differences: immunoassays\citep{long2014smartphone} and serum biochemical assays.\citep{luo2021smartphone} & Difference plot, assumptions, uncertainty, and application-specific acceptance limits. \\
+SD, RSD or CV & Dispersion of repeated measurements: within- and between-day assay results;\citep{laganovska2020portable} repeated glucose/fructose measurements.\citep{tonelli2025portable} & Number and type of repetitions, repositioning, and operating conditions; repeatability does not establish low bias. \\
+Classification accuracy & Fraction of labels correctly predicted: fuel adulteration\citep{dantas2017inexpensive} and plant nitrogen-status classes.\citep{habibullah2020low} & Class counts, confusion matrix, decision rule, and separation of training and evaluation samples. \\
+\bottomrule
+
+\end{xltabular}
+\endgroup
+
+A detection limit means little without the way it was derived (blank variation, control charts, or regression) and without low-concentration measurements that back it up.\citep{silva2022smartphone,prairie2020accurate,konnel2025low} When detection rests on a model prediction, the decision threshold has to carry the uncertainty of that prediction.\citep{suhendar2025webcam} In the same way, scaled performance measures only make sense with a common target and reference.\citep{martinezavino2021scaling}
+
+\subsection{Characteristics of the analyzed studies}
+
+Table~\ref{tab:valpractice} summarizes what the analyzed studies documented, first by hardware family and then by principal application. Each study appears once in each part of the table, and the notes underneath define the columns. Several patterns are worth pointing out. Most studies compared their instrument with a reference, yet only about half put a number on the agreement, and fewer than half tested it on samples that had not been used for calibration. Real matrices and held-out samples were most common in the studies on multispectral chips, many of which built prediction models for agricultural products. Repeatability, by contrast, was reported far more often for LED photometers than for any other family. The last row of the first part shows, for comparison, how our systems A, B, and C (described in the next section) fare against the same criteria.
+
+\Needspace{24\baselineskip}
+\begingroup
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{xltabular}{\textwidth}{@{}>{\raggedright\arraybackslash}X rrrrrrrr@{}}
+\caption{What the analyzed studies documented, by hardware family and by principal application}\label{tab:valpractice}\\
+\toprule
+ & $n$ & Reference & Quantified & Held-out & \shortstack[r]{Real\\matrix} & \shortstack[r]{Repeat-\\ability} & Cost & \shortstack[r]{Open\\files} \\
+\midrule
+\endfirsthead
+\multicolumn{9}{l}{Table \thetable{} (continued)} \\
+\toprule
+ & $n$ & Reference & Quantified & Held-out & \shortstack[r]{Real\\matrix} & \shortstack[r]{Repeat-\\ability} & Cost & \shortstack[r]{Open\\files} \\
+\midrule
+\endhead
+\multicolumn{9}{l}{\textit{By hardware family}} \\
+LED & 28 & 22 & 15 & 14 & 15 & 23 & 17 & 9 \\
+Phone & 29 & 23 & 16 & 10 & 11 & 14 & 17 & 7 \\
+Camera/SBC & 4 & 3 & 2 & 1 & 2 & 2 & 4 & 1 \\
+Module & 9 & 8 & 3 & 3 & 4 & 2 & 5 & 5 \\
+Chip & 34 & 25 & 21 & 22 & 27 & 9 & 12 & 6 \\
+Other & 7 & 7 & 3 & 1 & 2 & 2 & 1 & 2 \\
+\midrule
+All studies & 111 & 88 & 60 & 51 & 61 & 52 & 56 & 30 \\
+Systems A--C (this work) & --- & yes & yes & yes & no & yes & yes & yes \\
+\midrule
+\multicolumn{9}{l}{\textit{By principal application}} \\
+Environment & 31 & 30 & 22 & 14 & 18 & 23 & 19 & 10 \\
+Agriculture/food & 31 & 21 & 20 & 23 & 29 & 5 & 11 & 4 \\
+Biomedical & 17 & 14 & 8 & 7 & 9 & 12 & 11 & 2 \\
+Education/citizen science & 20 & 14 & 5 & 4 & 3 & 6 & 11 & 14 \\
+Instrumentation/industry & 12 & 9 & 5 & 3 & 2 & 6 & 4 & 0 \\
+\bottomrule
+\end{xltabular}
+\vspace{-6pt}
+\noindent\begin{minipage}{\textwidth}\footnotesize\raggedright
+Entries are numbers of studies documenting each characteristic, and $n$ is the number of studies in the group. A study can contribute to several columns, so the columns should not be added, and a characteristic that was not documented should not be read as proven absent.
+\textit{Reference}: comparison with a reference instrument or an accepted method, qualitative or quantitative (unrelated to $R^2$).
+\textit{Quantified}: a numerical comparison with that reference, such as errors, correlations, separately fitted sensitivities, or peak positions; it shows that agreement was reported, not that it was acceptable.
+\textit{Held-out}: evaluation on samples not used for calibration fitting, with or without a formal test set.
+\textit{Real matrix}: measurements on real samples rather than prepared standards only.
+\textit{Repeatability}: repeatability given numerically or as error bars explicitly based on repeated measurements.
+\textit{Cost}: a numerical cost total that can be plotted in Figure~\ref{fig:costres}; lists of component prices alone are not counted.
+\textit{Open files}: shared design files or code, without checking licensing or successful rebuilding.
+For systems A--C, the validation dyes were kept out of fitting and model selection, but prepared dye solutions do not count as real matrices. The coding of each study is available from the authors on reasonable request.
+\end{minipage}
+\endgroup
+\FloatBarrier

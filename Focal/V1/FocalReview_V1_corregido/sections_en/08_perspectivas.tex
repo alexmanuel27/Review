@@ -1,0 +1,53 @@
+\section{Challenges and outlook}\label{sec:outlook}
+
+\subsection{Reporting requirements}
+
+In Table~\ref{tab:checklist} we translate the findings of this review into reporting items that cover optical construction, measurement performance, cost, and rebuilding. The checklist extends the framework proposed for freshwater sensors\citep{cirrone2026analytical} to all six hardware families. What it asks for depends on the application; it does not assign a quality score, and it does not claim to be a consensus standard.
+
+Each row names an item, describes the information to report, and shows how well our systems A, B, and C cover it. ``Yes'' means the information is reported here, ``Partial'' points to gaps, and ``No'' marks an assessment we did not perform. Authors can use the middle column to select what matters for their own application and to explain what they leave out.
+
+\Needspace{12\baselineskip}
+\begingroup
+\setlength{\tabcolsep}{4pt}
+\begin{xltabular}{\textwidth}{@{}>{\raggedright\arraybackslash}p{0.20\textwidth} >{\raggedright\arraybackslash}X >{\raggedright\arraybackslash}p{0.20\textwidth}@{}}
+\caption{Reporting checklist}\label{tab:checklist}\\
+\toprule
+Item & What to report & Systems A--C \\
+\midrule
+\endfirsthead
+\multicolumn{3}{l}{Table \thetable{} (continued)} \\
+\toprule
+Item & What to report & Systems A--C \\
+\midrule
+\endhead
+Optical design & Source, wavelength selection, detector model, sample geometry, and optical path length & Partial (exact camera models not reported) \\
+Spectral response & Usable range; measured line width for dispersive optics or channel-response curves for filters; bandwidth, sampling, and wavelength accuracy reported separately; stray light & No (resolution and stray light not measured) \\
+Wavelength verification & Reference features and their wavelengths, fitted mapping, and residuals; verification of nominal filter bands where relevant & Partial (nominal channels; no additional-line check) \\
+Response calibration & Blank and dark procedure, acquisition settings, preprocessing, model and its selection, fitted coefficients, and independent calibration samples & Partial (acquisition settings and fitted coefficients not fully reported) \\
+Reference comparison & Reference method, settings, uncertainty where available, paired samples, target quantity, and shared conditions & Yes \\
+Validation design & Physical sample and replicate structure, fitting and selection steps, evaluation split, relevant matrices, defined error measures, and acceptance criteria & Partial (same colorant set; no real samples) \\
+Repeatability and stability & Repetition type and number, SD or CV, repositioning, days, temperature, drift, and variation between units & Partial (drift not measured) \\
+Assay capability & Where applicable: working range, sensitivity, and detection and quantification limits, with definitions and supporting measurements & No \\
+Cost & Itemized materials, price source and date, currency, scope, excluded equipment, and assembly and recurring costs & Partial (purchase dates not available) \\
+Design and data availability & Locations, versions, and licenses of mechanical files, electronics, firmware, software, calibration data, and analysis procedures & Partial (software and design files for A and B) \\
+\bottomrule
+
+\end{xltabular}
+\endgroup
+\FloatBarrier
+
+\subsection{Priorities for further work}
+
+The first priority is to find out whether an instrument's errors fall within a tolerance set by its application. Paired differences and their uncertainty\citep{bland1986statistical} provide a sound basis for this, and measurements on dyes, water, and wine have already shown how it can be done.\citep{clippard2016construction,cirrone2025low,bulusu2024technical,tonelli2025portable} Flexible models and spectral reconstruction additionally require that samples be grouped and that model selection be kept apart from evaluation.\citep{varma2006bias,lopin2025evaluation,moralesguerra2026low,krause2021smartspectrometer}
+
+Next, transfer tests should target the conditions most likely to change in use: the instrument unit,\citep{stevens2024low,troscianko2023osprad} temperature,\citep{wilkes2019pispec,markvart2020continuous} and the operating environment.\citep{klueppel2026environmental} The calibration-transfer approaches developed for NIR instruments are a good place to start.\citep{bec2022miniaturized,krause2021smartspectrometer} Tests of this kind connect the initial calibration with the performance actually obtained after rebuilding or deployment.
+
+When the spectral coverage is extended, it is the assembled instrument that must be verified, not just its parts. UV extensions call for suitable sources, optics, and detectors,\citep{khan2019gas,booysen2021water,fernandes2024development} and even inside the nominal range, weak illumination,\citep{laganovska2020portable,vidal2021use} overlapping channels, and sample geometry\citep{lopin2025evaluation,besozzi2026flexible,dolgalev2025development} can restrict the useful information. Component databases make it easier to choose parts,\citep{coppola2024i} but the response of the finished instrument still has to be measured.
+
+Finally, independent rebuilds should report their performance along with versioned mechanical and electronic files, processing code, calibration data, and a clear statement of what the cost includes. Only then can the reproducibility of a shared design be judged next to its original demonstration.
+
+\subsection{Conclusions}
+
+Our analysis of 111 published studies shows that low-cost spectrophotometry can serve chemical assays, field monitoring, biological prediction, and teaching. What these studies do not offer is a single best design. Optical design sets how much useful signal an instrument can collect; calibration and evaluation set what can reliably be concluded from that signal. The right choice therefore depends on the application. Across the literature, the weakest link is usually not the hardware but the evidence. Fewer than half of the studies tested their instruments on samples kept out of calibration, and only about a quarter shared the files needed to rebuild them.
+
+Our own comparison of three inexpensive instruments under a common protocol (an AS7265x multispectral sensor, a Raspberry Pi camera behind a pocket spectroscope, and a commercial webcam spectrometer) shows the same points on a small scale. The Raspberry Pi spectrometer agreed best with the laboratory reference and had the lowest absolute standard deviation, but it was also the most expensive of the three. The webcam spectrometer came close in agreement and needed the fewest calibration coefficients. These results hold for the units we tested and for three dye solutions kept out of calibration. For the field as a whole, progress will depend on extending such evaluations to real samples and operating conditions, on stating plainly what each reported cost includes, and on sharing the information others need to rebuild and recalibrate each instrument.

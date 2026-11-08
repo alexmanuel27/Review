@@ -1,0 +1,88 @@
+%% Focal Point Review for Applied Spectroscopy (Sage). Plain article class: the journal
+%% requires no template, only clear headings. References: numbered superscripts; Applied Spectroscopy bibliography style.
+\documentclass[12pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}\doublespacing
+\usepackage{amsmath,amssymb}
+\usepackage{newtxtext,newtxmath}
+\usepackage{graphicx}
+\usepackage{caption}
+\captionsetup{font={normalsize,stretch=2},labelfont=bf,labelsep=period,justification=raggedright,singlelinecheck=false}
+\renewenvironment{abstract}{\par\noindent\textbf{Abstract}\par\noindent\normalsize}{\par\medskip}
+\input{figure_captions}
+\graphicspath{{figures/}}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{xltabular}
+\usepackage{needspace}
+\usepackage{eurosym}
+\usepackage{textcomp}
+\usepackage{float}
+\usepackage{placeins}
+% Allow text beside the page allocation for large figures; avoid half-empty float pages.
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\bottomfraction}{0.8}
+\renewcommand{\textfraction}{0.07}
+\renewcommand{\floatpagefraction}{0.85}
+\usepackage{xurl}
+\usepackage[super,comma,sort&compress]{natbib}
+\renewcommand{\bibnumfmt}[1]{#1.}
+\usepackage{authblk}
+\usepackage{etoolbox}
+\AtBeginEnvironment{table}{\doublespacing}
+\usepackage{lineno}\linenumbers
+\setlength{\emergencystretch}{3em}
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+\setcounter{secnumdepth}{-1}
+\renewcommand{\thetable}{\Roman{table}}
+
+\usepackage{xcolor}
+\usepackage[hidelinks]{hyperref}
+
+
+\title{Low-Cost Spectrophotometers: Architectures, Calibration, Validation, and Reproducibility}
+
+\author[1,2,3]{Alex M. Rivera-Rivera}
+\author[3,2]{Daniela Martinez-Ortiz}
+\author[4]{Fran\c{c}ois Quitin}
+\author[5,6]{Denis Terwagne}
+\author[7]{Stamatios C. Nicolis}
+\author[3]{Ernesto Altshuler}
+\author[7]{Alexandre Campo}
+\affil[1]{Innovation Laboratory, Technological University of Havana Jos\'e Antonio Echeverr\'ia (CUJAE), 19390 Havana, Cuba}
+\affil[2]{Facult\'e des Sciences, Universit\'e Libre de Bruxelles (ULB), 1050 Brussels, Belgium}
+\affil[3]{Center for Complex Systems, Physics Faculty, University of Havana, 10400 Havana, Cuba}
+\affil[4]{Brussels School of Engineering, Universit\'e libre de Bruxelles, Avenue Franklin Roosevelt 50, 1000 Brussels, Belgium}
+\affil[5]{Frugal Lab, D\'epartement de physique, Facult\'e des Sciences, Universit\'e libre de Bruxelles (ULB), 1050 Brussels, Belgium}
+\affil[6]{Fab Lab ULB, Universit\'e libre de Bruxelles (ULB), 1050 Brussels, Belgium}
+\affil[7]{Unit of Biological and Artificial Self-organizing Systems, Department of Physical Chemistry and Theoretical Biology, Center for Nonlinear Phenomena and Complex Systems, Universit\'e libre de Bruxelles, Bd du Triomphe, 1050 Brussels, Belgium}
+\date{}
+
+\begin{document}
+\maketitle
+
+\noindent\textbf{Corresponding author:} Alex M. Rivera-Rivera (\texttt{alex.rivera.rivera@ulb.be})
+
+\input{sections_en/01_intro_metodo}
+\input{sections_en/02_componentes}
+\input{sections_en/03a_arquitecturas_intro_led}
+\input{sections_en/03b_telefono_camara}
+\input{sections_en/03c_modulos_chips}
+\input{sections_en/03d_otros_disenos_costes}
+\input{sections_en/04_validacion}
+\input{sections_en/05_caso_estudio}
+\input{sections_en/06_aplicaciones}
+\input{sections_en/07_hardware_abierto}
+\input{sections_en/08_perspectivas}
+\input{sections_en/09_declaraciones}
+
+\bibliographystyle{focal-as}
+\bibliography{references}
+
+\PrintFigureCaptions
+
+\end{document}

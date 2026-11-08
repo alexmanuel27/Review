@@ -1,0 +1,44 @@
+\section{Building blocks of a low-cost spectrophotometer}\label{sec:components}
+
+However simple, every spectrophotometer combines a light source, something that selects wavelengths, a way of holding the sample, a detector, and some form of readout. These parts jointly determine which wavelengths are usable and how stable the measurement will be, so each one is best chosen with an eye on the signal that actually reaches the detector.
+
+\subsection{Light sources}
+
+For assays that need only one or a few bands, LEDs are the obvious choice, and changing the measurement wavelength is as easy as swapping the LED.\citep{macka2014light,prairie2020accurate,jesus2025modular} Their bands are not narrow, though: in one RGB (red, green, and blue) package, the full widths at half-maximum (FWHM) were 17--33~nm.\citep{kerestes2023affordable} What the instrument ultimately detects depends on how source emission, sample absorption, and detector response overlap; matching the LED to the absorption maximum increased the sensitivity of an arsenomolybdate assay.\citep{awasthi2023portable}
+
+Recording spectra requires a broadband source, and wherever its output is weak, the usable range shrinks. One instrument built around the C12880MA mini-spectrometer (Hamamatsu Photonics) and lit by a white LED worked only between 450 and 750~nm, even though the module is specified for 340--850~nm.\citep{laganovska2020portable} Similarly, a camera instrument with a halogen lamp had to discard 400--430~nm because the signal-to-noise ratio there was too low.\citep{edwards2017smartphone} For UV measurements of proteins and nitrate, builders turned to UV LEDs or to a deuterium lamp near 205~nm, together with optics that transmit at those wavelengths.\citep{poh2021spectrophotometer,booysen2021water}
+
+The output of an LED also drifts with temperature and supply conditions.\citep{macka2014light,pereira2019low} Measuring the sample and a reference simultaneously reduced the variability of calibration slopes,\citep{bogucki2019d} and modulating the source while filtering the readout removed the influence of steady ambient light and electronic offsets.\citep{prairie2020accurate} Designs without modulation rely all the more on good light exclusion and dark measurements.\citep{cirrone2025low}
+
+\subsection{Wavelength selection}
+
+The measured bands can be set by the source, by dispersive optics, or by filters on the detector. Fixed-band photometers suit targeted assays well, but they cannot reveal the spectral shape of an interfering substance.\citep{prairie2020accurate,jesus2025modular} Multispectral channels integrate light over broad response curves; the nominal FWHM is 40~nm for the AS7262 and 20~nm for the AS7263 and AS7265x (all from ams OSRAM).\citep{lopin2025evaluation}
+
+Gratings either spread the light across an array detector or are rotated to sweep it across a single detector.\citep{ju2020fabrication,gonzalez2020development} Film gratings and pieces of CDs or DVDs cut costs, but they are less efficient and scatter more light.\citep{ju2020fabrication,vidal2021use} The slit sets the familiar trade-off between resolution and throughput; a papercraft smartphone instrument with a 100~\textmu m slit reached a line width of about 0.5~nm.\citep{ju2020fabrication}
+
+Three quantities are easy to confuse here: spectral sampling, measured line width, and wavelength accuracy. A fine sampling interval, in nanometers per pixel or per scan step, does not in itself mean that narrow lines can be resolved.\citep{mcgonigle2018smartphone,ju2020fabrication} With filtered detectors, the channel responses must be measured to find out how far the real peaks sit from the nominal ones.\citep{dolgalev2025development}
+
+\subsection{Detectors}
+
+Fixed-band and scanning instruments rely on photodiodes, phototransistors, LEDs operated as detectors, or ambient-light sensors.\citep{prairie2020accurate,nonno2022portuino,bastan2023paired,cirrone2025low} Their gain, offset, and linearity need to be characterized,\citep{prairie2020accurate,nonno2022portuino} and illuminance sensors such as the BH1750 (ROHM Semiconductor) bring a photopic weighting of their own.\citep{jesus2025modular}
+
+Cameras offer cheap array detectors, but automatic exposure, white balance, and tone mapping all alter how the pixels respond to light.\citep{feng2021open,tonelli2021sensing} Raw Bayer data sidestep this processing, although the color filters still shape the spectral sensitivity.\citep{tonelli2021sensing} Stripping the Bayer filter and microlenses from a Raspberry Pi camera made UV measurements possible, at the cost of longer exposures because the sensitivity was low.\citep{wilkes2017low,wilkes2019pispec}
+
+Integrated grating modules spare the builder most of the alignment work. Even so, the measured bandwidths of the C12880MA, 10--12~nm, limit its resolution despite its fine pixel sampling.\citep{hotra2022investigation,jechow2024characterizing} Multispectral chips are easy to connect to a microcontroller, but their response depends on gain, integration time, and positioning.\citep{besozzi2026flexible,lopin2025evaluation} The AS7265x, for example, combines three devices with separate apertures, which may each see a different part of a non-uniform surface.\citep{lopin2025evaluation}
+
+\subsection{Sample interface}
+
+The sample holder fixes the optical path length and the position of the sample. A submersible probe with a 2~cm path gave about twice the calibration slope of a 1~cm cuvette, a simple reminder that geometry changes sensitivity.\citep{wang2015build} UV designs used quartz cells so that the required wavelengths would pass through.\citep{poh2021spectrophotometer,fernandes2024development}
+
+The way the holder is made and the sample presented also affects calibration. In a centrifugal disc with 40~mm wells, the rough laser-cut windows meant that every disc needed its own water calibration.\citep{ogrady2021design} Paper assays and reflectance measurements depend on scattering, surface structure, and viewing geometry,\citep{arunraj2024design,sutherland2024synchronising} and in one paper assay the signal followed the logarithm of concentration rather than the absorbance model used for cuvettes.\citep{arunraj2024design}
+
+\subsection{Housing and mechanical stability}
+
+Housings made of printed parts, cut panels, wood, or cardboard hold the optical geometry in place and keep ambient light out.\citep{zhang2013open,feng2021open,kolesnichenko2023viking,ju2020fabrication} Black materials are not necessarily opaque in the NIR,\citep{troscianko2023osprad} so the opacity of the enclosure, along with baffles and apertures, matters for unwanted light paths.\citep{woo2018fabrication,davis2018open} Slit precision and lens concentricity limit what simple fabrication can achieve,\citep{feng2021open,tunens2024optical} and thermal motion can upset the alignment: one printed UV spectrometer drifted by 0.046~nm\,$^\circ$C$^{-1}$ between 2.5 and 45~$^\circ$C.\citep{wilkes2019pispec}
+
+\subsection{Control and acquisition}
+
+Readout ranges from analog circuits read with a multimeter\citep{prairie2020accurate,bastan2023paired} to microcontrollers, single-board computers (SBCs), and smartphones that automate acquisition and add connectivity.\citep{poh2021spectrophotometer,tonelli2021sensing,sutherland2024synchronising} Field instruments also need timekeeping, data storage, and communication, which an open-hardware environmental data logger based on the ESP32 microcontroller (Espressif Systems) combines on a single board.\citep{rivera2023datalogger}
+
+The analog-to-digital converter has to match the signal range, noise level, and acquisition rate. Studies of the C12880MA found that low-resolution conversion held back performance and, given the module's readout noise, recommended 16-bit acquisition.\citep{troscianko2023osprad,jechow2024characterizing} Keeping a record of gain, integration time, source timing, and preprocessing makes it possible to interpret later measurements taken under the same conditions.\citep{tonelli2021sensing,besozzi2026flexible}
+\FloatBarrier
