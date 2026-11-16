@@ -1,0 +1,11 @@
+Many polluted bays lack the surveys, tide and current records to calibrate a
+hydrodynamic model. We ask which conclusions about their flushing survive without them.
+Havana Bay (Cuba), a 4.9~km$^2$ bay behind a 1.5~km channel, is modelled in 3D with SCHISM
+from public data only; nine poorly known inputs, from nineteenth-century charts to river
+discharge, are sampled in a 704-member Sobol ensemble. The tide alone renews the bay poorly;
+an estuarine circulation driven by 2~m$^3$\,s$^{-1}$ of river water does. Across the
+ensemble the bay-mean water age is 7.8~days (5.6--10.4, 90\% range), increases from the
+channel to the inner coves in every member, and depends mostly on river discharge. One
+process left out of the ensemble matters more than all nine inputs: the air--sea heat flux
+roughly doubles the age, to about two weeks, and keeps it from settling. The bay is renewed
+in weeks, not months.
