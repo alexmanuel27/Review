@@ -1,0 +1,15 @@
+claim_id,location,claim_type,claim_summary,evidence_ids,support_level,alignment_issue,limitation,requested_action
+CL01,Abstract:s5,mechanistic,Tide alone renews the bay poorly,FIG3;mechanism-run,supported,none,Single year 2016,
+CL02,Abstract:s5,mechanistic,Estuarine circulation driven by river water does the renewal,FIG3;TAB4-C7;TAB5,supported,none,With 28C heat flux the channel contrast largely disappears,State that C7 survives the heat flux in 64/64 members
+CL03,Abstract:s6,primary_outcome,Bay-mean age 7.8 d (5.6-10.4) across the ensemble,TAB3;FIG4,supported,none,Jan-Apr 2016 window only,
+CL04,Abstract:s6,primary_outcome,Age increases from channel to coves in every member,TAB4-C1,partly_supported,scope,Holds 128/128 without heat flux but 58/64 with it,Scope the claim to the ensemble or say robust in both
+CL05,Abstract:s6,primary_outcome,Age depends mostly on river discharge,FIG5;FIGS6;TAB4-C8,supported,none,Conditional on sampled ranges (discharge factor of 8),Keep the range-conditional sentence
+CL06,Abstract:s7,primary_outcome,Heat flux matters as much as all nine inputs together,FIG7b;sec4.5,partly_supported,magnitude,A paired median shift (5.4 d) is compared with a P5-P95 spread (5.3 d; 5.2 from rounded values),Say the shift equals the spread and verify 5.3 against unrounded values
+CL07,Abstract:s7,primary_outcome,Heat flux raises the age to about two weeks,FIG7;sec4.5,partly_supported,timepoint,13.2 d median in Jan-Apr; annual mean 11.4 d; August 6.1 d,Specify the dry season (Jan-Apr) in the abstract
+CL08,Abstract:s7,primary_outcome,Heat flux keeps the age from settling,sec4.5;FIG7a,supported,none,1 of 64 members meets the criterion,
+CL09,Abstract:s8,generalization,The bay is renewed in weeks not months,TAB4-C5;sec5.3,supported,none,Max member 24.4 d; 30-d means at most 21.1 d,
+CL10,Results:4.5:p5,mechanistic,Winter cooling weakens the estuarine circulation,sec4.5:p5,partly_supported,causal_language,Partial rho with wind 0.14 below the preset 0.25; density contrast not stored; paragraph duplicated,Keep hedged wording; remove duplicate; request density or temperature analysis
+CL11,Conclusions:3,generalization,Gauging rivers and outfalls is the first measurement,FIG5;sec5.4,supported,none,Ranking conditional on ranges,
+CL12,Results:4.6,primary_outcome,Sentinel-2 agreement is no better than spatial chance,FIG8;sec4.6,supported,none,Different years; pooled seasons,
+CL13,Discussion:5.3,primary_outcome,Freshwater flushing time is about 60 times shorter than four months,sec5.3,supported,none,JICA method unknown,
+CL14,Discussion:5.6,generalization,The procedure transfers to other bays,sec5.6,partly_supported,scope,No second bay tested,Phrase as a procedure that can be repeated not a tested generalization
